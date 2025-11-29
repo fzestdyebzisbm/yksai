@@ -1,1 +1,778 @@
-
+[
+  {
+    "cardKey": "Fizik; uzay, zaman, madde ve enerji arasındaki ilişkiyi inceleyen bilim dalının adı nedir?",
+    "cardValue": "Fizik bilimi."
+  },
+  {
+    "cardKey": "Kuvvet, hareket, denge ve enerji konularını inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Mekanik."
+  },
+  {
+    "cardKey": "Isı, sıcaklık ve enerji konularını inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Termodinamik."
+  },
+  {
+    "cardKey": "Elektrik yükü, yüklü parçacıkların hareketi ve manyetik madde özelliklerini inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Elektromanyetizma."
+  },
+  {
+    "cardKey": "Işığın yapısını ve ışık olaylarını (yayılma, yansıma, kırılma vb.) inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Optik."
+  },
+  {
+    "cardKey": "Atom çekirdeğinin yapısını, çekirdekteki etkileşimleri ve tepkimeleri inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Nükleer Fizik (Çekirdek Fiziği)."
+  },
+  {
+    "cardKey": "Maddenin katı hâli ve bu haldeki elektrik, manyetik, optik, esneklik gibi özelliklerini inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Katıhâl Fiziği."
+  },
+  {
+    "cardKey": "Atomu bir çekirdek ile elektronları içeren bir sistem olarak ele alan ve moleküllerin yapısını inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Atom Fiziği."
+  },
+  {
+    "cardKey": "Atom altı parçacıkları, bu parçacıkların etkileşimini ve maddenin plazma hâlini inceleyen fiziğin alt dalı hangisidir?",
+    "cardValue": "Yüksek Enerji ve Plazma Fiziği."
+  },
+  {
+    "cardKey": "Başka bir nicelik ile ifade edilmeyen büyüklüklere ne ad verilir?",
+    "cardValue": "Temel büyüklükler."
+  },
+  {
+    "cardKey": "Yalnızca temel büyüklükler yardımıyla türetilebilen niceliklere ne ad verilir?",
+    "cardValue": "Türetilmiş büyüklükler."
+  },
+  {
+    "cardKey": "Sadece sayı ve birimle ifade edilebilen büyüklüklere _____ büyüklük denir.",
+    "cardValue": "skaler (yönsüz)"
+  },
+  {
+    "cardKey": "Bir sayı ve bir birimin yanı sıra doğrultu, yön ve uygulama noktasının da belirtilmesi gereken büyüklüklere ne ad verilir?",
+    "cardValue": "Vektörel (yönlü) büyüklük."
+  },
+  {
+    "cardKey": "Temel büyüklüklerin tamamı skaler midir, vektörel midir?",
+    "cardValue": "Temel büyüklüklerin tamamı skaler büyüklüktür."
+  },
+  {
+    "cardKey": "Kütlenin SI birim sistemindeki birimi nedir ve ne ile ölçülür?",
+    "cardValue": "Kilogram (kg), eşit kollu terazi ile ölçülür."
+  },
+  {
+    "cardKey": "Işık şiddetinin SI birim sistemindeki birimi nedir ve ne ile ölçülır?",
+    "cardValue": "Kandela (cd), fotometre ile ölçülür."
+  },
+  {
+    "cardKey": "Sıcaklığın SI birim sistemindeki birimi nedir ve ne ile ölçülür?",
+    "cardValue": "Kelvin (K), termometre ile ölçülür."
+  },
+  {
+    "cardKey": "Akım şiddetinin SI birim sistemindeki birimi nedir ve ne ile ölçülür?",
+    "cardValue": "Amper (A), ampermetre ile ölçülür."
+  },
+  {
+    "cardKey": "Madde miktarının SI birim sistemindeki birimi nedir?",
+    "cardValue": "Mol (mol)."
+  },
+  {
+    "cardKey": "Uzunluğun SI birim sistemindeki birimi nedir ve ne ile ölçülür?",
+    "cardValue": "Metre (m), cetvel ile ölçülür."
+  },
+  {
+    "cardKey": "Zamanın SI birim sistemindeki birimi nedir ve ne ile ölçülür?",
+    "cardValue": "Saniye (s), kronometre ile ölçülür."
+  },
+  {
+    "cardKey": "İsviçre-Fransa sınırında bulunan ve Higgs bozonunun keşfedildiği bilim araştırma merkezinin adı nedir?",
+    "cardValue": "CERN (Avrupa Nükleer Araştırma Merkezi)."
+  },
+  {
+    "cardKey": "Kütlesi, hacmi ve eylemsizliği olan her şeye ne denir?",
+    "cardValue": "Madde."
+  },
+  {
+    "cardKey": "Değişmeyen madde miktarına ne denir?",
+    "cardValue": "Kütle."
+  },
+  {
+    "cardKey": "Kütle ile yer çekimi ivmesinin çarpılmasıyla bulunan ve vektörel bir büyüklük olan nicelik nedir?",
+    "cardValue": "Ağırlık ($G = m \\cdot g$)."
+  },
+  {
+    "cardKey": "Bir maddenin uzayda kapladığı yere ne denir?",
+    "cardValue": "Hacim."
+  },
+  {
+    "cardKey": "Düzgün geometrik şekli olmayan bir katının hacmi nasıl ölçülür?",
+    "cardValue": "İçinde çözünmediği bir sıvı içerisine atılarak ölçekli kaplar yardımıyla ölçülür; sıvı seviyesindeki artış cismin hacmine eşittir."
+  },
+  {
+    "cardKey": "Bir küpün hacmini hesaplamak için kullanılan matematiksel model nedir?",
+    "cardValue": "$V = a^3$"
+  },
+  {
+    "cardKey": "Bir kürenin hacmini hesaplamak için kullanılan matematiksel model nedir?",
+    "cardValue": "$V = \\frac{4}{3} \\cdot \\pi \\cdot r^3$"
+  },
+  {
+    "cardKey": "Birim hacimdeki kütle miktarına ne denir ve matematiksel modeli nasıldır?",
+    "cardValue": "Özkütle (yoğunluk), $d = \\frac{m}{V}$."
+  },
+  {
+    "cardKey": "Sabit sıcaklık ve basınç altında bir maddenin kütle-hacim grafiğinin eğimi neyi verir?",
+    "cardValue": "Özkütleyi ($d$)."
+  },
+  {
+    "cardKey": "Birbirleriyle homojen olarak karışabilen iki sıvıdan oluşan bir karışımın özkütlesi, karışıma giren sıvıların özkütleleri ile nasıl bir ilişkiye sahiptir?",
+    "cardValue": "Karışımın özkütlesi, her zaman karışıma giren sıvıların özkütleleri arasında bir değer alır."
+  },
+  {
+    "cardKey": "Eşit hacimli iki sıvı karıştırıldığında karışımın özkütlesi nasıl hesaplanır?",
+    "cardValue": "İki sıvının özkütlelerinin aritmetik ortalamasına eşittir: $d_{karışım} = \\frac{d_1 + d_2}{2}$."
+  },
+  {
+    "cardKey": "Katı bir cismin hem kendi ağırlığına hem de dışarıdan uygulanan kuvvetlere gösterdiği dirence ne denir?",
+    "cardValue": "Dayanıklılık."
+  },
+  {
+    "cardKey": "Bir cismin kendi ağırlığına karşı dayanıklılığı hangi niceliklerin oranı ile orantılıdır?",
+    "cardValue": "Kesit alanının hacmine bölümü ile orantılıdır. (Dayanıklılık $\\propto \\frac{Kesit alanı}{Hacim}$)."
+  },
+  {
+    "cardKey": "Farklı türden madde molekülleri arasındaki çekim kuvvetine ne denir?",
+    "cardValue": "Adezyon kuvveti (yapışma)."
+  },
+  {
+    "cardKey": "Aynı türden maddelerin molekülleri arasındaki çekme kuvvetine ne denir?",
+    "cardValue": "Kohezyon kuvveti (birbirini tutma)."
+  },
+  {
+    "cardKey": "Bir sıvının bir yüzeyi ıslatıp ıslatmayacağı, adezyon ve kohezyon kuvvetlerinin büyüklüklerine göre nasıl belirlenir?",
+    "cardValue": "Adezyon > Kohezyon ise sıvı yüzeyi ıslatır; Kohezyon > Adezyon ise sıvı yüzeyi ıslatmaz."
+  },
+  {
+    "cardKey": "Sıvı yüzeyindeki moleküllerin daha dirençli bir yüzey oluşturması olayına ne ad verilir?",
+    "cardValue": "Yüzey gerilimi."
+  },
+  {
+    "cardKey": "Sıvının sıcaklığı artırıldığında yüzey gerilimi nasıl değişir?",
+    "cardValue": "Sıcaklık arttığında moleküller arası kohezyon kuvveti zayıflar ve yüzey gerilimi azalır."
+  },
+  {
+    "cardKey": "Sıvıların adezyon etkisiyle bir katı içine doğru gösterdiği yayılma eğilimine ne denir?",
+    "cardValue": "Kılcallık."
+  },
+  {
+    "cardKey": "Bir cismin seçilen bir referans noktasına göre yer değiştirmesine ne denir?",
+    "cardValue": "Hareket."
+  },
+  {
+    "cardKey": "Hareketi tanımlamak ve incelemek için seçilen gözlem noktasına ne denir?",
+    "cardValue": "Referans noktası."
+  },
+  {
+    "cardKey": "Bir cismin hareketi sırasında izlediği yola ne ad verilir?",
+    "cardValue": "Yörünge."
+  },
+  {
+    "cardKey": "Bir cismin ilk konumundan son konumuna doğru çizilen en kısa yönlü doğrunun uzunluğuna ne denir?",
+    "cardValue": "Yer değiştirme ($\\Delta\\vec{x}$)."
+  },
+  {
+    "cardKey": "Yer değiştirme nasıl hesaplanır?",
+    "cardValue": "$\\Delta\\vec{x} = \\vec{x}_{son} - \\vec{x}_{ilk}$ bağıntısıyla bulunur."
+  },
+  {
+    "cardKey": "Bir hareketlinin birim zamandaki yer değiştirme miktarına ne denir?",
+    "cardValue": "Hız ($\\vec{v}$)."
+  },
+  {
+    "cardKey": "Bir hareketlinin birim zamanda aldığı yola ne denir?",
+    "cardValue": "Sürat ($v$)."
+  },
+  {
+    "cardKey": "Doğrusal bir yolda hareket yönünü değiştirmeden ilerleyen bir cismin hız büyüklüğü ile sürati arasındaki ilişki nedir?",
+    "cardValue": "Hız büyüklüğü ile sürati eşittir."
+  },
+  {
+    "cardKey": "Doğrusal bir yolda, eşit zaman aralıklarında eşit yer değiştirmeler yapan bir cismin hareketine ne denir?",
+    "cardValue": "Düzgün doğrusal hareket."
+  },
+  {
+    "cardKey": "Düzgün doğrusal harekette konum-zaman grafiğinin eğimi neyi verir?",
+    "cardValue": "Hızı."
+  },
+  {
+    "cardKey": "Düzgün doğrusal harekette hız-zaman grafiğinde doğru ile zaman ekseni arasında kalan alan neyi verir?",
+    "cardValue": "Yer değiştirmeyi ($\\Delta\\vec{x}$)."
+  },
+  {
+    "cardKey": "Birim zamandaki hız değişimine ne denir?",
+    "cardValue": "İvme ($\\vec{a}$)."
+  },
+  {
+    "cardKey": "İvme-zaman grafiğinde doğru ile zaman ekseni arasında kalan alan neyi verir?",
+    "cardValue": "Hızdaki değişimi ($\\Delta\\vec{v}$)."
+  },
+  {
+    "cardKey": "Cisimlerde şekil değişikliği yapabilen, duran cisimleri harekete geçiren, hareketli cisimleri durduran veya yönünü değiştiren etkiye ne denir?",
+    "cardValue": "Kuvvet."
+  },
+  {
+    "cardKey": "Doğada var olan dört temel kuvvet hangileridir?",
+    "cardValue": "Güçlü Nükleer Kuvvet, Elektromanyetik Kuvvet, Zayıf Nükleer Kuvvet, Kütle Çekim Kuvveti."
+  },
+  {
+    "cardKey": "Şiddeti en büyük olan temel kuvvet hangisidir?",
+    "cardValue": "Güçlü Nükleer Kuvvet."
+  },
+  {
+    "cardKey": "Şiddeti en zayıf olan temel kuvvet hangisidir?",
+    "cardValue": "Kütle Çekim Kuvveti."
+  },
+  {
+    "cardKey": "İki cisim arasında oluşan kütle çekim kuvvetinin büyüklüğü hangi niceliklere bağlıdır?",
+    "cardValue": "Cisimlerin kütlelerinin çarpımıyla doğru, aralarındaki uzaklığın karesiyle ters orantılıdır."
+  },
+  {
+    "cardKey": "Bir cisme etki eden kuvvetlerin toplamına ya da birden çok kuvvetin yaptığı etkiyi tek başına yapabilen kuvvete ne denir?",
+    "cardValue": "Bileşke kuvvet (Net kuvvet)."
+  },
+  {
+    "cardKey": "Bir cisim üzerine etki eden net kuvvet sıfır ise bu cisim nasıl kuvvetlerin etkisindedir?",
+    "cardValue": "Dengelenmiş kuvvetlerin etkisindedir."
+  },
+  {
+    "cardKey": "Newton'un I. Hareket Yasası (Eylemsizlik Prensibi) nedir?",
+    "cardValue": "Bir cisme etki eden dış kuvvetlerin bileşkesi sıfırsa, duran cisim durmaya, hareketli cisim ise sabit hızla hareketini sürdürmeye devam eder."
+  },
+  {
+    "cardKey": "Newton'un II. Hareket Yasası (Temel Prensip) hangi formülle ifade edilir?",
+    "cardValue": "$\\vec{F}_{NET} = m \\cdot \\vec{a}$"
+  },
+  {
+    "cardKey": "Bir cismin kütle-ivme grafiğinin eğimi neyi verir?",
+    "cardValue": "Cismin kütlesini ($m$)."
+  },
+  {
+    "cardKey": "Bir gezegenin yüzeyindeki bir cisme uyguladığı kütle çekim kuvvetine ne denir?",
+    "cardValue": "Ağırlık."
+  },
+  {
+    "cardKey": "Newton'un III. Hareket Yasası (Etki-Tepki Prensibi) nedir?",
+    "cardValue": "Bir A cismi, bir B cismine bir kuvvet uyguladığında; B cismi de A cismine eşit büyüklükte fakat zıt yönde bir tepki kuvveti uygular."
+  },
+  {
+    "cardKey": "Etki ve tepki kuvvetleri neden birbirini dengelemez?",
+    "cardValue": "Çünkü etki ve tepki kuvvetleri aynı cisim üzerinde değil, farklı cisimler üzerine etki ederler."
+  },
+  {
+    "cardKey": "Hareket halindeki cisimlerin hareketini zorlaştıran ve genellikle hareket yönüne zıt olan kuvvete ne denir?",
+    "cardValue": "Sürtünme kuvveti."
+  },
+  {
+    "cardKey": "Sürtünme kuvvetinin matematiksel modeli nasıldır?",
+    "cardValue": "$\\vec{F}_s = k \\cdot \\vec{N}$ (k: sürtünme katsayısı, N: yüzeyin tepki kuvveti)."
+  },
+  {
+    "cardKey": "Duran cisimlerin harekete geçme anına kadar cisme etki eden sürtünme kuvvetine ne denir?",
+    "cardValue": "Statik sürtünme kuvveti."
+  },
+  {
+    "cardKey": "Kayarak öteleme hareketi yapan cisimlere etki eden sürtünme kuvvetine ne denir?",
+    "cardValue": "Kinetik sürtünme kuvveti."
+  },
+  {
+    "cardKey": "Statik sürtünme kuvvetinin maksimum değeri ile kinetik sürtünme kuvveti arasında nasıl bir büyüklük ilişkisi vardır?",
+    "cardValue": "Kinetik sürtünme kuvvetinin büyüklüğü, statik sürtünme kuvvetinin maksimum değerinden daha küçüktür."
+  },
+  {
+    "cardKey": "Fiziksel anlamda iş yapılabilmesi için temel şart nedir?",
+    "cardValue": "Cisme uygulanan kuvvetin, cisme kendi doğrultusunda yer değiştirtmesi gerekir."
+  },
+  {
+    "cardKey": "İş-Enerji teoremi neyi ifade eder?",
+    "cardValue": "Bir cisim üzerine yapılan net iş, cismin kinetik enerjisindeki değişime eşittir ($W = \\Delta E_K$)."
+  },
+  {
+    "cardKey": "Birim zamanda yapılan işe veya aktarılan enerjiye ne denir?",
+    "cardValue": "Güç ($P$)."
+  },
+  {
+    "cardKey": "Gücün matematiksel modeli nedir?",
+    "cardValue": "$P = \\frac{W}{t}$ veya $P = \\frac{\\Delta E}{t}$."
+  },
+  {
+    "cardKey": "Bir cismin hareketinden dolayı sahip olduğu enerjiye ne denir?",
+    "cardValue": "Kinetik enerji."
+  },
+  {
+    "cardKey": "Öteleme kinetik enerjisinin matematiksel modeli nasıldır?",
+    "cardValue": "$E_K = \\frac{1}{2} \\cdot m \\cdot v^2$"
+  },
+  {
+    "cardKey": "Cisimlerin belirli bir referans noktasına göre bulundukları konumlarından dolayı sahip oldukları enerjiye ne denir?",
+    "cardValue": "Yer çekimi potansiyel enerjisi."
+  },
+  {
+    "cardKey": "Yer çekimi potansiyel enerjisinin matematiksel modeli nasıldır?",
+    "cardValue": "$E_P = m \\cdot g \\cdot h$"
+  },
+  {
+    "cardKey": "Bir kuvvet etkisiyle sıkıştırılmış veya uzatılmış bir yayın depoladığı enerjiye ne denir?",
+    "cardValue": "Esneklik potansiyel enerjisi."
+  },
+  {
+    "cardKey": "Esneklik potansiyel enerjisinin matematiksel modeli nasıldır?",
+    "cardValue": "$E_{yay} = \\frac{1}{2} \\cdot k \\cdot x^2$"
+  },
+  {
+    "cardKey": "Bir cismin sahip olduğu kinetik ve potansiyel enerjilerinin toplamına ne denir?",
+    "cardValue": "Mekanik enerji ($E_{Mekanik} = E_K + E_P$)."
+  },
+  {
+    "cardKey": "Sürtünmelerin ihmal edildiği ortamlarda bir sistemin mekanik enerjisi nasıl değişir?",
+    "cardValue": "Mekanik enerji her zaman sabittir ve korunur."
+  },
+  {
+    "cardKey": "Enerjinin korunumu ilkesi neyi ifade eder?",
+    "cardValue": "Bir sistemde var olan enerjiler birbirlerine dönüşebilir ancak sistemin toplam enerji değeri sabit kalır, değişmez."
+  },
+  {
+    "cardKey": "Bir sistemde yapılan işin o sistemde harcanan enerjiye oranına ne denir?",
+    "cardValue": "Verim."
+  },
+  {
+    "cardKey": "Güneş, rüzgar, hidroelektrik, jeotermal gibi enerji kaynakları hangi gruba girer?",
+    "cardValue": "Yenilenebilir enerji kaynakları."
+  },
+  {
+    "cardKey": "Kömür, petrol, doğalgaz gibi fosil yakıtlar ve nükleer enerji hangi enerji kaynakları grubuna girer?",
+    "cardValue": "Yenilenemez enerji kaynakları."
+  },
+  {
+    "cardKey": "Bir maddenin içerdiği moleküllerin veya atomların ortalama kinetik enerjisinin bir ölçüsüne ne denir?",
+    "cardValue": "Sıcaklık."
+  },
+  {
+    "cardKey": "Sıcaklık farkından kaynaklanan enerji transferine ne denir?",
+    "cardValue": "Isı."
+  },
+  {
+    "cardKey": "Bir sistemi oluşturan atom veya moleküllerin kinetik ve potansiyel enerjilerinin toplamına ne denir?",
+    "cardValue": "İç enerji."
+  },
+  {
+    "cardKey": "Celsius, Fahrenheit ve Kelvin sıcaklık birimleri arasındaki dönüşüm formülü nedir?",
+    "cardValue": "$\\frac{C}{100} = \\frac{F - 32}{180} = \\frac{K - 273}{100}$"
+  },
+  {
+    "cardKey": "Bir maddenin birim kütlesinin sıcaklığını 1°C artırmak için gereken ısı miktarına ne denir?",
+    "cardValue": "Öz ısı (c)."
+  },
+  {
+    "cardKey": "Bir maddenin kütlesi ile öz ısısının çarpımına ne denir?",
+    "cardValue": "Isı sığası ($C = m \\cdot c$)."
+  },
+  {
+    "cardKey": "Bir maddenin sıcaklığını hal değiştirmeden $\\Delta T$ kadar değiştirmek için gereken ısı miktarını veren formül nedir?",
+    "cardValue": "$Q = m \\cdot c \\cdot \\Delta T$"
+  },
+  {
+    "cardKey": "Isıca yalıtılmış bir ortamda, sıcaklıkları farklı iki cisim arasında ısı alışverişi ne zaman durur?",
+    "cardValue": "Sıcaklıklar eşitlendiğinde, yani sistem ısıl dengeye ulaştığında durur."
+  },
+  {
+    "cardKey": "Isı alışverişi yapan iki cismin denge sıcaklığı, ilk sıcaklıkları ($T_1 > T_2$) arasında nasıl bir değer alır?",
+    "cardValue": "Denge sıcaklığı ilk sıcaklıklar arasında bir değer alır ($T_1 > T_{denge} > T_2$)."
+  },
+  {
+    "cardKey": "Hâl değiştirme sıcaklığındaki bir maddenin birim kütlesinin hâl değiştirmesi için gerekli ısı miktarına ne denir?",
+    "cardValue": "Hâl değiştirme ısısı ($L$)."
+  },
+  {
+    "cardKey": "Bir maddenin tamamının hâl değiştirmesi için gerekli olan ısı miktarını veren formül nedir?",
+    "cardValue": "$Q = m \\cdot L$"
+  },
+  {
+    "cardKey": "Hâl değiştiren saf bir maddenin sıcaklığı nasıl değişir?",
+    "cardValue": "Maddenin tamamı hâl değiştirene kadar sıcaklığı sabit kalır."
+  },
+  {
+    "cardKey": "Katı maddelerde ısının taneciklerin titreşimiyle aktarılması yoluna ne denir?",
+    "cardValue": "İletim."
+  },
+  {
+    "cardKey": "Sıvı ve gazlarda ısınan maddenin yer değiştirmesiyle ısının taşınması yoluna ne denir?",
+    "cardValue": "Konveksiyon (taşıma)."
+  },
+  {
+    "cardKey": "Isının elektromanyetik dalgalar şeklinde, maddesel ortama ihtiyaç duymadan yayılmasına ne denir?",
+    "cardValue": "Işıma (radyasyon)."
+  },
+  {
+    "cardKey": "Sıcaklık artışıyla maddelerin boyutlarının büyümesine ne denir?",
+    "cardValue": "Genleşme."
+  },
+  {
+    "cardKey": "Gazların genleşme katsayısı, sıvılarınkinden; sıvılarınki ise katılarınkinden _____.",
+    "cardValue": "büyüktür"
+  },
+  {
+    "cardKey": "Diğer sıvıların aksine, suyun +4°C'den 0°C'ye soğutulurken hacminin artması olayına ne ad verilir?",
+    "cardValue": "Suyun anormal genleşmesi."
+  },
+  {
+    "cardKey": "Aynı cins elektrik yükleri birbirini _____, zıt cins elektrik yükleri birbirini _____.",
+    "cardValue": "iter, çeker"
+  },
+  {
+    "cardKey": "Yüklü bir cismin, temas etmeden, yakınındaki yüksüz bir iletkenin yüklerini kutuplaştırmasına ne denir?",
+    "cardValue": "Etki ile elektriklenme."
+  },
+  {
+    "cardKey": "Birbirine dokundurulan iletken küreler, toplam yükü hangi oranda paylaşırlar?",
+    "cardValue": "Yarıçapları (kapasiteleri) ile doğru orantılı olarak paylaşırlar."
+  },
+  {
+    "cardKey": "Bir cismin yüklü olup olmadığını, yüklü ise yükünün cinsini belirlemeye yarayan alet nedir?",
+    "cardValue": "Elektroskop."
+  },
+  {
+    "cardKey": "Coulomb Yasası'na göre iki noktasal yük arasındaki elektriksel kuvvetin büyüklüğü nasıl hesaplanır?",
+    "cardValue": "$F = k \\cdot \\frac{q_1 \\cdot q_2}{d^2}$"
+  },
+  {
+    "cardKey": "Birim pozitif yüke etki eden elektriksel kuvvete ne denir?",
+    "cardValue": "Elektrik alan ($\\vec{E}$)."
+  },
+  {
+    "cardKey": "Pozitif bir yükün etrafındaki elektrik alan çizgilerinin yönü nasıldır?",
+    "cardValue": "Yükten dışarı doğrudur."
+  },
+  {
+    "cardKey": "Negatif bir yükün etrafındaki elektrik alan çizgilerinin yönü nasıldır?",
+    "cardValue": "Yüke doğrudur."
+  },
+  {
+    "cardKey": "İletken bir telin kesit alanından birim zamanda geçen yük miktarına ne denir?",
+    "cardValue": "Elektrik akımı ($I = \\frac{q}{\\Delta t}$)."
+  },
+  {
+    "cardKey": "Maddelerin elektrik akımına karşı gösterdiği zorluğa ne denir?",
+    "cardValue": "Direnç ($R$)."
+  },
+  {
+    "cardKey": "Bir iletkenin direnci hangi faktörlere bağlıdır?",
+    "cardValue": "İletkenin boyu ($L$), kesit alanı ($A$) ve yapıldığı maddenin cinsine (öz direncine, $\\rho$) bağlıdır ($R = \\rho \\frac{L}{A}$)."
+  },
+  {
+    "cardKey": "Ohm Yasası nedir?",
+    "cardValue": "Bir iletkenin iki ucu arasındaki potansiyel farkın ($V$), iletken üzerinden geçen akıma ($I$) oranı sabittir ve bu oran o iletkenin direncini ($R$) verir ($V = I \\cdot R$)."
+  },
+  {
+    "cardKey": "Seri bağlı dirençlerde eşdeğer direnç nasıl hesaplanır?",
+    "cardValue": "$R_{eş} = R_1 + R_2 + R_3 + ...$"
+  },
+  {
+    "cardKey": "Paralel bağlı dirençlerde eşdeğer direnç nasıl hesaplanır?",
+    "cardValue": "$\\frac{1}{R_{eş}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} + ...$"
+  },
+  {
+    "cardKey": "Bir devredeki birim yükün devreyi dolaşabilmesi için üretecin yaptığı işe ne denir?",
+    "cardValue": "Elektromotor kuvvet (EMK, $\\epsilon$)."
+  },
+  {
+    "cardKey": "Aynı yönde akım üreten ve seri bağlı olan üreteçlerin toplam EMK'si nasıl bulunur?",
+    "cardValue": "Üreteçlerin EMK değerleri toplanır ($\\epsilon_{toplam} = \\epsilon_1 + \\epsilon_2 + ...$)."
+  },
+  {
+    "cardKey": "Özdeş üreteçler paralel bağlandığında devrenin toplam EMK'si nasıl değişir?",
+    "cardValue": "Devrenin toplam EMK'si tek bir üretecin EMK'sine eşittir ($\\epsilon_{toplam} = \\epsilon$)."
+  },
+  {
+    "cardKey": "Elektriksel gücü hesaplamak için kullanılan temel bağıntılardan biri nedir?",
+    "cardValue": "$P = V \\cdot I$ (Ayrıca $P = I^2 \\cdot R$ ve $P = \\frac{V^2}{R}$)."
+  },
+  {
+    "cardKey": "Lambaların parlaklığı hangi fiziksel nicelikle doğru orantılıdır?",
+    "cardValue": "Lambanın gücüyle."
+  },
+  {
+    "cardKey": "Aşırı akım durumunda devreyi keserek güvenliği sağlayan devre elemanı nedir?",
+    "cardValue": "Sigorta."
+  },
+  {
+    "cardKey": "Demir, nikel, kobalt gibi maddeleri çekme özelliğine sahip cisimlere ne denir?",
+    "cardValue": "Mıknatıs."
+  },
+  {
+    "cardKey": "Bir mıknatısın manyetik özelliklerini gösterdiği bölgeye ne ad verilir?",
+    "cardValue": "Manyetik alan."
+  },
+  {
+    "cardKey": "Bir çubuk mıknatısın dışındaki manyetik alan çizgilerinin yönü nasıldır?",
+    "cardValue": "N kutbundan S kutbuna doğrudur."
+  },
+  {
+    "cardKey": "Üzerinden akım geçen düz bir telin etrafında oluşan manyetik alanın yönü hangi kural ile bulunur?",
+    "cardValue": "Sağ el kuralı ile bulunur."
+  },
+  {
+    "cardKey": "Demir çekirdek üzerine sarılan ve içinden akım geçtiğinde mıknatıs gibi davranan sisteme ne denir?",
+    "cardValue": "Elektromıknatıs."
+  },
+  {
+    "cardKey": "Dünya'nın manyetik alanının canlıları koruma işlevi nedir?",
+    "cardValue": "Dünya'yı Güneş rüzgârlarından, yüksek enerjili parçacıklardan ve zararlı radyasyondan bir kalkan gibi korur."
+  },
+  {
+    "cardKey": "Kutup ışıkları (aurora) nasıl oluşur?",
+    "cardValue": "Güneş'ten gelen yüklü parçacıkların Dünya'nın manyetik alanı etkisiyle kutuplara yönelmesi ve atmosferdeki gazlarla etkileşmesi sonucu oluşur."
+  },
+  {
+    "cardKey": "Birim yüzeye dik olarak etki eden kuvvetin büyüklüğüne ne denir?",
+    "cardValue": "Basınç ($P = \\frac{F}{S}$)."
+  },
+  {
+    "cardKey": "Katı bir cismin yatay bir yüzeye uyguladığı basınç kuvveti neye eşittir?",
+    "cardValue": "Cismin ağırlığına."
+  },
+  {
+    "cardKey": "Sıvıların, ağırlıkları nedeniyle kabın herhangi bir noktasına uyguladığı basınç hangi formülle hesaplanır?",
+    "cardValue": "$P = h \\cdot d \\cdot g$ (h: derinlik, d: sıvının özkütlesi, g: yerçekimi ivmesi)."
+  },
+  {
+    "cardKey": "Sıvıların üzerlerine uygulanan basıncı, bulunduğu kabın tüm noktalarına büyüklüğünü değiştirmeden iletmesi prensibine ne denir?",
+    "cardValue": "Pascal Prensibi."
+  },
+  {
+    "cardKey": "Açık hava basıncını ölçen alet nedir ve bu deney kim tarafından yapılmıştır?",
+    "cardValue": "Barometre, Torriçelli tarafından yapılmıştır."
+  },
+  {
+    "cardKey": "Deniz seviyesinden yükseklere çıkıldıkça açık hava basıncı nasıl değişir?",
+    "cardValue": "Azalır."
+  },
+  {
+    "cardKey": "Kapalı bir kaptaki gazın basıncı hangi faktörlere bağlıdır?",
+    "cardValue": "Gazın hacmine (ters orantılı), sıcaklığına (doğru orantılı) ve molekül sayısına (doğru orantılı) bağlıdır."
+  },
+  {
+    "cardKey": "Bernoulli İlkesi nedir?",
+    "cardValue": "Akışkanların süratinin arttığı yerde basıncı düşer."
+  },
+  {
+    "cardKey": "Sıvıya bırakılan bir cisme etki eden kaldırma kuvvetinin, cisim tarafından yeri değiştirilen sıvının ağırlığıyla aynı büyüklükte olduğunu belirten prensip nedir?",
+    "cardValue": "Arşimet Prensibi."
+  },
+  {
+    "cardKey": "Kaldırma kuvvetinin matematiksel modeli nasıldır?",
+    "cardValue": "$F_k = V_{batan} \\cdot d_{sıvı} \\cdot g$"
+  },
+  {
+    "cardKey": "Bir cismin bir sıvı içinde yüzmesi için cismin özkütlesi ile sıvının özkütlesi arasında nasıl bir ilişki olmalıdır?",
+    "cardValue": "Cismin özkütlesi, sıvının özkütlesinden küçük olmalıdır ($d_{cisim} < d_{sıvı}$)."
+  },
+  {
+    "cardKey": "Bir cismin bir sıvı içinde askıda kalması durumunda, cisme etki eden kaldırma kuvveti ile cismin ağırlığı arasındaki ilişki nedir?",
+    "cardValue": "Kaldırma kuvveti cismin ağırlığına eşittir ($F_k = G_{cisim}$)."
+  },
+  {
+    "cardKey": "Esnek bir ortama aktarılan enerjinin bir noktadan başka bir noktaya iletilirken ortamda oluşturduğu şekil değişikliğine ne denir?",
+    "cardValue": "Dalga."
+  },
+  {
+    "cardKey": "Ardışık iki dalga tepesi veya iki dalga çukuru arasındaki mesafeye ne denir?",
+    "cardValue": "Dalga boyu ($\\lambda$)."
+  },
+  {
+    "cardKey": "Dalga kaynağının bir tam titreşimi için geçen süreye _____ denir.",
+    "cardValue": "periyot ($T$)"
+  },
+  {
+    "cardKey": "Dalganın birim zamandaki titreşim sayısına _____ denir.",
+    "cardValue": "frekans ($f$)"
+  },
+  {
+    "cardKey": "Dalga hızı, dalga boyu ve frekans arasındaki ilişkiyi gösteren formül nedir?",
+    "cardValue": "$v = \\lambda \\cdot f$"
+  },
+  {
+    "cardKey": "Bir dalganın yayılma hızını ne belirler?",
+    "cardValue": "Sadece dalganın yayıldığı ortamın özellikleri."
+  },
+  {
+    "cardKey": "Yayılması için maddesel ortama ihtiyaç duyan dalgalara ne denir?",
+    "cardValue": "Mekanik dalgalar (Örnek: ses, su, yay, deprem)."
+  },
+  {
+    "cardKey": "Yayılması için maddesel ortama ihtiyaç duymayan, boşlukta da yayılabilen dalgalara ne denir?",
+    "cardValue": "Elektromanyetik dalgalar (Örnek: radyo dalgaları, ışık, X-ışınları)."
+  },
+  {
+    "cardKey": "Yayılma doğrultusu ile titreşim doğrultusu birbirine dik olan dalgalara ne denir?",
+    "cardValue": "Enine dalgalar."
+  },
+  {
+    "cardKey": "Yayılma doğrultusu ile titreşim doğrultusu birbirine paralel olan dalgalara ne denir?",
+    "cardValue": "Boyuna dalgalar."
+  },
+  {
+    "cardKey": "Hem enine hem de boyuna dalga özellikleri gösteren dalga türü hangisidir?",
+    "cardValue": "Su dalgaları."
+  },
+  {
+    "cardKey": "Ses dalgaları enine mi yoksa boyuna dalgalar mıdır?",
+    "cardValue": "Boyuna dalgalardır."
+  },
+  {
+    "cardKey": "Bir yay üzerinde oluşturulan atmanın hızı hangi faktörlere bağlıdır?",
+    "cardValue": "Yayı geren kuvvete ($F$) ve yayın birim uzunluğunun kütlesine (boyca yoğunluğuna, $\\mu$) bağlıdır ($v = \\sqrt{\\frac{F}{\\mu}}$)."
+  },
+  {
+    "cardKey": "Bir atma sabit bir uca çarptığında nasıl yansır?",
+    "cardValue": "Ters dönerek yansır (tepe ise çukur, çukur ise tepe olarak)."
+  },
+  {
+    "cardKey": "Bir atma serbest bir uca çarptığında nasıl yansır?",
+    "cardValue": "Ters dönmeden yansır (tepe ise tepe, çukur ise çukur olarak)."
+  },
+  {
+    "cardKey": "Su dalgalarının hızı suyun derinliğine nasıl bağlıdır?",
+    "cardValue": "Derin ortamda su dalgaları daha hızlıdır ($v_{derin} > v_{sığ}$)."
+  },
+  {
+    "cardKey": "Ortam değiştiren su dalgalarının doğrultularını değiştirmesi olayına ne denir?",
+    "cardValue": "Kırılma."
+  },
+  {
+    "cardKey": "İnce sesi kalın sesten ayıran ve sesin frekansına bağlı olan özellik nedir?",
+    "cardValue": "Sesin yüksekliği (tizlik-peslik)."
+  },
+  {
+    "cardKey": "Sesin enerjisiyle doğru orantılı olan ve birimi desibel (dB) olan ses özelliği nedir?",
+    "cardValue": "Sesin şiddeti."
+  },
+  {
+    "cardKey": "Aynı notayı çalan farklı müzik aletlerinin seslerini ayırt etmemizi sağlayan ses özelliği nedir?",
+    "cardValue": "Sesin tınısı."
+  },
+  {
+    "cardKey": "Bir ses kaynağının, frekansları aynı olan başka bir ses kaynağını yüksek genlikle titreştirmesi olayına ne denir?",
+    "cardValue": "Rezonans."
+  },
+  {
+    "cardKey": "Depremin büyüklüğünı ölçen alete ne denir ve hangi ölçek kullanılır?",
+    "cardValue": "Sismograf, Richter (Rihter) ölçeği kullanılır."
+  },
+  {
+    "cardKey": "Işığın bir yüzeye çarpıp geri dönmesi olayına ne denir?",
+    "cardValue": "Yansıma."
+  },
+  {
+    "cardKey": "Yansıma kanununa göre, gelme açısı ile yansıma açısı arasındaki ilişki nedir?",
+    "cardValue": "Gelme açısı yansıma açısına eşittir ($i=r$)."
+  },
+  {
+    "cardKey": "Düzlem aynada oluşan görüntünün özellikleri nelerdir?",
+    "cardValue": "Sanal (zahiri), düz, cisimle aynı boyda ve cismin aynaya olan uzaklığı görüntünün aynaya olan uzaklığına eşittir (simetriktir)."
+  },
+  {
+    "cardKey": "İç yüzeyi yansıtıcı olan küresel aynalara _____ ayna denir.",
+    "cardValue": "çukur (iç bükey)"
+  },
+  {
+    "cardKey": "Dış yüzeyi yansıtıcı olan küresel aynalara _____ ayna denir.",
+    "cardValue": "tümsek (dış bükey)"
+  },
+  {
+    "cardKey": "Küresel bir aynanın odak uzaklığı ($f$) ile eğrilik yarıçapı ($r$) arasındaki ilişki nedir?",
+    "cardValue": "$f = \\frac{r}{2}$"
+  },
+  {
+    "cardKey": "Çukur aynada asal eksene paralel gelen ışın yansıdıktan sonra nereden geçer?",
+    "cardValue": "Odak noktasından (F) geçer."
+  },
+  {
+    "cardKey": "Tümsek aynada asal eksene paralel gelen ışın yansıdıktan sonra nasıl bir yol izler?",
+    "cardValue": "Uzantısı odak noktasından (F) geçecek şekilde yansır."
+  },
+  {
+    "cardKey": "Çukur aynada cisim merkezde (2F) ise görüntüsü nerede ve nasıl oluşur?",
+    "cardValue": "Görüntü merkezde (2F), gerçek, ters ve cisimle aynı boyda oluşur."
+  },
+  {
+    "cardKey": "Tümsek aynada cisim nerede olursa olsun, görüntüsü daima nerede ve nasıl oluşur?",
+    "cardValue": "Görüntü daima aynanın arkasında, odak ile tepe noktası arasında, sanal, düz ve cisimden küçük oluşur."
+  },
+  {
+    "cardKey": "Işığın, yoğunluğu farklı saydam bir ortamdan diğerine geçerken doğrultu değiştirmesi olayına ne denir?",
+    "cardValue": "Kırılma."
+  },
+  {
+    "cardKey": "Snell Yasası olarak bilinen kırılma kanunu denklemi nedir?",
+    "cardValue": "$n_1 \\cdot \\sin(i) = n_2 \\cdot \\sin(r)$"
+  },
+  {
+    "cardKey": "Işık, az yoğun ortamdan çok yoğun ortama geçerken normale _____ kırılır.",
+    "cardValue": "yaklaşarak"
+  },
+  {
+    "cardKey": "Işık, çok yoğun ortamdan az yoğun ortama geçerken, kırılma açısını 90° yapan gelme açısına ne denir?",
+    "cardValue": "Sınır açısı."
+  },
+  {
+    "cardKey": "Çok yoğun ortamdan az yoğun ortama sınır açısından daha büyük bir açıyla gelen ışığın, diğer ortama geçemeyip yansıma yapması olayına ne denir?",
+    "cardValue": "Tam yansıma."
+  },
+  {
+    "cardKey": "Gelen ışığı asal eksene doğru toplayan merceklere ne ad verilir?",
+    "cardValue": "İnce kenarlı (yakınsak) mercek."
+  },
+  {
+    "cardKey": "Gelen ışığı asal eksenden uzaklaştıracak şekilde kıran merceklere ne ad verilir?",
+    "cardValue": "Kalın kenarlı (ıraksak) mercek."
+  },
+  {
+    "cardKey": "İnce kenarlı mercekte cisim 2F'de ise görüntüsü nerede ve nasıl oluşur?",
+    "cardValue": "Görüntü diğer tarafta 2F'de, gerçek, ters ve cisimle aynı boyda oluşur."
+  },
+  {
+    "cardKey": "Kalın kenarlı bir mercekte oluşan görüntülerin tamamı nasıl özelliktedir?",
+    "cardValue": "Sanal, düz ve cisimden küçüktür."
+  },
+  {
+    "cardKey": "Beyaz ışık bir prizmadan geçtiğinde neden renklerine ayrılır?",
+    "cardValue": "Çünkü farklı renklerin (dalga boylarının) prizma içindeki kırılma indisleri farklıdır; mor en çok, kırmızı en az kırılır."
+  },
+  {
+    "cardKey": "Işıkta ana renkler hangileridir?",
+    "cardValue": "Kırmızı, Yeşil ve Mavi."
+  },
+  {
+    "cardKey": "Kırmızı ve yeşil ışığın karışımından hangi ara renk oluşur?",
+    "cardValue": "Sarı."
+  },
+  {
+    "cardKey": "Mavi ve yeşil ışığın karışımından hangi ara renk oluşur?",
+    "cardValue": "Cyan."
+  },
+  {
+    "cardKey": "Kırmızı ve mavi ışığın karışımından hangi ara renk oluşur?",
+    "cardValue": "Magenta."
+  },
+  {
+    "cardKey": "Üç ana ışık renginin (Kırmızı, Yeşil, Mavi) karışımı hangi rengi verir?",
+    "cardValue": "Beyaz."
+  },
+  {
+    "cardKey": "Beyaz ışık altında kırmızı görünen bir cisme yeşil ışık altında bakılırsa cisim ne renk görünür?",
+    "cardValue": "Siyah görünür, çünkü cisim yeşil ışığı soğurur ve yansıtacak ışık kalmaz."
+  },
+  {
+    "cardKey": "Sarı boyalı bir cisim üzerine beyaz ışık düşürüldüğünde, cisim hangi renkleri güçlü yansıtır?",
+    "cardValue": "Sarı rengi oluşturan kırmızı ve yeşil ışığı güçlü yansıtır."
+  }
+]
