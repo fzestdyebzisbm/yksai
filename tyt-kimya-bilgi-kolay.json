@@ -1,1 +1,722 @@
-
+[
+  {
+    "cardKey": "Simyanın teorik temelleri var mıdır ve sistematik bilgi birikimi sağlar mı?",
+    "cardValue": "Hayır, simyanın teorik temelleri yoktur ve sistematik bilgi birikimi sağlamaz; sınama-yanılmaya dayalıdır."
+  },
+  {
+    "cardKey": "Simyacıların (alşimistlerin) iki temel amacı neydi?",
+    "cardValue": "Ölümsüzlük iksirini bulmak ve değersiz metalleri altına çevirmek."
+  },
+  {
+    "cardKey": "Simya döneminde keşfedilen ve asit olarak bilinen maddelerden ikisini sayınız.",
+    "cardValue": "Nitrik asit ve sülfürik asit."
+  },
+  {
+    "cardKey": "Tüm nesnelerin toprak, hava, ateş ve sudan oluştuğunu öne süren ve bu elementler arasında sevgi ve nefretin itme-çekme kuvveti olduğunu söyleyen Yunan filozofu kimdir?",
+    "cardValue": "Empedokles."
+  },
+  {
+    "cardKey": "Maddenin bölünemeyen en küçük parçacığına 'atomos' adını vererek 'atom' fikrini ortaya atan ilk kişi kimdir?",
+    "cardValue": "Democritus."
+  },
+  {
+    "cardKey": "Dört elementin sıcak, soğuk, kuru ve ıslak olmak üzere dört özelliği olduğunu belirten Yunan filozofu kimdir?",
+    "cardValue": "Aristo."
+  },
+  {
+    "cardKey": "'Atom parçalanabilir' fikrinin ilk sahibi olan, imbik ve kral suyunu bulan İslam bilgini kimdir?",
+    "cardValue": "Câbir bin Hayyan."
+  },
+  {
+    "cardKey": "Karıncalardan formik asidi elde eden, kroze ve fırın gibi laboratuvar aletlerini bulan ve alkolü antiseptik olarak kullanan İranlı hekim kimdir?",
+    "cardValue": "Ebû Bekir er-Râzî."
+  },
+  {
+    "cardKey": "Elementi 'kendinden başka basit maddelere ayrılamayan saf madde' olarak tanımlayan ve gazların hacmi ile basıncı arasındaki ters orantıyı bulan bilim insanı kimdir?",
+    "cardValue": "Robert Boyle."
+  },
+  {
+    "cardKey": "Kütlenin Korunumu Kanunu'nu tanımlayan ve oksijenin yanmaya neden olan bir gaz olduğunu keşfeden Fransız bilim insanı kimdir?",
+    "cardValue": "Antoine Lavoisier."
+  },
+  {
+    "cardKey": "Sanayide kullanılan ham madde imalatı ve üretimi ile ilgilenen kimya disiplini hangisidir?",
+    "cardValue": "Endüstriyel Kimya."
+  },
+  {
+    "cardKey": "Karbon (C) bileşiklerini, özelliklerini ve tepkimelerini inceleyen kimya disiplini hangisidir?",
+    "cardValue": "Organik Kimya."
+  },
+  {
+    "cardKey": "Organik olmayan asit, baz, tuz gibi maddelerin doğada bulunuşlarını ve etkileşimlerini inceleyen kimya disiplini hangisidir?",
+    "cardValue": "Anorganik Kimya."
+  },
+  {
+    "cardKey": "Canlı organizmaların kimyasal yapısını ve bu yapıda oluşan değişiklikleri inceleyen kimya disiplini hangisidir?",
+    "cardValue": "Biyokimya."
+  },
+  {
+    "cardKey": "Bir madde örneğinin içerdiği kimyasal maddelerin cinsini (nitel) ve miktarını (nicel) belirleyen kimya disiplini hangisidir?",
+    "cardValue": "Analitik Kimya."
+  },
+  {
+    "cardKey": "Sıcaklık, basınç gibi fiziksel faktörlerin kimyasal tepkimelere etkilerini, tepkime hızını ve enerji değişimlerini inceleyen kimya disiplini hangisidir?",
+    "cardValue": "Fizikokimya."
+  },
+  {
+    "cardKey": "Monomer adı verilen küçük birimlerden oluşan büyük molekülleri (protein, naylon, plastik gibi) inceleyen kimya disiplini hangisidir?",
+    "cardValue": "Polimer Kimyası."
+  },
+  {
+    "cardKey": "Analitik kimyada bir maddenin hangi bileşenlerden oluştuğunu belirlemek için yapılan analiz türü nedir?",
+    "cardValue": "Kalitatif (nitel) analiz."
+  },
+  {
+    "cardKey": "Kimya bilimi hangi temel endüstri alanlarıyla yakından ilgilidir?",
+    "cardValue": "İlaç, gübre, petrokimya, arıtım, boya ve tekstil."
+  },
+  {
+    "cardKey": "Aynı cins atomlar topluluğundan oluşan ve fiziksel ya da kimyasal yöntemlerle daha basit maddelere ayrıştırılamayan saf maddeye ne denir?",
+    "cardValue": "Element."
+  },
+  {
+    "cardKey": "Farklı cins atomların kimyasal yöntemlerle bir araya gelmesiyle oluşan ve kendini oluşturan maddelerin özelliklerini taşımayan saf maddeye ne denir?",
+    "cardValue": "Bileşik."
+  },
+  {
+    "cardKey": "Karışımın her noktasında tüm özelliklerin aynı olduğu karışım türü nedir?",
+    "cardValue": "Homojen karışım (Çözelti)."
+  },
+  {
+    "cardKey": "Karışımın her noktasında özelliklerin aynı olmadığı karışım türüne ne ad verilir?",
+    "cardValue": "Heterojen karışım."
+  },
+  {
+    "cardKey": "Günümüzde kullanılan element sembol sistemini kim önermiştir?",
+    "cardValue": "Berzelius (1814)."
+  },
+  {
+    "cardKey": "İki harfli element sembollerinde harflerin yazım kuralı nedir?",
+    "cardValue": "İlk harf büyük, ikinci harf küçük yazılır (Örnek: Co - Kobalt)."
+  },
+  {
+    "cardKey": "$H_2O$ formülü, hangi elementlerin sembollerini içerir?",
+    "cardValue": "Hidrojen (H) ve Oksijen (O)."
+  },
+  {
+    "cardKey": "Hidrojen (yanıcı) ve oksijen (yakıcı) elementlerinin birleşmesiyle oluşan suyun ($H_2O$) yangın söndürücü olması, bileşiklerin hangi özelliğini gösterir?",
+    "cardValue": "Bileşikler, kendilerini oluşturan elementlerin özelliklerini taşımaz."
+  },
+  {
+    "cardKey": "Laboratuvarda seyreltme işlemi yapılırken aside su mu, suya asit mi eklenmelidir?",
+    "cardValue": "Asit üzerine su dökülmemeli, suyun üzerine yavaşça asit eklenmelidir."
+  },
+  {
+    "cardKey": "Yanıcı madde tehlike uyarı işaretinin anlamı nedir?",
+    "cardValue": "Ateşten uzak tutulması gerektiğini belirtir."
+  },
+  {
+    "cardKey": "Oksitleyici (yakıcı) madde tehlike uyarı işaretinin anlamı nedir?",
+    "cardValue": "Tutuşturucularla temasının önlenmesi gerektiğini belirtir."
+  },
+  {
+    "cardKey": "Korozif (aşındırıcı) madde piktogramı görüldüğünde hangi önlem alınmalıdır?",
+    "cardValue": "Deri ve göz korunmalıdır."
+  },
+  {
+    "cardKey": "Çevreye zararlı (ekotoksik) madde işareti ne anlama gelir?",
+    "cardValue": "Maddenin hava, toprak ve suya zarar verdiğini belirtir."
+  },
+  {
+    "cardKey": "Vücuttaki su dengesini koruyan, kas ve sinir fonksiyonlarının sağlıklı çalışmasını sağlayan element hangisidir?",
+    "cardValue": "Sodyum (Na)."
+  },
+  {
+    "cardKey": "Hemoglobinin yapısında bulunan ve DNA sentezinde yer alan element hangisidir?",
+    "cardValue": "Demir (Fe)."
+  },
+  {
+    "cardKey": "Yeşil yapraklı bitkilerde klorofilin yapısında bulunan ve bitkilerin büyümesi için gerekli olan element hangisidir?",
+    "cardValue": "Magnezyum (Mg)."
+  },
+  {
+    "cardKey": "Fosil yakıtlar yoluyla çevreye yayılarak besin zincirine giren ve DNA hasarı yapabilen ağır metal hangisidir?",
+    "cardValue": "Cıva (Hg)."
+  },
+  {
+    "cardKey": "Hemoglobin yapısını bozan ve özellikle çocuklarda davranış bozukluklarına yol açabilen ağır metal hangisidir?",
+    "cardValue": "Kurşun (Pb)."
+  },
+  {
+    "cardKey": "Koma ve ölüme sebep olabilen, 'sessiz katil' olarak da bilinen gaz hangisidir?",
+    "cardValue": "Karbon monoksit (CO)."
+  },
+  {
+    "cardKey": "Atmosferde iklim değişikliği ve küresel ısınmaya sebep olan başlıca sera gazı hangisidir?",
+    "cardValue": "Karbon dioksit ($CO_2$)."
+  },
+  {
+    "cardKey": "Atmosferdeki su buharı ile birleşerek asit yağmurlarına yol açan gazlardan ikisi hangileridir?",
+    "cardValue": "Azot dioksit ($NO_2$) ve Kükürt trioksit ($SO_3$)."
+  },
+  {
+    "cardKey": "Titrasyon işleminde kullanılan, alt kısmı musluklu dereceli cam malzemenin adı nedir?",
+    "cardValue": "Büret."
+  },
+  {
+    "cardKey": "Belirli derişimlerde çözelti hazırlamak için kullanılan, boyun kısmında hacim çizgisi bulunan cam malzemenin adı nedir?",
+    "cardValue": "Balon joje."
+  },
+  {
+    "cardKey": "Zeytinyağı-su gibi heterojen sıvı karışımları ayırmak için kullanılan musluklu cam malzemenin adı nedir?",
+    "cardValue": "Ayırma hunisi."
+  },
+  {
+    "cardKey": "Katıları toz haline getirmek için kullanılan porselen, cam veya çelikten yapılmış malzemenin adı nedir?",
+    "cardValue": "Havan."
+  },
+  {
+    "cardKey": "Atomu içi dolu küreye (bilardo topuna) benzeten ve bir elementin tüm atomlarının özdeş olduğunu öne süren atom modeli hangisidir?",
+    "cardValue": "Dalton Atom Modeli (1803)."
+  },
+  {
+    "cardKey": "Dalton Atom Modeli'nin günümüzde geçerli olmayan varsayımlarından biri nedir?",
+    "cardValue": "Atomun parçalanamaz olduğu veya bir elementin tüm atomlarının kütlece özdeş olduğu (izotoplar nedeniyle)."
+  },
+  {
+    "cardKey": "Atomu, pozitif yük içinde negatif yüklü elektronların homojen dağıldığı üzümlü keke benzeten model hangisidir?",
+    "cardValue": "Thomson Atom Modeli (1897)."
+  },
+  {
+    "cardKey": "Altın levha deneyi ile atomun büyük bir kısmının boşluk olduğunu ve pozitif yükün çekirdek denen küçük bir hacimde toplandığını keşfeden bilim insanı kimdir?",
+    "cardValue": "Ernest Rutherford."
+  },
+  {
+    "cardKey": "Rutherford atom modelinin açıklayamadığı temel sorun neydi?",
+    "cardValue": "Elektronların neden pozitif yüklü çekirdeğin üzerine düşmediğini açıklayamaması."
+  },
+  {
+    "cardKey": "Elektronların çekirdek etrafında belirli enerji düzeylerinde (yörüngelerde) bulunduğunu öne süren atom modeli hangisidir?",
+    "cardValue": "Bohr Atom Modeli (1913)."
+  },
+  {
+    "cardKey": "Bohr atom modeline göre, bir elektronun dışarıdan enerji alarak daha yüksek bir enerji seviyesine geçmesi durumuna ne ad verilir?",
+    "cardValue": "Uyarılmış hâl."
+  },
+  {
+    "cardKey": "Bohr Atom Modeli'nin en büyük eksikliği nedir?",
+    "cardValue": "Sadece tek elektronlu taneciklerin (H, $He^+$, $Li^{2+}$) davranışlarını açıklayabilmesi, çok elektronlu atomları açıklayamaması."
+  },
+  {
+    "cardKey": "Bir atomun kimliğini belirleyen temel tanecik hangisidir ve ne olarak adlandırılır?",
+    "cardValue": "Proton, atom numarası (Z) veya çekirdek yükü olarak adlandırılır."
+  },
+  {
+    "cardKey": "Atomun çekirdeğindeki proton ve nötron sayılarının toplamına ne ad verilir?",
+    "cardValue": "Kütle numarası (A) veya nükleon sayısı."
+  },
+  {
+    "cardKey": "Bir atom elektron verdiğinde oluşan pozitif yüklü iyona ne ad verilir?",
+    "cardValue": "Katyon."
+  },
+  {
+    "cardKey": "Bir atom elektron aldığında oluşan negatif yüklü iyona ne ad verilir?",
+    "cardValue": "Anyon."
+  },
+  {
+    "cardKey": "Proton sayıları aynı, nötron sayıları (ve dolayısıyla kütle numaraları) farklı olan atomlara ne denir?",
+    "cardValue": "İzotop atomlar."
+  },
+  {
+    "cardKey": "İzotop atomların kimyasal özellikleri neden aynıdır?",
+    "cardValue": "Çünkü kimyasal özellikleri belirleyen proton ve elektron sayıları aynıdır."
+  },
+  {
+    "cardKey": "Nötron sayıları aynı, proton sayıları farklı olan atomlara ne denir?",
+    "cardValue": "İzoton atomlar."
+  },
+  {
+    "cardKey": "Kütle numaraları aynı, proton ve nötron sayıları farklı olan atomlara ne denir?",
+    "cardValue": "İzobar atomlar."
+  },
+  {
+    "cardKey": "Elektron sayıları ve elektron dizilimleri aynı olan taneciklere ne denir?",
+    "cardValue": "İzoelektronik tanecikler."
+  },
+  {
+    "cardKey": "İki taneciğin kimyasal özelliklerinin aynı olması için hangi koşul sağlanmalıdır?",
+    "cardValue": "Proton ve elektron sayılarının eşit olması gerekir."
+  },
+  {
+    "cardKey": "Modern periyodik cetvelde elementler hangi özelliğe göre sıralanmıştır?",
+    "cardValue": "Artan atom numarasına (proton sayısına) göre."
+  },
+  {
+    "cardKey": "Periyodik cetveldeki yatay sıralara _____ denir.",
+    "cardValue": "Periyot."
+  },
+  {
+    "cardKey": "Periyodik cetveldeki düşey sütunlara _____ denir.",
+    "cardValue": "Grup."
+  },
+  {
+    "cardKey": "A grubu elementleri için katman sayısı periyodik cetvelde neyi belirtir?",
+    "cardValue": "Periyot numarasını."
+  },
+  {
+    "cardKey": "A grubu elementleri için son katmandaki elektron sayısı (değerlik elektronu sayısı) neyi belirtir?",
+    "cardValue": "Grup numarasını."
+  },
+  {
+    "cardKey": "Oda sıcaklığında cıva (Hg) hariç katı halde bulunan, parlak, tel ve levha haline getirilebilen element sınıfı hangisidir?",
+    "cardValue": "Metaller."
+  },
+  {
+    "cardKey": "Genellikle mat, kırılgan, ısı ve elektriği (grafit hariç) iletmeyen element sınıfı hangisidir?",
+    "cardValue": "Ametaller."
+  },
+  {
+    "cardKey": "Fiziksel özellikleri bakımından metallere, kimyasal özellikleri bakımından ametallere benzeyen element sınıfı hangisidir?",
+    "cardValue": "Yarı metaller."
+  },
+  {
+    "cardKey": "Periyodik cetvelin 8A (18. grup) grubunda yer alan, oda koşullarında gaz halinde ve tek atomlu (monoatomik) olan elementler hangileridir?",
+    "cardValue": "Soy gazlar."
+  },
+  {
+    "cardKey": "Periyodik cetvelde bir grupta yukarıdan aşağıya doğru inildikçe atom yarıçapı nasıl değişir?",
+    "cardValue": "Katman sayısı arttığı için atom yarıçapı artar."
+  },
+  {
+    "cardKey": "Periyodik cetvelde bir periyotta soldan sağa doğru gidildikçe atom yarıçapı nasıl değişir?",
+    "cardValue": "Çekirdek yükü arttığı için elektronlara uygulanan çekim kuvveti artar ve yarıçap küçülür."
+  },
+  {
+    "cardKey": "Gaz halindeki bir atomdan bir elektron koparmak için verilmesi gereken enerjiye ne ad verilir?",
+    "cardValue": "İyonlaşma enerjisi."
+  },
+  {
+    "cardKey": "Bir periyotta soldan sağa doğru gidildikçe iyonlaşma enerjisi genellikle nasıl değişir?",
+    "cardValue": "Genellikle artar (2A ve 5A gruplarındaki küresel simetri istisnasıyla)."
+  },
+  {
+    "cardKey": "Periyodik özelliklerden hangisi elektron verme eğilimini ifade eder ve grupta aşağı doğru artar?",
+    "cardValue": "Metalik özellik."
+  },
+  {
+    "cardKey": "Periyodik özelliklerden hangisi elektron alma eğilimini ifade eder ve periyotta sağa doğru artar?",
+    "cardValue": "Ametalik özellik."
+  },
+  {
+    "cardKey": "Bir atomun bağ elektronlarını kendine çekme yeteneğinin ölçüsüne ne denir?",
+    "cardValue": "Elektronegatiflik."
+  },
+  {
+    "cardKey": "Elektronegatifliği en yüksek olan element hangisidir?",
+    "cardValue": "Flor (F)."
+  },
+  {
+    "cardKey": "Bağ enerjisi yaklaşık 40 kJ/mol'den büyük olan ve atomlar arası gerçekleşen etkileşimlere ne ad verilir?",
+    "cardValue": "Güçlü etkileşimler (kimyasal bağlar)."
+  },
+  {
+    "cardKey": "Bağ enerjisi yaklaşık 40 kJ/mol'den küçük olan ve moleküller arası gerçekleşen etkileşimlere ne ad verilir?",
+    "cardValue": "Zayıf etkileşimler (fiziksel bağlar)."
+  },
+  {
+    "cardKey": "Metal ve ametal atomları arasında elektron alışverişi ile oluşan güçlü etkileşim türü nedir?",
+    "cardValue": "İyonik bağ."
+  },
+  {
+    "cardKey": "Ametal atomları arasında elektronların ortaklaşa kullanılmasıyla oluşan güçlü etkileşim türü nedir?",
+    "cardValue": "Kovalent bağ."
+  },
+  {
+    "cardKey": "Metal atomlarını bir arada tutan, serbest dolaşan değerlik elektronları ile pozitif metal iyonları arasındaki elektrostatik çekime dayanan bağ türü nedir?",
+    "cardValue": "Metalik bağ."
+  },
+  {
+    "cardKey": "Farklı ametal atomları arasında oluşan ve elektron yoğunluğunun eşit dağılmadığı kovalent bağ türü nedir?",
+    "cardValue": "Polar kovalent bağ."
+  },
+  {
+    "cardKey": "Aynı ametal atomları arasında oluşan ve elektronların eşit çekilmesiyle kutuplaşmanın olmadığı kovalent bağ türü nedir?",
+    "cardValue": "Apolar kovalent bağ."
+  },
+  {
+    "cardKey": "Kovalent bileşikler adlandırılırken kullanılan Latince sayı öneklerinden 'di', 'tri' ve 'penta' hangi sayıları ifade eder?",
+    "cardValue": "Sırasıyla 2 (di), 3 (tri) ve 5 (penta)."
+  },
+  {
+    "cardKey": "Hidrojen atomunun, elektronegatifliği yüksek olan _____, _____ ve _____ atomlarıyla oluşturduğu moleküller arasında görülen zayıf etkileşim türü nedir?",
+    "cardValue": "Flor (F), Oksijen (O), Azot (N) atomlarıyla oluşturduğu hidrojen bağıdır."
+  },
+  {
+    "cardKey": "Apolar moleküller ve soy gaz atomları arasında görülen, elektronların anlık yığılmasıyla oluşan geçici dipollere dayanan en zayıf etkileşim türü nedir?",
+    "cardValue": "London kuvvetleri (indüklenmiş dipol-indüklenmiş dipol etkileşimleri)."
+  },
+  {
+    "cardKey": "$H_2O$, $NH_3$ ve HF moleküllerinin kaynama noktalarının kendi gruplarındaki diğer hidrürlerden çok daha yüksek olmasının sebebi nedir?",
+    "cardValue": "Molekülleri arasında bulunan güçlü hidrojen bağlarıdır."
+  },
+  {
+    "cardKey": "Maddenin kimyasal yapısı değişmeden sadece boyut, şekil veya fiziksel halinin değiştiği olaylara ne denir?",
+    "cardValue": "Fiziksel değişim."
+  },
+  {
+    "cardKey": "Maddenin iç yapısının değişerek yeni maddelerin oluştuğu olaylara ne denir?",
+    "cardValue": "Kimyasal değişim."
+  },
+  {
+    "cardKey": "Yanma, paslanma, mayalanma ve elektroliz olayları fiziksel mi yoksa kimyasal değişim midir?",
+    "cardValue": "Kimyasal değişimdir."
+  },
+  {
+    "cardKey": "Suyun donması, camın kırılması ve şekerin suda çözünmesi olayları fiziksel mi yoksa kimyasal değişim midir?",
+    "cardValue": "Fiziksel değişimdir."
+  },
+  {
+    "cardKey": "Maddenin en düzenli, en yoğun ve taneciklerinin sadece titreşim hareketi yaptığı fiziksel hâli hangisidir?",
+    "cardValue": "Katı hâl."
+  },
+  {
+    "cardKey": "Belirli bir şekli olmayıp bulunduğu kabın şeklini alan, akışkan olan ve tanecikleri titreşim ve öteleme hareketi yapan fiziksel hâl hangisidir?",
+    "cardValue": "Sıvı hâl."
+  },
+  {
+    "cardKey": "Belirli bir şekli ve hacmi olmayan, sıkıştırılabilen ve tanecikleri titreşim, öteleme ve dönme hareketi yapan fiziksel hâl hangisidir?",
+    "cardValue": "Gaz hâl."
+  },
+  {
+    "cardKey": "Atom, molekül, iyon ve serbest elektronların bir arada bulunduğu, maddenin en yüksek enerjili ve iletken hâli hangisidir?",
+    "cardValue": "Plazma hâli."
+  },
+  {
+    "cardKey": "Doğal gazın sıvılaştırılması ile elde edilen ve %90'ı metan olan yakıt türü nedir?",
+    "cardValue": "LNG (Sıvı Doğal Gaz)."
+  },
+  {
+    "cardKey": "Basınç uygulandığında sıvılaşabilen ve basınç kalktığında genleşerek buharlaşan, buzdolabı ve klimalarda kullanılan maddelere ne denir?",
+    "cardValue": "Soğutucu akışkanlar."
+  },
+  {
+    "cardKey": "Havadaki azot ve oksijen gazları, hangi fiziksel özelliklerinin farkından yararlanılarak ve hangi yöntemle ayrılır?",
+    "cardValue": "Kaynama noktaları farkından yararlanılarak ayrımsal damıtma yöntemiyle ayrılır."
+  },
+  {
+    "cardKey": "Tanecikleri düzensiz istiflenmiş, belirli bir geometrik şekli ve erime noktası olmayan katılara ne denir?",
+    "cardValue": "Amorf katılar (Örnek: cam, plastik, tereyağı)."
+  },
+  {
+    "cardKey": "Tanecikleri düzenli bir kristal örgü yapısında istiflenmiş, belirli geometrik şekli ve sabit erime noktası olan katılara ne denir?",
+    "cardValue": "Kristal katılar."
+  },
+  {
+    "cardKey": "Zıt yüklü iyonların elektrostatik çekim kuvvetiyle bir arada tutulduğu, sert ve kırılgan kristal türü hangisidir?",
+    "cardValue": "İyonik kristaller (Örnek: NaCl, $MgCl_2$)."
+  },
+  {
+    "cardKey": "Elmas ve grafit gibi, atomların kovalent bağlarla bir ağ yapısı oluşturduğu, genellikle çok sert ve yüksek erime noktalı kristal türü hangisidir?",
+    "cardValue": "Kovalent kristaller."
+  },
+  {
+    "cardKey": "Buz ($H_2O$) ve kuru buz ($CO_2$) gibi, moleküllerin zayıf van der Waals kuvvetleri veya hidrojen bağlarıyla bir arada tutulduğu kristal türü hangisidir?",
+    "cardValue": "Moleküler kristaller."
+  },
+  {
+    "cardKey": "Sıvıların akmaya karşı gösterdiği dirence ne ad verilir?",
+    "cardValue": "Viskozite."
+  },
+  {
+    "cardKey": "Sıcaklık artışı bir sıvının viskozitesini nasıl etkiler?",
+    "cardValue": "Sıcaklık arttıkça moleküller arası çekim kuvvetleri zayıflar ve viskozite azalır (akıcılık artar)."
+  },
+  {
+    "cardKey": "Sıvısıyla dengede olan buharın oluşturduğu basınca ne denir?",
+    "cardValue": "Denge buhar basıncı."
+  },
+  {
+    "cardKey": "Bir sıvının denge buhar basıncı hangi faktörlere bağlıdır?",
+    "cardValue": "Sıvının cinsi, saflık derecesi ve sıcaklık."
+  },
+  {
+    "cardKey": "Bir sıvının buhar basıncının dış basınca eşit olduğu sıcaklıkta gerçekleşen olaya ne denir?",
+    "cardValue": "Kaynama."
+  },
+  {
+    "cardKey": "Deniz seviyesinden yükseklere çıkıldıkça suyun kaynama noktası neden düşer?",
+    "cardValue": "Çünkü dış atmosfer basıncı azalır ve sıvının buhar basıncının dış basınca eşitlenmesi daha düşük sıcaklıkta gerçekleşir."
+  },
+  {
+    "cardKey": "Aynı ortamda kaynamakta olan tüm saf sıvıların hangi fiziksel özelliği eşittir?",
+    "cardValue": "Buhar basınçları (çünkü hepsi dış basınca eşitlenmiştir)."
+  },
+  {
+    "cardKey": "İçerisinde kalsiyum ($Ca^{2+}$) ve magnezyum ($Mg^{2+}$) iyonlarını bol miktarda bulunduran sulara ne ad verilir?",
+    "cardValue": "Sert su."
+  },
+  {
+    "cardKey": "Sert su kullanımının olumsuz etkilerinden biri nedir?",
+    "cardValue": "Sabunun köpürmesini engeller, temizlik maddesi sarfiyatını artırır veya ısıtma sistemlerinde kireçlenmeye yol açar."
+  },
+  {
+    "cardKey": "Atmosferin üst katmanlarında bulunan ve Güneş'ten gelen zararlı ultraviyole ışınlarını engelleyen gaz tabakası hangisidir?",
+    "cardValue": "Ozon ($O_3$) tabakası."
+  },
+  {
+    "cardKey": "Ozon tabakasının incelmesine neden olan başlıca kirletici kimyasal grubu nedir?",
+    "cardValue": "Kloroflorokarbonlar (CFC'ler)."
+  },
+  {
+    "cardKey": "Atmosferde birikerek Dünya'dan yansıyan ısının bir kısmını tutup gezegenin ısınmasına neden olan etkiye ne denir?",
+    "cardValue": "Sera etkisi."
+  },
+  {
+    "cardKey": "Fosil yakıtların yanması sonucu atmosfere salınan ve su buharı ile birleşerek asit yağmurlarına neden olan başlıca gazlar hangileridir?",
+    "cardValue": "Kükürt oksitler ($SO_x$) ve Azot oksitler ($NO_x$)."
+  },
+  {
+    "cardKey": "Doğada biyolojik olarak parçalanma süreleri çok uzun olduğu için su ve toprak kirliliğine neden olan polimerik malzemeler hangileridir?",
+    "cardValue": "Plastikler."
+  },
+  {
+    "cardKey": "Kimyasal tepkimelerde tepkimeye giren maddelerin kütleleri toplamının, ürünlerin kütleleri toplamına eşit olduğunu belirten kanun hangisidir?",
+    "cardValue": "Kütlenin Korunumu Kanunu (Lavoisier)."
+  },
+  {
+    "cardKey": "Bir bileşiği oluşturan elementlerin kütleleri arasında daima sabit bir oran olduğunu ifade eden kanun hangisidir?",
+    "cardValue": "Sabit Oranlar Kanunu (Proust)."
+  },
+  {
+    "cardKey": "İki element arasında birden fazla bileşik oluşuyorsa, elementlerden birinin sabit miktarıyla birleşen diğer elementin kütleleri arasında basit ve tam sayılı bir oran olduğunu belirten kanun hangisidir?",
+    "cardValue": "Katlı Oranlar Kanunu (Dalton)."
+  },
+  {
+    "cardKey": "$CO$ ve $CO_2$ bileşikleri arasında Katlı Oranlar Kanunu uygulanabilir mi?",
+    "cardValue": "Evet, çünkü aynı iki elementten (C ve O) oluşmuş farklı bileşiklerdir."
+  },
+  {
+    "cardKey": "$H_2SO_4$ ile $H_2SO_3$ bileşikleri arasında Katlı Oranlar Kanunu neden uygulanamaz?",
+    "cardValue": "Çünkü ikiden fazla (üç) tür atom (H, S, O) içerirler."
+  },
+  {
+    "cardKey": "12 gram Karbon-12 izotopunun içerdiği atom sayısı kadar tanecik içeren madde miktarına ne denir?",
+    "cardValue": "1 mol."
+  },
+  {
+    "cardKey": "1 mol taneciğin sayısını ifade eden ve yaklaşık $6,02 \\cdot 10^{23}$ olan sayıya ne ad verilir?",
+    "cardValue": "Avogadro sayısı ($N_A$)."
+  },
+  {
+    "cardKey": "1 mol maddenin gram cinsinden kütlesine ne denir?",
+    "cardValue": "Mol kütlesi (veya mol ağırlığı)."
+  },
+  {
+    "cardKey": "Normal koşullar (0 °C, 1 atm) altında 1 mol gaz ne kadar hacim kaplar?",
+    "cardValue": "22,4 litre."
+  },
+  {
+    "cardKey": "Oda (standart) koşulları (25 °C, 1 atm) altında 1 mol gaz ne kadar hacim kaplar?",
+    "cardValue": "24,5 litre."
+  },
+  {
+    "cardKey": "Bir kimyasal tepkime denkleminde okun sol tarafında yer alan maddelere ne denir?",
+    "cardValue": "Girenler (reaktifler)."
+  },
+  {
+    "cardKey": "Bir kimyasal tepkime denkleminde okun sağ tarafında yer alan maddelere ne denir?",
+    "cardValue": "Ürünler."
+  },
+  {
+    "cardKey": "Bir maddenin oksijen ($O_2$) ile tepkimeye girmesi olayına ne ad verilir?",
+    "cardValue": "Yanma tepkimesi."
+  },
+  {
+    "cardKey": "Azot gazının yanması hariç, yanma tepkimeleri genellikle ısı alan (endotermik) mı, ısı veren (ekzotermik) mi olur?",
+    "cardValue": "Genellikle ekzotermiktir (ısı verir)."
+  },
+  {
+    "cardKey": "İki veya daha fazla kimyasal türün birleşerek yeni bir bileşik oluşturduğu tepkime türü nedir?",
+    "cardValue": "Sentez (oluşum) tepkimesi."
+  },
+  {
+    "cardKey": "Bir bileşiğin ısı veya elektrik enerjisiyle daha basit maddelere ayrıştığı tepkime türü nedir?",
+    "cardValue": "Analiz (ayrışma) tepkimesi."
+  },
+  {
+    "cardKey": "Bir asit ile bir bazın tepkimeye girerek tuz ve su oluşturduğu tepkimeye ne ad verilir?",
+    "cardValue": "Nötralleşme tepkimesi."
+  },
+  {
+    "cardKey": "Farklı tuzların sulu çözeltileri karıştırıldığında suda çözünmeyen bir katının (çökelek) oluştuğu tepkime türü nedir?",
+    "cardValue": "Çözünme-çökelme tepkimesi."
+  },
+  {
+    "cardKey": "Kimyasal hesaplamalarda, tepkimede tamamen tükenerek oluşan ürün miktarını belirleyen maddeye ne denir?",
+    "cardValue": "Sınırlayıcı bileşen."
+  },
+  {
+    "cardKey": "Bir tepkimede denkleme göre hesaplanan teorik ürün miktarına karşılık, deney sonunda elde edilen gerçek ürün miktarının oranına ne denir?",
+    "cardValue": "Yüzde verim."
+  },
+  {
+    "cardKey": "Bir maddenin başka bir madde içinde homojen olarak dağılmasına _____, oluşan karışıma ise _____ denir.",
+    "cardValue": "Çözünme, çözelti."
+  },
+  {
+    "cardKey": "Çözünme olayındaki temel prensip olan 'Benzer benzeri çözer' ilkesi ne anlama gelir?",
+    "cardValue": "Polar maddelerin polar çözücülerde, apolar maddelerin ise apolar çözücülerde iyi çözündüğü anlamına gelir."
+  },
+  {
+    "cardKey": "Asit, baz ve tuz gibi suda iyonlaşarak çözünen maddelerin oluşturduğu ve elektrik akımını ileten çözeltilere ne ad verilir?",
+    "cardValue": "Elektrolit çözeltiler."
+  },
+  {
+    "cardKey": "Bir katının bir sıvı içinde dağılmasıyla oluşan heterojen karışıma ne ad verilir?",
+    "cardValue": "Süspansiyon (Örnek: tebeşirli su, ayran)."
+  },
+  {
+    "cardKey": "Birbiri içinde çözünmeyen iki sıvının oluşturduğu heterojen karışıma ne ad verilir?",
+    "cardValue": "Emülsiyon (Örnek: zeytinyağı-su)."
+  },
+  {
+    "cardKey": "Bir katı veya sıvının bir gaz içinde dağılmasıyla oluşan heterojen karışıma ne ad verilir?",
+    "cardValue": "Aerosol (Örnek: sis, duman, sprey)."
+  },
+  {
+    "cardKey": "Çözeltinin milyonda bir birimindeki çözünen madde miktarını ifade eden derişim birimi nedir?",
+    "cardValue": "ppm (parts per million)."
+  },
+  {
+    "cardKey": "Bir çözeltiye uçucu olmayan bir katı (tuz, şeker gibi) eklendiğinde çözeltinin kaynama ve donma noktası nasıl değişir?",
+    "cardValue": "Kaynama noktası yükselir, donma noktası düşer."
+  },
+  {
+    "cardKey": "Çözeltilerde çözünen madde miktarına bağlı olarak değişen kaynama noktası yükselmesi ve donma noktası alçalması gibi özelliklere ne ad verilir?",
+    "cardValue": "Koligatif özellikler."
+  },
+  {
+    "cardKey": "Demir, nikel, kobalt gibi metalleri içeren bir karışımı ayırmak için hangi özellikten faydalanılır?",
+    "cardValue": "Manyetik özellikten (mıknatıslanma)."
+  },
+  {
+    "cardKey": "Sıvı-sıvı homojen karışımları (alkol-su gibi) ayırmak için kullanılan ve bileşenlerin kaynama noktası farkına dayanan yöntem nedir?",
+    "cardValue": "Ayrımsal damıtma."
+  },
+  {
+    "cardKey": "Bir karışımdaki bileşenlerden birini, uygun bir çözücü yardımıyla ortamdan çekme işlemine ne denir?",
+    "cardValue": "Özütleme (ekstraksiyon)."
+  },
+  {
+    "cardKey": "Çayın demlenmesi veya şeker pancarından şeker eldesi hangi ayırma tekniğine örnektir?",
+    "cardValue": "Özütleme (ekstraksiyon)."
+  },
+  {
+    "cardKey": "Böbreklerin çalışma prensibine dayanan ve kolloidal karışımları yarı geçirgen bir zar kullanarak ayırma yöntemi nedir?",
+    "cardValue": "Diyaliz."
+  },
+  {
+    "cardKey": "pH ölçeğinde 7'den küçük değerler ortamın _____ olduğunu gösterir.",
+    "cardValue": "Asidik."
+  },
+  {
+    "cardKey": "pH ölçeğinde 7'den büyük değerler ortamın _____ olduğunu gösterir.",
+    "cardValue": "Bazik."
+  },
+  {
+    "cardKey": "Ortamın asitliğine veya bazlığına göre renk değiştiren maddelere ne ad verilir?",
+    "cardValue": "İndikatör (belirteç)."
+  },
+  {
+    "cardKey": "Turnusol kağıdı asidik ortamda _____, bazik ortamda _____ renk alır.",
+    "cardValue": "Kırmızı, mavi."
+  },
+  {
+    "cardKey": "Sulu çözeltileri ekşi tatta olan ve metallerle tepkimeye girerek genellikle hidrojen gazı açığa çıkaran madde sınıfı hangisidir?",
+    "cardValue": "Asitler."
+  },
+  {
+    "cardKey": "Sulu çözeltileri acı tatta olan ve ele kayganlık hissi veren madde sınıfı hangisidir?",
+    "cardValue": "Bazlar."
+  },
+  {
+    "cardKey": "Hem asitlerle hem de kuvvetli bazlarla tepkimeye giren metallere ne denir?",
+    "cardValue": "Amfoter metaller (Örnek: Al, Zn, Pb)."
+  },
+  {
+    "cardKey": "Altın (Au) ve platin (Pt) gibi soy metaller hangi madde ile tepkimeye girer?",
+    "cardValue": "Sadece kral suyu (HCl ve $HNO_3$ karışımı) ile tepkimeye girer."
+  },
+  {
+    "cardKey": "Halk arasında tuz ruhu olarak bilinen asidin formülü nedir?",
+    "cardValue": "$HCl$ (Hidroklorik asit)."
+  },
+  {
+    "cardKey": "Halk arasında sud kostik olarak bilinen bazın formülü nedir?",
+    "cardValue": "$NaOH$ (Sodyum hidroksit)."
+  },
+  {
+    "cardKey": "Çamaşır suyu (sodyum hipoklorit) ile tuz ruhunun (hidroklorik asit) karıştırılması sonucu ortaya çıkan zehirli gaz hangisidir?",
+    "cardValue": "Klor gazı ($Cl_2$)."
+  },
+  {
+    "cardKey": "Yemek tuzu olarak bilinen ve nötr bir tuz olan bileşiğin formülü nedir?",
+    "cardValue": "$NaCl$ (Sodyum klorür)."
+  },
+  {
+    "cardKey": "Kabartma tozu veya yemek sodası olarak bilinen ve bazik özellik gösteren tuzun formülü nedir?",
+    "cardValue": "$NaHCO_3$ (Sodyum bikarbonat)."
+  },
+  {
+    "cardKey": "Kireç taşı olarak da bilinen ve çimento üretiminde kullanılan bazik tuzun formülü nedir?",
+    "cardValue": "$CaCO_3$ (Kalsiyum karbonat)."
+  },
+  {
+    "cardKey": "Nişadır olarak bilinen ve gübre, pil üretiminde kullanılan asidik tuzun formülü nedir?",
+    "cardValue": "$NH_4Cl$ (Amonyum klorür)."
+  },
+  {
+    "cardKey": "Uzun zincirli yağ asitlerinin sodyum (Na) veya potasyum (K) tuzlarına ne ad verilir?",
+    "cardValue": "Sabun."
+  },
+  {
+    "cardKey": "Sabun molekülünün kiri temizleme mekanizmasında apolar olan _____ kısmı kire tutunurken, polar olan _____ kısmı suya tutunur.",
+    "cardValue": "Kuyruk, baş."
+  },
+  {
+    "cardKey": "Petrol türevlerinden elde edilen ve sert sularda bile temizleme özelliğini kaybetmeyen temizlik maddesi nedir?",
+    "cardValue": "Deterjan."
+  },
+  {
+    "cardKey": "Kauçuk, polietilen (PE), polivinil klorür (PVC) ve teflon gibi küçük moleküllerin (monomer) birleşmesiyle oluşan büyük moleküllere genel olarak ne ad verilir?",
+    "cardValue": "Polimer."
+  },
+  {
+    "cardKey": "İçecek şişesi yapımında kullanılan ve geri dönüştürülebilen yaygın polimerin kısaltması nedir?",
+    "cardValue": "PET (Polietilen teraftalat)."
+  },
+  {
+    "cardKey": "Yapışmaz tava ve tencere kaplamasında kullanılan polimerin ticari adı nedir?",
+    "cardValue": "Teflon (Politetrafloroeten)."
+  },
+  {
+    "cardKey": "Kapı-pencere profilleri ve su borusu yapımında kullanılan polimerin kısaltması nedir?",
+    "cardValue": "PVC (Polivinil klorür)."
+  },
+  {
+    "cardKey": "İlaçların hap, şurup, iğne gibi farklı formlarda olmasının sebeplerinden biri nedir?",
+    "cardValue": "Doğru dozda alınmasını sağlamak veya etken maddeyi mide asidi gibi dış etkilerden korumak."
+  },
+  {
+    "cardKey": "Hazır gıdalara bakteri, küf ve maya bozulmasını önlemek ve raf ömrünü uzatmak için katılan madde grubuna ne denir?",
+    "cardValue": "Koruyucular."
+  },
+  {
+    "cardKey": "Süt ve süt ürünlerinin kısa süreli yüksek sıcaklıkta ısıtılıp aniden soğutularak mikroorganizmalardan arındırılması işlemine ne ad verilir?",
+    "cardValue": "Pastörizasyon."
+  },
+  {
+    "cardKey": "Yenilebilir yağların yüksek sıcaklıklarda veya defalarca kullanılmasının sağlık üzerindeki temel riski nedir?",
+    "cardValue": "Kanserojen maddelerin oluşmasına neden olması."
+  }
+]
