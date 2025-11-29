@@ -48,7 +48,7 @@
     "cardValue": "Çöl Biyomu."
   },
   {
-    "cardKey": "Sıcaklığın yıl boyunca 0 °C'nin altında olduğu ve bitki örtüsünün bulunmadığı kutup bölgelerindeki biyom hangisidir?",
+    "cardKey": "Sıcaklığın yıl boyunca 0 °C’nin altında olduğu ve bitki örtüsünün bulunmadığı kutup bölgelerindeki biyom hangisidir?",
     "cardValue": "Kutup Biyomu."
   },
   {
@@ -224,7 +224,7 @@
     "cardValue": "Çay."
   },
   {
-    "cardKey": "Don olaylarından olumsuz etkilendiği için Türkiye'de başlıca yetiştirilme alanları Akdeniz ve Ege kıyıları olan meyve grubu hangisidir?",
+    "cardKey": "Don olaylarından olumsuz etkilendiği için Türkiye’de başlıca yetiştirilme alanları Akdeniz ve Ege kıyıları olan meyve grubu hangisidir?",
     "cardValue": "Turunçgiller."
   },
   {
@@ -440,3 +440,195 @@
     "cardValue": "Asit yağışları."
   },
   {
+    "cardKey": "Arazi potansiyeline uygun olmayan kullanımla toprağın veriminin düşmesi ve arazide bozulmalar meydana gelmesine ne ad verilir?",
+    "cardValue": "Yanlış arazi kullanımı."
+  },
+  {
+    "cardKey": "Herhangi bir faaliyet sonucu çevreye atılan veya bırakılan zararlı maddelere ne denir?",
+    "cardValue": "Atık."
+  },
+  {
+    "cardKey": "Atıkların birtakım işlemlerden geçirilerek ikinci bir ham madde olarak kullanılmasını sağlayan sürece ne denir?",
+    "cardValue": "Geri dönüşüm."
+  },
+  {
+    "cardKey": "Doğa olaylarının normal seyrinin dışına çıkarak sıra dışı değerlere ulaşmasına ne ad verilir?",
+    "cardValue": "Ekstrem doğa olayları."
+  },
+  {
+    "cardKey": "Deprem, volkanik faaliyet veya kütle hareketleri sonucu okyanus sularında oluşan dev dalgalara ne denir?",
+    "cardValue": "Tsunami."
+  },
+  {
+    "cardKey": "Bir bölgede yağışların normal seviyenin çok altına düşmesiyle yaşanan su kıtlığı ve etkilerine ne ad verilir?",
+    "cardValue": "Kuraklık."
+  },
+  {
+    "cardKey": "Enerji tüketimi, ulaşım gibi faaliyetler sırasında atmosfere salınan sera gazı miktarını ölçen kavrama ne denir?",
+    "cardValue": "Karbon ayak izi."
+  },
+  {
+    "cardKey": "Kurak ve yarı kurak bölgelerde iklim değişikliği ve insan faaliyetleri nedeniyle arazinin üretkenliğini kaybetmesi sürecine ne denir?",
+    "cardValue": "Çölleşme."
+  },
+  {
+    "cardKey": "Küresel ısınma ve iklim değişikliğiyle mücadele için 2015'te imzalanan ve küresel sıcaklık artışını 2 °C'nin altında tutmayı hedefleyen uluslararası anlaşma hangisidir?",
+    "cardValue": "Paris Anlaşması."
+  },
+  {
+    "cardKey": "Karabük'ün küçük bir mahalleden sanayi şehrine dönüşmesinde hangi tesisin kurulması etkili olmuştur?",
+    "cardValue": "Demir çelik fabrikası (1937)."
+  },
+  {
+    "cardKey": "Kırsal kesimde yaşayan insanların tarım ve hayvancılık işlerini ortaklaşa ve yardımlaşarak yapmasına ne ad verilir?",
+    "cardValue": "İmece."
+  },
+  {
+    "cardKey": "Sanayi toplumundan bilgi toplumuna geçişte üretimin temel faktörü 'kas gücünden' neye dönüşmüştür?",
+    "cardValue": "Beyin gücüne."
+  },
+  {
+    "cardKey": "2050 yılında dünya nüfusunun yaklaşık yüzde kaçının şehirlerde yaşayacağı öngörülmektedir?",
+    "cardValue": "Yaklaşık %70'inin."
+  },
+  {
+    "cardKey": "İnsan zekasını taklit ederek akıllı davranışlar sergileyebilen bilgisayar sistemlerine ne ad verilir?",
+    "cardValue": "Yapay zekâ."
+  },
+  {
+    "cardKey": "Mekânsal yapıyı ve ekonomik/kültürel faaliyetleri daha iyi organize etmek amacıyla oluşturulan, genellikle bir yönetim merkezi olan bölgelere ne denir?",
+    "cardValue": "İşlevsel (fonksiyonel) bölgeler."
+  },
+  {
+    "cardKey": "Türkiye'de il, ilçe, köy gibi yasalarla sınırları belirlenmiş bölgeler hangi tür işlevsel bölgeye örnektir?",
+    "cardValue": "Yönetsel bölgeler."
+  },
+  {
+    "cardKey": "DSİ, Orman Genel Müdürlüğü, Meteoroloji gibi kurumların hizmetlerini yürütmek için oluşturduğu bölgeler ne tür bölgelerdir?",
+    "cardValue": "Hizmet bölgeleri."
+  },
+  {
+    "cardKey": "GAP, DAP, DOKAP, KOP gibi projelerin kapsadığı illere göre belirlenen bölgeler ne tür işlevsel bölgelerdir?",
+    "cardValue": "Planlama bölgeleri."
+  },
+  {
+    "cardKey": "Güneydoğu Anadolu'da su kaynaklarını geliştirmek, enerji üretmek ve sulu tarımı yaygınlaştırmak amacıyla başlatılan proje hangisidir?",
+    "cardValue": "Güneydoğu Anadolu Projesi (GAP)."
+  },
+  {
+    "cardKey": "Doğu Karadeniz'de halkın yaşam kalitesini yükseltmeyi ve bölgeler arası gelişim farklılıklarını gidermeyi amaçlayan proje hangisidir?",
+    "cardValue": "Doğu Karadeniz Projesi (DOKAP)."
+  },
+  {
+    "cardKey": "Doğu Anadolu'da tarım ve hayvancılık başta olmak üzere tüm ekonomik sektörleri geliştirmeyi amaçlayan proje hangisidir?",
+    "cardValue": "Doğu Anadolu Projesi (DAP)."
+  },
+  {
+    "cardKey": "Konya Kapalı Havzası’nda su ve tarım altyapısını geliştirmek amacıyla hayata geçirilen proje hangisidir?",
+    "cardValue": "Konya Ovası Projesi (KOP)."
+  },
+  {
+    "cardKey": "1 Temmuz 1926'da çıkarılan ve Türkiye karasularında taşımacılık hakkını Türk girişimcilere veren kanunun adı nedir?",
+    "cardValue": "Kabotaj Kanunu."
+  },
+  {
+    "cardKey": "Asya ile Avrupa'yı deniz altından demir yolu ile birleştiren projenin adı nedir?",
+    "cardValue": "Marmaray Projesi."
+  },
+  {
+    "cardKey": "Türkiye'de yurt içi yük taşımacılığında en çok kullanılan ulaşım türü hangisidir?",
+    "cardValue": "Kara yolu."
+  },
+  {
+    "cardKey": "Uluslararası yük taşımacılığında Türkiye'nin en çok kullandığı ve en ucuz olan ulaşım türü hangisidir?",
+    "cardValue": "Deniz yolu."
+  },
+  {
+    "cardKey": "Batman'da çıkarılan ham petrolü taşımak amacıyla 1967'de açılan Türkiye'nin ilk ticari boru hattı hangisidir?",
+    "cardValue": "Batman-Dörtyol Ham Petrol Boru Hattı."
+  },
+  {
+    "cardKey": "Herhangi bir ürünün genel ağ (internet) kanalıyla pazarlanmasına ne ad verilir?",
+    "cardValue": "E-ticaret."
+  },
+  {
+    "cardKey": "Ülkenin siyasi sınırları içinde yer alan ancak gümrük hattı dışında kalan, vergi muafiyetleri ve teşviklerin olduğu özel ticari merkezlere ne denir?",
+    "cardValue": "Serbest ticaret bölgeleri."
+  },
+  {
+    "cardKey": "Uluslararası düzeyde önem taşıyan doğal ve kültürel varlıklara UNESCO tarafından verilen statü nedir?",
+    "cardValue": "Dünya Mirası statüsü."
+  },
+  {
+    "cardKey": "Türkiye'nin UNESCO Dünya Miras Listesi'ne kaydedilen ilk varlığı hangisidir?",
+    "cardValue": "Divriği Ulu Camii ve Darüşşifası (Sivas, 1985)."
+  },
+  {
+    "cardKey": "Bir ürünün tüm niteliklerinin belirli bir coğrafi alana ait doğal ve beşerî unsurlardan kaynaklandığı ve tüm üretim aşamalarının o alanda gerçekleştiği coğrafi işarete ne denir?",
+    "cardValue": "Menşe adı."
+  },
+  {
+    "cardKey": "Ürünün belirli bir coğrafi alan ile özdeşleştiği ve üretim aşamalarından en az birinin o alanda gerçekleştiği coğrafi işarete ne denir?",
+    "cardValue": "Mahreç işareti."
+  },
+  {
+    "cardKey": "Coğrafi keşifler sonrası önemini yitiren Akdeniz'in tekrar önem kazanmasını sağlayan gelişme nedir?",
+    "cardValue": "Süveyş Kanalı’nın açılması."
+  },
+  {
+    "cardKey": "XX. yüzyıldan itibaren petrol sevkiyatında önem kazanan, Basra Körfezi'ni Umman Denizi'ne bağlayan stratejik su yolu hangisidir?",
+    "cardValue": "Hürmüz Boğazı."
+  },
+  {
+    "cardKey": "Ülkelerin coğrafi koşullarının uluslararası siyasetteki gücüne etkisini inceleyen bilime ne denir?",
+    "cardValue": "Jeopolitik."
+  },
+  {
+    "cardKey": "Azerbaycan petrolünü Türkiye üzerinden uluslararası pazarlara ulaştıran boru hattının adı nedir?",
+    "cardValue": "Bakü-Tiflis-Ceyhan (BTC) Ham Petrol Boru Hattı."
+  },
+  {
+    "cardKey": "Azerbaycan doğal gazını Türkiye'ye ve buradan Avrupa'ya taşıyan Güney Gaz Koridoru'nun en önemli halkasını oluşturan proje hangisidir?",
+    "cardValue": "Trans Anadolu Doğal Gaz Boru Hattı Projesi (TANAP)."
+  },
+  {
+    "cardKey": "Ülkelerin gelişmişlik seviyesini belirlemede kullanılan; ortalama yaşam süresi, okuryazarlık, okullaşma oranı ve satın alma gücü gibi kriterlere dayanan ölçüm nedir?",
+    "cardValue": "İnsani Gelişme Endeksi (İGE)."
+  },
+  {
+    "cardKey": "Bilginin nitelikli iş gücü ile ürün, hizmet ve sisteme dönüştürülerek ekonomik faaliyetlere hareketlilik kazandırmasına ne ad verilir?",
+    "cardValue": "İnovasyon."
+  },
+  {
+    "cardKey": "Hazar Bölgesi petrolünün tankerlerle dünya pazarlarına ulaştırıldığı, Kerkük-Yumurtalık ve BTC hatlarının ulaştığı Türkiye'deki önemli terminal neresidir?",
+    "cardValue": "Ceyhan (Adana)."
+  },
+  {
+    "cardKey": "Tüm semavi dinler için kutsal olan ve İsrail ile Filistin arasında uzun süredir devam eden çatışmaların merkezindeki şehir hangisidir?",
+    "cardValue": "Kudüs."
+  },
+  {
+    "cardKey": "Azerbaycan ve Ermenistan arasında yaklaşık 30 yıl süren işgale ve çatışmalara neden olan bölge neresidir?",
+    "cardValue": "Dağlık Karabağ."
+  },
+  {
+    "cardKey": "Bir ülkeden doğup başka ülkelere akan sularla ilgili yaşanan sorunlara ne ad verilir?",
+    "cardValue": "Sınıraşan sular sorunu."
+  },
+  {
+    "cardKey": "Gelecek kuşakların ihtiyaçlarını karşılama imkânlarını koruyarak bugünün ihtiyaçlarını karşılamayı hedefleyen kalkınma modeline ne denir?",
+    "cardValue": "Sürdürülebilir kalkınma."
+  },
+  {
+    "cardKey": "Çevre kirliliğinin maliyetinin kirleten tarafından karşılanmasını öngören çevre politikası ilkesi nedir?",
+    "cardValue": "Kirleten öder ilkesi."
+  },
+  {
+    "cardKey": "Sulak alanların korunması ve sürdürülebilir kullanımını amaçlayan 1971 tarihli uluslararası sözleşme hangisidir?",
+    "cardValue": "Ramsar Sözleşmesi."
+  },
+  {
+    "cardKey": "Türkiye'de erozyon ve çölleşmeyle mücadele, ağaçlandırma gibi konularda faaliyet gösteren sivil toplum kuruluşu hangisidir?",
+    "cardValue": "TEMA Vakfı."
+  }
+]
