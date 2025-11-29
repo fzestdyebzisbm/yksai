@@ -1,1 +1,806 @@
-
+[
+  {
+    "cardKey": "Tarih biliminin tanımı nedir?",
+    "cardValue": "Toplumların başından geçen olayları zaman ve yer göstererek, sebep ve sonuçlarını belgelere dayanarak objektif bir biçimde ele alan sosyal bir bilimdir."
+  },
+  {
+    "cardKey": "Tarihi diğer sosyal bilimlerden ayıran en önemli fark nedir?",
+    "cardValue": "Diğer bilimler insanı veya doğayı bir yönüyle ele alırken, tarih insanı her yönüyle ve bütün yaptıklarıyla anlamaya ve anlatmaya çalışır."
+  },
+  {
+    "cardKey": "Olayın geçtiği döneme ait belge ve buluntulara ne ad verilir?",
+    "cardValue": "Birinci el kaynaklar (ana kaynak)."
+  },
+  {
+    "cardKey": "Efsaneler, destanlar ve menkıbeler ne tür kaynaklar olarak sınıflandırılır?",
+    "cardValue": "Sözlü kaynaklar."
+  },
+  {
+    "cardKey": "Geçmişten günümüze meydana gelen olay ve olguların zamanını tespit ederek sıralayan bilim dalı hangisidir?",
+    "cardValue": "Kronoloji."
+  },
+  {
+    "cardKey": "Kazı yolu ile toprak ve su altındaki maddi kalıntıları ortaya çıkaran bilim dalı hangisidir?",
+    "cardValue": "Arkeoloji."
+  },
+  {
+    "cardKey": "Tarihte devletlerin kullandığı armaları ve mühürleri inceleyen bilim dalı hangisidir?",
+    "cardValue": "Heraldik."
+  },
+  {
+    "cardKey": "Yazıları, alfabeleri ve bunların zaman içerisindeki değişimlerini inceleyen bilim dalı hangisidir?",
+    "cardValue": "Paleografya."
+  },
+  {
+    "cardKey": "Tarih içerisinde basılan paraları inceleyen bilim dalı hangisidir?",
+    "cardValue": "Nümismatik."
+  },
+  {
+    "cardKey": "Toplumların örf, âdet, gelenek ve yaşayışlarını inceleyen bilim dalı hangisidir?",
+    "cardValue": "Etnografya."
+  },
+  {
+    "cardKey": "Tarih öncesi dönemlerin aydınlatılmasında tarihe en çok yardımcı olan bilim dalı hangisidir?",
+    "cardValue": "Arkeoloji."
+  },
+  {
+    "cardKey": "Ay'ın Dünya etrafındaki 12 tur dönüşünü bir yıl kabul eden ve 354 günden oluşan takvim esası nedir?",
+    "cardValue": "Ay yılı."
+  },
+  {
+    "cardKey": "Dünya'nın Güneş etrafındaki bir tur dolanmasını esas alan ve 365 gün 6 saat süren takvim esası nedir?",
+    "cardValue": "Güneş yılı."
+  },
+  {
+    "cardKey": "Türklerin kullandığı ilk takvim hangisidir?",
+    "cardValue": "On İki Hayvanlı Türk Takvimi."
+  },
+  {
+    "cardKey": "Türklerin İslamiyet'i kabul ettikten sonra kullandığı ve başlangıcı 622 yılı olan takvim hangisidir?",
+    "cardValue": "Hicrî Takvim."
+  },
+  {
+    "cardKey": "Büyük Selçuklu Sultanı Melikşah'ın emriyle Ömer Hayyam başkanlığındaki bir heyet tarafından hazırlanan takvim hangisidir?",
+    "cardValue": "Celâli Takvimi."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde mali işlerin düzenlenmesi amacıyla kullanılan ve güneş yılı esasına dayanan takvim hangisidir?",
+    "cardValue": "Rûmî Takvim."
+  },
+  {
+    "cardKey": "Türkiye'de 1 Ocak 1926'dan itibaren kullanılmaya başlanan ve günümüzde en yaygın kullanılan takvim hangisidir?",
+    "cardValue": "Miladi Takvim."
+  },
+  {
+    "cardKey": "Tarih öncesi dönemler sınıflandırılırken insanların araç gereç yapımında kullandığı _____ esas alınmıştır.",
+    "cardValue": "malzemeler"
+  },
+  {
+    "cardKey": "İnsanların avcı ve toplayıcı olduğu, ateşin bulunduğu ve Yarımburgaz ile Karain mağaralarının örnek olduğu Taş Çağı dönemi hangisidir?",
+    "cardValue": "Paleolitik Çağ (Eski Taş Çağı)."
+  },
+  {
+    "cardKey": "Tarımın başladığı, hayvanların evcilleştirildiği ve yerleşik yaşamın görüldüğu Taş Çağı dönemi hangisidir?",
+    "cardValue": "Neolitik Çağ (Yeni Taş Çağı)."
+  },
+  {
+    "cardKey": "Diyarbakır Çayönü, dünyadaki ilk _____ yerleşimlerinden biri olarak kabul edilir.",
+    "cardValue": "köy"
+  },
+  {
+    "cardKey": "Şanlıurfa'daki Göbeklitepe, dünyanın en eski ve en büyük _____ yerleşkesi olarak kabul edilir.",
+    "cardValue": "tapınak"
+  },
+  {
+    "cardKey": "Konya'daki Çatalhöyük, dünyanın ilk _____ yerleşimlerinden biri olarak kabul edilir.",
+    "cardValue": "kent"
+  },
+  {
+    "cardKey": "Yazı, Anadolu’da hangi Maden Çağı döneminde kullanılmaya başlamıştır?",
+    "cardValue": "Tunç Çağı."
+  },
+  {
+    "cardKey": "Sümerlerin MÖ 3200'lerde icat ettiği sembol yazısının adı nedir?",
+    "cardValue": "Piktograf."
+  },
+  {
+    "cardKey": "Tek şekil, tek ses esasına dayalı alfabetik yazı sistemini icat eden İlk Çağ medeniyeti hangisidir?",
+    "cardValue": "Fenikeliler."
+  },
+  {
+    "cardKey": "Mısırlıların kullandığı resimli yazıya ne ad verilir?",
+    "cardValue": "Hiyeroglif."
+  },
+  {
+    "cardKey": "Sümerler, Ziggurat adı verilen tapınaklarda gök bilimiyle ilgili gözlem yaparak neyi geliştirmişlerdir?",
+    "cardValue": "Astronomi ve takvim."
+  },
+  {
+    "cardKey": "İran medeniyetinde eyalet sistemine ne ad verilirdi ve bu eyaletleri kim yönetirdi?",
+    "cardValue": "Satraplık adı verilirdi ve Satrap denilen yöneticiler tarafından idare edilirdi."
+  },
+  {
+    "cardKey": "Hint medeniyetinde milli bir kültürün ortaya çıkışını engelleyen toplumsal sistemin adı nedir?",
+    "cardValue": "Kast sistemi."
+  },
+  {
+    "cardKey": "Kâğıt, barut ve pusulayı icat eden medeniyet hangisidir?",
+    "cardValue": "Çin Medeniyeti."
+  },
+  {
+    "cardKey": "MÖ 3200 yılında yazıyı icat ederek tarih çağlarını başlatan Mezopotamya medeniyeti hangisidir?",
+    "cardValue": "Sümerler."
+  },
+  {
+    "cardKey": "Dünyada bilinen ilk yazılı hukuk kuralları olan \"Urgakina Kanunlarını\" hazırlayan medeniyet hangisidir?",
+    "cardValue": "Sümerler."
+  },
+  {
+    "cardKey": "Anadolu'ya ticari faaliyetler yoluyla yazıyı getirerek tarih çağlarının başlamasına neden olan Mezopotamya medeniyeti hangisidir?",
+    "cardValue": "Asurlar."
+  },
+  {
+    "cardKey": "Hitit krallarının tanrılara hesap vermek için tuttukları yıllıklara ne ad verilir?",
+    "cardValue": "Anal."
+  },
+  {
+    "cardKey": "MÖ 1280'de Hititlerle Mısırlılar arasında yapılan ve tarihte bilinen ilk yazılı antlaşma hangisidir?",
+    "cardValue": "Kadeş Barış Antlaşması."
+  },
+  {
+    "cardKey": "Frig kanunlarında tarım araç-gereçlerine zarar vermenin cezası neydi?",
+    "cardValue": "Ölümdü."
+  },
+  {
+    "cardKey": "Tarihte parayı icat eden Anadolu medeniyeti hangisidir?",
+    "cardValue": "Lidyalılar."
+  },
+  {
+    "cardKey": "Mısır'da Nil Nehri'nin sularının taşması sonucu tarlaların sınırlarının karışması hangi bilimin gelişmesini sağlamıştır?",
+    "cardValue": "Geometri."
+  },
+  {
+    "cardKey": "Dünyada ilk defa tek tanrılı inanış (Musevilik) hangi Doğu Akdeniz toplumunda görülmüştür?",
+    "cardValue": "İbraniler."
+  },
+  {
+    "cardKey": "MÖ XIII. yüzyılda başlayan ve Hitit Devleti'nin yıkılmasına neden olan büyük göç hareketine ne ad verilir?",
+    "cardValue": "Ege Göçleri (Deniz Kavimleri Hareketi)."
+  },
+  {
+    "cardKey": "İpek Yolu üzerinde Göktürkler korumasında ticareti kontrol eden ve Orta Asya'nın ekonomik merkezi olmasını sağlayan tüccar topluluk kimdir?",
+    "cardValue": "Soğdlar."
+  },
+  {
+    "cardKey": "İlk Çağ Yunan medeniyetinde merkezî devletler kurulamamasının ve 'polis' adı verilen şehir devletlerinin ortaya çıkmasının temel coğrafi nedeni nedir?",
+    "cardValue": "Yunanistan'ın dar bir sahil şeridine sahip olması ve yüksek dağlarla birbirinden ayrılmasıdır."
+  },
+  {
+    "cardKey": "Pers İmparatorluğu'nda ülkenin ayrıldığı eyaletlere ne ad verilirdi?",
+    "cardValue": "Satraplık."
+  },
+  {
+    "cardKey": "Doğu ve Batı kültürlerinin sentezi olan ve Büyük İskender'in fetihleri sonucu ortaya çıkan yeni kültürün adı nedir?",
+    "cardValue": "Helenizm."
+  },
+  {
+    "cardKey": "Mısır'da tüm toprakların firavunlara ait olması, Mezopotamya'dan farklı olarak neyin doğmasını engellemiştir?",
+    "cardValue": "Bağımsız ve zengin bir tüccar sınıfının doğmasını engellemiştir."
+  },
+  {
+    "cardKey": "Babil Kralı Hammurabi'nin kanunları hangi temel anlayışla hazırlanmıştır?",
+    "cardValue": "\"Göze göz, dişe diş\" (kısas) anlayışıyla hazırlanmıştır."
+  },
+  {
+    "cardKey": "Hitit hukukunda kadınlara verilen haklar arasında aileyle ilgili hangi hususlar yer alıyordu?",
+    "cardValue": "Evlenme, boşanma, nikâh gibi hususlara yer verilmiş ve boşanma hakkı kadınlara da tanınmıştır."
+  },
+  {
+    "cardKey": "İbranilerde görülen ilahi kökenli hukuk kurallarının temelini oluşturan ve Hz. Musa'ya bildirilen emirler ne olarak bilinir?",
+    "cardValue": "On Emir."
+  },
+  {
+    "cardKey": "Orta Çağ'da Moğol İmparatorluğu'nu kuran ve 1206'da kağan seçilen liderin adı ve unvanı nedir?",
+    "cardValue": "Temuçin, Cengiz adını almıştır."
+  },
+  {
+    "cardKey": "Sasani İmparatorları hangi unvanı kullanmışlardır?",
+    "cardValue": "Şehinşah (Krallar Kralı)."
+  },
+  {
+    "cardKey": "Üretimin artmasıyla birlikte ortaya çıkan ihtiyaç fazlası ürüne ne ad verilir?",
+    "cardValue": "Artı ürün."
+  },
+  {
+    "cardKey": "Orta Çağ'da Batı ve Orta Avrupa'da toprak sahibi senyörlerin tüm hakları elinde bulundurduğu sisteme ne denir?",
+    "cardValue": "Feodalizm."
+  },
+  {
+    "cardKey": "Çin'den başlayıp Orta Asya üzerinden Anadolu ve Akdeniz'e ulaşan, İlk Çağ'ın en önemli ticaret yolu hangisidir?",
+    "cardValue": "İpek Yolu."
+  },
+  {
+    "cardKey": "1347-1351 yılları arasında Avrupa nüfusunda büyük bir azalmaya neden olan ve 'Kara Ölüm' olarak bilinen salgın hastalık hangisidir?",
+    "cardValue": "Veba salgını."
+  },
+  {
+    "cardKey": "Roma İmparatorluğu'nda Patriciler ile Plepler arasındaki sorunları çözmek için hazırlanan kanunlar hangisidir?",
+    "cardValue": "12 Levha Kanunları."
+  },
+  {
+    "cardKey": "Roma hukukunu derleyerek çağın ihtiyaçlarına göre yeniden düzenleyen Doğu Roma İmparatoru kimdir?",
+    "cardValue": "Justinianus."
+  },
+  {
+    "cardKey": "Moğol İmparatoru Cengiz Han tarafından hazırlanan ve 'Büyük Yasa' olarak da bilinen kurallar bütünü nedir?",
+    "cardValue": "Cengiz Han Yasası."
+  },
+  {
+    "cardKey": "Türk adının Kaşgarlı Mahmut'a göre anlamı nedir?",
+    "cardValue": "Olgunluk çağı."
+  },
+  {
+    "cardKey": "Türklerin ataları (Ön Türkler) tarafından meydana getirildiği düşünülen ve Altay-Sayan Dağları bölgesinde bulunan en eski kültür merkezi hangisidir?",
+    "cardValue": "Afanesyevo Kültürü."
+  },
+  {
+    "cardKey": "Türklerin savaşlarda kullandığı, sahte geri çekilme ve pusudan oluşan taktiğe ne ad verilir?",
+    "cardValue": "Turan Taktiği (Hilal Taktiği)."
+  },
+  {
+    "cardKey": "Tarihte düzenli ilk Türk ordusunu MÖ 209'da kuran hükümdar kimdir?",
+    "cardValue": "Mete Han."
+  },
+  {
+    "cardKey": "Eski Türk toplum yapısında ailelerin birleşmesiyle oluşan birliğe _____ denir.",
+    "cardValue": "urug"
+  },
+  {
+    "cardKey": "Eski Türklerde siyasi, kültürel, hukuki ve ekonomik kararların alındığı en yüksek kuruluşun adı nedir?",
+    "cardValue": "Kurultay (toy)."
+  },
+  {
+    "cardKey": "Eski Türklerde devlet yönetimini kolaylaştırmak amacıyla ülkenin doğu ve batı olarak ikiye ayrılmasına ne denir?",
+    "cardValue": "İkili Teşkilat."
+  },
+  {
+    "cardKey": "Tarihte bilinen ilk Türk devleti hangisidir ve başkenti neresidir?",
+    "cardValue": "Asya Hun Devleti'dir ve başkenti Ötüken'dir."
+  },
+  {
+    "cardKey": "Tarihte Türk adını ilk defa resmî devlet ismi olarak kullanan devlet hangisidir?",
+    "cardValue": "Kök Türk Devleti."
+  },
+  {
+    "cardKey": "Çin esaretine son vererek II. Kök Türk Devleti'ni kuran ve 'İlteriş' unvanını alan lider kimdir?",
+    "cardValue": "Kutluk Kağan."
+  },
+  {
+    "cardKey": "II. Kök Türk Devleti zamanında dikilen ve Türk devlet anlayışı hakkında önemli bilgiler içeren yazıtlar hangileridir?",
+    "cardValue": "Orhun (Köktürk) Kitabeleri."
+  },
+  {
+    "cardKey": "Bögü Kağan zamanında Maniheizm dinini kabul ederek yerleşik hayata geçen Türk devleti hangisidir?",
+    "cardValue": "Uygur Devleti."
+  },
+  {
+    "cardKey": "Eski Türklerde sosyal düzeni sağlayan sözlü hukuk kurallarına ne ad verilirdi?",
+    "cardValue": "Töre."
+  },
+  {
+    "cardKey": "Asya Hun Devleti'nin parçalanmasından sonra Balamir önderliğindeki Hunların batıya göçüyle başlayan ve Avrupa'nın etnik yapısını değiştiren olaya ne denir?",
+    "cardValue": "Kavimler Göçü."
+  },
+  {
+    "cardKey": "Kavimler Göçü'nün sonucunda Avrupa'da kurulan Türk devleti hangisidir?",
+    "cardValue": "Avrupa Hun Devleti."
+  },
+  {
+    "cardKey": "Avrupa Hun Devleti'nin en parlak dönemini yaşatan ve Doğu Roma'yı Margus ve Anatolios Antlaşmaları ile vergiye bağlayan hükümdar kimdir?",
+    "cardValue": "Atilla."
+  },
+  {
+    "cardKey": "Hem Asya'da hem de Avrupa'da devlet kuran iki Türk boyu hangileridir?",
+    "cardValue": "Hunlar ve Avarlar."
+  },
+  {
+    "cardKey": "Museviliği benimseyen tek Türk devleti hangisidir?",
+    "cardValue": "Hazar Devleti."
+  },
+  {
+    "cardKey": "751 Talas Savaşı'nda Müslümanların yanında Çin'e karşı savaşan ve Karahanlı Devleti'nin temelini oluşturan Türk topluluğu hangisidir?",
+    "cardValue": "Karluklar."
+  },
+  {
+    "cardKey": "Malazgirt Savaşı'nda Bizans ordusunda paralı askerken taraf değiştirerek savaşın kazanılmasında rol oynayan Türk topluluğu hangisidir?",
+    "cardValue": "Peçenekler."
+  },
+  {
+    "cardKey": "Kendi adlarına para bastıran ilk Türk devleti olarak bilinen ve Emevilerle mücadele eden Türk devleti hangisidir?",
+    "cardValue": "Türgişler."
+  },
+  {
+    "cardKey": "Büyük Selçuklu ve Osmanlı Devleti'ni kuran Türk boyu hangisidir?",
+    "cardValue": "Oğuzlar."
+  },
+  {
+    "cardKey": "İslamiyet'ten önceki Arap Yarımadası dönemine neden 'Cahiliye Dönemi' denilmiştir?",
+    "cardValue": "Putlara tapılması, kabilecilik, kan davaları ve kadınlara yönelik kötü tutumlar gibi nedenlerle bu isim verilmiştir."
+  },
+  {
+    "cardKey": "Hz. Muhammed'in vefatından sonra halifelerin seçimle iş başına gelmesi nedeniyle bu döneme ne ad verilir?",
+    "cardValue": "Cumhuriyet Dönemi."
+  },
+  {
+    "cardKey": "Hz. Ebubekir döneminde Kur'an-ı Kerim'in kitap haline getirilmesinin temel sebebi nedir?",
+    "cardValue": "Savaşlarda hafızların şehit olmasıyla Kur'an'ın unutulma tehlikesine karşı önlem almaktır."
+  },
+  {
+    "cardKey": "Hz. Ömer döneminde Sasani İmparatorluğu'na son veren ve Türklerle komşu olunmasını sağlayan savaş hangisidir?",
+    "cardValue": "642 Nihâvend Savaşı."
+  },
+  {
+    "cardKey": "İlk İslam donanması hangi halife döneminde kurulmuş ve ilk deniz zaferi (Zâtü's-savârî) hangi devlete karşı kazanılmıştır?",
+    "cardValue": "Hz. Osman döneminde kurulmuş ve Doğu Roma'ya (Bizans) karşı kazanılmıştır."
+  },
+  {
+    "cardKey": "İslam toplumunda ilk ayrılıkların yaşanmasına neden olan Sıffin Savaşı ve Hakem Olayı hangi halife döneminde gerçekleşmiştir?",
+    "cardValue": "Hz. Ali döneminde."
+  },
+  {
+    "cardKey": "Muaviye'nin oğlu Yezid'i veliaht tayin etmesiyle halifelik neye dönüşmüştür?",
+    "cardValue": "Saltanata dönüşmüştür."
+  },
+  {
+    "cardKey": "Hz. Hüseyin ve beraberindekilerin şehit edildiği ve İslam'da mezhep ayrılığını kesinleştiren olay hangisidir?",
+    "cardValue": "Kerbela Olayı (680)."
+  },
+  {
+    "cardKey": "Emevilerin Arap olmayan Müslümanlara uyguladığı ve Arap ırkçılığına dayanan politikanın adı nedir?",
+    "cardValue": "Mevali politikası."
+  },
+  {
+    "cardKey": "Emeviler döneminde 711 yılında İspanya'yı fetheden komutan kimdir?",
+    "cardValue": "Tarık bin Ziyad."
+  },
+  {
+    "cardKey": "Abbasiler döneminde Bağdat şehrini kurarak başkent yapan halife kimdir?",
+    "cardValue": "Ebu Ca'fer el-Mansur."
+  },
+  {
+    "cardKey": "Mısır'da kurulan ilk Müslüman Türk devleti hangisidir?",
+    "cardValue": "Tolunoğulları."
+  },
+  {
+    "cardKey": "1187'de Hıttin Savaşı'nda Haçlıları yenilgiye uğratarak Kudüs'ü fetheden Eyyubi hükümdarı kimdir?",
+    "cardValue": "Selahaddin Eyyubi."
+  },
+  {
+    "cardKey": "Mantık ilmine katkılarından dolayı Aristo'dan sonra 'İkinci Öğretmen' (Muallim-i Sani) olarak anılan Türk-İslam filozofu kimdir?",
+    "cardValue": "Farabi."
+  },
+  {
+    "cardKey": "Batı'da 'Avicenna' olarak bilinen ve tıp alanındaki 'el-Kanûn fî't–Tıbb' adlı eseriyle tanınan alim kimdir?",
+    "cardValue": "İbn Sina."
+  },
+  {
+    "cardKey": "Türklerin İslamiyet'i kabul etmesinde dönüm noktası olan savaş hangisidir?",
+    "cardValue": "751 Talas Savaşı."
+  },
+  {
+    "cardKey": "Orta Asya'da kurulan ve Satuk Buğra Han zamanında İslamiyet'i kabul eden ilk Müslüman Türk devleti hangisidir?",
+    "cardValue": "Karahanlı Devleti."
+  },
+  {
+    "cardKey": "Hindistan'a düzenlediği 17 seferle İslamiyet'in bu coğrafyada yayılmasını sağlayan ve 'Sultan' unvanını kullanan ilk Türk hükümdarı kimdir?",
+    "cardValue": "Gazneli Mahmut."
+  },
+  {
+    "cardKey": "1040 Dandanakan Savaşı hangi iki Türk devleti arasında yapılmış ve sonucu ne olmuştur?",
+    "cardValue": "Gazneliler ile Selçuklular arasında yapılmış, Selçukluların zaferiyle sonuçlanmış ve Büyük Selçuklu Devleti resmen kurulmuştur."
+  },
+  {
+    "cardKey": "1071 Malazgirt Zaferi'nin en önemli sonucu nedir?",
+    "cardValue": "Anadolu'nun kapıları Türklere açılmıştır."
+  },
+  {
+    "cardKey": "Yusuf Has Hacip tarafından yazılan ve ideal devlet yönetimini anlatan siyasetname özelliği taşıyan ilk Türk-İslam eseri hangisidir?",
+    "cardValue": "Kutadgu Bilig (Mutluluk Veren Bilgi)."
+  },
+  {
+    "cardKey": "Kaşgarlı Mahmut'un Araplara Türkçe öğretmek amacıyla yazdığı ve içinde ilk Türk dünyası haritasını barındıran eserinin adı nedir?",
+    "cardValue": "Divânü Lûgati’t-Türk."
+  },
+  {
+    "cardKey": "Ahmet Yesevi'nin Türkçe yazdığı ve tasavvufi şiirlerinden (hikmet) oluşan eseri hangisidir?",
+    "cardValue": "Divân-ı Hikmet."
+  },
+  {
+    "cardKey": "Büyük Selçuklu Sultanı Tuğrul Bey'in 1055'te Bağdat'a girerek Abbasi halifesini Şii Büveyhoğulları baskısından kurtarması sonucunda hangi unvanı almıştır?",
+    "cardValue": "Doğu'nun ve Batı'nın Sultanı."
+  },
+  {
+    "cardKey": "Malazgirt Savaşı'ndan sonra Anadolu'da kurulan ilk Türk beyliği hangisidir?",
+    "cardValue": "Saltuklular Beyliği."
+  },
+  {
+    "cardKey": "Anadolu'da kurulan ve UNESCO Dünya Kültür Mirası Listesi'nde yer alan Divriği Ulu Cami'ni inşa eden beylik hangisidir?",
+    "cardValue": "Mengücekliler Beyliği."
+  },
+  {
+    "cardKey": "Bilinen ilk Türk denizcisi kimdir ve hangi beyliği kurmuştur?",
+    "cardValue": "Çaka Bey, Çaka Beyliği'ni kurmuştur."
+  },
+  {
+    "cardKey": "Sibernetik alanındaki çalışmalarıyla bilinen ve ilk robotun mucidi sayılan Artuklu dönemi alimi kimdir?",
+    "cardValue": "El-Cezerî."
+  },
+  {
+    "cardKey": "Anadolu'da yapılan ilk medrese olan Yağıbasan Medresesi hangi beylik tarafından inşa edilmiştir?",
+    "cardValue": "Danişmentliler Beyliği."
+  },
+  {
+    "cardKey": "1176'da Bizans'a karşı kazanılan _____ zaferi ile Anadolu kesin olarak Türk yurdu haline gelmiştir.",
+    "cardValue": "Miryokefalon"
+  },
+  {
+    "cardKey": "Türkiye Selçuklu Devleti'nin dağılma sürecine girmesine ve Anadolu'da Moğol hakimiyetinin başlamasına neden olan savaş hangisidir?",
+    "cardValue": "1243 Kösedağ Savaşı."
+  },
+  {
+    "cardKey": "Kösedağ Savaşı'ndan sonra Konya ve civarında kurulan ve kendisini Selçukluların varisi olarak gören en güçlü beylik hangisiydi?",
+    "cardValue": "Karamanoğulları."
+  },
+  {
+    "cardKey": "Haçlı Seferleri'nin temel dinî sebebi nedir?",
+    "cardValue": "Kudüs ve diğer kutsal yerleri Müslümanlardan geri almak."
+  },
+  {
+    "cardKey": "Kudüs'te bir Latin Krallığı kurulmasıyla sonuçlanan tek Haçlı Seferi hangisidir?",
+    "cardValue": "Birinci Haçlı Seferi."
+  },
+  {
+    "cardKey": "Dördüncü Haçlı Seferi'nin amacı nedir ve nasıl sonuçlanmıştır?",
+    "cardValue": "Amacı Kudüs'ü almaktı ancak sefer amacından saparak İstanbul'un işgal edilmesi ve Latin İmparatorluğu'nun kurulmasıyla sonuçlanmıştır."
+  },
+  {
+    "cardKey": "Haçlı Seferleri sonucunda Avrupalıların Doğu'dan öğrenerek kendi medeniyetlerinin gelişiminde kullandığı teknik buluşlar nelerdir?",
+    "cardValue": "Barut, kâğıt, matbaa ve pusula."
+  },
+  {
+    "cardKey": "Türkiye Selçukluları ile Moğollar arasında tampon bölge görevi gören _____ Devleti'nin 1230 Yassıçemen Savaşı'nda yenilmesi, Anadolu'yu Moğol istilasına açık hale getirmiştir.",
+    "cardValue": "Harzemşah"
+  },
+  {
+    "cardKey": "Osmanlı Devleti'ne katılan ilk beylik hangisidir?",
+    "cardValue": "Karesioğulları Beyliği."
+  },
+  {
+    "cardKey": "1402 Ankara Savaşı hangi iki Türk hükümdarı arasında yapılmıştır?",
+    "cardValue": "Osmanlı Sultanı Yıldırım Bayezid ile Timur arasında yapılmıştır."
+  },
+  {
+    "cardKey": "Ankara Savaşı'ndan sonra Osmanlı Devleti'nde Yıldırım Bayezid'in oğulları arasında yaşanan taht kavgaları dönemine ne ad verilir?",
+    "cardValue": "Fetret Devri."
+  },
+  {
+    "cardKey": "Fetret Devri'ne son vererek devleti yeniden toparladığı için Osmanlı'nın 'ikinci kurucusu' sayılan padişah kimdir?",
+    "cardValue": "I. Mehmet (Çelebi Mehmet)."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin ilk düzenli ordusu olan yaya ve müsellem teşkilatı hangi padişah döneminde kurulmuştur?",
+    "cardValue": "Orhan Gazi."
+  },
+  {
+    "cardKey": "Savaş esirlerinden beşte birinin orduya alınması esasına dayanan sisteme ne ad verilir?",
+    "cardValue": "Pençik Sistemi."
+  },
+  {
+    "cardKey": "Rumeli'deki Hristiyan çocukların belirli kurallara göre alınıp yetiştirilerek Kapıkulu askeri veya devlet adamı yapılması sisteminin adı nedir?",
+    "cardValue": "Devşirme Sistemi."
+  },
+  {
+    "cardKey": "Tımar sisteminde, tımar sahibinin yetiştirmekle yükümlü olduğu atlı askere ne ad verilir?",
+    "cardValue": "Cebelü."
+  },
+  {
+    "cardKey": "Yesevilik düşüncesinin Anadolu'daki uygulayıcısı olan ve Bektaşilik tarikatının kurucusu kabul edilen mutasavvıf kimdir?",
+    "cardValue": "Hacı Bektâş-ı Velî."
+  },
+  {
+    "cardKey": "Osmanlı yönetici sınıfı içinde yönetim ve askerlikten sorumlu olan sınıfa ne ad verilir?",
+    "cardValue": "Seyfiye (Kılıç ehli)."
+  },
+  {
+    "cardKey": "Osmanlı yönetici sınıfı içinde eğitim, din ve adalet işlerinden sorumlu olan sınıfa ne ad verilir?",
+    "cardValue": "İlmiye (Ulema)."
+  },
+  {
+    "cardKey": "Osmanlı yönetici sınıfı içinde mali ve bürokratik işlerden sorumlu olan sınıfa ne ad verilir?",
+    "cardValue": "Kalemiye (Kalem ehli)."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin Rumeli'ye geçişini sağlayan ve ilk üs olarak kullandığı kale hangisidir?",
+    "cardValue": "Çimpe Kalesi."
+  },
+  {
+    "cardKey": "Osmanlı'nın fethettiği bölgelere Anadolu'dan Türkmenleri yerleştirerek bölgenin Türkleşmesini ve İslamlaşmasını sağladığı politikaya ne denir?",
+    "cardValue": "İskân Politikası."
+  },
+  {
+    "cardKey": "Osmanlı'nın fethettiği yerlerdeki gayrimüslim halkın gönlünü kazanmak için uyguladığı hoşgörü ve adalet politikasının adı nedir?",
+    "cardValue": "İstimâlet Politikası."
+  },
+  {
+    "cardKey": "Balkanların kesin olarak Osmanlı egemenliğine girmesini sağlayan ve Haçlıların Balkanlardan Türkleri atma ümidini sona erdiren savaş hangisidir?",
+    "cardValue": "II. Kosova Savaşı (1448)."
+  },
+  {
+    "cardKey": "II. Mehmet'in İstanbul'un fethi için Boğaz'ın kontrolünü sağlamak amacıyla Anadolu Hisarı'nın karşısına yaptırdığı hisarın adı nedir?",
+    "cardValue": "Rumeli Hisarı (Boğazkesen)."
+  },
+  {
+    "cardKey": "İstanbul'un fethinin dünya tarihi açısından en önemli sonucu nedir?",
+    "cardValue": "Orta Çağ'ın kapanıp Yeni Çağ'ın başlamasıdır."
+  },
+  {
+    "cardKey": "Fatih Sultan Mehmet'in çıkardığı kanunname ile devletin bütünlüğünü korumak için getirdiği tartışmalı uygulama nedir?",
+    "cardValue": "Kardeş katli."
+  },
+  {
+    "cardKey": "Yavuz Sultan Selim'in 1514'te Safevi hükümdarı Şah İsmail'i yendiği ve Doğu Anadolu'daki Safevi tehlikesini engellediği savaş hangisidir?",
+    "cardValue": "Çaldıran Savaşı."
+  },
+  {
+    "cardKey": "1515 Turnadağ Savaşı ile Osmanlı'ya katılan ve Anadolu Türk siyasi birliğinin kesin olarak sağlanmasını tamamlayan beylik hangisidir?",
+    "cardValue": "Dulkadiroğulları Beyliği."
+  },
+  {
+    "cardKey": "Yavuz Sultan Selim'in 1517'de Memlûk Devleti'ne son verdiği savaş hangisidir?",
+    "cardValue": "Ridaniye Savaşı."
+  },
+  {
+    "cardKey": "Memlûk Devleti'nin yıkılmasıyla halifelik hangi devlete geçmiştir?",
+    "cardValue": "Osmanlı Devleti'ne."
+  },
+  {
+    "cardKey": "Kanuni Sultan Süleyman döneminde Macaristan Krallığı'na son veren ve yaklaşık iki saat süren savaş hangisidir?",
+    "cardValue": "Mohaç Meydan Muharebesi (1526)."
+  },
+  {
+    "cardKey": "1533 İstanbul Antlaşması ile Avusturya arşidükü hangi Osmanlı görevlisine denk sayılmıştır?",
+    "cardValue": "Osmanlı vezir-i âzamına (sadrazam)."
+  },
+  {
+    "cardKey": "Osmanlı Devleti ile Safeviler (İran) arasında imzalanan ilk resmî antlaşma hangisidir?",
+    "cardValue": "1555 Amasya Antlaşması."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin doğuda en geniş sınırlara ulaştığı antlaşma hangisidir?",
+    "cardValue": "Ferhat Paşa Antlaşması (1590)."
+  },
+  {
+    "cardKey": "Fatih Sultan Mehmet'in Ortodoks Patrikhanesi'ni himaye altına almasının temel siyasi amacı neydi?",
+    "cardValue": "Katolik ve Ortodoks kiliselerinin birleşmesini engelleyerek Avrupa Hristiyan birliğini parçalamaktı."
+  },
+  {
+    "cardKey": "Coğrafi Keşifler sonucunda önemini kaybeden ticaret yolları hangileridir?",
+    "cardValue": "İpek ve Baharat Yolları."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin Portekizlileri Hint Okyanusu'ndan çıkarmak ve Baharat Yolu'nu canlandırmak için düzenlediği seferlere ne ad verilir?",
+    "cardValue": "Hint Deniz Seferleri."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde devşirme kökenli devlet adamlarının eğitim gördüğü saray okulunun adı nedir?",
+    "cardValue": "Enderun Mektebi."
+  },
+  {
+    "cardKey": "Osmanlı'da devlet işlerinin görüşülüp karara bağlandığı en yüksek yönetim organı hangisidir?",
+    "cardValue": "Divan-ı Hümayun."
+  },
+  {
+    "cardKey": "Fatih Sultan Mehmet'ten sonra Divan-ı Hümayun'a kim başkanlık etmeye başlamıştır?",
+    "cardValue": "Vezir-i âzam (Sadrazam)."
+  },
+  {
+    "cardKey": "I. Ahmet döneminde tahta hanedanın en yaşlı ve en akıllı üyesinin geçmesi usulüne ne denir?",
+    "cardValue": "Ekber ve Erşed Sistemi."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde farklı din ve mezheplere mensup toplulukların kendi iç işlerinde serbest bırakıldığı yönetim sisteminin adı nedir?",
+    "cardValue": "Millet Sistemi."
+  },
+  {
+    "cardKey": "Gayrimüslimlerin can ve mal güvenliklerinin sağlanması karşılığında devlete ödedikleri vergi nedir?",
+    "cardValue": "Cizye."
+  },
+  {
+    "cardKey": "Mülkiyeti devlete ait olan ve gelirleri farklı amaçlarla kullanılan topraklara genel olarak ne ad verilir?",
+    "cardValue": "Mirî arazi."
+  },
+  {
+    "cardKey": "Osmanlı'da bir çift öküzün işleyebileceği kadar toprağın bir köylü ailesine kiralanmasına dayanan tarımsal üretim modelinin adı nedir?",
+    "cardValue": "Çifthane Sistemi."
+  },
+  {
+    "cardKey": "Osmanlı'da esnaf ve zanaatkarların örgütlendiği, üretimi ve fiyatları denetleyen teşkilatın adı nedir?",
+    "cardValue": "Lonca Teşkilatı."
+  },
+  {
+    "cardKey": "Kişilerin mallarını toplum yararına ebedî olarak bağışlamasıyla oluşan ve sosyal hizmetlerin yürütülmesini sağlayan sistem nedir?",
+    "cardValue": "Vakıf Sistemi."
+  },
+  {
+    "cardKey": "1606 Zitvatorok Antlaşması'nın siyasi önemini açıklayınız.",
+    "cardValue": "Osmanlı Devleti'nin 1533 İstanbul Antlaşması ile Avusturya'ya karşı kazandığı siyasi üstünlük sona ermiş, padişah ile Avusturya arşidükü denk sayılmıştır."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin batıda en geniş sınırlara ulaştığı antlaşma hangisidir?",
+    "cardValue": "Bucaş Antlaşması (1672)."
+  },
+  {
+    "cardKey": "Osmanlı Devleti ile Rusya arasında imzalanan ilk antlaşma hangisidir?",
+    "cardValue": "Bahçesaray (Çehrin) Antlaşması (1681)."
+  },
+  {
+    "cardKey": "II. Viyana Kuşatması'ndaki başarısızlık sonrası Osmanlı'ya karşı Papa'nın öncülüğünde kurulan ittifakın adı nedir?",
+    "cardValue": "Kutsal İttifak."
+  },
+  {
+    "cardKey": "Kutsal İttifak Savaşları'nı sona erdiren ve Osmanlı'nın Batı'da ilk kez büyük çapta toprak kaybettiği antlaşma hangisidir?",
+    "cardValue": "Karlofça Antlaşması (1699)."
+  },
+  {
+    "cardKey": "Osmanlı donanmasında kürekle hareket eden _____ gemilerinin yerini, XVII. yüzyıldan itibaren yelkenle hareket eden _____ gemileri almıştır.",
+    "cardValue": "kadırga / kalyon"
+  },
+  {
+    "cardKey": "1711 Prut Antlaşması ile Osmanlı Devleti, 1700 İstanbul Antlaşması'nda kaybettiği hangi kaleyi geri almıştır?",
+    "cardValue": "Azak Kalesi."
+  },
+  {
+    "cardKey": "1718 Pasarofça Antlaşması'ndan sonra Osmanlı Devleti'nde başlayan ve Batı'nın üstünlüğünün kabul edildiği döneme ne ad verilir?",
+    "cardValue": "Lâle Devri."
+  },
+  {
+    "cardKey": "1739 Belgrad Antlaşması'nın imzalanmasında arabuluculuk yaptığı için 1740'ta kapitülasyonları sürekli hale getirilen ülke hangisidir?",
+    "cardValue": "Fransa."
+  },
+  {
+    "cardKey": "Rus donanmasının 1770'te Osmanlı donanmasını yaktığı baskının adı nedir?",
+    "cardValue": "Çeşme Baskını."
+  },
+  {
+    "cardKey": "1774 Küçük Kaynarca Antlaşması ile ilk defa halkı Türk ve Müslüman olan hangi toprak parçası kaybedilmiştir?",
+    "cardValue": "Kırım."
+  },
+  {
+    "cardKey": "Rusya'nın, Küçük Kaynarca Antlaşması'yla elde ettiği ve Osmanlı'nın iç işlerine karışmasına olanak sağlayan hak nedir?",
+    "cardValue": "Ortodoksların koruyuculuğu (hamiliği) hakkı."
+  },
+  {
+    "cardKey": "Orta Çağ Avrupa'sında kilisenin egemen olduğu, deney ve gözlemin reddedildiği düşünce sistemine ne denir?",
+    "cardValue": "Skolastik düşünce."
+  },
+  {
+    "cardKey": "XV. ve XVI. yüzyıllarda Avrupa'da bilim, sanat ve edebiyatta yaşanan 'yeniden doğuş' hareketine ne ad verilir?",
+    "cardValue": "Rönesans."
+  },
+  {
+    "cardKey": "XVI. yüzyılda Martin Luther'in Almanya'da başlattığı ve Katolik Kilisesi'ndeki bozulmalara karşı çıkan dini harekete ne ad verilir?",
+    "cardValue": "Reform."
+  },
+  {
+    "cardKey": "Avrupa'da 30 yıl süren mezhep savaşlarını bitiren ve modern devletler hukukunun temelini atan antlaşma hangisidir?",
+    "cardValue": "1648 Vestfalya Antlaşması."
+  },
+  {
+    "cardKey": "XVII. ve XVIII. yüzyıllarda akıl, deney ve gözlemi ön plana çıkaran felsefi döneme ne ad verilir?",
+    "cardValue": "Aydınlanma Çağı."
+  },
+  {
+    "cardKey": "1838'de İngiltere ile imzalanan _____ Antlaşması ile Osmanlı Devleti, Avrupa'nın açık pazarı haline gelmiştir.",
+    "cardValue": "Balta Limanı"
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde, bütçe açıklarını kapatmak için devletin vergi gelirlerinin belirli bir bedel karşılığında kişilere (mültezim) devredilmesi sistemine ne denir?",
+    "cardValue": "İltizam sistemi."
+  },
+  {
+    "cardKey": "Osmanlı'da devlet yönetiminde ve toplum düzeninde görülen bozulmaları gidermek için devlet adamlarının hazırladığı raporlara ne ad verilir?",
+    "cardValue": "Layiha veya Risale."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde ilk Türk matbaasını kuran kişiler kimlerdir?",
+    "cardValue": "İbrahim Müteferrika ve Mehmet Said Efendi."
+  },
+  {
+    "cardKey": "1789'da Fransa'da mutlak monarşinin yıkılmasıyla sonuçlanan ve dünyaya milliyetçilik, eşitlik, özgürlük gibi fikirleri yayan olay nedir?",
+    "cardValue": "Fransız İhtilali."
+  },
+  {
+    "cardKey": "Fransız İhtilali'nin yaydığı milliyetçilik akımının etkisiyle Osmanlı'dan bağımsızlık kazanan ilk Balkan ulusu hangisidir?",
+    "cardValue": "Yunanlılar (1829 Edirne Antlaşması ile)."
+  },
+  {
+    "cardKey": "Avrupa'da insan ve hayvan gücünden makine gücüne dayalı üretime geçişi ifade eden gelişme nedir?",
+    "cardValue": "Sanayi Devrimi."
+  },
+  {
+    "cardKey": "III. Selim döneminde Batı tarzında kurulan yeni ordunun adı nedir?",
+    "cardValue": "Nizam-ı Cedit."
+  },
+  {
+    "cardKey": "1826'da Yeniçeri Ocağı'nı kaldıran padişah kimdir ve bu olaya ne ad verilir?",
+    "cardValue": "II. Mahmut kaldırmıştır ve bu olaya Vaka-i Hayriye (Hayırlı Olay) denir."
+  },
+  {
+    "cardKey": "Yeniçeri Ocağı'nın kaldırılmasından sonra yerine kurulan ordunun adı nedir?",
+    "cardValue": "Asâkir-i Mansûre-i Muhammediye."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde demir yolu yapımının temel amaçları nelerdir?",
+    "cardValue": "Merkezi otoriteyi güçlendirmek, asker ve malzeme sevkiyatını kolaylaştırmak, isyanları bastırmak ve ticareti geliştirmek."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nde modern anlamda askeri eğitim veren ilk okul hangisidir?",
+    "cardValue": "Hendesehane (1734)."
+  },
+  {
+    "cardKey": "II. Abdülhamid döneminde kurulan ve din, millet farkı gözetmeksizin kimsesizleri koruyan sosyal yardım kurumunun adı nedir?",
+    "cardValue": "Dârülaceze."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin yıkılması, topraklarının paylaşılması ve Türklerin Avrupa'dan atılması meselesini ifade eden kavrama ne denir?",
+    "cardValue": "Şark Meselesi (Doğu Sorunu)."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin XIX. yüzyılda Avrupalı devletlerin çıkar çatışmalarından yararlanarak varlığını sürdürme politikasına ne ad verilir?",
+    "cardValue": "Denge Siyaseti."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin bir Avrupa devleti sayıldığı ve toprak bütünlüğünün Avrupalı devletlerin garantisi altına alındığı antlaşma hangisidir?",
+    "cardValue": "1856 Paris Antlaşması."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin 1877-78 Osmanlı-Rus Savaşı (93 Harbi) sonrasında imzaladığı ancak yürürlüğe girmeyen antlaşma hangisidir?",
+    "cardValue": "Ayastefanos Antlaşması."
+  },
+  {
+    "cardKey": "Ayastefanos Antlaşması'nın yerine imzalanan ve Sırbistan, Karadağ ve Romanya'nın bağımsız olduğu antlaşma hangisidir?",
+    "cardValue": "Berlin Antlaşması (1878)."
+  },
+  {
+    "cardKey": "Padişahın yetkilerini ilk kez kısıtlayan ve âyanların varlığını tanıyan belge hangisidir?",
+    "cardValue": "Sened-i İttifak (1808)."
+  },
+  {
+    "cardKey": "Padişahın kendi iradesiyle yetkilerini kanun gücüyle sınırladığı ve anayasal düzene geçişin ilk adımı olan ferman hangisidir?",
+    "cardValue": "Tanzimat Fermanı (1839)."
+  },
+  {
+    "cardKey": "Gayrimüslimlere Müslümanlarla tam bir eşitlik sağlayan ve Paris Antlaşması'na eklenen ferman hangisidir?",
+    "cardValue": "Islahat Fermanı (1856)."
+  },
+  {
+    "cardKey": "Türk tarihinin ilk anayasası olan _____ ile Osmanlı Devleti'nde meşrutiyet yönetimine geçilmiştir.",
+    "cardValue": "Kanun-ı Esasi (1876)"
+  },
+  {
+    "cardKey": "II. Meşrutiyet'in ilanından sonra, meşrutiyet karşıtlarının İstanbul'da çıkardığı isyan hangisidir?",
+    "cardValue": "31 Mart Vakası."
+  },
+  {
+    "cardKey": "31 Mart Vakası'nı bastırmak için Selanik'ten gelen ordunun adı nedir?",
+    "cardValue": "Hareket Ordusu."
+  },
+  {
+    "cardKey": "1913'te İttihat ve Terakki'nin bir hükümet darbesiyle yönetimi tamamen ele geçirdiği olayın adı nedir?",
+    "cardValue": "Bâbıâli Baskını."
+  },
+  {
+    "cardKey": "Osmanlı Devleti'nin borçlarını ödeyememesi üzerine alacaklı devletler tarafından 1881'de kurulan ve devletin maliyesini denetleyen kurumun adı nedir?",
+    "cardValue": "Düyûn-ı Umûmiye İdaresi."
+  }
+]
