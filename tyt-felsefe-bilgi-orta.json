@@ -1,1 +1,514 @@
-
+[
+  {
+    "cardKey": "Felsefe (philosophia) terimi, hangi iki Yunanca kelimenin birleşmesinden oluşur ve anlamları nedir?",
+    "cardValue": "Sevmek (philia) ve bilgelik (sophia) kelimelerinden oluşur; anlamı \"bilgelik sevgisi\"dir."
+  },
+  {
+    "cardKey": "Philosophos (filozof) kelimesini ilk kullanan düşünür kim olarak kabul edilir?",
+    "cardValue": "Pythagoras (Pisagor)."
+  },
+  {
+    "cardKey": "İslam felsefesinde felsefenin eş anlamlısı olarak kullanılan ve \"olup bitenin esasını bilmek\" anlamına gelen kavram nedir?",
+    "cardValue": "Hikmet."
+  },
+  {
+    "cardKey": "Aristoteles'e göre felsefe nedir?",
+    "cardValue": "Varlık olmak bakımından varlığı inceleyen bilimdir."
+  },
+  {
+    "cardKey": "Karl Jaspers'a göre felsefe nedir?",
+    "cardValue": "Felsefe yolda olmak demektir."
+  },
+  {
+    "cardKey": "El Kindî'ye göre felsefe, insanın gücü yettiği ölçüde neyi bilmektir?",
+    "cardValue": "Külli ve ebedî şeylerin hakikatlerini, mahiyetlerini ve sebeplerini bilmektir."
+  },
+  {
+    "cardKey": "Düşüncenin kendi üzerine yönelmesi, yani düşünmeyi düşünme eylemi olarak adlandırılan felsefi düşünce özelliği hangisidir?",
+    "cardValue": "Refleksif olma."
+  },
+  {
+    "cardKey": "Felsefi düşüncenin, filozofların ortak birikimi ile oluşması ve her filozofun kendi düşünceleriyle felsefeye yeni bilgiler katması hangi özelliğini gösterir?",
+    "cardValue": "Yığılımlı (kümülatif) ilerlemesi."
+  },
+  {
+    "cardKey": "Antik Yunan'da felsefenin sistemli hâle gelmesinde, mitolojik açıklamaların yerini ne tür açıklamalar almıştır?",
+    "cardValue": "Doğal olayların, doğaüstü değil de doğal nedenlerle açıklandığı akılcı açıklamalar almıştır."
+  },
+  {
+    "cardKey": "Felsefenin Antik Yunan'da ortaya çıkmasını sağlayan ekonomik ve toplumsal faktörlerden biri nedir?",
+    "cardValue": "Ekonomik refahın getirdiği serbest zaman ve farklı kültürlerle olan ticari etkileşim."
+  },
+  {
+    "cardKey": "Antik Yunan'daki _____ kültürü, insanların düşüncelerini özgürce dile getirmelerini sağlayarak felsefenin gelişimine ortam hazırlamıştır.",
+    "cardValue": "demokrasi"
+  },
+  {
+    "cardKey": "Doğru ya da yanlış değeri alabilen, yargı bildiren cümleye ne ad verilir?",
+    "cardValue": "Önerme."
+  },
+  {
+    "cardKey": "Belli önermelerin kanıt olarak kullanılmasıyla yeni bir önermeye ulaşmayı içeren sürece ne denir?",
+    "cardValue": "Argümantasyon."
+  },
+  {
+    "cardKey": "Tümel bir önermeden tümel ya da tikel bir önermenin çıkarıldığı akıl yürütme biçimi hangisidir?",
+    "cardValue": "Tümdengelim (Dedüksiyon)."
+  },
+  {
+    "cardKey": "Tek tek olgulardan ya da tikel önermelerden genel ve tümel bir önermeye ulaşılan akıl yürütme biçimi hangisidir?",
+    "cardValue": "Tümevarım (Endüksiyon)."
+  },
+  {
+    "cardKey": "En az bir ortak özelliği bulunan iki nesne arasında kurulan benzeşimden sonuç çıkarma şeklindeki akıl yürütme biçimi nedir?",
+    "cardValue": "Analoji (Benzeşim)."
+  },
+  {
+    "cardKey": "Bir felsefi sistemde, öne sürülen argümanların ve önermelerin kendi içinde uyumlu olması ve çelişki barındırmamasına ne denir?",
+    "cardValue": "Tutarlılık."
+  },
+  {
+    "cardKey": "İnsan zihninden bağımsız olarak var olan şeylerin nesnel durumunu ifade eden kavram hangisidir?",
+    "cardValue": "Gerçeklik (Realite)."
+  },
+  {
+    "cardKey": "Dile getirilen bir önermenin, yöneldiği nesneyle yani gerçeklikle örtüşmesi durumuna ne ad verilir?",
+    "cardValue": "Doğruluk (Hakikat)."
+  },
+  {
+    "cardKey": "Felsefede bir görüşün akla dayalı yöntemlerle dayanaklandırılması, gerekçelendirilmesi işlemine ne denir?",
+    "cardValue": "Temellendirme."
+  },
+  {
+    "cardKey": "Varlığın anlamını, özünü, yapısını, türlerini ve ilk nedenlerini inceleyen felsefe disiplini hangisidir?",
+    "cardValue": "Varlık Felsefesi (Ontoloji)."
+  },
+  {
+    "cardKey": "“Varlık var mıdır?” sorusuna “Hiçbir şey yoktur” cevabını veren felsefi görüş hangisidir?",
+    "cardValue": "Nihilizm (Hiççilik)."
+  },
+  {
+    "cardKey": "Taoculuğa göre aldatıcı dünya varlıktan yoksundur ve tek gerçek, yol ve akıl anlamına gelen _____’dur.",
+    "cardValue": "Tao"
+  },
+  {
+    "cardKey": "Varlığın temelinde tek bir unsur (töz) olduğunu savunan yaklaşıma ne ad verilir?",
+    "cardValue": "Monizm (Tekçilik)."
+  },
+  {
+    "cardKey": "Descartes'a göre varlık, birbirine indirgenemeyen madde ve ruh olmak üzere iki tözden oluşur. Bu yaklaşım ne olarak adlandırılır?",
+    "cardValue": "Düalizm (İkicilik)."
+  },
+  {
+    "cardKey": "Varlığın temelinde ikiden fazla unsur olduğunu savunan Empedokles'in (toprak, ateş, su, hava) yaklaşımı ne olarak adlandırılır?",
+    "cardValue": "Plüralizm (Çoğulculuk)."
+  },
+  {
+    "cardKey": "Herakleitos'a göre varlık sürekli bir değişim ve oluş halindedir ve bu değişimin temelindeki unsur _____’tir.",
+    "cardValue": "Ateş"
+  },
+  {
+    "cardKey": "Herakleitos'a göre evrendeki değişim ve oluş sürecini yöneten tanrısal akla ne ad verilir?",
+    "cardValue": "Logos."
+  },
+  {
+    "cardKey": "Platon'a göre asıl gerçeklik olan, değişmeyen, öncesiz ve sonrasız varlıkların bulunduğu evren hangisidir?",
+    "cardValue": "İdealar evreni."
+  },
+  {
+    "cardKey": "Aristoteles'e göre bir şeyin varlığını ve işlevini açıklayan dört neden hangileridir?",
+    "cardValue": "Maddi neden, formel neden, fail neden ve ereksel neden."
+  },
+  {
+    "cardKey": "Hegel'e göre her şeyin temelinde bulunan mutlak akıl ya da zihin nedir ve varlığın yasaları hangi sürece göre işler?",
+    "cardValue": "Temelde \"Geist\" vardır ve varlığın yasaları diyalektik (tez, antitez, sentez) sürece göre işler."
+  },
+  {
+    "cardKey": "Varlığın insan düşüncesinden bağımsız, madde cinsinden olduğunu savunan felsefi görüş hangisidir?",
+    "cardValue": "Materyalizm (Maddecilik)."
+  },
+  {
+    "cardKey": "Demokritos'a göre varlığın ana maddesi olan, bölünemez ve değişmez temel yapı taşları nelerdir?",
+    "cardValue": "Atomlar."
+  },
+  {
+    "cardKey": "K. Marx'a göre madde durağan değildir ve varlıklar maddeden _____ yasalara göre meydana gelir.",
+    "cardValue": "diyalektik"
+  },
+  {
+    "cardKey": "Edmund Husserl'in kurucusu olduğu, varlığı \"fenomen\" olarak gören ve \"öz\"e ulaşmak için \"paranteze alma\" yöntemini kullanan çağdaş felsefe akımı hangisidir?",
+    "cardValue": "Fenomenoloji (Görüngübilim)."
+  },
+  {
+    "cardKey": "Nicolai Hartmann'ın geliştirdiği Yeni Ontoloji'ye göre varlık katmanlarının en altında _____ katman, en üstünde ise _____ varlıkları içeren katman bulunur.",
+    "cardValue": "inorganik / tinsel"
+  },
+  {
+    "cardKey": "Gerçek olanın faydalı olan olduğunu, bir fikrin değerinin pratik sonuçlarına bağlı olduğunu savunan felsefe ekolü hangisidir?",
+    "cardValue": "Pragmatizm (Faydacılık)."
+  },
+  {
+    "cardKey": "“Varoluş özden önce gelir” ilkesini temel alan, insanın önce var olduğunu sonra kendi özünü seçimleriyle yarattığını savunan felsefe okulu hangisidir?",
+    "cardValue": "Varoluşçuluk (Egzistansiyalizm)."
+  },
+  {
+    "cardKey": "Varlık felsefesinde, insan zihninden bağımsız olarak var olan somut varlıklara ne ad verilir?",
+    "cardValue": "Gerçek (reel) varlık."
+  },
+  {
+    "cardKey": "Varlığı insan zihnine bağlı olan, zihnin ürünü olan sayılar ve semboller gibi varlıklara ne ad verilir?",
+    "cardValue": "Düşünsel (ideal) varlık."
+  },
+  {
+    "cardKey": "Bilginin doğasını, kaynağını, sınırlarını ve doğruluğunu sorgulayan felsefe dalı hangisidir?",
+    "cardValue": "Bilgi Felsefesi (Epistemoloji)."
+  },
+  {
+    "cardKey": "Doğru bilginin mümkün olmadığını savunan, duyuların ve aklın insanı yanıltabileceğini öne süren felsefi tutum hangisidir?",
+    "cardValue": "Kuşkuculuk (Septisizm)."
+  },
+  {
+    "cardKey": "Doğru bilginin mümkün olduğunu savunan filozofların genel adıdır.",
+    "cardValue": "Dogmatikler."
+  },
+  {
+    "cardKey": "Terim: Rasyonalizm (Akılcılık)",
+    "cardValue": "Tanım: Doğru bilginin kaynağının akıl olduğunu ve bilginin doğuştan (a priori) geldiğini savunan görüştür."
+  },
+  {
+    "cardKey": "Terim: Empirizm (Deneyimcilik)",
+    "cardValue": "Tanım: İnsan zihninin doğuştan boş bir levha (tabula rasa) olduğunu ve bilginin kaynağının duyu ve deneyimler (a posteriori) olduğunu savunan görüştür."
+  },
+  {
+    "cardKey": "Kant'ın, rasyonalizm ve empirizmi birleştirerek bilginin hem deneyden gelen ham madde hem de aklın formları ile oluştuğunu savunduğu felsefi görüşü nedir?",
+    "cardValue": "Kritisizm (Eleştiricilik)."
+  },
+  {
+    "cardKey": "Kant'a göre “Görüsüz (deneysiz) kavramlar boş, kavramsız görüler _____.”",
+    "cardValue": "kördür"
+  },
+  {
+    "cardKey": "Doğru bilgiye akıl ve deneyin ötesinde, aracısız ve doğrudan bir kavrayış olan sezgi ile ulaşılabileceğini savunan görüş hangisidir?",
+    "cardValue": "Entüisyonizm (Sezgicilik)."
+  },
+  {
+    "cardKey": "Sadece deneye dayalı olgusal bilginin geçerli olduğunu, metafiziksel önermelerin anlamsız olduğunu savunan ve kurucusu A. Comte olan felsefi akım hangisidir?",
+    "cardValue": "Pozitivizm (Olguculuk)."
+  },
+  {
+    "cardKey": "Mantıkçı pozitivizmle ilişkili olan ve doğru bilgiye ulaşmak için dilin yapısının ve mantığının çözümlenmesi gerektiğini savunan felsefe hangisidir?",
+    "cardValue": "Analitik Felsefe (Çözümleyici Felsefe)."
+  },
+  {
+    "cardKey": "Bir önermenin doğruluğunun, bildirdiği şeyin nesnesiyle örtüşmesine bağlı olduğu doğruluk ölçütü hangisidir?",
+    "cardValue": "Uygunluk Ölçütü."
+  },
+  {
+    "cardKey": "Bir önermenin doğruluğunun, daha önce doğruluğu kabul edilmiş bilgilerle çelişmemesine ve mantıksal geçerliliğe sahip olmasına dayanan ölçüt hangisidir?",
+    "cardValue": "Tutarlılık Ölçütü."
+  },
+  {
+    "cardKey": "Bir önermenin doğruluğunu, pratik hayatta sağladığı faydaya bağlayan ölçüt hangisidir?",
+    "cardValue": "Yarar Ölçütü."
+  },
+  {
+    "cardKey": "Descartes'ın “Düşünüyorum, öyleyse varım” önermesi gibi, kuşkuya yer bırakmayacak şekilde net olan bilgiye dayanan doğruluk ölçütü hangisidir?",
+    "cardValue": "Apaçıklık (açık-seçik) Ölçütü."
+  },
+  {
+    "cardKey": "Bilimin yapısını, işleyişini, kavramlarını, ilke ve yöntemlerini sorgulayan felsefe dalı hangisidir?",
+    "cardValue": "Bilim Felsefesi."
+  },
+  {
+    "cardKey": "T. Kuhn'a göre, belli bir dönemde bilim insanları topluluğunun paylaştığı, bilimsel çalışmaların kuramsal çerçevesini oluşturan temel kabuller bütününe ne ad verilir?",
+    "cardValue": "Paradigma."
+  },
+  {
+    "cardKey": "T. Kuhn'a göre bir paradigmanın değişerek yerine yenisinin gelmesi sürecine ne denir?",
+    "cardValue": "Bilimsel devrim."
+  },
+  {
+    "cardKey": "Klasik bilim anlayışını eleştiren ve bilim insanının toplumun değer yargılarından bağımsız olmadığını savunan yaklaşım nedir?",
+    "cardValue": "Etkinlik olarak bilim anlayışı."
+  },
+  {
+    "cardKey": "Ahlakı felsefi açıdan inceleyen ve ahlakın ne olduğunu, ahlaki eylemin nasıl oluştuğunu sorgulayan felsefe disiplinine ne denir?",
+    "cardValue": "Ahlak Felsefesi (Etik)."
+  },
+  {
+    "cardKey": "İnsanın özgür iradesi ile yapmış olduğu eylemlerin sonuçlarını üstlenmesine ne ad verilir?",
+    "cardValue": "Sorumluluk."
+  },
+  {
+    "cardKey": "İnsanın iyi ile kötüyü ayırabilmesini sağlayan iç yetisine, iç sesine ne denir?",
+    "cardValue": "Vicdan."
+  },
+  {
+    "cardKey": "Kişinin eylemlerinde özgür olmadığını, çünkü her olayın belirli nedenlere bağlı olduğunu savunan görüş hangisidir?",
+    "cardValue": "Determinizm (Belirlenimcilik)."
+  },
+  {
+    "cardKey": "Kişinin ahlaki karar ve eylemlerinde tamamen özgür olduğunu savunan görüş hangisidir?",
+    "cardValue": "İndeterminizm (Belirlenmezcilik)."
+  },
+  {
+    "cardKey": "Bireyin aklını kullanabildiği ve kişiliğini geliştirdiği oranda özgür olduğunu savunan görüş hangisidir?",
+    "cardValue": "Otodeterminizm (Ahlaki özerklik)."
+  },
+  {
+    "cardKey": "Olabildiğince çok sayıda insana fayda sağlayan eylemin evrensel ahlak yasasını oluşturduğunu savunan görüş hangisidir?",
+    "cardValue": "Utilitarizm (Faydacılık)."
+  },
+  {
+    "cardKey": "Kant'a göre evrensel ahlak yasasını oluşturan temel ilke nedir?",
+    "cardValue": "Ödev (iyi isteme)."
+  },
+  {
+    "cardKey": "Ahlaki eylemin ölçütünün haz olduğunu, insanın acıdan kaçıp hazza yöneldiğini savunan ve evrensel ahlak yasasını reddeden görüş hangisidir?",
+    "cardValue": "Hedonizm (Hazcılık)."
+  },
+  {
+    "cardKey": "İnsanın sadece kendi çıkarını düşündüğünü, bu nedenle evrensel bir ahlak yasasının olamayacağını savunan görüş hangisidir?",
+    "cardValue": "Egoizm (Bencilik)."
+  },
+  {
+    "cardKey": "Bireyin hak ve özgürlüklerini sınırlayan her türlü yasa, kural ve otoriteyi reddeden görüş hangisidir?",
+    "cardValue": "Anarşizm."
+  },
+  {
+    "cardKey": "Nietzsche'ye göre, var olan ahlak kurallarını yıkarak kendi değerlerini oluşturan ve kendini aşan insana ne ad verilir?",
+    "cardValue": "Üstün insan."
+  },
+  {
+    "cardKey": "Aristoteles'in ahlak görüşünde erdemli olmanın yolu, eylemlerde aşırılık ve eksiklikten kaçınarak _____’u bulmaktır.",
+    "cardValue": "altın orta"
+  },
+  {
+    "cardKey": "Dinin temel kavramlarını ve iddialarını rasyonel, tutarlı ve kapsamlı bir biçimde sorgulayan felsefe dalı hangisidir?",
+    "cardValue": "Din Felsefesi."
+  },
+  {
+    "cardKey": "Tanrı'nın evreni yarattığını ancak yarattıktan sonra evrene müdahale etmediğini savunan görüş hangisidir?",
+    "cardValue": "Deizm (Yaradancılık)."
+  },
+  {
+    "cardKey": "Tanrı ile evrenin bir ve özdeş olduğunu savunan görüşe ne ad verilir?",
+    "cardValue": "Panteizm (Tüm Tanrıcılık)."
+  },
+  {
+    "cardKey": "Tanrı'nın evrene hem içkin hem de aşkın bir varlık olduğunu savunan görüşe ne ad verilir?",
+    "cardValue": "Panenteizm."
+  },
+  {
+    "cardKey": "Tanrı'nın var olmadığını savunan görüş hangisidir?",
+    "cardValue": "Ateizm (Tanrıtanımazcılık)."
+  },
+  {
+    "cardKey": "Tanrı'nın varlığının ya da yokluğunun bilinemeyeceğini öne süren görüş hangisidir?",
+    "cardValue": "Agnostisizm (Bilinemezcilik)."
+  },
+  {
+    "cardKey": "Belli bir dini ve onun inanç esaslarını temel alarak, bu inancı güçlendirme amacı güden disipline ne ad verilir?",
+    "cardValue": "Teoloji (İlahiyat)."
+  },
+  {
+    "cardKey": "Siyaset kurumunun yapısını, birey-devlet ilişkisini ve ideal düzeni \"olması gereken\" açısından ele alan felsefe dalı hangisidir?",
+    "cardValue": "Siyaset Felsefesi."
+  },
+  {
+    "cardKey": "J. Locke'a göre adalet, her insanın doğuştan sahip olduğu hangi haklara zarar verilmemesidir?",
+    "cardValue": "Yaşam, özgürlük ve mülkiyet hakkı."
+  },
+  {
+    "cardKey": "T. Hobbes, J. Locke ve J. J. Rousseau'ya göre devlet, insanların ortak ihtiyaçları için bir araya gelerek _____ yoluyla oluşturdukları yapay bir kurumdur.",
+    "cardValue": "toplumsal sözleşme"
+  },
+  {
+    "cardKey": "İdeal düzenin olabileceğini reddeden, \"Her şeyin ölçüsü insandır\" diyerek evrensel bir devlet düzeninin olamayacağını savunanlar kimlerdir?",
+    "cardValue": "Sofistler."
+  },
+  {
+    "cardKey": "İdeal bir toplum düzeni için eşitliği temel alan ve özel mülkiyeti reddeden siyasi ideoloji hangisidir?",
+    "cardValue": "Sosyalizm."
+  },
+  {
+    "cardKey": "Gerçekleşmesi imkânsız, hayalî toplum ve devlet tasarımlarına ne ad verilir?",
+    "cardValue": "Ütopya."
+  },
+  {
+    "cardKey": "Platon'un \"Devlet\" ve Fârâbî'nin \"El Medinetü'l Fazıla\" adlı eserleri ne tür ütopyalara örnektir?",
+    "cardValue": "İstenen ütopyalara."
+  },
+  {
+    "cardKey": "George Orwell'ın \"1984\" ve Aldous Huxley'in \"Cesur Yeni Dünya\" eserleri, geleceğe dair olumsuz bir tablo çizen ne tür ütopyalardır?",
+    "cardValue": "Korku ütopyaları (distopya)."
+  },
+  {
+    "cardKey": "Montesquieu'nün, özgürlüğün korunması için devletin yasama, yürütme ve yargı güçlerinin birbirini denetlemesi gerektiğini belirttiği ilke nedir?",
+    "cardValue": "Güçler ayrılığı ilkesi."
+  },
+  {
+    "cardKey": "Max Weber'e göre egemenliğin babadan oğula geçtiği yönetim şekli hangisidir?",
+    "cardValue": "Geleneksel Egemenlik."
+  },
+  {
+    "cardKey": "Max Weber'e göre, liderin üstün özelliklerine duyulan inançla oluşan egemenlik biçimi hangisidir?",
+    "cardValue": "Karizmatik Egemenlik."
+  },
+  {
+    "cardKey": "Sanat felsefesi yalnızca sanattaki güzelliği incelerken, hem doğadaki hem de sanattaki güzelliği inceleyen daha geniş felsefe alanına ne denir?",
+    "cardValue": "Estetik."
+  },
+  {
+    "cardKey": "Sanatın doğanın bir taklidi (mimesis) olduğunu savunan sanat kuramı hangisidir?",
+    "cardValue": "Taklit Kuramı."
+  },
+  {
+    "cardKey": "Sanatçının duygu, düşünce ve hayal gücüyle özgün bir eser ortaya koyduğunu savunan sanat kuramı hangisidir?",
+    "cardValue": "Yaratma Kuramı."
+  },
+  {
+    "cardKey": "Friedrich Schiller'in, sanatın insanı gündelik kaygılardan uzaklaştıran ve özgürleştiren bir etkinlik olduğunu savunduğu kuram hangisidir?",
+    "cardValue": "Oyun Kuramı."
+  },
+  {
+    "cardKey": "MS 2-15. yüzyıl Hristiyan felsefesinin ilk dönemi olan ve Hristiyan öğretisini felsefi düşünceyle temellendirmeyi amaçlayan döneme ne ad verilir?",
+    "cardValue": "Patristik Dönem."
+  },
+  {
+    "cardKey": "MS 8-15. yüzyıllar arasındaki ikinci dönem Hristiyan felsefesine ne ad verilir ve bu dönemi karakterize eden St. Anselmus'un sözü nedir?",
+    "cardValue": "Skolastik Dönem; \"Anlamak için inanıyorum.\""
+  },
+  {
+    "cardKey": "Orta Çağ felsefesinde, genel kavramların (tümellerin) insan zihninin dışında gerçeklikleri olmadığını, sadece soyutlama yoluyla oluşmuş sözlerden ibaret olduğunu savunan görüş hangisidir?",
+    "cardValue": "Adcılık (Nominalizm)."
+  },
+  {
+    "cardKey": "İbn Sînâ'ya göre, varlığı başka bir varlığa bağlı olmayan, ezeli ve ebedi olan ve Tanrı'ya karşılık gelen varlık türü hangisidir?",
+    "cardValue": "Zorunlu varlık (Vâcib-ül Vücud)."
+  },
+  {
+    "cardKey": "İslam felsefesinde insanın iradesi olmadığını ve her şeyin Allah tarafından önceden belirlendiğini savunan ekol hangisidir?",
+    "cardValue": "Cebriye."
+  },
+  {
+    "cardKey": "İbn Haldun'a göre devletler canlı bir organizma gibi doğar, büyür, gelişir ve ölür. Bu görüşlerini hangi eserinde dile getirmiştir?",
+    "cardValue": "El Mukaddime."
+  },
+  {
+    "cardKey": "Hristiyan felsefesinde \"Saçma (akıl almaz) olduğu için inanıyorum.\" diyerek inancı aklın önüne koyan filozof kimdir?",
+    "cardValue": "Tertullian."
+  },
+  {
+    "cardKey": "İslam felsefesinde aklın hakikate ulaşmada yetersiz olduğunu, manevi bilgilerin kalpten gelen bir sezgi ile bilinebileceğini savunan filozof kimdir?",
+    "cardValue": "Gazâlî."
+  },
+  {
+    "cardKey": "Abbasi halifeleri döneminde Antik Yunan, Fars ve Hint eserlerinin Arapçaya çevrildiği, Bağdat'ta kurulan bilim ve felsefe merkezinin adı nedir?",
+    "cardValue": "Beyt'ül Hikme."
+  },
+  {
+    "cardKey": "15-17. yüzyıl felsefesinde insan aklını merkeze alan ve Antik Yunan düşüncesini yeniden yorumlayan anlayışa ne ad verilir?",
+    "cardValue": "Hümanizm."
+  },
+  {
+    "cardKey": "17. yüzyılda F. Bacon, Aristoteles'in tümdengelim yöntemine karşı, gözlem ve deneye dayalı hangi bilimsel yöntemi savunmuştur?",
+    "cardValue": "Tümevarım yöntemi."
+  },
+  {
+    "cardKey": "Descartes'ın “Düşünüyorum, o hâlde varım.” sözüyle ulaştığı kesin bilginin temelinde yer alan ve şüpheyi yöntem olarak kullanan felsefesi ne olarak adlandırılır?",
+    "cardValue": "Kartezyen Felsefe."
+  },
+  {
+    "cardKey": "Spinoza'nın felsefesinde, insanın en büyük mutluluğu (kutluluk), _____ sezgisel olarak bilmekten doğan ruh huzurudur.",
+    "cardValue": "Tanrı'yı"
+  },
+  {
+    "cardKey": "Thomas Hobbes'a göre insanlar, güvenlik sorununu aşmak için bir _____ yaparak haklarını bir yöneticiye devretmiş ve devleti kurmuşlardır.",
+    "cardValue": "sözleşme"
+  },
+  {
+    "cardKey": "Kopernik'in, evrenin Dünya merkezli değil Güneş merkezli olduğunu ileri süren kuramı, hangi felsefi anlayışın doğmasında etkili olmuştur?",
+    "cardValue": "İnsan merkezli felsefi anlayışın."
+  },
+  {
+    "cardKey": "Francis Bacon, doğru düşünmeye engel olan ön yargıları hangi kavramla ifade etmiştir?",
+    "cardValue": "İdol."
+  },
+  {
+    "cardKey": "18-19. yüzyıl felsefesi hangi isimle de anılır ve dönemin sloganı olarak kabul edilen Kant'ın sözü nedir?",
+    "cardValue": "\"Akıl Çağı\" olarak anılır; Kant'ın sözü \"Aklını kullanma cesaretini göster!\"dir."
+  },
+  {
+    "cardKey": "18-19. yüzyılda felsefi düşüncelerin yayılmasında hangi teknolojik gelişme ve edebi türler etkili olmuştur?",
+    "cardValue": "Matbaaların sayısının artması ve felsefi içerikli edebi eserler (romanlar, denemeler)."
+  },
+  {
+    "cardKey": "J. Locke, birey-devlet ilişkisinde meşru yönetimi neye dayandırır?",
+    "cardValue": "Çoğulcu iradeye."
+  },
+  {
+    "cardKey": "J. J. Rousseau, insanların doğal yaşama uygun yasalarla yönetildiği düzenli bir _____ toplumunun mümkün olduğunu düşünür.",
+    "cardValue": "medeni"
+  },
+  {
+    "cardKey": "Kant'ın ahlak felsefesinde, bir eylemi ahlaki yapan şey sonucundan çok, eylemin arkasındaki amaç olan _____’e uygunluktur.",
+    "cardValue": "ödev"
+  },
+  {
+    "cardKey": "Bentham'ın faydacı ahlak anlayışına göre doğru eylem, _____ faydasına olan eylemdir.",
+    "cardValue": "çoğunluğun"
+  },
+  {
+    "cardKey": "Hegel, varlıktaki değişimi tez (sav), antitez (karşı sav) ve sentez (yeni sav) olmak üzere üçlü bir oluş sürecini ifade eden _____ ile açıklar.",
+    "cardValue": "diyalektik"
+  },
+  {
+    "cardKey": "20. yüzyıl felsefesinde, metinlerin ve insan eylemlerinin anlamını yorumlama sorununu ele alan felsefi akım hangisidir?",
+    "cardValue": "Hermeneutik (Yorum Bilgisi)."
+  },
+  {
+    "cardKey": "W. Dilthey, tarihsel bir dönemi anlayabilmek için o dönemin _____ yapısının dile yüklediği anlamlara bakılması gerektiğini söyler.",
+    "cardValue": "tinsel"
+  },
+  {
+    "cardKey": "Karl Marx ve Friedrich Engels'in geliştirdiği, maddenin değişimini diyalektik yöntemle açıklayan ve tarihin temelinde ekonomik üretim süreçlerini gören felsefi akım hangisidir?",
+    "cardValue": "Diyalektik Materyalizm."
+  },
+  {
+    "cardKey": "Deney ve gözlemle doğrulanamayan metafiziksel önermelerin anlamsız olduğunu savunan felsefi akım hangisidir?",
+    "cardValue": "Mantıkçı Pozitivizm."
+  },
+  {
+    "cardKey": "Karl Popper, mantıkçı pozitivizmin \"doğrulanabilirlik\" ilkesini eleştirerek bilimsel önermeler için hangi ölçütü önermiştir?",
+    "cardValue": "Yanlışlanabilirlik ölçütünü."
+  },
+  {
+    "cardKey": "Türkiye'de felsefe bölümü ilk kez hangi yıl ve hangi üniversitede açılmıştır?",
+    "cardValue": "1933 yılında İstanbul Üniversitesi Edebiyat Fakültesi bünyesinde açılmıştır."
+  },
+  {
+    "cardKey": "Felsefi görüşlerinde hürriyet, eğitim ve hümanizm kavramlarını öne çıkaran, Milli Eğitim Bakanlığı yapmış Türk düşünürü kimdir?",
+    "cardValue": "Hasan Âli Yücel."
+  },
+  {
+    "cardKey": "Takiyettin Mengüşoğlu'nun, insanı ontolojik temelde tanımladığı ve değer alanındaki çalışmalarıyla öne çıktığı felsefi yaklaşımı nedir?",
+    "cardValue": "İnsanı antropolojik bir varlık olarak tanımlar ve yeni ontoloji ile fenomenolojiden etkilenmiştir."
+  },
+  {
+    "cardKey": "Ahlak felsefesi alanında çalışan ve insanın bilinçli hareketini \"isyan ahlakı\" olarak tanımlayan Türk filozofu kimdir?",
+    "cardValue": "Nurettin Topçu."
+  },
+  {
+    "cardKey": "Türkiye'de bilim tarihi alanında doktora derecesi alan ilk kişi olan ve bilim felsefesi üzerine çalışan düşünür kimdir?",
+    "cardValue": "Aydın Sayılı."
+  },
+  {
+    "cardKey": "Değerler felsefesi ve insan hakları etiği üzerine çalışmalarıyla tanınan, Türkiye Felsefe Kurumu başkanlığı yapmış kadın filozofumuz kimdir?",
+    "cardValue": "İoanna Kuçuradi."
+  },
+  {
+    "cardKey": "Henri Bergson'a göre yaşam, sürekli bir oluş halindedir ve bu atılım yalnızca _____ gücü ile doğrudan ve aracısız olarak kavranabilir.",
+    "cardValue": "sezgi"
+  }
+]
