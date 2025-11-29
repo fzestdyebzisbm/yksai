@@ -1,1 +1,506 @@
-
+[
+  {
+    "cardKey": "Bir doğrunun x ekseni ile pozitif yönde yaptığı açının tanjant değerine ne ad verilir?",
+    "cardValue": "Doğrunun eğimi."
+  },
+  {
+    "cardKey": "A($x_0, y_0$) noktasından geçen ve eğimi m olan doğrunun denklemi hangi formülle bulunur?",
+    "cardValue": "$y - y_0 = m(x - x_0)$ formülü ile bulunur."
+  },
+  {
+    "cardKey": "Bir $y = f(x)$ fonksiyonunun x eksenini kestiği noktalar nasıl bulunur?",
+    "cardValue": "$y = 0$ için $f(x) = 0$ denkleminin kökleri bulunarak."
+  },
+  {
+    "cardKey": "Bir $y = f(x)$ fonksiyonunun y eksenini kestiği nokta nasıl bulunur?",
+    "cardValue": "$x = 0$ için $y = f(0)$ değeri bulunarak."
+  },
+  {
+    "cardKey": "$f(x) = ax^2 + bx + c$ ikinci dereceden fonksiyonunun y eksenini kestiği nokta nedir?",
+    "cardValue": "$(0, c)$ noktasıdır."
+  },
+  {
+    "cardKey": "Bir $f(x)$ fonksiyonu hangi aralıkta artandır?",
+    "cardValue": "Tanım aralığındaki her $x_1 < x_2$ için $f(x_1) < f(x_2)$ oluyorsa o aralıkta artandır."
+  },
+  {
+    "cardKey": "Bir $f(x)$ fonksiyonu hangi aralıkta azalandır?",
+    "cardValue": "Tanım aralığındaki her $x_1 < x_2$ için $f(x_1) > f(x_2)$ oluyorsa o aralıkta azalandır."
+  },
+  {
+    "cardKey": "Bir f fonksiyonunun $[a, b]$ aralığındaki ortalama değişim hızı formülü nedir?",
+    "cardValue": "Ortalama değişim hızı $= \\frac{f(b) - f(a)}{b - a}$."
+  },
+  {
+    "cardKey": "Artan fonksiyonların ortalama değişim hızının işareti nedir?",
+    "cardValue": "Pozitiftir."
+  },
+  {
+    "cardKey": "Azalan fonksiyonların ortalama değişim hızının işareti nedir?",
+    "cardValue": "Negatiftir."
+  },
+  {
+    "cardKey": "$f(x) = ax^2 + bx + c$ şeklindeki fonksiyona ne ad verilir?",
+    "cardValue": "İkinci dereceden bir değişkenli fonksiyon denir."
+  },
+  {
+    "cardKey": "İkinci dereceden bir fonksiyonun grafiğine ne ad verilir?",
+    "cardValue": "Parabol."
+  },
+  {
+    "cardKey": "Bir parabolün artanlıktan azalanlığa ya da azalanlıktan artanlığa geçtiği noktaya ne denir?",
+    "cardValue": "Tepe noktası."
+  },
+  {
+    "cardKey": "$f(x) = ax^2 + bx + c$ parabolünün tepe noktasının apsisi (r) formülü nedir?",
+    "cardValue": "$r = -\\frac{b}{2a}$."
+  },
+  {
+    "cardKey": "$f(x) = ax^2 + bx + c$ parabolünün tepe noktasının ordinatı (k) nasıl bulunur?",
+    "cardValue": "$k = f(r) = \\frac{4ac - b^2}{4a}$."
+  },
+  {
+    "cardKey": "Bir parabolün tepe noktasından geçen ve parabole dik olan doğruya ne denir?",
+    "cardValue": "Parabolün simetri ekseni."
+  },
+  {
+    "cardKey": "Bir parabolün ($f(x) = ax^2 + bx + c$) x eksenini kesme durumu diskriminant ($Δ$) ile nasıl belirlenir?",
+    "cardValue": "$Δ > 0$ ise iki farklı noktada keser, $Δ = 0$ ise teğettir, $Δ < 0$ ise kesmez."
+  },
+  {
+    "cardKey": "Tepe noktası $T(r, k)$ olan bir parabolün denklemi hangi formda yazılabilir?",
+    "cardValue": "$f(x) = a(x - r)^2 + k$."
+  },
+  {
+    "cardKey": "x eksenini $x_1$ ve $x_2$ noktalarında kesen bir parabolün denklemi hangi formda yazılabilir?",
+    "cardValue": "$f(x) = a(x - x_1)(x - x_2)$."
+  },
+  {
+    "cardKey": "Bir parabol ile bir doğrunun kesişim durumunu incelemek için ortak denklemin neyine bakılır?",
+    "cardValue": "Diskriminantına ($Δ$) bakılır."
+  },
+  {
+    "cardKey": "$f(x)$ çift fonksiyon ise $f(-x)$ neye eşittir?",
+    "cardValue": "$f(-x) = f(x)$."
+  },
+  {
+    "cardKey": "Çift fonksiyonların grafiği hangi eksene göre simetriktir?",
+    "cardValue": "y eksenine göre simetriktir."
+  },
+  {
+    "cardKey": "$f(x)$ tek fonksiyon ise $f(-x)$ neye eşittir?",
+    "cardValue": "$f(-x) = -f(x)$."
+  },
+  {
+    "cardKey": "Tek fonksiyonların grafiği nereye göre simetriktir?",
+    "cardValue": "Orijine göre simetriktir."
+  },
+  {
+    "cardKey": "$y = f(x)$ fonksiyonunun grafiğinin x eksenine göre simetriği olan fonksiyon nedir?",
+    "cardValue": "$y = -f(x)$."
+  },
+  {
+    "cardKey": "$y = f(x)$ fonksiyonunun grafiğinin y ekseni boyunca k birim yukarı ötelenmesiyle oluşan fonksiyon nedir?",
+    "cardValue": "$y = f(x) + k$."
+  },
+  {
+    "cardKey": "$y = f(x)$ fonksiyonunun grafiğinin x ekseni boyunca k birim sağa ötelenmesiyle oluşan fonksiyon nedir?",
+    "cardValue": "$y = f(x - k)$."
+  },
+  {
+    "cardKey": "$ax^2 + bx + c = 0$ denkleminde her $x ∈ ℝ$ için ifadenin pozitif olması için gereken koşullar nelerdir?",
+    "cardValue": "$a > 0$ ve $Δ < 0$ olmalıdır."
+  },
+  {
+    "cardKey": "A olayının B olayına bağlı koşullu olasılığı $P(A | B)$ nasıl hesaplanır?",
+    "cardValue": "$P(A | B) = \\frac{s(A \\cap B)}{s(B)}$."
+  },
+  {
+    "cardKey": "A ve B bağımsız olaylar ise $P(A \\cap B)$ neye eşittir?",
+    "cardValue": "$P(A \\cap B) = P(A) \\times P(B)$."
+  },
+  {
+    "cardKey": "Bir çemberin çevresinin 360 eş parçaya bölünmesiyle elde edilen yayı gören merkez açıya ne denir?",
+    "cardValue": "1 derecelik açı."
+  },
+  {
+    "cardKey": "1 derece kaç dakikadır ve 1 dakika kaç saniyedir?",
+    "cardValue": "$1^{\\circ} = 60'$ ve $1' = 60''$."
+  },
+  {
+    "cardKey": "Bir çemberde yarıçap uzunluğundaki yayı gören merkez açının ölçüsüne ne denir?",
+    "cardValue": "1 radyan."
+  },
+  {
+    "cardKey": "Derece (D) ile radyan (R) arasındaki dönüşüm formülü nedir?",
+    "cardValue": "$\\frac{D}{180} = \\frac{R}{\\pi}$."
+  },
+  {
+    "cardKey": "Merkezi orijinde ve yarıçapı 1 birim olan çembere ne ad verilir?",
+    "cardValue": "Birim çember."
+  },
+  {
+    "cardKey": "Birim çemberin denklemi nedir?",
+    "cardValue": "$x^2 + y^2 = 1$."
+  },
+  {
+    "cardKey": "Temel trigonometrik özdeşliklerden en bilineni hangisidir?",
+    "cardValue": "$\\sin^2{\\alpha} + \\cos^2{\\alpha} = 1$."
+  },
+  {
+    "cardKey": "Sinüs ve kosinüs fonksiyonları hangi aralıkta değerler alır?",
+    "cardValue": "$[-1, 1]$ aralığında değerler alırlar."
+  },
+  {
+    "cardKey": "Tanjant fonksiyonu, sinüs ve kosinüs cinsinden nasıl ifade edilir?",
+    "cardValue": "$\\tan{\\alpha} = \\frac{\\sin{\\alpha}}{\\cos{\\alpha}}$."
+  },
+  {
+    "cardKey": "Sekant (sec) ve kosekant (csc) fonksiyonları hangi temel fonksiyonların çarpmaya göre tersidir?",
+    "cardValue": "$\\sec{\\alpha} = \\frac{1}{\\cos{\\alpha}}$ ve $\\csc{\\alpha} = \\frac{1}{\\sin{\\alpha}}$."
+  },
+  {
+    "cardKey": "Bir açıyı $\\pi \\mp \\alpha$ veya $2\\pi \\mp \\alpha$ şeklinde ifade ettiğimizde trigonometrik fonksiyonun ismi değişir mi?",
+    "cardValue": "Hayır, fonksiyonun ismi değişmez, sadece bulunduğu bölgeye göre işareti belirlenir."
+  },
+  {
+    "cardKey": "Bir açıyı $\\frac{\\pi}{2} \\mp \\alpha$ veya $\\frac{3\\pi}{2} \\mp \\alpha$ şeklinde ifade ettiğimizde trigonometrik fonksiyon nasıl değişir?",
+    "cardValue": "Fonksiyonun ismi değişir (sinüs $\\leftrightarrow$ kosinüs, tanjant $\\leftrightarrow$ kotanjant)."
+  },
+  {
+    "cardKey": "Bir ABC üçgeninde kenarlar a, b, c ve açılar A, B, C olmak üzere Kosinüs Teoremi'ni A açısı için yazınız.",
+    "cardValue": "$a^2 = b^2 + c^2 - 2bc\\cos{A}$."
+  },
+  {
+    "cardKey": "Bir ABC üçgeninde çevrel çemberin yarıçapı R olmak üzere Sinüs Teoremi'ni yazınız.",
+    "cardValue": "$\\frac{a}{\\sin{A}} = \\frac{b}{\\sin{B}} = \\frac{c}{\\sin{C}} = 2R$."
+  },
+  {
+    "cardKey": "$f(x) = f(x+T)$ eşitliğini sağlayan en küçük pozitif T sayısına ne denir?",
+    "cardValue": "Fonksiyonun periyodu."
+  },
+  {
+    "cardKey": "$\\sin(ax+b)$ ve $\\cos(ax+b)$ fonksiyonlarının periyodu nedir?",
+    "cardValue": "$\\frac{2\\pi}{|a|}$."
+  },
+  {
+    "cardKey": "$\\tan(ax+b)$ ve $\\cot(ax+b)$ fonksiyonlarının periyodu nedir?",
+    "cardValue": "$\\frac{\\pi}{|a|}$."
+  },
+  {
+    "cardKey": "$y = \\arcsin{x}$ ise $x$ neye eşittir?",
+    "cardValue": "$x = \\sin{y}$."
+  },
+  {
+    "cardKey": "Kosinüs fonksiyonunun toplam formülü, $\\cos(\\alpha + \\beta)$, nedir?",
+    "cardValue": "$\\cos\\alpha\\cos\\beta - \\sin\\alpha\\sin\\beta$."
+  },
+  {
+    "cardKey": "Sinüs fonksiyonunun fark formülü, $\\sin(\\alpha - \\beta)$, nedir?",
+    "cardValue": "$\\sin\\alpha\\cos\\beta - \\cos\\alpha\\sin\\beta$."
+  },
+  {
+    "cardKey": "Tanjant fonksiyonunun toplam formülü, $\\tan(\\alpha + \\beta)$, nedir?",
+    "cardValue": "$\\frac{\\tan\\alpha + \\tan\\beta}{1 - \\tan\\alpha\\tan\\beta}$."
+  },
+  {
+    "cardKey": "Sinüs fonksiyonunun iki kat açı formülü, $\\sin(2\\alpha)$, nedir?",
+    "cardValue": "$2\\sin\\alpha\\cos\\alpha$."
+  },
+  {
+    "cardKey": "Kosinüs fonksiyonunun iki kat açı formüllerinden birini yazınız.",
+    "cardValue": "$\\cos^2\\alpha - \\sin^2\\alpha$ veya $2\\cos^2\\alpha - 1$ veya $1 - 2\\sin^2\\alpha$."
+  },
+  {
+    "cardKey": "$\\sin x = a$ denkleminin çözüm kümesi ($a \\in [-1, 1]$ ve bir kök $\\theta$) nasıl ifade edilir?",
+    "cardValue": "Ç = {$x | x = \\theta + 2k\\pi \\lor x = \\pi - \\theta + 2k\\pi, k \\in ℤ$}."
+  },
+  {
+    "cardKey": "$\\cos{x} = a$ denkleminin çözüm kümesi ($a \\in [-1, 1]$ ve bir kök $\\theta$) nasıl ifade edilir?",
+    "cardValue": "Ç = {$x | x = \\theta + 2k\\pi \\lor x = -\\theta + 2k\\pi, k \\in ℤ$}."
+  },
+  {
+    "cardKey": "$\\tan{x} = a$ denkleminin çözüm kümesi ($a \\in ℝ$ ve bir kök $\\theta$) nasıl ifade edilir?",
+    "cardValue": "Ç = {$x | x = \\theta + k\\pi, k \\in ℤ$}."
+  },
+  {
+    "cardKey": "$a\\sin{x} + b\\cos{x} = c$ denkleminin çözüm kümesinin boş küme olmaması için gereken şart nedir?",
+    "cardValue": "$c^2 \\le a^2 + b^2$ olmalıdır."
+  },
+  {
+    "cardKey": "$f(x) = a^x$ biçiminde tanımlanan fonksiyonlara ne ad verilir?",
+    "cardValue": "Üstel fonksiyon."
+  },
+  {
+    "cardKey": "Üstel fonksiyonun tersi olan fonksiyona ne ad verilir?",
+    "cardValue": "Logaritma fonksiyonu."
+  },
+  {
+    "cardKey": "$y = a^x$ eşitliğinin logaritmik karşılığı nedir?",
+    "cardValue": "$x = \\log_a{y}$."
+  },
+  {
+    "cardKey": "$f(x) = \\log_{g(x)}{h(x)}$ fonksiyonunun tanımlı olması için gereken üç koşul nedir?",
+    "cardValue": "Taban pozitif ($g(x) > 0$), taban 1'den farklı ($g(x) \\ne 1$) ve logaritması alınan ifade pozitif ($h(x) > 0$) olmalıdır."
+  },
+  {
+    "cardKey": "Tabanı 10 olan logaritma fonksiyonuna ne ad verilir?",
+    "cardValue": "Onluk logaritma (veya bayağı logaritma)."
+  },
+  {
+    "cardKey": "Tabanı e sayısı (Euler sayısı) olan logaritma fonksiyonuna ne ad verilir?",
+    "cardValue": "Doğal logaritma."
+  },
+  {
+    "cardKey": "Logaritmanın çarpma kuralı nedir?",
+    "cardValue": "$\\log_a(x \\cdot y) = \\log_a{x} + \\log_a{y}$."
+  },
+  {
+    "cardKey": "Logaritmanın bölme kuralı nedir?",
+    "cardValue": "$\\log_a(\\frac{x}{y}) = \\log_a{x} - \\log_a{y}$."
+  },
+  {
+    "cardKey": "Logaritmanın kuvvet kuralı nedir?",
+    "cardValue": "$\\log_a(x^n) = n \\cdot \\log_a{x}$."
+  },
+  {
+    "cardKey": "Logaritmada taban değiştirme kuralı nedir?",
+    "cardValue": "$\\log_a{b} = \\frac{\\log_c{b}}{\\log_c{a}}$."
+  },
+  {
+    "cardKey": "$a^{\\log_a{x}}$ ifadesi neye eşittir?",
+    "cardValue": "$x$."
+  },
+  {
+    "cardKey": "$a > 1$ olmak üzere $a^{f(x)} \\ge a^{g(x)}$ eşitsizliğinin çözümü nedir?",
+    "cardValue": "$f(x) \\ge g(x)$."
+  },
+  {
+    "cardKey": "$0 < a < 1$ olmak üzere $a^{f(x)} \\ge a^{g(x)}$ eşitsizliğinin çözümü nedir?",
+    "cardValue": "$f(x) \\le g(x)$."
+  },
+  {
+    "cardKey": "$a > 1$ olmak üzere $\\log_a{f(x)} \\le \\log_a{g(x)}$ eşitsizliğinin çözümü nedir?",
+    "cardValue": "$0 < f(x) \\le g(x)$."
+  },
+  {
+    "cardKey": "Tanım kümesi pozitif tam sayılar ($ℤ^+$) olan her fonksiyona ne denir?",
+    "cardValue": "Gerçek sayı dizisi (veya kısaca dizi)."
+  },
+  {
+    "cardKey": "Ardışık terimleri arasındaki fark sabit olan dizilere ne ad verilir?",
+    "cardValue": "Aritmetik dizi."
+  },
+  {
+    "cardKey": "İlk terimi $a_1$ ve ortak farkı d olan bir aritmetik dizinin genel terimi ($a_n$) nedir?",
+    "cardValue": "$a_n = a_1 + (n - 1)d$."
+  },
+  {
+    "cardKey": "Bir aritmetik dizinin ilk n terim toplamı ($S_n$) formülü nedir?",
+    "cardValue": "$S_n = \\frac{n}{2}(a_1 + a_n)$ veya $S_n = \\frac{n}{2}(2a_1 + (n-1)d)$."
+  },
+  {
+    "cardKey": "Ardışık terimleri arasındaki oran sabit olan dizilere ne ad verilir?",
+    "cardValue": "Geometrik dizi."
+  },
+  {
+    "cardKey": "İlk terimi $a_1$ ve ortak çarpanı r olan bir geometrik dizinin genel terimi ($a_n$) nedir?",
+    "cardValue": "$a_n = a_1 \\cdot r^{n-1}$."
+  },
+  {
+    "cardKey": "Bir geometrik dizinin ilk n terim toplamı ($S_n$) formülü nedir?",
+    "cardValue": "$S_n = a_1 \\frac{1 - r^n}{1 - r}$ (r $\\ne$ 1)."
+  },
+  {
+    "cardKey": "İlk iki terimi 1 olan ve sonraki her terimi kendinden önceki iki terimin toplamı olan diziye ne ad verilir?",
+    "cardValue": "Fibonacci sayı dizisi."
+  },
+  {
+    "cardKey": "Bir fonksiyonun bir noktadaki limitinin var olması için gerekli ve yeterli koşul nedir?",
+    "cardValue": "O noktadaki sağdan ve soldan limitleri var ve birbirine eşit olmalıdır."
+  },
+  {
+    "cardKey": "Limitte $\\frac{0}{0}$ belirsizliğiyle karşılaşıldığında ne yapılır?",
+    "cardValue": "Pay ve payda çarpanlarına ayrılarak belirsizliğe yol açan çarpanlar sadeleştirilir."
+  },
+  {
+    "cardKey": "Bir $f$ fonksiyonunun $x = a$ noktasında sürekli olması için gereken üç şart nedir?",
+    "cardValue": "1) Fonksiyon $x=a$'da tanımlı olmalı, 2) $x=a$'da limiti olmalı, 3) $x=a$'daki limiti o noktadaki değerine eşit olmalı."
+  },
+  {
+    "cardKey": "Bir fonksiyonun bir noktadaki anlık değişim oranına ne ad verilir?",
+    "cardValue": "Fonksiyonun o noktadaki türevi."
+  },
+  {
+    "cardKey": "Geometrik olarak bir fonksiyonun bir noktadaki türevi neyi ifade eder?",
+    "cardValue": "Fonksiyonun grafiğine o noktadan çizilen teğetin eğimini."
+  },
+  {
+    "cardKey": "Türev tanımında kullanılan limit formüllerinden birini yazınız.",
+    "cardValue": "$f'(a) = \\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$ veya $f'(a) = \\lim_{x \\to a} \\frac{f(x) - f(a)}{x - a}$."
+  },
+  {
+    "cardKey": "Bir fonksiyon $x=a$ noktasında sürekli değilse, o noktada türevli olabilir mi?",
+    "cardValue": "Hayır, olamaz. Türevlilik için süreklilik bir ön şarttır."
+  },
+  {
+    "cardKey": "Fonksiyonun grafiğinde türevin olmadığı sivri uçlara ne ad verilir?",
+    "cardValue": "Kırılma noktası."
+  },
+  {
+    "cardKey": "$f(x) = x^n$ fonksiyonunun türevi nedir?",
+    "cardValue": "$f'(x) = n \\cdot x^{n-1}$."
+  },
+  {
+    "cardKey": "İki fonksiyonun çarpımının türevi kuralı $((f \\cdot g)'(x))$ nedir?",
+    "cardValue": "$f'(x)g(x) + g'(x)f(x)$."
+  },
+  {
+    "cardKey": "İki fonksiyonun bölümünün türevi kuralı $((\\frac{f}{g})'(x))$ nedir?",
+    "cardValue": "$\\frac{f'(x)g(x) - g'(x)f(x)}{[g(x)]^2}$."
+  },
+  {
+    "cardKey": "Bileşke fonksiyonun türevi olan zincir kuralı $((f \\circ g)'(x))$ nedir?",
+    "cardValue": "$f'(g(x)) \\cdot g'(x)$."
+  },
+  {
+    "cardKey": "Bir $f(x)$ fonksiyonunun artan olduğu aralıklar, türevi $f'(x)$ yardımıyla nasıl bulunur?",
+    "cardValue": "$f'(x) > 0$ olduğu aralıklarda fonksiyon artandır."
+  },
+  {
+    "cardKey": "Bir fonksiyonun yerel maksimum ve yerel minimum noktalarına genel olarak ne ad verilir?",
+    "cardValue": "Ekstremum noktaları."
+  },
+  {
+    "cardKey": "Türevlenebilir bir fonksiyonun bir noktada ekstremumu varsa, o noktada birinci türevi ne olur?",
+    "cardValue": "Sıfır olur ($f'(x_0) = 0$)."
+  },
+  {
+    "cardKey": "Bir fonksiyonun türevinin tersi işlemine ne ad verilir?",
+    "cardValue": "Belirsiz integral."
+  },
+  {
+    "cardKey": "$\\int x^n dx$ integralinin sonucu nedir? ($n \\ne -1$)",
+    "cardValue": "$\\frac{x^{n+1}}{n+1} + c$."
+  },
+  {
+    "cardKey": "Türevlenebilir bir $f(x)$ fonksiyonunun diferansiyeli $d(f(x))$ neye eşittir?",
+    "cardValue": "$f'(x)dx$."
+  },
+  {
+    "cardKey": "[a, b] aralığında bir eğrinin altında kalan alanı yaklaşık olarak hesaplamak için kullanılan dikdörtgenler toplamına ne denir?",
+    "cardValue": "Riemann toplamı."
+  },
+  {
+    "cardKey": "İntegralin temel teoremi, $\\int_a^b f(x)dx$ integralini $f(x)$'in bir ters türevi olan $F(x)$ cinsinden nasıl ifade eder?",
+    "cardValue": "$\\int_a^b f(x)dx = F(b) - F(a)$."
+  },
+  {
+    "cardKey": "[a, b] aralığında $f(x) \\ge g(x)$ ise, bu iki fonksiyonun grafikleri arasında kalan alan hangi integral ile hesaplanır?",
+    "cardValue": "$A = \\int_a^b [f(x) - g(x)]dx$."
+  },
+  {
+    "cardKey": "Analitik düzlemde iki sayı doğrusunun dik kesişmesiyle oluşan sisteme ne denir?",
+    "cardValue": "Dik koordinat sistemi."
+  },
+  {
+    "cardKey": "$A(x_1, y_1)$ ve $B(x_2, y_2)$ noktaları arasındaki uzaklık formülü nedir?",
+    "cardValue": "$|AB| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$."
+  },
+  {
+    "cardKey": "Bir doğru parçasının orta noktasının koordinatları nasıl bulunur?",
+    "cardValue": "Uç noktaların apsisleri ve ordinatları toplamının yarısı alınarak bulunur: $(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2})$."
+  },
+  {
+    "cardKey": "Bir üçgenin kenarortaylarının kesim noktasına ne ad verilir?",
+    "cardValue": "Ağırlık merkezi."
+  },
+  {
+    "cardKey": "Eksenleri $(a, 0)$ ve $(0, b)$ noktalarında kesen doğrunun denklemi nedir?",
+    "cardValue": "$\\frac{x}{a} + \\frac{y}{b} = 1$."
+  },
+  {
+    "cardKey": "Birbirine paralel iki doğrunun eğimleri arasında nasıl bir ilişki vardır?",
+    "cardValue": "Eğimleri birbirine eşittir ($m_1 = m_2$)."
+  },
+  {
+    "cardKey": "Birbirine dik iki doğrunun eğimleri arasında nasıl bir ilişki vardır?",
+    "cardValue": "Eğimleri çarpımı -1'dir ($m_1 \\cdot m_2 = -1$)."
+  },
+  {
+    "cardKey": "$A(x_1, y_1)$ noktasının $ax + by + c = 0$ doğrusuna olan uzaklığı formülü nedir?",
+    "cardValue": "$h = \\frac{|ax_1 + by_1 + c|}{\\sqrt{a^2 + b^2}}$."
+  },
+  {
+    "cardKey": "$ax+by+c_1=0$ ve $ax+by+c_2=0$ paralel doğruları arasındaki uzaklık formülü nedir?",
+    "cardValue": "$h = \\frac{|c_1 - c_2|}{\\sqrt{a^2 + b^2}}$."
+  },
+  {
+    "cardKey": "$P(x, y)$ noktasının orijin etrafında pozitif yönde $\\alpha$ açısı kadar döndürülmesiyle elde edilen $P'(x', y')$ noktasının koordinatları nedir?",
+    "cardValue": "$x' = x\\cos\\alpha - y\\sin\\alpha$ ve $y' = x\\sin\\alpha + y\\cos\\alpha$."
+  },
+  {
+    "cardKey": "$A(x, y)$ noktasının $B(a, b)$ noktasına göre simetriği olan $A'(x', y')$ noktasının koordinatları nedir?",
+    "cardValue": "$A'(2a - x, 2b - y)$."
+  },
+  {
+    "cardKey": "$A(a, b)$ noktasının $y=x$ doğrusuna göre simetriği nedir?",
+    "cardValue": "$A'(b, a)$."
+  },
+  {
+    "cardKey": "Merkezi $M(a, b)$ ve yarıçapı r olan çemberin standart denklemi nedir?",
+    "cardValue": "$(x - a)^2 + (y - b)^2 = r^2$."
+  },
+  {
+    "cardKey": "$x^2 + y^2 + Dx + Ey + F = 0$ genel çember denkleminde merkezin koordinatları nedir?",
+    "cardValue": "$M(-\\frac{D}{2}, -\\frac{E}{2})$."
+  },
+  {
+    "cardKey": "$x^2 + y^2 + Dx + Ey + F = 0$ genel çember denkleminde yarıçap formülü nedir?",
+    "cardValue": "$r = \\frac{1}{2}\\sqrt{D^2 + E^2 - 4F}$."
+  },
+  {
+    "cardKey": "Köşesi çemberin merkezinde olan açıya ne ad verilir?",
+    "cardValue": "Merkez açı."
+  },
+  {
+    "cardKey": "Bir merkez açının ölçüsü ile gördüğü yayın ölçüsü arasındaki ilişki nedir?",
+    "cardValue": "Birbirine eşittir."
+  },
+  {
+    "cardKey": "Köşesi çember üzerinde olan ve kolları çemberin kirişleri olan açıya ne ad verilir?",
+    "cardValue": "Çevre açı."
+  },
+  {
+    "cardKey": "Bir çevre açının ölçüsü ile gördüğü yayın ölçüsü arasındaki ilişki nedir?",
+    "cardValue": "Çevre açının ölçüsü, gördüğü yayın ölçüsünün yarısına eşittir."
+  },
+  {
+    "cardKey": "Kollarından biri çembere teğet, diğeri çemberin kirişi olan ve köşesi çember üzerinde bulunan açıya ne denir?",
+    "cardValue": "Teğet-kiriş açı."
+  },
+  {
+    "cardKey": "Taban yarıçapı r, yüksekliği h olan bir dik dairesel silindirin yanal alanı formülü nedir?",
+    "cardValue": "$YA = 2\\pi rh$."
+  },
+  {
+    "cardKey": "Taban yarıçapı r, yüksekliği h olan bir dik dairesel silindirin hacim formülü nedir?",
+    "cardValue": "$V = \\pi r^2 h$."
+  },
+  {
+    "cardKey": "Taban yarıçapı r, ana doğru uzunluğu l olan bir dik dairesel koninin yanal alanı formülü nedir?",
+    "cardValue": "$YA = \\pi rl$."
+  },
+  {
+    "cardKey": "Taban yarıçapı r, yüksekliği h olan bir dik dairesel koninin hacim formülü nedir?",
+    "cardValue": "$V = \\frac{1}{3}\\pi r^2 h$."
+  },
+  {
+    "cardKey": "Yarıçapı r olan bir kürenin yüzey alanı formülü nedir?",
+    "cardValue": "$A = 4\\pi r^2$."
+  },
+  {
+    "cardKey": "Yarıçapı r olan bir kürenin hacim formülü nedir?",
+    "cardValue": "$V = \\frac{4}{3}\\pi r^3$."
+  }
+]
