@@ -1,1 +1,746 @@
-
+[
+  {
+    "cardKey": "Olay, düşünce, duygu ve hayallerin dil aracılığıyla sözlü veya yazılı olarak biçimlendirilmesi sanatına ne denir?",
+    "cardValue": "Edebiyat."
+  },
+  {
+    "cardKey": "Türk edebiyatının üç ana dönemi hangileridir?",
+    "cardValue": "İslamiyet Öncesi Türk Edebiyatı, İslamiyet Etkisinde Gelişen Türk Edebiyatı ve Batı Etkisinde Gelişen Türk Edebiyatı."
+  },
+  {
+    "cardKey": "İslamiyet etkisindeki Türk edebiyatı hangi iki ana kola ayrılır?",
+    "cardValue": "Divan Edebiyatı ve Halk Edebiyatı."
+  },
+  {
+    "cardKey": "Malzemesi dil olduğu için edebiyat, güzel sanatların hangi kategorisine girer?",
+    "cardValue": "İşitsel (fonetik) sanatlar."
+  },
+  {
+    "cardKey": "Türklerin tarih boyunca kullandığı beş alfabe hangileridir?",
+    "cardValue": "Kök Türk, Uygur, Kiril, Arap ve Latin alfabeleri."
+  },
+  {
+    "cardKey": "Edebî metinlerde kelimeler genellikle hangi anlamda kullanılır ve dil hangi işlevdedir?",
+    "cardValue": "Yan ve mecaz anlamda kullanılır ve dil sanatsal işlevdedir."
+  },
+  {
+    "cardKey": "Öğretici metinlerde düşünce ön plandadır ve dil _____ işlevdedir.",
+    "cardValue": "göndergesel"
+  },
+  {
+    "cardKey": "Türk yazı dilinin tarihî gelişiminde Karahanlı Metinleri hangi döneme aittir?",
+    "cardValue": "Eski Türkçe Dönemi."
+  },
+  {
+    "cardKey": "Türkiye Türkçesi, Türk dilinin tarihî gelişiminde hangi ana kolun bir parçasıdır?",
+    "cardValue": "Batı Türkçesi."
+  },
+  {
+    "cardKey": "Divan şairlerinin şiirlerinde kullandığı takma ada ne denir?",
+    "cardValue": "Mahlas."
+  },
+  {
+    "cardKey": "Halk şiirinde âşıkların mahlas almalarına veya adlarını kullanmalarına ne ad verilir?",
+    "cardValue": "Tapşırma."
+  },
+  {
+    "cardKey": "Bir şiire bağlı olmayan ve başlı başına bir anlamı olan mısralara ne denir?",
+    "cardValue": "Mısra-ı azade."
+  },
+  {
+    "cardKey": "Öz ve güzel anlamlı, vecize değerine yükselmiş mısralara ne ad verilir?",
+    "cardValue": "Mısra-ı berceste."
+  },
+  {
+    "cardKey": "İki dizeden oluşan ve anlam bütünlüğü taşıyan, özellikle Divan şiirinde yaygın olarak kullanılan nazım birimi hangisidir?",
+    "cardValue": "Beyit."
+  },
+  {
+    "cardKey": "Bir şiirin işlediği konuya göre aldığı ada ne denir?",
+    "cardValue": "Nazım türü."
+  },
+  {
+    "cardKey": "Şiirin nazım birimi, ölçüsü ve uyak örgüsüne göre kazandığı biçimsel özelliklerin genel adı nedir?",
+    "cardValue": "Nazım biçimi (nazım şekli)."
+  },
+  {
+    "cardKey": "Türk şiirinin millî ölçüsü hangisidir?",
+    "cardValue": "Hece ölçüsü."
+  },
+  {
+    "cardKey": "Hece ölçüsüyle yazılmış şiirlerde ölçü kalıpları içindeki durma yerlerine ne ad verilir?",
+    "cardValue": "Durak."
+  },
+  {
+    "cardKey": "Edebiyatımızda aruz ölçüsüyle yazılmış ilk eser hangisidir ve yazarı kimdir?",
+    "cardValue": "Yusuf Has Hacip'in Kutadgu Bilig adlı eseridir."
+  },
+  {
+    "cardKey": "Dize sonlarında, aynı görev ve anlamdaki ekler, kelimeler ve kelime gruplarının tekrarına ne denir?",
+    "cardValue": "Redif."
+  },
+  {
+    "cardKey": "İki veya daha çok dize arasındaki farklı anlam ve görevdeki seslerin veya kelimelerin benzerliğine ne ad verilir?",
+    "cardValue": "Kafiye (uyak)."
+  },
+  {
+    "cardKey": "Tek ses benzerliğine dayanan kafiye türü hangisidir?",
+    "cardValue": "Yarım kafiye."
+  },
+  {
+    "cardKey": "İkiden fazla ses benzerliğine dayanan kafiye türüne ne ad verilir?",
+    "cardValue": "Zengin kafiye."
+  },
+  {
+    "cardKey": "Sesteş kelimeler ile yapılan kafiye türü hangisidir?",
+    "cardValue": "Cinaslı kafiye."
+  },
+  {
+    "cardKey": "Dizelerde aynı ünlülerin ahenk sağlayacak şekilde sıkça tekrarlanmasına ne denir?",
+    "cardValue": "Asonans."
+  },
+  {
+    "cardKey": "Dizelerde aynı ünsüzlerin ahenk sağlayacak şekilde sıkça tekrarlanmasına ne denir?",
+    "cardValue": "Aliterasyon."
+  },
+  {
+    "cardKey": "Aşk, tabiat, özlem gibi duygusal konuları coşkulu bir anlatımla işleyen şiir türü hangisidir?",
+    "cardValue": "Lirik şiir."
+  },
+  {
+    "cardKey": "Savaş ve kahramanlık konularını coşkulu bir anlatımla işleyen şiir türüne ne denir?",
+    "cardValue": "Epik şiir."
+  },
+  {
+    "cardKey": "Bir düşünceyi aktarmak veya öğüt vermek amacıyla yazılan öğretici nitelikteki şiir türü hangisidir?",
+    "cardValue": "Didaktik şiir."
+  },
+  {
+    "cardKey": "Kişilerin ve toplumun aksayan yönlerini eleştirel bir dille ele alan şiir türü hangisidir?",
+    "cardValue": "Satirik şiir."
+  },
+  {
+    "cardKey": "Satirik şiire halk edebiyatında _____, divan edebiyatında _____ adı verilir.",
+    "cardValue": "taşlama, hicviye (hiciv)"
+  },
+  {
+    "cardKey": "Tabiat güzelliklerini, kır ve çoban hayatını anlatan şiir türüne ne ad verilir?",
+    "cardValue": "Pastoral şiir."
+  },
+  {
+    "cardKey": "Doğrudan doğa manzaralarını monolog biçiminde anlatan pastoral şiirlere _____, konuşma biçiminde yazılanlara ise _____ denir.",
+    "cardValue": "idil, eglog"
+  },
+  {
+    "cardKey": "Eski Yunan edebiyatında oyuncuların sahnede söyleyecekleri sözlerin şiir hâline getirildiği, harekete dayalı manzum tiyatro eserlerine ne denir?",
+    "cardValue": "Dramatik şiir."
+  },
+  {
+    "cardKey": "Aralarında benzerlik ilgisi kurulan varlık veya kavramlardan nitelikçe zayıf olanın, kuvvetli olana benzetilerek anlatılmasına dayalı edebi sanat hangisidir?",
+    "cardValue": "Teşbih (benzetme)."
+  },
+  {
+    "cardKey": "Sadece benzeyen ve kendisine benzetilen unsurlarıyla yapılan teşbih türüne ne ad verilir?",
+    "cardValue": "Teşbihibeliğ (Güzel Benzetme)."
+  },
+  {
+    "cardKey": "Benzetmenin asıl unsurlarından (benzeyen veya kendisine benzetilen) yalnızca birinin kullanılmasıyla yapılan edebi sanat hangisidir?",
+    "cardValue": "İstiare (eğretileme)."
+  },
+  {
+    "cardKey": "Sadece kendisine benzetilenle yapılan istiareye _____, sadece benzeyenle yapılan istiareye _____ denir.",
+    "cardValue": "açık istiare, kapalı istiare"
+  },
+  {
+    "cardKey": "Bir sözün, benzetme amacı güdülmeden, başka bir sözün yerine kullanılması sanatına ne denir?",
+    "cardValue": "Mecazımürsel (ad aktarması)."
+  },
+  {
+    "cardKey": "İnsan dışındaki varlık ve kavramlara insana ait duyuş ve davranış özellikleri yükleme sanatına ne denir?",
+    "cardValue": "Teşhis (kişileştirme)."
+  },
+  {
+    "cardKey": "İnsan dışındaki bir varlığın veya kavramın konuşturulması sanatına ne denir?",
+    "cardValue": "İntak (konuşturma)."
+  },
+  {
+    "cardKey": "Anlamca birbiriyle ilgili kelimelerin bir arada kullanılması sanatı hangisidir?",
+    "cardValue": "Tenasüp (uygunluk)."
+  },
+  {
+    "cardKey": "Birbirine karşıt duygu, düşünce ve durumları ifade eden kavramları bir arada kullanma sanatına ne denir?",
+    "cardValue": "Tezat (karşıtlık)."
+  },
+  {
+    "cardKey": "Herkesçe bilinen bir olaya veya kişiye gönderme yaparak onu hatırlatma sanatı hangisidir?",
+    "cardValue": "Telmih (hatırlatma)."
+  },
+  {
+    "cardKey": "Şiirde atasözü veya vecize (özdeyiş) kullanma sanatına ne ad verilir?",
+    "cardValue": "İrsalimesel."
+  },
+  {
+    "cardKey": "Bildiği bir şeyi bilmez görünme, bilmezlikten gelme sanatına ne denir?",
+    "cardValue": "Tecahüliarif."
+  },
+  {
+    "cardKey": "Bir sözü, tersini kastederek kullanma sanatına ne ad verilir?",
+    "cardValue": "Tariz (iğneleme)."
+  },
+  {
+    "cardKey": "Bir olayı gerçek nedeninin dışında, çoğunlukla da güzel bir nedene bağlama sanatı hangisidir?",
+    "cardValue": "Hüsnütalil."
+  },
+  {
+    "cardKey": "İslamiyet öncesi Türk şiirleri hangi dinsel törenlerde söylenirdi?",
+    "cardValue": "Şölen, sığır ve yuğ adı verilen dinsel törenlerde."
+  },
+  {
+    "cardKey": "İslamiyet öncesi dönemde şiir söyleyen din adamlarına verilen adlar nelerdir?",
+    "cardValue": "Baksı, kam, ozan, şaman."
+  },
+  {
+    "cardKey": "İslamiyet öncesi şiirlerde aşk, doğa ve yiğitlik temalarını işleyen nazım biçimi hangisidir?",
+    "cardValue": "Koşuk."
+  },
+  {
+    "cardKey": "İslamiyet öncesinde 'yuğ' adı verilen ölüm törenlerinde söylenen şiirlere ne ad verilir?",
+    "cardValue": "Sagu."
+  },
+  {
+    "cardKey": "Divânu Lügati’t-Türk’te yer alan ve sagu türünün en önemli örneği olan eser hangisidir?",
+    "cardValue": "Alp Er Tunga Sagusu."
+  },
+  {
+    "cardKey": "Türk edebiyatının ilk yazılı eseri olarak kabul edilen ve Göktürk alfabesiyle yazılan eser hangisidir?",
+    "cardValue": "Göktürk Yazıtları (Orhun Abideleri)."
+  },
+  {
+    "cardKey": "Bilinen ilk Türk şairi kimdir ve hangi dönemde yaşamıştır?",
+    "cardValue": "Aprınçur Tigin, Uygur Dönemi'nde yaşamıştır."
+  },
+  {
+    "cardKey": "Türklerin İslamiyet'i kabulüyle başlayan XIII. yüzyıla kadar olan edebi döneme ne ad verilir?",
+    "cardValue": "Geçiş Dönemi."
+  },
+  {
+    "cardKey": "Geçiş Dönemi eserleri hangi Türkçe ile yazılmıştır?",
+    "cardValue": "Karahanlı (Hakaniye) Türkçesi."
+  },
+  {
+    "cardKey": "Türk edebiyatında ilk mesnevi, ilk siyasetname ve aruzun kullanıldığı ilk eser hangisidir?",
+    "cardValue": "Kutadgu Bilig."
+  },
+  {
+    "cardKey": "Araplara Türkçeyi öğretmek amacıyla Kaşgarlı Mahmut tarafından yazılan ilk Türkçe sözlük hangisidir?",
+    "cardValue": "Dîvânu Lugâti’t-Türk."
+  },
+  {
+    "cardKey": "Edip Ahmet Yükneki tarafından yazılan, \"Hakikatlerin Eşiği\" anlamına gelen ve ahlaki öğütler veren eser hangisidir?",
+    "cardValue": "Atabetü’l-Hakayık."
+  },
+  {
+    "cardKey": "Hoca Ahmet Yesevi’nin \"hikmet\" adı verilen dinî-tasavvufi şiirlerinin toplandığı eser hangisidir?",
+    "cardValue": "Divân-ı Hikmet."
+  },
+  {
+    "cardKey": "Söyleyeni belli olmayan, halkın ortak malı olan edebî ürünlerin oluşturduğu halk şiiri kolu hangisidir?",
+    "cardValue": "Anonim Halk Şiiri."
+  },
+  {
+    "cardKey": "Genellikle 7'li hece ölçüsüyle tek dörtlükten oluşan ve uyak örgüsü 'aaxa' şeklinde olan anonim halk şiiri nazım biçimi nedir?",
+    "cardValue": "Mâni."
+  },
+  {
+    "cardKey": "Bent ve her bendin sonunda tekrarlanan kavuştak bölümlerinden oluşan, kendine özgü bir ezgi ile söylenen nazım şekli hangisidir?",
+    "cardValue": "Türkü."
+  },
+  {
+    "cardKey": "Allah aşkını ve peygamber sevgisini coşkun bir biçimde dile getiren, dinî-tasavvufi halk şiirinin en yaygın nazım türü nedir?",
+    "cardValue": "İlahi."
+  },
+  {
+    "cardKey": "Bektaşi tarikatlarının inanışlarını dile getiren ve Pir Sultan Abdal'ın ünlü olduğu nazım türü hangisidir?",
+    "cardValue": "Nefes."
+  },
+  {
+    "cardKey": "Tarikata yeni girmiş müritlere tarikatın adap ve kurallarını anlatan didaktik şiirlere ne denir?",
+    "cardValue": "Nutuk."
+  },
+  {
+    "cardKey": "Tasavvuftaki \"devir kuramı\"nı, yani varlığın nereden gelip nereye gittiğini konu edinen şiirlere ne ad verilir?",
+    "cardValue": "Devriye."
+  },
+  {
+    "cardKey": "Tasavvuf konularını mizahlı ve alaycı bir dille işleyen, ilk bakışta inançlarla dalga geçiyormuş gibi görünen şiir türü nedir?",
+    "cardValue": "Şathiye."
+  },
+  {
+    "cardKey": "Âşıkların şiirlerini topladıkları deftere ne ad verilir?",
+    "cardValue": "Cönk."
+  },
+  {
+    "cardKey": "Âşık tarzı halk şiirinde 11'li hece ölçüsüyle söylenen, aşk, doğa, yiğitlik gibi lirik temaları işleyen en yaygın nazım biçimi hangisidir?",
+    "cardValue": "Koşma."
+  },
+  {
+    "cardKey": "Konularına göre koşmalar hangi türlere ayrılır?",
+    "cardValue": "Güzelleme, koçaklama, taşlama, ağıt."
+  },
+  {
+    "cardKey": "Koşmadan 8'li hece ölçüsüyle yazılmasıyla ayrılan ve kendine özgü bir ezgisi olan nazım biçimi hangisidir?",
+    "cardValue": "Semai."
+  },
+  {
+    "cardKey": "İçinde \"bre, hey, behey\" gibi seslenmelere yer veren, yiğitçe ve sert bir edayla söylenen, Güneydoğu Anadolu'daki Varsak boyuna özgü şiir türü nedir?",
+    "cardValue": "Varsağı."
+  },
+  {
+    "cardKey": "Âşık tarzı halk şiirinin en uzun nazım biçimi hangisidir?",
+    "cardValue": "Destan."
+  },
+  {
+    "cardKey": "Koçaklama türündeki şiirleriyle ünlü, sadece hece ölçüsünü kullanan ve divan şiirinden etkilenmeyen 16. yüzyıl halk şairi kimdir?",
+    "cardValue": "Köroğlu."
+  },
+  {
+    "cardKey": "Âşık edebiyatının en lirik şairi kabul edilen, aşk ve doğa temalarını yalın bir dille işleyen 17. yüzyıl halk şairi kimdir?",
+    "cardValue": "Karacaoğlan."
+  },
+  {
+    "cardKey": "IV. Murat döneminde yaşamış, \"Genç Osman Destanı\" adlı eseriyle tanınan yeniçeri şair kimdir?",
+    "cardValue": "Kayıkçı Kul Mustafa."
+  },
+  {
+    "cardKey": "Şiirlerinde \"Ferman padişahın dağlar bizimdir\" dizesiyle bilinen, Avşarların zorla yerleşik hayata geçirilmesine karşı çıkan 19. yüzyıl halk şairi kimdir?",
+    "cardValue": "Dadaloğlu."
+  },
+  {
+    "cardKey": "Gördüğü haksızlıkları cesaretle dile getirdiği taşlamalarıyla meşhur olan 19. yüzyıl halk şairi kimdir?",
+    "cardValue": "Seyrani."
+  },
+  {
+    "cardKey": "Dinî-tasavvufi şiirin en güçlü temsilcisi olan, \"ilahi\" türünün en güzel örneklerini veren ve sehl-i mümteni tarzında yazan 13. yüzyıl şairi kimdir?",
+    "cardValue": "Yunus Emre."
+  },
+  {
+    "cardKey": "Alevi-Bektaşi edebiyatının kurucusu olarak kabul edilen ve hece vezniyle yazdığı şathiyeleriyle tanınan 14. yüzyıl şairi kimdir?",
+    "cardValue": "Kaygusuz Abdal."
+  },
+  {
+    "cardKey": "Divan şiirinden etkilenmeyen, tüm şiirlerini hece ölçüsüyle söyleyen ve nefesleriyle ünlü olan 16. yüzyıl Alevi-Bektaşi şairi kimdir?",
+    "cardValue": "Pir Sultan Abdal."
+  },
+  {
+    "cardKey": "Astronomi, ahlak, tasavvuf gibi çok çeşitli bilgileri bir araya topladığı \"Marifetnâme\" adlı eseriyle tanınan 18. yüzyıl mutasavvıfı kimdir?",
+    "cardValue": "Erzurumlu İbrahim Hakkı."
+  },
+  {
+    "cardKey": "Şairlerin şiirlerini belirli bir düzen içinde topladığı eserlere ne denir?",
+    "cardValue": "Divan."
+  },
+  {
+    "cardKey": "Divan şiirinde belli bir kavramı düşündürüp çağrıştıran, kalıplaşmış ifadelere (örn: servi > boy, ok > kirpik) ne ad verilir?",
+    "cardValue": "Mazmun."
+  },
+  {
+    "cardKey": "Divan şiirinde bir şairin şiirine, başka một şair tarafından aynı ölçü, uyak ve redifle yazılan benzer şiire ne denir?",
+    "cardValue": "Nazire."
+  },
+  {
+    "cardKey": "Türkçeyi kaba bulanlara tepki olarak Türkçe sözcüklerle şiir yazmayı amaçlayan 15-16. yüzyıl akımı hangisidir?",
+    "cardValue": "Türkî-i Basit (Basit Türkçe)."
+  },
+  {
+    "cardKey": "Anlamı derinleştirip kapalı hale getiren, geniş hayal gücüne yer veren ve Şeyh Galip'in temsilcisi olduğu Hint tarzı üsluba ne denir?",
+    "cardValue": "Sebk-i Hindî."
+  },
+  {
+    "cardKey": "Nabi'nin öncüsü olduğu, düşünceye ağırlık vererek okuyucuyu aydınlatmayı amaçlayan şiir akımı hangisidir?",
+    "cardValue": "Hikemî Şiir (Nabi Ekolü)."
+  },
+  {
+    "cardKey": "Nedim'in en güçlü temsilcisi olduğu, halk deyimlerini, yaşamını ve İstanbul'u şiire yansıtan akıma ne ad verilir?",
+    "cardValue": "Mahallîleşme (Yerlileşme)."
+  },
+  {
+    "cardKey": "Divan edebiyatında aşk, sevgi, güzellik gibi lirik konuları işleyen, beyit sayısı 5-15 arasında değişen ve kafiye düzeni 'aa, ba, ca' olan nazım biçimi hangisidir?",
+    "cardValue": "Gazel."
+  },
+  {
+    "cardKey": "Din ve devlet büyüklerini övmek ya da yermek amacıyla yazılan, beyit sayısı 33-99 arasında değişen nazım biçimi hangisidir?",
+    "cardValue": "Kaside."
+  },
+  {
+    "cardKey": "Kasidenin başlangıç bölümü olup tabiat tasviri veya sevgilinin güzelliklerinin anlatıldığı kısma ne ad verilir?",
+    "cardValue": "Nesib (Teşbib)."
+  },
+  {
+    "cardKey": "Kasidede şairin kendini övdüğü bölüme ne denir?",
+    "cardValue": "Fahriye."
+  },
+  {
+    "cardKey": "Divan edebiyatının en uzun nazım şekli olan ve her beyti kendi arasında (aa, bb, cc...) kafiyeli olan tür hangisidir?",
+    "cardValue": "Mesnevi."
+  },
+  {
+    "cardKey": "Divan şiirinde beş mesneviden oluşan eserler grubuna ne ad verilir?",
+    "cardValue": "Hamse."
+  },
+  {
+    "cardKey": "Tek dörtlükten oluşan, 'aaxa' şeklinde kafiyelenen ve felsefi konuları özlü bir biçimde işleyen, İran edebiyatından alınmış nazım biçimi nedir?",
+    "cardValue": "Rubai."
+  },
+  {
+    "cardKey": "Divan şiirine Türklerin kazandırdığı, tek dörtlükten oluşan ve halk şiirindeki maninin karşılığı sayılan nazım biçimi hangisidir?",
+    "cardValue": "Tuyuğ."
+  },
+  {
+    "cardKey": "Divan şiirine Türklerin kazandırdığı, bestelenmek için yazılan ve genellikle tekrarlanan nakarat dizeleri içeren nazım şekli hangisidir?",
+    "cardValue": "Şarkı."
+  },
+  {
+    "cardKey": "Her bendin sonunda değişen bir 'vasıta beyti' bulunan, felsefi ve sosyal konuları işleyen uzun nazım biçimi hangisidir?",
+    "cardValue": "Terkibibent."
+  },
+  {
+    "cardKey": "Terkibibent'ten farkı, 'vasıta beyti'nin her bendin sonunda aynen tekrarlanması olan nazım biçimi hangisidir?",
+    "cardValue": "Terciibent."
+  },
+  {
+    "cardKey": "Allah'a yalvarıp yakarmak için yazılan nazım türüne _____, Allah'ın birliğini anlatmak için yazılana _____ denir.",
+    "cardValue": "münacat, tevhid"
+  },
+  {
+    "cardKey": "Hz. Muhammed'i övmek için yazılan şiirlere _____, bir kimsenin ölümü üzerine yazılanlara _____ denir.",
+    "cardValue": "naat, mersiye"
+  },
+  {
+    "cardKey": "13. yüzyılda din dışı konularda lirik şiirler yazan ve bilinen ilk divan şairi kabul edilen kişi kimdir?",
+    "cardValue": "Hoca Dehhani."
+  },
+  {
+    "cardKey": "Eserlerinin çoğunu Farsça yazan, Mevlevilik tarikatının temellerini atan ve en önemli eseri Mesnevi olan 13. yüzyıl mutasavvıfı kimdir?",
+    "cardValue": "Mevlana Celaleddin Rumi."
+  },
+  {
+    "cardKey": "Türkçenin Farsçadan üstün olduğunu kanıtlamak için \"Muhakemetü’l-Lûgateyn\" adlı eseri yazan ve ilk hamse sahibi olan Çağatay şairi kimdir?",
+    "cardValue": "Ali Şir Nevai."
+  },
+  {
+    "cardKey": "126 beyitlik alegorik mesnevisi \"Harnâme\" ile tanınan 15. yüzyıl divan şairi kimdir?",
+    "cardValue": "Şeyhi."
+  },
+  {
+    "cardKey": "Fatih Sultan Mehmet'in veziri olan ve yazdığı \"Kerem\" redifli kasideyle idamdan kurtulan 15. yüzyıl şairi kimdir?",
+    "cardValue": "Ahmet Paşa."
+  },
+  {
+    "cardKey": "\"Sultanüşşuara\" (şairlerin sultanı) olarak anılan, rindane gazelleri ve \"Kanuni Mersiyesi\" ile ünlü 16. yüzyıl divan şairi kimdir?",
+    "cardValue": "Baki."
+  },
+  {
+    "cardKey": "Aşk ve ıstırap şairi olarak bilinen, divan şiirinin en lirik şairi kabul edilen ve \"Leyla vü Mecnun\" mesnevisini yazan 16. yüzyıl şairi kimdir?",
+    "cardValue": "Fuzuli."
+  },
+  {
+    "cardKey": "Hicvin ve kasidenin en büyük üstadı kabul edilen, \"Siham-ı Kaza\" adlı eseriyle tanınan 17. yüzyıl divan şairi kimdir?",
+    "cardValue": "Nef’i."
+  },
+  {
+    "cardKey": "Didaktik (hikemî) şiirin öncüsü olan ve oğlu için yazdığı \"Hayriyye\" adlı mesnevisiyle bilinen 17. yüzyıl şairi kimdir?",
+    "cardValue": "Nabi."
+  },
+  {
+    "cardKey": "Lale Devri'nin ve İstanbul'un şairi olarak bilinen, şarkı türünün en önemli ismi ve mahallîleşme akımının temsilcisi 18. yüzyıl şairi kimdir?",
+    "cardValue": "Nedim."
+  },
+  {
+    "cardKey": "Divan edebiyatının son büyük üstadı kabul edilen, Sebk-i Hindî tarzının temsilcisi ve \"Hüsn ü Aşk\" adlı alegorik mesnevinin yazarı kimdir?",
+    "cardValue": "Şeyh Galip."
+  },
+  {
+    "cardKey": "Tanzimat edebiyatı hangi olayın ardından başlar?",
+    "cardValue": "1860'ta Şinasi ve Agâh Efendi’nin ilk özel gazete olan Tercüman-ı Ahvâl’i çıkarmasıyla başlar."
+  },
+  {
+    "cardKey": "Tanzimat Birinci Dönem sanatçıları \"_____\" anlayışını benimserken, İkinci Dönem sanatçıları \"_____\" anlayışını benimsemiştir.",
+    "cardValue": "Sanat toplum içindir, Sanat sanat içindir"
+  },
+  {
+    "cardKey": "Vatan, millet, hürriyet, adalet gibi kavramlar Türk şiirine ilk defa hangi dönemde girmiştir?",
+    "cardValue": "Tanzimat Birinci Dönem."
+  },
+  {
+    "cardKey": "Tanzimat şiirinde \"göz için kafiye\" anlayışı yerine hangi anlayış benimsenmiştir?",
+    "cardValue": "Kulak için kafiye."
+  },
+  {
+    "cardKey": "Batı etkisindeki Türk edebiyatının kurucusu ve ilklerin sanatçısı olarak bilinen Tanzimat şairi kimdir?",
+    "cardValue": "Şinasi."
+  },
+  {
+    "cardKey": "En gür sesli vatan şairi olarak bilinen, \"Hürriyet Kasidesi\" ile kasidenin bölümlerini kaldıran Tanzimat sanatçısı kimdir?",
+    "cardValue": "Namık Kemal."
+  },
+  {
+    "cardKey": "\"Şiir ve İnşa\" makalesinde halk dilini savunup \"Harabat\" antolojisinde divan şiirini öven, çelişkileriyle tanınan Tanzimat sanatçısı kimdir?",
+    "cardValue": "Ziya Paşa."
+  },
+  {
+    "cardKey": "\"Her güzel şey şiirdir\" diyerek şiirin konusunu genişleten ve Servetifünun topluluğunun temelini atan \"üstat\" lakaplı Tanzimat şairi kimdir?",
+    "cardValue": "Recaizade Mahmut Ekrem."
+  },
+  {
+    "cardKey": "Devrinde \"Şair-i Azam\" olarak anılan, edebiyatımızın ilk pastoral şiiri \"Sahra\"yı ve eşinin ölümü üzerine \"Makber\"i yazan Tanzimat şairi kimdir?",
+    "cardValue": "Abdülhak Hamit Tarhan."
+  },
+  {
+    "cardKey": "Edebiyatımızın ilk köy şiiri olan \"Köylü Kızların Şarkısı\"nı yazan ve Recaizade'nin Zemzeme'sine karşı Demdeme'yi kaleme alan sanatçı kimdir?",
+    "cardValue": "Muallim Naci."
+  },
+  {
+    "cardKey": "Servetifünun edebiyatçıları hangi derginin etrafında toplanmıştır?",
+    "cardValue": "Servet-i Fünun dergisi."
+  },
+  {
+    "cardKey": "Servetifünun şiirinde hangi iki edebi akım etkili olmuştur?",
+    "cardValue": "Sembolizm ve parnasizm."
+  },
+  {
+    "cardKey": "Servetifünun döneminde divan şiirinden gelen müstezat nazım şekli nasıl bir değişikliğe uğramıştır?",
+    "cardValue": "\"Serbest müstezat\" olarak değiştirilmiş ve yaygın olarak kullanılmıştır."
+  },
+  {
+    "cardKey": "Tevfik Fikret'in hece ölçüsüyle yazdığı tek eseri hangisidir?",
+    "cardValue": "Çocuklar için yazdığı \"Şermin\" adlı şiir kitabıdır."
+  },
+  {
+    "cardKey": "Yaşadığı dönemi eleştirdiği \"Sis\" şiiriyle ve oğlu şahsında Türk gençliğine seslendiği \"Haluk'un Defteri\" ile tanınan Servetifünun şairi kimdir?",
+    "cardValue": "Tevfik Fikret."
+  },
+  {
+    "cardKey": "Servetifünun şiirinin ikinci önemli ismi olan, \"Elhan-ı Şita\" şiiri ve \"Tiryaki Sözleri\" adlı özdeyiş kitabıyla tanınan şair kimdir?",
+    "cardValue": "Cenap Şehabettin."
+  },
+  {
+    "cardKey": "Türk edebiyatında beyanname (bildiri) yayımlayan ilk edebi topluluk hangisidir?",
+    "cardValue": "Fecriati Topluluğu."
+  },
+  {
+    "cardKey": "Türk edebiyatında \"akşam şairi\" olarak tanınan, saf şiir anlayışının öncüsü ve \"Piyale\" ile \"Göl Saatleri\" adlı şiir kitaplarının yazarı kimdir?",
+    "cardValue": "Ahmet Haşim."
+  },
+  {
+    "cardKey": "Millî Edebiyat Dönemi hangi olayın ardından başlar?",
+    "cardValue": "Ömer Seyfettin'in Genç Kalemler dergisinde \"Yeni Lisan\" makalesini yayımlamasıyla başlar."
+  },
+  {
+    "cardKey": "Hece ölçüsüyle yazdığı \"Cenge Giderken\" şiiriyle Millî Edebiyat şiirinin öncüsü sayılan \"Türk Şairi\" kimdir?",
+    "cardValue": "Mehmet Emin Yurdakul."
+  },
+  {
+    "cardKey": "Türkçülük düşüncesini sistemleştiren ve \"Kızıl Elma\", \"Altın Işık\" gibi didaktik şiirler yazan düşünür ve şair kimdir?",
+    "cardValue": "Ziya Gökalp."
+  },
+  {
+    "cardKey": "Faruk Nafiz, Halit Fahri, Enis Behiç, Yusuf Ziya ve Orhan Seyfi'den oluşan edebi topluluğun adı nedir?",
+    "cardValue": "Beş Hececiler."
+  },
+  {
+    "cardKey": "Beş Hececiler'in aruzdan heceye geçişinin sembolü olan \"Aruza Veda\" şiirini kim yazmıştır?",
+    "cardValue": "Halit Fahri Ozansoy."
+  },
+  {
+    "cardKey": "\"Han Duvarları\" ve \"Çoban Çeşmesi\" şiirleriyle tanınan, Beş Hececiler'in en güçlü şairi kimdir?",
+    "cardValue": "Faruk Nafiz Çamlıbel."
+  },
+  {
+    "cardKey": "\"Ok\" şiiri dışında bütün şiirlerini aruzla yazan, \"İstanbul Şairi\" olarak bilinen ve saf (öz) şiirin temsilcisi olan şair kimdir?",
+    "cardValue": "Yahya Kemal Beyatlı."
+  },
+  {
+    "cardKey": "İslamcılık düşüncesinin en önemli temsilcisi olan, manzum hikâyenin üstadı kabul edilen ve şiirlerini \"Safahat\" adlı kitapta toplayan şair kimdir?",
+    "cardValue": "Mehmet Akif Ersoy."
+  },
+  {
+    "cardKey": "Cumhuriyet Dönemi'nde Beş Hececilere tepki olarak ortaya çıkan, \"samimilik, canlılık ve devamlı yenilik\" ilkesini benimseyen ilk edebi topluluk hangisidir?",
+    "cardValue": "Yedi Meşaleciler."
+  },
+  {
+    "cardKey": "\"Bursa'da Zaman\" şiiriyle tanınan; zaman, rüya, hayal gibi temaları işleyen ve Doğu-Batı sentezi yapan saf şiir temsilcisi kimdir?",
+    "cardValue": "Ahmet Hamdi Tanpınar."
+  },
+  {
+    "cardKey": "\"Kaldırımlar Şairi\" olarak bilinen, Türk edebiyatının en önemli mistik şairlerinden olan ve şiir poetikasını \"Çile\"de açıklayan sanatçı kimdir?",
+    "cardValue": "Necip Fazıl Kısakürek."
+  },
+  {
+    "cardKey": "\"Otuz Beş Yaş\" şiiriyle ünlenen, şiirlerinde ölüm korkusu ve yaşama arzusunu sıkça işleyen şair kimdir?",
+    "cardValue": "Cahit Sıtkı Tarancı."
+  },
+  {
+    "cardKey": "Toplumcu gerçekçi şiirin öncüsü olan, fütürizmden etkilenerek serbest şiirin önemli örneklerini veren ve \"Memleketimden İnsan Manzaraları\"nı yazan şair kimdir?",
+    "cardValue": "Nâzım Hikmet Ran."
+  },
+  {
+    "cardKey": "\"Duvar\", \"Sisler Bulvarı\" gibi eserleriyle tanınan, Mavi Hareketi içinde yer alan ve kendine özgü imge dünyasıyla dikkat çeken şair kimdir?",
+    "cardValue": "Attilâ İlhan."
+  },
+  {
+    "cardKey": "Orhan Veli, Melih Cevdet ve Oktay Rifat'ın oluşturduğu, şiirde her türlü kurala ve şairaneliğe karşı çıkarak sıradan insanı ve günlük dili öne çıkaran hareketin adı nedir?",
+    "cardValue": "Garip Hareketi (Birinci Yeni)."
+  },
+  {
+    "cardKey": "Garip şiirine tepki olarak doğan, imgeye, soyut ve kapalı anlatıma, alışılmamış bağdaştırmalara dayanan şiir anlayışının adı nedir?",
+    "cardValue": "İkinci Yeni."
+  },
+  {
+    "cardKey": "\"Üvercinka\" ve \"Göçebe\" gibi eserleriyle tanınan, İkinci Yeni'nin önde gelen isimlerinden olan şair kimdir?",
+    "cardValue": "Cemal Süreya."
+  },
+  {
+    "cardKey": "\"Diriliş\" düşüncesi etrafında şekillenen şiirleriyle modern Türk şiirine İslami bir boyut kazandıran, \"Monna Rosa\" şiirinin yazarı kimdir?",
+    "cardValue": "Sezai Karakoç."
+  },
+  {
+    "cardKey": "Hikâye türünün dünya edebiyatındaki ilk örneği kabul edilen eser ve yazarı kimdir?",
+    "cardValue": "Boccacio'nun Decameron adlı eseri."
+  },
+  {
+    "cardKey": "Türk edebiyatındaki ilk yerli hikâye kitabı olan \"Letâif-i Rivâyât\" kimin eseridir?",
+    "cardValue": "Ahmet Mithat Efendi."
+  },
+  {
+    "cardKey": "Batılı anlamda ilk hikâyeleri içeren \"Küçük Şeyler\" adlı eserin yazarı kimdir?",
+    "cardValue": "Sami Paşazâde Sezai."
+  },
+  {
+    "cardKey": "Serim, düğüm, çözüm planına bağlı, merak ve heyecan unsurunu ön planda tutan hikâye türüne ne denir?",
+    "cardValue": "Olay hikâyesi (Maupassant tarzı)."
+  },
+  {
+    "cardKey": "Olaydan çok günlük yaşamın bir kesitini, duygu ve hayalleri ele alan hikâye türüne ne denir?",
+    "cardValue": "Durum hikâyesi (Çehov tarzı)."
+  },
+  {
+    "cardKey": "Destandan halk hikâyeciliğine geçişin ilk örneği kabul edilen eser hangisidir?",
+    "cardValue": "Dede Korkut Hikâyeleri."
+  },
+  {
+    "cardKey": "Çağdaş Türk öykücülüğünün öncüsü ve Maupassant tarzı öykünün edebiyatımızdaki en önemli temsilcisi kimdir?",
+    "cardValue": "Ömer Seyfettin."
+  },
+  {
+    "cardKey": "Sürgün yıllarındaki gözlemlerini yansıttığı \"Memleket Hikâyeleri\" ve \"Gurbet Hikâyeleri\" ile tanınan yazar kimdir?",
+    "cardValue": "Refik Halit Karay."
+  },
+  {
+    "cardKey": "Türk edebiyatında durum hikâyesinin öncüsü kabul edilen ve \"Otlakçı\", \"Mendil Altında\" gibi eserleriyle tanınan yazar kimdir?",
+    "cardValue": "Memduh Şevket Esendal."
+  },
+  {
+    "cardKey": "İstanbul'u, adaları, balıkçıları, sıradan insanları anlattığı \"Semaver\", \"Lüzumsuz Adam\", \"Son Kuşlar\" gibi hikâyeleriyle tanınan durum öykücüsü kimdir?",
+    "cardValue": "Sait Faik Abasıyanık."
+  },
+  {
+    "cardKey": "Toplumcu gerçekçi hikâyenin önemli isimlerinden olan, \"Değirmen\", \"Kağnı\", \"Sırça Köşk\" gibi eserlerin yazarı kimdir?",
+    "cardValue": "Sabahattin Ali."
+  },
+  {
+    "cardKey": "Bireyin iç dünyasını, psikolojik çözümlemeleri esas alan \"Abdullah Efendi'nin Rüyaları\" ve \"Yaz Yağmuru\" adlı hikâye kitaplarının yazarı kimdir?",
+    "cardValue": "Ahmet Hamdi Tanpınar."
+  },
+  {
+    "cardKey": "Roman türünün Türk edebiyatındaki ilk çeviri örneği olan \"Telemak\" kim tarafından çevrilmiştir?",
+    "cardValue": "Yusuf Kamil Paşa."
+  },
+  {
+    "cardKey": "Türk edebiyatında ilk yerli roman kabul edilen \"Taaşşuk-ı Talat ve Fitnat\" kimin eseridir?",
+    "cardValue": "Şemsettin Sami."
+  },
+  {
+    "cardKey": "Türk edebiyatının ilk edebî romanı \"İntibah\" ve ilk tarihî romanı \"Cezmi\"yi yazan Tanzimat sanatçısı kimdir?",
+    "cardValue": "Namık Kemal."
+  },
+  {
+    "cardKey": "Yanlış Batılılaşma konusunu işleyen ilk realist roman olan \"Araba Sevdası\"nın yazarı kimdir?",
+    "cardValue": "Recaizade Mahmut Ekrem."
+  },
+  {
+    "cardKey": "Türk edebiyatının ilk köy romanı olan \"Karabibik\" ve ilk psikolojik roman denemesi olan \"Zehra\"nın yazarı kimdir?",
+    "cardValue": "Nabizâde Nazım."
+  },
+  {
+    "cardKey": "Türk edebiyatının ilk psikolojik romanı kabul edilen \"Eylül\" kimin eseridir?",
+    "cardValue": "Mehmet Rauf."
+  },
+  {
+    "cardKey": "Batılı teknikle yazılmış ilk modern roman kabul edilen \"Mai ve Siyah\" ve \"Aşk-ı Memnu\"nun yazarı kimdir?",
+    "cardValue": "Halit Ziya Uşaklıgil."
+  },
+  {
+    "cardKey": "Sokağı edebiyata taşıyan yazar olarak bilinen, natüralizmin Türk edebiyatındaki en önemli temsilcisi olan ve \"Şık\", \"Şıpsevdi\", \"Gulyabani\" gibi romanları yazan sanatçı kimdir?",
+    "cardValue": "Hüseyin Rahmi Gürpınar."
+  },
+  {
+    "cardKey": "Tanzimat'tan Cumhuriyet'e Türk toplumundaki değişimleri \"Kiralık Konak\", \"Yaban\", \"Sodom ve Gomore\" gibi nehir roman özelliği taşıyan eserlerinde işleyen yazar kimdir?",
+    "cardValue": "Yakup Kadri Karaosmanoğlu."
+  },
+  {
+    "cardKey": "Kurtuluş Savaşı'nı anlattığı \"Ateşten Gömlek\", \"Vurun Kahpeye\" ve töre romanı özelliği taşıyan \"Sinekli Bakkal\" ile tanınan yazar kimdir?",
+    "cardValue": "Halide Edip Adıvar."
+  },
+  {
+    "cardKey": "Anadolu'yu ve idealist öğretmen tipini işlediği \"Çalıkuşu\", toplumsal eleştiri yaptığı \"Yaprak Dökümü\" romanlarıyla bilinen yazar kimdir?",
+    "cardValue": "Reşat Nuri Güntekin."
+  },
+  {
+    "cardKey": "Bireyin iç dünyasını esas alan, psikolojik tahlillere geniş yer veren ve otobiyografik özellikler taşıyan \"Dokuzuncu Hariciye Koğuşu\"nun yazarı kimdir?",
+    "cardValue": "Peyami Safa."
+  },
+  {
+    "cardKey": "Geçmişe özlem, hatıralar ve İstanbul'un eski yaşamını \"Fahim Bey ve Biz\", \"Çamlıca'daki Eniştemiz\" gibi eserlerinde işleyen yazar kimdir?",
+    "cardValue": "Abdülhak Şinasi Hisar."
+  },
+  {
+    "cardKey": "Köy ve kasaba sorunlarını, ağa-köylü çatışmasını, hapishane yaşamını işleyen \"Devlet Ana\", \"Yorgun Savaşçı\", \"Esir Şehrin İnsanları\" gibi romanların yazarı kimdir?",
+    "cardValue": "Kemal Tahir."
+  },
+  {
+    "cardKey": "Adana ve Çukurova'daki pamuk işçilerinin, fabrika işçilerinin ve yoksul insanların yaşamını \"Bereketli Topraklar Üzerinde\", \"Hanımın Çiftliği\", \"Murtaza\" gibi romanlarında anlatan yazar kimdir?",
+    "cardValue": "Orhan Kemal."
+  },
+  {
+    "cardKey": "Çukurova insanını, efsanelerden ve halk hikâyelerinden yararlanarak destansı bir üslupla anlatan, \"İnce Memed\" serisinin yazarı kimdir?",
+    "cardValue": "Yaşar Kemal."
+  },
+  {
+    "cardKey": "Türk edebiyatında postmodern romanın ilk örneği kabul edilen ve aydının toplumla çatışmasını anlatan \"Tutunamayanlar\" romanının yazarı kimdir?",
+    "cardValue": "Oğuz Atay."
+  },
+  {
+    "cardKey": "Modernist ve postmodernist teknikleri kullanarak bireyin yalnızlığını, bunalımlarını anlattığı \"Aylak Adam\" ve \"Anayurt Oteli\" romanlarının yazarı kimdir?",
+    "cardValue": "Yusuf Atılgan."
+  },
+  {
+    "cardKey": "Dünya edebiyatında roman türünün ilk başarılı örneği kabul edilen \"Don Kişot\" kimin eseridir?",
+    "cardValue": "Cervantes."
+  },
+  {
+    "cardKey": "Dünya edebiyatında ilk realist roman kabul edilen \"Madam Bovary\" adlı eserin yazarı kimdir?",
+    "cardValue": "Gustave Flaubert."
+  },
+  {
+    "cardKey": "Rus edebiyatının en büyük realistlerinden olan, \"Savaş ve Barış\" ve \"Anna Karenina\" romanlarının yazarı kimdir?",
+    "cardValue": "Tolstoy."
+  },
+  {
+    "cardKey": "İnsan psikolojisinin derinliklerine indiği \"Suç ve Ceza\" ve \"Karamazov Kardeşler\" romanlarıyla tanınan Rus yazar kimdir?",
+    "cardValue": "Dostoyevski."
+  },
+  {
+    "cardKey": "Fransız edebiyatında romantizm akımının en önemli temsilcisi olan ve \"Sefiller\" ile \"Notre Dame'ın Kamburu\" romanlarını yazan sanatçı kimdir?",
+    "cardValue": "Victor Hugo."
+  }
+]
