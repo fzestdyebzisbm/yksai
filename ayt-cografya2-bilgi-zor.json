@@ -1,1 +1,802 @@
-
+[
+  {
+    "cardKey": "Canlıların doğal ortam içinde yaşadığı ve litosfer, atmosfer ve hidrosfer ile etkileşim hâlinde olan küreye ne ad verilir?",
+    "cardValue": "Biyosfer."
+  },
+  {
+    "cardKey": "Bir bölgedeki çeşitli bitki ve hayvan türleri ile mikroorganizmaların sayısını ve bu canlıların birbirleriyle olan ilişkilerini ifade eden kavram nedir?",
+    "cardValue": "Biyoçeşitlilik."
+  },
+  {
+    "cardKey": "Karalarda yaşayan canlıların dağılışını etkileyen en önemli iki iklim elemanı hangileridir?",
+    "cardValue": "Sıcaklık ve yağış."
+  },
+  {
+    "cardKey": "Yükseltiye bağlı olarak sıcaklığın azalması ve yağışın artmasının biyoçeşitlilik üzerindeki etkisi nedir?",
+    "cardValue": "Bitki ve hayvan türlerinin bir dağ yamacı boyunca değişmesini sağlar."
+  },
+  {
+    "cardKey": "Jeolojik zamanlarda yer kabuğu hareketlerine bağlı olarak kıtaların yer değiştirmesi, biyoçeşitliliği nasıl etkilemiştir?",
+    "cardValue": "Canlıların dağılışını etkilemiş ve farklı türlerin etkileşime girmesini sağlamıştır."
+  },
+  {
+    "cardKey": "İnsanların nesli tükenmekte olan hayvanları koruma altına alması, biyoçeşitlilik üzerindeki _____ etkisine bir örnektir.",
+    "cardValue": "olumlu"
+  },
+  {
+    "cardKey": "Benzer yetişme şartlarına sahip bitki ve hayvan topluluklarını barındıran bölgelere ne ad verilir?",
+    "cardValue": "Biyom."
+  },
+  {
+    "cardKey": "Her mevsim sıcak ve yağışlı geçen, biyoçeşitliliğin en fazla olduğu Ekvator ve çevresinde görülen biyom hangisidir?",
+    "cardValue": "Tropikal Yağmur Ormanları Biyomu."
+  },
+  {
+    "cardKey": "Yıl boyunca nem ve yağışın fazla olduğu, sonbaharda ağaçların yapraklarını döktüğü ılıman iklim bölgelerinde görülen biyom hangisidir?",
+    "cardValue": "Yaprak Döken Orman Biyomu."
+  },
+  {
+    "cardKey": "Kışların uzun ve soğuk, yazların kısa ve serin geçtiği sert karasal iklim bölgelerindeki iğne yapraklı ormanlara ne ad verilir?",
+    "cardValue": "Tayga (boreal) ormanları."
+  },
+  {
+    "cardKey": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen Akdeniz iklim bölgelerinde görülen, bodur ağaç ve çalılardan oluşan biyom hangisidir?",
+    "cardValue": "Çalı Biyomu."
+  },
+  {
+    "cardKey": "Her iki yarım kürede 10°-20° enlemleri arasında görülen, uzun boylu ot toplulukları ve kuraklığa dayanıklı ağaçlardan oluşan biyom hangisidir?",
+    "cardValue": "Savan Biyomu."
+  },
+  {
+    "cardKey": "Yıllık yağış miktarının 200 mm'nin altında olduğu, kurakçıl otlar ve kaktüslerin bitki örtüsünü oluşturduğu biyom hangisidir?",
+    "cardValue": "Çöl Biyomu."
+  },
+  {
+    "cardKey": "Yıl boyunca sıcaklığın 0 °C'nin altında olduğu ve bitki örtüsünün bulunmadığı kutup bölgelerinde hangi biyom görülür?",
+    "cardValue": "Kutup Biyomu."
+  },
+  {
+    "cardKey": "Toprağın kışın donup yazın çözüldüğü tundra iklim bölgesinde görülen, ot, yosun ve likenlerden oluşan bitki örtüsüne sahip biyom hangisidir?",
+    "cardValue": "Tundra Biyomu."
+  },
+  {
+    "cardKey": "Himalaya, And, Alp gibi dağların yüksek kesimlerinde görülen ve iğne yapraklı ormanlar ile alpin çayırlarından oluşan biyom hangisidir?",
+    "cardValue": "Dağ Biyomu."
+  },
+  {
+    "cardKey": "Orta kuşakta yağışın az olduğu yarı kurak iklim bölgelerinde görülen; bozkır, çayır ve preri gibi ot topluluklarından oluşan biyom hangisidir?",
+    "cardValue": "Ilıman Çayırlar Biyomu."
+  },
+  {
+    "cardKey": "Ekosistemin cansız ögelerini neler oluşturur?",
+    "cardValue": "Toprak, kaya, su, Güneş ışığı ve atmosfer gibi fiziksel ve kimyasal unsurlar."
+  },
+  {
+    "cardKey": "Ekosistemin canlı ögeleri olan üreticiler, tüketiciler ve ayrıştırıcılara örnek veriniz.",
+    "cardValue": "Üreticiler (bitkiler), tüketiciler (hayvanlar) ve ayrıştırıcılar (bakteri ve mantarlar)."
+  },
+  {
+    "cardKey": "Besin maddeleri ve enerjinin üreticilerden otçullara, oradan da etçillere doğru aktarılmasına ne denir?",
+    "cardValue": "Besin zinciri."
+  },
+  {
+    "cardKey": "Ekosistemlerde bir besin seviyesinden diğerine aktarılan enerjinin oranı yaklaşık yüzde kaçtır?",
+    "cardValue": "Yaklaşık %10'dur."
+  },
+  {
+    "cardKey": "Ölmüş bitki ve hayvan atıklarının parçalanmasını sağlayarak bunların inorganik maddeler şeklinde doğaya dönmesine katkı sunan canlı grubu hangisidir?",
+    "cardValue": "Ayrıştırıcılar (bakteri ve mantarlar)."
+  },
+  {
+    "cardKey": "Karbon; litosferde hangi şekillerde bulunur?",
+    "cardValue": "Kömür, petrol, doğal gaz gibi fosil yakıtlar şeklinde bulunur."
+  },
+  {
+    "cardKey": "Atmosferdeki karbon üretimini sağlayan doğal ve beşerî olaylara üç örnek veriniz.",
+    "cardValue": "Solunum, orman yangınları ve fosil yakıtların yakılması."
+  },
+  {
+    "cardKey": "Atmosferde %78'lik oranla en çok bulunan ve canlıların yapı taşını oluşturan nükleik asit ile proteinlerde bulunan gaz hangisidir?",
+    "cardValue": "Azot (nitrojen)."
+  },
+  {
+    "cardKey": "Azotun ekosisteme girişi hangi iki temel yolla gerçekleşir?",
+    "cardValue": "Kozmik radyasyon, yıldırım gibi olaylar ve biyolojik yoldan tutulma."
+  },
+  {
+    "cardKey": "Suyun sıvı, katı ve gaz hâlde yeryüzü ile atmosfer arasında sürekli yer değiştirmesi olayına ne ad verilir?",
+    "cardValue": "Hidrolojik döngü ya da su döngüsü."
+  },
+  {
+    "cardKey": "Akarsuların denize döküldüğü ağız kısmı, biyoçeşitlilik açısından neden zengindir?",
+    "cardValue": "Sıcaklık, tuzluluk, mineral ve organik madde bakımından elverişli olduğu için zengindir."
+  },
+  {
+    "cardKey": "Okyanus ve denizlerde canlı çeşitliliğinin en fazla olduğu derinlik aralığı nedir ve bunun sebebi nedir?",
+    "cardValue": "200 metre derinliğe kadar olan ortamdır, çünkü Güneş ışınları buraya kadar ulaşabilir."
+  },
+  {
+    "cardKey": "Ülkelerin nüfusun miktarına ve niteliğine yönelik alabileceği önlemlerin tümüne ne denir?",
+    "cardValue": "Nüfus politikası."
+  },
+  {
+    "cardKey": "Nüfus artış hızının çok yüksek olduğu Bangladeş, Nijerya gibi az gelişmiş ülkeler genellikle nasıl bir nüfus politikası uygular?",
+    "cardValue": "Nüfus artış hızını düşürmeyi amaçlayan politikalar uygular."
+  },
+  {
+    "cardKey": "Nüfus artış hızının düşük olduğu Batı Avrupa ülkeleri, Rusya ve Japonya gibi ülkeler genellikle nasıl bir nüfus politikası uygular?",
+    "cardValue": "Nüfus artış hızını yükseltmeyi amaçlayan politikalar uygular."
+  },
+  {
+    "cardKey": "Nüfus artış hızının yükselmesinin olumlu sonuçlarından ikisini belirtiniz.",
+    "cardValue": "Üretimde artış gözlenir ve iş gücü artar."
+  },
+  {
+    "cardKey": "Nüfus artış hızının azalmasının olumsuz sonuçlarından ikisini belirtiniz.",
+    "cardValue": "Yaşlı nüfus artar ve üretken nüfus azalır."
+  },
+  {
+    "cardKey": "Türkiye'de 1923-1965 döneminde uygulanan nüfus politikasının temel amacı neydi?",
+    "cardValue": "Savaşlardaki nüfus kayıplarını telafi etmek ve nüfus artışını hızlandırmak."
+  },
+  {
+    "cardKey": "Türkiye'de 1965-1980 döneminde hangi nüfus politikası benimsenmiştir?",
+    "cardValue": "Nüfus artış hızını düşürmeyi amaçlayan politikalar uygulanmıştır."
+  },
+  {
+    "cardKey": "Türkiye'de 2005 sonrası dönemde hangi nüfus politikasına yönelik söylemler geliştirilmiştir?",
+    "cardValue": "Nüfus artış hızını artırmaya yönelik söylemler geliştirilmiştir."
+  },
+  {
+    "cardKey": "İlk şehir yerleşmelerinin ortaya çıktığı Mezopotamya, Mısır, Hindistan gibi alanların ortak coğrafi özellikleri nelerdir?",
+    "cardValue": "Ilıman iklim koşulları, verimli tarım toprakları ve su kaynaklarının bolluğu."
+  },
+  {
+    "cardKey": "Bir ülkenin veya bölgenin yönetim merkezinin bulunduğu şehirlere ne ad verilir?",
+    "cardValue": "İdari şehirler."
+  },
+  {
+    "cardKey": "Mekke, Medine ve Kudüs gibi şehirler hangi fonksiyonlarına göre sınıflandırılır?",
+    "cardValue": "Dinî şehirler."
+  },
+  {
+    "cardKey": "Sanayi Devrimi'nin etkisiyle sanayi tesislerinin kurulması sonucu ortaya çıkan Manchester ve Tokyo gibi şehirlere ne ad verilir?",
+    "cardValue": "Sanayi şehirleri."
+  },
+  {
+    "cardKey": "Hinterlandı geniş, önemli koy ve körfezlere sahip olan ve ticaretin liman aracılığıyla geliştiği Rotterdam ve Marsilya gibi şehirler ne tür şehirlerdir?",
+    "cardValue": "Liman şehirleri."
+  },
+  {
+    "cardKey": "Türkiye'de maden çıkarımına bağlı olarak gelişen şehirlere üç örnek veriniz.",
+    "cardValue": "Soma (Manisa), Batman ve Zonguldak."
+  },
+  {
+    "cardKey": "Uluslararası ticaret, borsa ve bankacılık gibi ekonomik faaliyetlerin bulunduğu New York ve Londra gibi şehirler etki alanları ne göre nasıl sınıflandırılır?",
+    "cardValue": "Küresel etkiye sahip şehirler."
+  },
+  {
+    "cardKey": "Küreselleşen hızlı şehir hayatına karşı 1999'da kurulan ve nüfusu 50.000'in altındaki şehirlerin üye olabildiği uluslararası belediyeler birliğinin adı nedir?",
+    "cardValue": "Cittaslow (Sakin Şehir)."
+  },
+  {
+    "cardKey": "Türkiye'nin ilk 'Sakin Şehir' (Cittaslow) unvanını alan yerleşim yeri neresidir?",
+    "cardValue": "Seferihisar (2009)."
+  },
+  {
+    "cardKey": "Su kaynaklarının yetersiz ve arazinin engebesiz olduğu yerlerde evlerin birbirine yakın olduğu yerleşme dokusu hangisidir?",
+    "cardValue": "Toplu kır yerleşmeleri."
+  },
+  {
+    "cardKey": "Arazinin engebeli, tarım alanlarının küçük ve su kaynaklarının fazla olduğu yerlerde evlerin birbirinden uzak olduğu yerleşme dokusuna ne denir?",
+    "cardValue": "Dağınık kır yerleşmeleri."
+  },
+  {
+    "cardKey": "Köyün idari sınırları içinde yer alan, genellikle ilkbahar ve yaz aylarında hayvancılık için kullanılan geçici yerleşmelere ne ad verilir?",
+    "cardValue": "Yayla, ağıl, kom, dam, oba."
+  },
+  {
+    "cardKey": "Mal ve hizmetlerin bir dizi işlemden geçirilerek kullanılabilir hâle getirilmesi sürecine ne denir?",
+    "cardValue": "Üretim."
+  },
+  {
+    "cardKey": "Mal ve hizmetlerin üretim alanlarından tüketim merkezlerine ulaştırılması faaliyetinin adı nedir?",
+    "cardValue": "Dağıtım."
+  },
+  {
+    "cardKey": "Üretim, dağıtım ve tüketimi etkileyen doğal unsurlara üç örnek veriniz.",
+    "cardValue": "İklim, yeryüzü şekilleri ve su kaynakları."
+  },
+  {
+    "cardKey": "Üretimi etkileyen beşerî unsurlardan üç tanesini sayınız.",
+    "cardValue": "Sermaye, iş gücü ve eğitimi, teknolojik gelişmeler."
+  },
+  {
+    "cardKey": "Dağıtımı etkileyen beşerî unsurlara iki örnek veriniz.",
+    "cardValue": "Ulaşım ve modern pazarlama teknikleri."
+  },
+  {
+    "cardKey": "Tüketimi etkileyen beşerî unsurlardan üçünü belirtiniz.",
+    "cardValue": "İhtiyaçlar, gelir düzeyi ve reklam."
+  },
+  {
+    "cardKey": "Oluşumunda teknolojinin ve insan aklının rolü olmayan, mal ve hizmetlerin üretimi için gerekli olan kaynaklara ne denir?",
+    "cardValue": "Doğal kaynak."
+  },
+  {
+    "cardKey": "Kullanıldıkça tükenmeyen veya kendini kısa sürede yenileyebilen doğal kaynaklara ne ad verilir?",
+    "cardValue": "Yenilenebilir (Tükenmeyen) Doğal Kaynaklar."
+  },
+  {
+    "cardKey": "Güneş, rüzgâr ve su hangi tür doğal kaynaklara örnektir?",
+    "cardValue": "Yenilenebilir (tükenmeyen) doğal kaynaklar."
+  },
+  {
+    "cardKey": "Petrol, kömür, doğal gaz ve madenler ne tür doğal kaynaklardır?",
+    "cardValue": "Yenilenemeyen (tükenebilen) doğal kaynaklar."
+  },
+  {
+    "cardKey": "Sanayi Devrimi'ni başlatan ve demir-çelik üretiminde yaygın olarak kullanılan maden hangisidir?",
+    "cardValue": "Kömür."
+  },
+  {
+    "cardKey": "Doğal kaynaklar bakımından fakir olmasına rağmen teknoloji, sermaye ve nitelikli iş gücü sayesinde ekonomik olarak gelişmiş ülkelere iki örnek veriniz.",
+    "cardValue": "Japonya ve İsviçre."
+  },
+  {
+    "cardKey": "Doğal kaynaklar bakımından zengin olup sermaye ve teknoloji yetersizliği nedeniyle yeterince gelişememiş ülkelere iki örnek veriniz.",
+    "cardValue": "Nijerya ve Venezuela."
+  },
+  {
+    "cardKey": "Türkiye hangi madenler bakımından zenginken, hangi enerji kaynakları bakımından fakirdir?",
+    "cardValue": "Bor, mermer ve krom bakımından zengin; petrol, doğal gaz ve taş kömürü bakımından fakirdir."
+  },
+  {
+    "cardKey": "17 Şubat 1923'te toplanan ve yeni kurulacak devletin ekonomik yapısının milliyetçi ve liberal olmasının benimsendiği kongre hangisidir?",
+    "cardValue": "İzmir İktisat Kongresi."
+  },
+  {
+    "cardKey": "Türkiye'de 1930-1950 döneminde hangi ekonomi politikası uygulanmıştır?",
+    "cardValue": "Devletçi ekonomi politikaları."
+  },
+  {
+    "cardKey": "1960 yılında kurulan ve 5 yıllık kalkınma planlarını hazırlayan kurum hangisidir?",
+    "cardValue": "Devlet Planlama Teşkilatı (DPT)."
+  },
+  {
+    "cardKey": "Türkiye'de 1980'den sonraki dönemde ithalata dayalı büyüme yerine hangi ekonomik büyüme modeli planlanmıştır?",
+    "cardValue": "İhracata dayalı ekonomik büyüme."
+  },
+  {
+    "cardKey": "Geleneksel yöntemlerle yapılan, verimin düşük olduğu ve doğal koşullara bağımlılığın fazla olduğu tarım metodu nedir?",
+    "cardValue": "Ekstansif (yaygın) tarım."
+  },
+  {
+    "cardKey": "Modern yöntemlerle (sulama, gübreleme, kaliteli tohum) yapılan, verimin yüksek olduğu ve doğal koşullara bağımlılığın az olduğu tarım metodu nedir?",
+    "cardValue": "İntansif (yoğun) tarım."
+  },
+  {
+    "cardKey": "Tarım alanlarının sürülerek bir veya iki yıl dinlenmesi için boş bırakılması uygulamasına ne denir?",
+    "cardValue": "Nadas."
+  },
+  {
+    "cardKey": "Tarım ürünlerinin cam veya plastikten yapılmış özel mekânlarda yetiştirilmesine ne ad verilir?",
+    "cardValue": "Seracılık (Örtülü tarım)."
+  },
+  {
+    "cardKey": "Türkiye'de buğday üretiminin en çok yapıldığı il hangisidir?",
+    "cardValue": "Konya."
+  },
+  {
+    "cardKey": "Türkiye'de yüksek sıcaklık ve bol su istediği için akarsu boylarında tarımı yapılan tahıl hangisidir?",
+    "cardValue": "Çeltik (pirinç)."
+  },
+  {
+    "cardKey": "Söküldükten sonra hemen işlenmesi gerektiği için fabrikaların tarım alanlarına yakın kurulmasını zorunlu kılan endüstri bitkisi hangisidir?",
+    "cardValue": "Şeker pancarı."
+  },
+  {
+    "cardKey": "Olgunlaşma döneminde kuraklık ve yüksek sıcaklık isteyen, Güneydoğu Anadolu Projesi (GAP) ile üretimi artan endüstri bitkisi hangisidir?",
+    "cardValue": "Pamuk."
+  },
+  {
+    "cardKey": "Türkiye'nin dünyada üretiminde söz sahibi olduğu ve Karadeniz iklimine uyum sağlamış tarım ürünü hangisidir?",
+    "cardValue": "Fındık."
+  },
+  {
+    "cardKey": "Türkiye'de sadece Doğu Karadeniz'de, bol yağışlı ve kireçsiz topraklarda yetişen tarım ürünü hangisidir?",
+    "cardValue": "Çay."
+  },
+  {
+    "cardKey": "Iğdır'da pamuk, Rize'de turunçgil gibi ürünlerin yetişmesi, bu alanların hangi özelliğinden kaynaklanır?",
+    "cardValue": "Mikroklima özelliklerinden kaynaklanır."
+  },
+  {
+    "cardKey": "Türkiye'de kenevir, haşhaş, pirinç ve tütün gibi tarım ürünlerinin ekimi neye bağlıdır?",
+    "cardValue": "Tarım ve Orman Bakanlığının verdiği özel izne bağlıdır."
+  },
+  {
+    "cardKey": "Meralarda otlatılan hayvanların ahır veya ağıllarda kaba yemle beslenmesine dayalı hayvancılık türü nedir?",
+    "cardValue": "Mera (otlak) hayvancılığı."
+  },
+  {
+    "cardKey": "Hayvanların ahırlarda genellikle yapay yemlerle beslendiği, verimin yüksek olduğu hayvancılık türü hangisidir?",
+    "cardValue": "Besi hayvancılığı."
+  },
+  {
+    "cardKey": "Türkiye'de bozkır bitki örtüsünün yaygın olduğu iç kesimlerde en çok hangi küçükbaş hayvan yetiştirilir?",
+    "cardValue": "Koyun."
+  },
+  {
+    "cardKey": "Yazların serin ve yağışlı geçtiği, çayır bitki örtüsünün yaygın olduğu Kuzeydoğu Anadolu'da hangi hayvancılık faaliyeti ön plandadır?",
+    "cardValue": "Büyükbaş hayvancılık (sığır yetiştiriciliği)."
+  },
+  {
+    "cardKey": "Büyük şehirlerin çevresinde tüketici nüfusa yakınlık nedeniyle gelişen hayvancılık faaliyeti hangisidir?",
+    "cardValue": "Kümes hayvancılığı (özellikle tavukçuluk)."
+  },
+  {
+    "cardKey": "Dut ağacının bulunduğu yerlerde yapılan ve son yıllarda yapay ipek üretimi nedeniyle azalan hayvancılık faaliyeti hangisidir?",
+    "cardValue": "İpek böcekçiliği."
+  },
+  {
+    "cardKey": "Özel olarak düzenlenmiş havuzlarda ticari amaçla balık üretme işlemine ne denir?",
+    "cardValue": "Kültür balıkçılığı."
+  },
+  {
+    "cardKey": "Maden yatağında bulunan ve henüz işlenmemiş toplam maden miktarına ne ad verilir?",
+    "cardValue": "Rezerv."
+  },
+  {
+    "cardKey": "Madenin taş ve topraktan ayrıldıktan sonraki net miktarına ne ad verilir?",
+    "cardValue": "Tenör."
+  },
+  {
+    "cardKey": "Sivas (Divriği) ve Malatya (Hasançelebi) hangi maden yatakları ile ünlüdür?",
+    "cardValue": "Demir."
+  },
+  {
+    "cardKey": "Paslanmaz çelik yapımında kullanılan ve Türkiye'de Guleman (Elazığ) ve Fethiye-Köyceğiz bölgelerinde çıkarılan maden hangisidir?",
+    "cardValue": "Krom."
+  },
+  {
+    "cardKey": "Elektrik-elektronik sanayisinde kullanılan ve Artvin (Murgul) ile Kastamonu'da (Küre) çıkarılan maden hangisidir?",
+    "cardValue": "Bakır."
+  },
+  {
+    "cardKey": "Uçak sanayisinde kullanılan alüminyumun ham maddesi olan ve Konya'da (Seydişehir) işlenen maden hangisidir?",
+    "cardValue": "Boksit."
+  },
+  {
+    "cardKey": "Türkiye'nin dünya rezervlerinin büyük kısmına sahip olduğu; roket yakıtı, cam ve temizlik ürünlerinde kullanılan maden hangisidir?",
+    "cardValue": "Bor mineralleri."
+  },
+  {
+    "cardKey": "Türkiye'de taş kömürü yatakları hangi havzada yer alır?",
+    "cardValue": "Zonguldak-Ereğli-Amasra Havzası'nda yer alır."
+  },
+  {
+    "cardKey": "Türkiye'de rezervi en bol olan, termik santrallerde ve konutların ısıtılmasında kullanılan enerji kaynağı hangisidir?",
+    "cardValue": "Linyit."
+  },
+  {
+    "cardKey": "Türkiye'nin yüksek ve engebeli olması hangi yenilenebilir enerji kaynağının potansiyelini artırmıştır?",
+    "cardValue": "Hidroelektrik enerji."
+  },
+  {
+    "cardKey": "Türkiye'de jeotermal enerji potansiyelinin yüksek olmasının temel nedeni nedir?",
+    "cardValue": "Aktif bir tektonik kuşak üzerinde bulunması (genç bir araziye sahip olması)."
+  },
+  {
+    "cardKey": "Sanayi tesislerinin dağılışını etkileyen faktörlerden, çabuk bozulabilen ürünleri işleyen tesislerin kuruluş yerini belirleyen en önemli faktör hangisidir?",
+    "cardValue": "Ham maddeye yakınlık."
+  },
+  {
+    "cardKey": "Türkiye'de zeytinyağı fabrikaları hangi şehirlerde yoğunlaşmıştır?",
+    "cardValue": "Edremit, Ayvalık ve Gemlik gibi Ege ve Marmara kıyılarındaki şehirlerde yoğunlaşmıştır."
+  },
+  {
+    "cardKey": "Türkiye'de pamuklu dokuma sanayisinin geliştiği şehirlere iki örnek veriniz.",
+    "cardValue": "Adana, İzmir, Denizli, Gaziantep."
+  },
+  {
+    "cardKey": "Türkiye'de petrol rafinerileri hangi şehirlerde bulunmaktadır?",
+    "cardValue": "İzmit (İpraş), İzmir (Aliağa), Kırıkkale (Orta Anadolu) ve Batman."
+  },
+  {
+    "cardKey": "Türkiye'de otomotiv sanayisinin en çok geliştiği il hangisidir?",
+    "cardValue": "Bursa."
+  },
+  {
+    "cardKey": "Demir-çelik fabrikalarının Zonguldak (Ereğli) ve Karabük'te kurulmasının temel nedeni nedir?",
+    "cardValue": "Enerji kaynağına (taş kömürü) yakınlık."
+  },
+  {
+    "cardKey": "Fırat ve Dicle nehirleri arasındaki verimli topraklarda kurulan ve yazıyı bulan medeniyet hangisidir?",
+    "cardValue": "Mezopotamya Medeniyeti."
+  },
+  {
+    "cardKey": "Nil Nehri çevresinde kurulan, kendine özgü hiyeroglif yazısını kullanan ve matematik, tıp gibi alanlarda ilerleyen medeniyet hangisidir?",
+    "cardValue": "Mısır Medeniyeti."
+  },
+  {
+    "cardKey": "And Dağları'nın yüksek kesimlerine şehirler kuran ve Güneş'in hareketlerini inceleyerek güneş saatini yapan medeniyet hangisidir?",
+    "cardValue": "İnka Medeniyeti."
+  },
+  {
+    "cardKey": "Matbaa, barut, kâğıt ve pusula gibi buluşların ortaya çıkmasında etkili olan medeniyet hangisidir?",
+    "cardValue": "Çin Medeniyeti."
+  },
+  {
+    "cardKey": "Büyük kültür bölgelerinin oluşturulmasında ön plana çıkan iki önemli kültür ögesi hangisidir?",
+    "cardValue": "Dil ve din."
+  },
+  {
+    "cardKey": "Orta Doğu'da şekillenip Kuzey Afrika ve Orta Asya'ya yayılan kültür bölgesi hangisidir?",
+    "cardValue": "İslam Kültürü Bölgesi."
+  },
+  {
+    "cardKey": "Orta ve Güney Amerika'yı kapsayan, oluşumunda İspanya ve Portekiz'in büyük etkisi olan kültür bölgesi hangisidir?",
+    "cardValue": "Latin Amerika Kültür Bölgesi."
+  },
+  {
+    "cardKey": "Türk kültürünün ilk olarak şekillendiği ve \"kültür ocağı\" olarak kabul edilen coğrafi bölge neresidir?",
+    "cardValue": "Orta Asya."
+  },
+  {
+    "cardKey": "Orta Asya'da konargöçer yaşam tarzı ve hayvancılık faaliyetleri sonucunda ortaya çıkan Türk kültürüne ne ad verilir?",
+    "cardValue": "Bozkır kültürü."
+  },
+  {
+    "cardKey": "Türkçenin ilk yazılı örnekleri olan ve Türk kültürü hakkında önemli bilgiler içeren anıtlar hangileridir?",
+    "cardValue": "Orhun Kitabeleri."
+  },
+  {
+    "cardKey": "Anadolu'da kurulan ve parayı bularak ticarette takas yöntemini kaldıran ilk çağ medeniyeti hangisidir?",
+    "cardValue": "Lidyalılar."
+  },
+  {
+    "cardKey": "Anadolu'nun medeniyetler beşiği olarak anılmasının temel nedeni nedir?",
+    "cardValue": "İlk çağlardan itibaren birçok uygarlığa ev sahipliği yapması ve her medeniyetin kültürel miras bırakması."
+  },
+  {
+    "cardKey": "Bir ülke içinde üretilen mal ve hizmetlerin başka ülkelere satılmasına ne denir?",
+    "cardValue": "İhracat (dış satım)."
+  },
+  {
+    "cardKey": "Dış alım giderlerinin dış satım gelirlerinden fazla olması durumuna ne ad verilir?",
+    "cardValue": "Dış ticaret açığı."
+  },
+  {
+    "cardKey": "Küresel ticaretin üç temel unsuru nelerdir?",
+    "cardValue": "Ham madde, üretim ve pazar."
+  },
+  {
+    "cardKey": "Günümüzde en geniş pazar alanları hangi bölgelerde bulunmaktadır?",
+    "cardValue": "Nüfusun yoğun ve gelişmişlik seviyesinin yüksek olduğu Avrupa, ABD, Doğu ve Güneydoğu Asya."
+  },
+  {
+    "cardKey": "İnsanların dinlenme, eğlenme, görme gibi amaçlarla sürekli yaşadığı yerden başka bir yere geçici olarak yaptığı gezilere ne denir?",
+    "cardValue": "Turizm."
+  },
+  {
+    "cardKey": "Turizmin ülkelere sağladığı ekonomik faydalardan üç tanesini sayınız.",
+    "cardValue": "İstihdam yaratması, döviz girdisi sağlaması, altyapı hizmetlerini iyileştirmesi."
+  },
+  {
+    "cardKey": "Almanya'da sanayileşmenin temelini oluşturan ve Ruhr Bölgesi'nde yoğunlaşan doğal kaynak hangisidir?",
+    "cardValue": "Kömür yatakları."
+  },
+  {
+    "cardKey": "Almanya ekonomisi büyük oranda hangi iki sektöre dayanır?",
+    "cardValue": "Hizmet ve sanayi sektörüne."
+  },
+  {
+    "cardKey": "Fransa gibi gelişmiş ülkelerde uygulanan, modern yöntemlerle birim alandan yüksek verim elde edilen tarım yöntemi hangisidir?",
+    "cardValue": "İntansif tarım."
+  },
+  {
+    "cardKey": "Somali gibi az gelişmiş ülkelerde uygulanan, daha çok insan gücüne dayalı, verimin düşük ve doğa koşullarına bağlı olduğu tarım yöntemi hangisidir?",
+    "cardValue": "Ekstansif tarım."
+  },
+  {
+    "cardKey": "Uluslararası barış ve güvenliği korumak amacıyla 1945'te kurulan ve Türkiye'nin de kurucu üyesi olduğu küresel örgüt hangisidir?",
+    "cardValue": "Birleşmiş Milletler (BM)."
+  },
+  {
+    "cardKey": "BM Güvenlik Konseyi'nde veto yetkisine sahip olan beş daimî üye ülke hangileridir?",
+    "cardValue": "ABD, İngiltere, Fransa, Rusya ve Çin."
+  },
+  {
+    "cardKey": "Sovyetler Birliği'ne karşı Avrupa'nın güvenliğini sağlamak için 1949'da kurulan ve Türkiye'nin 1952'de üye olduğu askerî örgüt hangisidir?",
+    "cardValue": "Kuzey Atlantik Antlaşması Örgütü (NATO)."
+  },
+  {
+    "cardKey": "Dünya petrol rezervlerinin büyük bölümünü elinde tutan ve petrol fiyatlarını belirlemede etkili olan örgütün adı nedir?",
+    "cardValue": "Petrol İhraç Eden Ülkeler Örgütü (OPEC)."
+  },
+  {
+    "cardKey": "Türkiye'nin öncülüğünde 1997'de kurulan ve gelişmekte olan sekiz Müslüman ülkeyi kapsayan ekonomik iş birliği örgütü hangisidir?",
+    "cardValue": "Gelişen Sekiz Ülke (D-8)."
+  },
+  {
+    "cardKey": "1951'de Avrupa Kömür ve Çelik Topluluğu olarak temelleri atılan ve günümüzde 27 üyesi bulunan bölgesel siyasi ve ekonomik örgüt hangisidir?",
+    "cardValue": "Avrupa Birliği (AB)."
+  },
+  {
+    "cardKey": "Doğal süreçler ve beşerî faaliyetler sonucu çevrenin zarar görmesi, kirlenmesi ve doğadaki dengenin bozulmasına ne denir?",
+    "cardValue": "Çevre sorunu."
+  },
+  {
+    "cardKey": "Atmosferdeki sera gazlarının yeryüzünden yansıyan ısıyı tutarak dünyanın ısınmasına neden olması hangi çevre sorununu tetikler?",
+    "cardValue": "Küresel İklim Değişikliği."
+  },
+  {
+    "cardKey": "Klima, buzdolabı gibi cihazlardan salınan kloroflorokarbon (CFC) gazları atmosferin hangi katmanına zarar verir?",
+    "cardValue": "Ozon tabakasına (Stratosferdeki)."
+  },
+  {
+    "cardKey": "Fosil yakıt kullanımı sonucu atmosfere yayılan gazların su buharı ile birleşerek yeryüzüne düşmesiyle oluşan çevre sorunu nedir?",
+    "cardValue": "Asit yağışları."
+  },
+  {
+    "cardKey": "Işığın yer, miktar, yön ve zamanlama olarak yanlış kullanımı sonucu ortaya çıkan kirlilik türü hangisidir?",
+    "cardValue": "Işık kirliliği."
+  },
+  {
+    "cardKey": "Dünyadaki birincil enerji tüketiminde en büyük paya sahip olan fosil yakıt hangisidir?",
+    "cardValue": "Petrol."
+  },
+  {
+    "cardKey": "Konya Ovası'nda yer altı sularının aşırı kullanımı sonucu toprağın çökmesiyle oluşan çukurluklara ne ad verilir?",
+    "cardValue": "Obruk."
+  },
+  {
+    "cardKey": "Arazilerin özelliklerine uygun olmayan şekilde kullanılmasına ne denir?",
+    "cardValue": "Yanlış arazi kullanımı."
+  },
+  {
+    "cardKey": "Herhangi bir faaliyet sonucu çevreye atılan veya bırakılan zararlı maddelere ne ad verilir?",
+    "cardValue": "Atık."
+  },
+  {
+    "cardKey": "Atıkların birtakım işlemlerden geçirilerek ikinci bir ham madde özelliği kazanmasına ne denir?",
+    "cardValue": "Geri dönüşüm."
+  },
+  {
+    "cardKey": "Sıra dışı ve nadiren görülen, şiddetli doğa olaylarına ne ad verilir?",
+    "cardValue": "Ekstrem doğa olayları."
+  },
+  {
+    "cardKey": "Deprem, volkanik faaliyet veya kütle hareketleri sonucu okyanus sularında oluşan dev dalgalara ne ad verilir?",
+    "cardValue": "Tsunami."
+  },
+  {
+    "cardKey": "Tropikal bölgelerde oluşan, kendi etrafında dönerek ilerleyen ve en yıkıcı etkiye sahip fırtına türü hangisidir?",
+    "cardValue": "Kasırga."
+  },
+  {
+    "cardKey": "Bir bölgede yağışların normal seviyenin çok altına düşmesiyle yaşanan su kıtlığı durumuna ne denir?",
+    "cardValue": "Kuraklık."
+  },
+  {
+    "cardKey": "İnsan kaynaklı faaliyetler sonucu atmosferdeki sera gazı miktarının artması, atmosferin hangi etkisini güçlendirir?",
+    "cardValue": "Atmosferin sera etkisini."
+  },
+  {
+    "cardKey": "Küresel ısınma sonucu kutuplardaki buzulların erimesi, deniz seviyesinde nasıl bir değişime yol açar?",
+    "cardValue": "Deniz seviyesinin yükselmesine yol açar."
+  },
+  {
+    "cardKey": "Kurak ve yarı kurak iklim bölgelerinde iklim değişikliği ve insan faaliyetleri sonucu arazinin verimsizleşmesine ne denir?",
+    "cardValue": "Çölleşme."
+  },
+  {
+    "cardKey": "Küresel iklim değişikliği ile mücadele amacıyla 2015'te imzalanan ve küresel sıcaklık artışını 2 °C'nin altında tutmayı hedefleyen uluslararası anlaşma hangisidir?",
+    "cardValue": "Paris Anlaşması."
+  },
+  {
+    "cardKey": "Kırsal kesimde yaşayan insanların tarım işlerinde yardımlaşmasına dayanan sosyal sisteme ne ad verilir?",
+    "cardValue": "İmece."
+  },
+  {
+    "cardKey": "Sanayileşme ve teknolojinin etkisiyle artan iş gücü ihtiyacı, kırsal kesimden şehirlere doğru neyi başlatmıştır?",
+    "cardValue": "Hızlı bir göç hareketini."
+  },
+  {
+    "cardKey": "2050 yılında dünya nüfusunun yaklaşık yüzde kaçının şehirlerde yaşayacağı öngörülmektedir?",
+    "cardValue": "Yaklaşık %70'inin."
+  },
+  {
+    "cardKey": "Sanayi toplumundan bilgi toplumuna geçişte üretimin temel gücü neye dönüşmüştür?",
+    "cardValue": "Kas gücünden beyin gücüne dönüşmüştür."
+  },
+  {
+    "cardKey": "Türkiye'nin yüksek çözünürlüklü ilk yer gözlem uydusunun adı nedir?",
+    "cardValue": "GÖKTÜRK-2."
+  },
+  {
+    "cardKey": "Şekilsel bölgelerden farklı olarak, mekânsal yapıyı ve ekonomik faaliyetleri organize etmek amacıyla oluşturulan ve bir yönetim merkezi bulunan bölgelere ne denir?",
+    "cardValue": "İşlevsel (fonksiyonel) bölgeler."
+  },
+  {
+    "cardKey": "Türkiye'de il, ilçe ve köy gibi sınırları yasalarla belirlenmiş alanlar ne tür işlevsel bölgelerdir?",
+    "cardValue": "Yönetsel bölgeler."
+  },
+  {
+    "cardKey": "Türkiye'de istatistiki verileri toplama ve istatistiki bölgeleri oluşturma görevi hangi kuruma aittir?",
+    "cardValue": "Türkiye İstatistik Kurumu (TÜİK)."
+  },
+  {
+    "cardKey": "GAP, DAP, DOKAP, KOP gibi projelerin kapsadığı iller, ne tür işlevsel bölgelere örnektir?",
+    "cardValue": "Planlama bölgeleri."
+  },
+  {
+    "cardKey": "Güneydoğu Anadolu'daki su ve toprak kaynaklarını geliştirerek hidroelektrik enerji üretmeyi ve sulu tarımı yaygınlaştırmayı amaçlayan proje hangisidir?",
+    "cardValue": "Güneydoğu Anadolu Projesi (GAP)."
+  },
+  {
+    "cardKey": "Doğu Karadeniz Bölgesi'nin doğal kaynaklarını değerlendirerek yöre halkının yaşam kalitesini artırmayı hedefleyen proje hangisidir?",
+    "cardValue": "Doğu Karadeniz Projesi (DOKAP)."
+  },
+  {
+    "cardKey": "DOKAP kapsamında Samsun'dan Hopa'ya kadar uzanan yayla koridoru oluşturmayı amaçlayan projenin adı nedir?",
+    "cardValue": "Yeşil Yol Projesi."
+  },
+  {
+    "cardKey": "Doğu Anadolu Bölgesi'nde tarım ve hayvancılığı geliştirerek bölgenin kalkınmasını amaçlayan proje hangisidir?",
+    "cardValue": "Doğu Anadolu Projesi (DAP)."
+  },
+  {
+    "cardKey": "Konya Kapalı Havzası'nda su ve tarım altyapısını geliştirmeyi amaçlayan proje hangisidir?",
+    "cardValue": "Konya Ovası Projesi (KOP)."
+  },
+  {
+    "cardKey": "Türkiye'de hizmet sektörünün GSMH içindeki payı yaklaşık olarak hangi aralıktadır?",
+    "cardValue": "%50-65 civarındadır (gelişmekte olan ülke kategorisinde)."
+  },
+  {
+    "cardKey": "Asya, Avrupa ve Afrika kıtalarının birbirine yakın olduğu bir konumda bulunan Türkiye için ulaşım açısından en önemli doğal faktör hangisidir?",
+    "cardValue": "Coğrafi konum."
+  },
+  {
+    "cardKey": "1 Temmuz 1926'da çıkarılan ve Türkiye karasularında taşımacılık hakkını Türk girişimcilere veren kanun hangisidir?",
+    "cardValue": "Kabotaj Kanunu."
+  },
+  {
+    "cardKey": "Türkiye'de ilk Yüksek Hızlı Tren (YHT) seferi hangi hat üzerinde yapılmıştır?",
+    "cardValue": "Ankara-Eskişehir hattı (2009)."
+  },
+  {
+    "cardKey": "Petrol ve doğal gaz gibi enerji kaynaklarının karadan taşınmasında en yaygın ve verimli kullanılan ulaşım sistemi hangisidir?",
+    "cardValue": "Boru hattı taşımacılığı."
+  },
+  {
+    "cardKey": "Türkiye'de iç ticaretin canlı olmasını sağlayan faktörlerden üç tanesini sayınız.",
+    "cardValue": "Nüfusun fazla ve düzensiz dağılması, iklim çeşitliliğine bağlı tarımsal ürün çeşitliliği, sanayi tesislerinin farklı bölgelerde yoğunlaşması."
+  },
+  {
+    "cardKey": "ABD, Kanada ve Meksika arasında ticari kısıtlamaları kaldırmayı hedefleyen anlaşmanın adı nedir?",
+    "cardValue": "Kuzey Amerika Serbest Ticaret Bölgesi Anlaşması (NAFTA)."
+  },
+  {
+    "cardKey": "Orta Çağ'da Çin'den başlayıp Anadolu üzerinden Avrupa'ya uzanan ve ipek, porselen gibi ürünlerin taşındığı ticaret yolu hangisidir?",
+    "cardValue": "İpek Yolu."
+  },
+  {
+    "cardKey": "Hindistan'dan başlayıp deniz ve kara yoluyla Akdeniz limanlarına ulaşan, karabiber, tarçın gibi ürünlerin taşındığı ticaret yolu hangisidir?",
+    "cardValue": "Baharat Yolu."
+  },
+  {
+    "cardKey": "Türkiye'nin en çok ihracat yaptığı ürün grubu hangisidir?",
+    "cardValue": "Sanayi ürünleri (makine, otomotiv, tekstil vb.)."
+  },
+  {
+    "cardKey": "Türkiye'nin ithalatında en büyük paya sahip olan ürün grubu hangisidir?",
+    "cardValue": "Enerji ürünleri (petrol, doğal gaz) ve makineler."
+  },
+  {
+    "cardKey": "Uluslararası öneme sahip doğal ve kültürel varlıklara \"Dünya Mirası\" statüsü veren Birleşmiş Milletler kuruluşu hangisidir?",
+    "cardValue": "UNESCO (Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü)."
+  },
+  {
+    "cardKey": "Türkiye'de UNESCO Dünya Miras Listesi'nde yer alan \"karma miras\" alanları hangileridir?",
+    "cardValue": "Göreme Millî Parkı ve Kapadokya ile Hierapolis-Pamukkale."
+  },
+  {
+    "cardKey": "Belirgin bir niteliği veya ünü bakımından ait olduğu yöre ile özdeşleşmiş ürünü gösteren işarete ne denir?",
+    "cardValue": "Coğrafi işaret."
+  },
+  {
+    "cardKey": "Türkiye'de rafting gibi su sporlarının yapıldığı akarsulara iki örnek veriniz.",
+    "cardValue": "Çoruh Nehri ve Manavgat Nehri."
+  },
+  {
+    "cardKey": "Nevşehir yöresinde volkanik tüflerin aşınmasıyla oluşan turistik yeryüzü şekillerinin adı nedir?",
+    "cardValue": "Peribacaları."
+  },
+  {
+    "cardKey": "Türkiye'de kış turizminin geliştiği önemli dağlara üç örnek veriniz.",
+    "cardValue": "Uludağ (Bursa), Erciyes (Kayseri), Palandöken (Erzurum)."
+  },
+  {
+    "cardKey": "Süveyş Kanalı'nın açılması, coğrafi keşifler sonrası önemini yitiren hangi denizin jeopolitik önemini tekrar artırmıştır?",
+    "cardValue": "Akdeniz."
+  },
+  {
+    "cardKey": "Petrol sevkiyatında stratejik önemi artan ve Basra Körfezi'ni Umman Denizi'ne bağlayan boğaz hangisidir?",
+    "cardValue": "Hürmüz Boğazı."
+  },
+  {
+    "cardKey": "Bir ülkenin coğrafi koşullarının uluslararası siyasetteki gücüne etkisini inceleyen bilim dalına ne denir?",
+    "cardValue": "Jeopolitik."
+  },
+  {
+    "cardKey": "Türkiye'nin hem NATO hem de İslam İşbirliği Teşkilatı üyesi olması, jeopolitik konumunun hangi yönünü gösterir?",
+    "cardValue": "Doğu ve Batı medeniyetleri arasında bir köprü olma ve çok yönlü bir dış politika izleme potansiyelini gösterir."
+  },
+  {
+    "cardKey": "Azerbaycan petrol ve doğal gazının Türkiye üzerinden Avrupa'ya taşınması, Türkiye'nin hangi bölge ile olan stratejik ilişkilerini güçlendirmiştir?",
+    "cardValue": "Kafkasya."
+  },
+  {
+    "cardKey": "Ülkelerin gelişmişlik seviyesini belirlemede sadece GSYH'nin yetersiz kalması üzerine geliştirilen; ortalama yaşam süresi, eğitim ve gelir düzeyini ölçen endeks hangisidir?",
+    "cardValue": "İnsani Gelişme Endeksi (İGE)."
+  },
+  {
+    "cardKey": "Bilginin nitelikli iş gücü ve altyapı ile ürüne dönüştürülmesi olarak tanımlanan ve gelişmiş ülkelerin ekonomisinde önemli rol oynayan kavram nedir?",
+    "cardValue": "İnovasyon."
+  },
+  {
+    "cardKey": "Doğal kaynaklar bakımından fakir olmasına rağmen, nitelikli iş gücü ve ileri teknoloji sayesinde dünyanın en gelişmiş ülkelerinden biri olan Asya ülkesi hangisidir?",
+    "cardValue": "Japonya."
+  },
+  {
+    "cardKey": "Dünyanın kanıtlanmış en büyük petrol rezervine sahip olmasına rağmen, ekonomik ve siyasi sorunlar nedeniyle kalkınamamış olan Güney Amerika ülkesi hangisidir?",
+    "cardValue": "Venezuela."
+  },
+  {
+    "cardKey": "Hazar Bölgesi petrolünü Ceyhan limanına taşıyan ve Türkiye, Gürcistan, Azerbaycan iş birliği ile yapılan boru hattının adı nedir?",
+    "cardValue": "Bakü-Tiflis-Ceyhan (BTC) Ham Petrol Boru Hattı."
+  },
+  {
+    "cardKey": "Azerbaycan'ın Şahdeniz sahasındaki doğal gazı Türkiye üzerinden Avrupa'ya taşıyan projenin adı nedir?",
+    "cardValue": "Trans Anadolu Doğal Gaz Boru Hattı Projesi (TANAP)."
+  },
+  {
+    "cardKey": "Üç semavi din için de kutsal sayılan ve İsrail-Filistin çatışmasının merkezinde yer alan şehir hangisidir?",
+    "cardValue": "Kudüs."
+  },
+  {
+    "cardKey": "Yaklaşık 30 yıl Ermenistan işgali altında kaldıktan sonra 2020'de Azerbaycan tarafından kurtarılan, Güney Kafkasya'daki çatışma bölgesi neresidir?",
+    "cardValue": "Dağlık Karabağ."
+  },
+  {
+    "cardKey": "Bir ülkeden doğup başka bir ülkeye akan veya ülkeler arasında sınır oluşturan sulara ne ad verilir?",
+    "cardValue": "Sınıraşan sular."
+  },
+  {
+    "cardKey": "Türkiye'de doğup Suriye ve Irak'tan geçerek Basra Körfezi'ne dökülen ve su paylaşımı konusunda sorunlara neden olan nehirler hangileridir?",
+    "cardValue": "Fırat ve Dicle nehirleri."
+  },
+  {
+    "cardKey": "Bugünün ihtiyaçlarını karşılarken gelecek kuşakların imkânlarını da korumaya yönelik kalkınma modeline ne denir?",
+    "cardValue": "Sürdürülebilir kalkınma."
+  },
+  {
+    "cardKey": "Çevre kirliliğinin maliyetinin kirleten tarafından karşılanması ilkesine ne ad verilir?",
+    "cardValue": "Kirleten öder ilkesi."
+  },
+  {
+    "cardKey": "Türkiye'de atıkların kaynağında ayrı toplanması, geri kazanım oranının artırılması ve israfın önlenmesi amacıyla 2017'de başlatılan proje hangisidir?",
+    "cardValue": "Sıfır Atık Projesi."
+  },
+  {
+    "cardKey": "Sulak alanların korunmasını amaçlayan 1971 tarihli uluslararası sözleşmenin adı nedir?",
+    "cardValue": "Ramsar Sözleşmesi."
+  },
+  {
+    "cardKey": "Sera gazı salımlarını azaltmayı hedefleyen, 1997'de imzalanan ancak 2020'den sonra Paris Anlaşması ile işlevini yitiren protokol hangisidir?",
+    "cardValue": "Kyoto Protokolü."
+  }
+]
