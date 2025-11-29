@@ -1,1 +1,578 @@
-
+[
+  {
+    "cardKey": "Modern Atom Teorisi'nde elektronların bulunma olasılığının en yüksek olduğu uzay bölgelerine ne ad verilir?",
+    "cardValue": "Orbital."
+  },
+  {
+    "cardKey": "Elektronların çekirdek etrafındaki belirli enerji düzeylerinde dairesel hareket ettiğini öne süren atom modeli hangisidir?",
+    "cardValue": "Bohr Atom Modeli."
+  },
+  {
+    "cardKey": "Birincil kuantum sayısı olarak da bilinen ve elektronun enerji düzeyini (kabuğunu) belirten kuantum sayısı hangisidir?",
+    "cardValue": "Baş kuantum sayısı ($n$)."
+  },
+  {
+    "cardKey": "İkincil (yan) kuantum sayısı olarak da bilinen ve orbitalin türünü ve şeklini belirten kuantum sayısı hangisidir?",
+    "cardValue": "Açısal momentum kuantum sayısı ($\\ell$)."
+  },
+  {
+    "cardKey": "Açısal momentum kuantum sayısı $\\ell=0$ olan orbitalin türü nedir?",
+    "cardValue": "s orbitali."
+  },
+  {
+    "cardKey": "Açısal momentum kuantum sayısı $\\ell=1$ olan orbitalin türü nedir?",
+    "cardValue": "p orbitali."
+  },
+  {
+    "cardKey": "Açısal momentum kuantum sayısı $\\ell=2$ olan orbitalin türü nedir?",
+    "cardValue": "d orbitali."
+  },
+  {
+    "cardKey": "Açısal momentum kuantum sayısı $\\ell=3$ olan orbitalin türü nedir?",
+    "cardValue": "f orbitali."
+  },
+  {
+    "cardKey": "Orbitalin uzaydaki yönelimini belirten kuantum sayısı hangisidir ve hangi değerleri alabilir?",
+    "cardValue": "Manyetik kuantum sayısı ($m_\\ell$), $-\\ell$'den $+\\ell$'ye kadar olan tam sayı değerlerini alır."
+  },
+  {
+    "cardKey": "Elektronun kendi ekseni etrafındaki dönüş yönünü belirten kuantum sayısı hangisidir?",
+    "cardValue": "Spin kuantum sayısı ($m_s$)."
+  },
+  {
+    "cardKey": "Bir orbitalde en fazla kaç elektron bulunabilir ve bu elektronların spinleri nasıl olmalıdır?",
+    "cardValue": "En fazla 2 elektron bulunabilir ve spinleri zıt (biri $+1/2$, diğeri $-1/2$) olmalıdır."
+  },
+  {
+    "cardKey": "Orbitallerin enerji seviyelerinin sıralanmasında kullanılan Kletchkowski-Madelung ilkesine göre, enerji neye göre belirlenir?",
+    "cardValue": "Enerji, $n+\\ell$ değerinin artmasıyla yükselir; bu değer eşitse $n$ değeri büyük olanın enerjisi daha yüksektir."
+  },
+  {
+    "cardKey": "Elektronların orbitallere en düşük enerji seviyesinden başlayarak yerleştiğini belirten kural hangisidir?",
+    "cardValue": "Aufbau Kuralı."
+  },
+  {
+    "cardKey": "Bir atomdaki hiçbir elektronun dört kuantum sayısının da aynı olamayacağını belirten ilke hangisidir?",
+    "cardValue": "Pauli Dışlama İlkesi."
+  },
+  {
+    "cardKey": "Elektronların eş enerjili orbitallere önce birer birer aynı spinli olarak yerleştiğini belirten kural hangisidir?",
+    "cardValue": "Hund Kuralı."
+  },
+  {
+    "cardKey": "Elektron dizilimi $4s^1 3d^5$ şeklinde olan ve Aufbau kuralına uymayan elementin atom numarası kaçtır?",
+    "cardValue": "24 (Krom, Cr)."
+  },
+  {
+    "cardKey": "Elektron dizilimi $4s^1 3d^{10}$ şeklinde olan ve Aufbau kuralına uymayan elementin atom numarası kaçtır?",
+    "cardValue": "29 (Bakır, Cu)."
+  },
+  {
+    "cardKey": "Bir elementin son orbitalinin tam dolu ($s^2, p^6, d^{10}, f^{14}$) veya yarı dolu ($s^1, p^3, d^5, f^7$) olması durumuna ne ad verilir?",
+    "cardValue": "Küresel simetri."
+  },
+  {
+    "cardKey": "Bir atomun temel hal elektron dizilimindeki en son orbital türüne göre periyodik sistemde bulunduğu yer nasıl adlandırılır?",
+    "cardValue": "Blok (s, p, d, f bloku)."
+  },
+  {
+    "cardKey": "Periyodik sistemde 1A grubu metallerinin özel adı nedir?",
+    "cardValue": "Alkali metaller."
+  },
+  {
+    "cardKey": "Periyodik sistemde 2A grubu elementlerinin özel adı nedir?",
+    "cardValue": "Toprak alkali metaller."
+  },
+  {
+    "cardKey": "Periyodik sistemde 7A grubu elementlerinin özel adı nedir?",
+    "cardValue": "Halojenler."
+  },
+  {
+    "cardKey": "Periyodik sistemde 8A grubu elementlerinin özel adı nedir?",
+    "cardValue": "Soy gazlar."
+  },
+  {
+    "cardKey": "Bir periyotta soldan sağa doğru gidildikçe atom yarıçapı genellikle nasıl değişir?",
+    "cardValue": "Genellikle azalır."
+  },
+  {
+    "cardKey": "Bir grupta yukarıdan aşağıya doğru inildikçe metalik aktiflik nasıl değişir?",
+    "cardValue": "Artar."
+  },
+  {
+    "cardKey": "Temel halde ve gaz fazındaki nötr bir atomdan bir elektron koparmak için gereken enerjiye ne ad verilir?",
+    "cardValue": "Birinci iyonlaşma enerjisi."
+  },
+  {
+    "cardKey": "Aynı periyotta iyonlaşma enerjisi sıralamasında küresel simetri nedeniyle sapma gösteren gruplar hangileridir?",
+    "cardValue": "2A ve 5A grupları (2A > 3A ve 5A > 6A)."
+  },
+  {
+    "cardKey": "Gaz halindeki nötr bir atomun bir elektron alması sırasındaki enerji değişimine ne ad verilir?",
+    "cardValue": "Elektron ilgisi."
+  },
+  {
+    "cardKey": "Periyodik sistemde elektron ilgisi en büyük olan element hangisidir?",
+    "cardValue": "Klor (Cl)."
+  },
+  {
+    "cardKey": "Bir atomun kimyasal bağdaki elektronları çekme yeteneğinin ölçüsüne ne denir?",
+    "cardValue": "Elektronegatiflik."
+  },
+  {
+    "cardKey": "Elektronegatifliği en yüksek olan element hangisidir?",
+    "cardValue": "Flor (F)."
+  },
+  {
+    "cardKey": "Ametallerin oksijence zengin oksitleri (örneğin $CO_2, SO_2$) ne tür özellik gösterir?",
+    "cardValue": "Asidik oksit özelliği gösterir."
+  },
+  {
+    "cardKey": "Metallerin oksitleri (örneğin $Na_2O, CaO$) ne tür özellik gösterir?",
+    "cardValue": "Bazik oksit özelliği gösterir."
+  },
+  {
+    "cardKey": "$Al_2O_3$ ve $ZnO$ gibi hem asitlerle hem de kuvvetli bazlarla tepkimeye giren oksitlere ne ad verilir?",
+    "cardValue": "Amfoter oksit."
+  },
+  {
+    "cardKey": "Periyodik sistemde 4. periyottan itibaren 2A ve 3A grupları arasında yer alan elementlere ne ad verilir?",
+    "cardValue": "Geçiş elementleri (d bloku)."
+  },
+  {
+    "cardKey": "Periyodik cetvelin en altında yer alan ve f orbitalleri dolan elementlere ne ad verilir?",
+    "cardValue": "İç geçiş elementleri (Lantanitler ve Aktinitler)."
+  },
+  {
+    "cardKey": "Bileşiklerinde birden fazla pozitif yükseltgenme basamağı alabilen metal grubu hangisidir?",
+    "cardValue": "Geçiş metalleri (B grupları)."
+  },
+  {
+    "cardKey": "Elementel haldeyken atomların yükseltgenme basamağı kaçtır?",
+    "cardValue": "Sıfırdır."
+  },
+  {
+    "cardKey": "Hidrojen, ametallerle yaptığı bileşiklerde genellikle hangi yükseltgenme basamağını alır?",
+    "cardValue": "+1."
+  },
+  {
+    "cardKey": "Oksijen, peroksit bileşiklerinde (örneğin $H_2O_2$) hangi yükseltgenme basamağını alır?",
+    "cardValue": "-1."
+  },
+  {
+    "cardKey": "Flor, tüm bileşiklerinde hangi yükseltgenme basamağını alır?",
+    "cardValue": "-1."
+  },
+  {
+    "cardKey": "Sabit sıcaklıkta, belirli bir miktar gazın basıncı ile hacminin ters orantılı olduğunu ifade eden yasa hangisidir?",
+    "cardValue": "Boyle Kanunu ($P_1V_1 = P_2V_2$)."
+  },
+  {
+    "cardKey": "Sabit basınç altında, bir miktar gazın hacminin mutlak sıcaklığı ile doğru orantılı olduğunu ifade eden yasa hangisidir?",
+    "cardValue": "Charles Kanunu ($V_1/T_1 = V_2/T_2$)."
+  },
+  {
+    "cardKey": "Sabit hacimde, belirli bir miktar gazın basıncının mutlak sıcaklığı ile doğru orantılı olduğunu ifade eden yasa hangisidir?",
+    "cardValue": "Gay-Lussac Kanunu ($P_1/T_1 = P_2/T_2$)."
+  },
+  {
+    "cardKey": "Aynı sıcaklık ve basınçta, gazların hacimlerinin mol sayıları ile doğru orantılı olduğunu ifade eden yasa hangisidir?",
+    "cardValue": "Avogadro Kanunu ($V_1/n_1 = V_2/n_2$)."
+  },
+  {
+    "cardKey": "Gazların basınç, hacim, mol sayısı ve sıcaklık değişkenlerini birleştiren denklem nedir?",
+    "cardValue": "İdeal Gaz Yasası ($PV = nRT$)."
+  },
+  {
+    "cardKey": "İdeal gaz denklemindeki R sabiti neyi ifade eder ve değeri nedir?",
+    "cardValue": "İdeal gaz sabitidir ve değeri $0,0821 \\frac{L \\cdot atm}{mol \\cdot K}$ veya $\\frac{22,4}{273} \\frac{L \\cdot atm}{mol \\cdot K}$'dir."
+  },
+  {
+    "cardKey": "Aynı sıcaklıktaki gaz moleküllerinin ortalama kinetik enerjileri nasıldır?",
+    "cardValue": "Birbirine eşittir."
+  },
+  {
+    "cardKey": "Gazların yayılma hızlarının, mol kütlelerinin karekökü ile ters orantılı olduğunu belirten yasa hangisidir?",
+    "cardValue": "Graham Difüzyon Yasası."
+  },
+  {
+    "cardKey": "Bir gaz karışımındaki toplam basıncın, karışımdaki her bir gazın kısmi basınçları toplamına eşit olduğunu belirten yasa hangisidir?",
+    "cardValue": "Dalton Kısmi Basınçlar Yasası."
+  },
+  {
+    "cardKey": "Yüksek basınç ve düşük sıcaklıkta gazlar ideal davranıştan _____.",
+    "cardValue": "sapar"
+  },
+  {
+    "cardKey": "Maddenin katı, sıvı ve gaz hallerinin dengede olduğu sıcaklık ve basınç noktasına ne ad verilir?",
+    "cardValue": "Üçlü nokta."
+  },
+  {
+    "cardKey": "Bir gazın basınç uygulanarak sıvılaştırabileceği en yüksek sıcaklığa ne denir?",
+    "cardValue": "Kritik sıcaklık."
+  },
+  {
+    "cardKey": "Sıkıştırılmış gazların aniden genleşirken soğuması olayına ne ad verilir?",
+    "cardValue": "Joule-Thomson olayı."
+  },
+  {
+    "cardKey": "Kimyada çözünme için temel prensip nedir?",
+    "cardValue": "'Benzer benzeri çözer' ilkesi; yani polar maddeler polar çözücülerde, apolar maddeler apolar çözücülerde çözünür."
+  },
+  {
+    "cardKey": "İyonik bir bileşik olan KCl, polar bir çözücü olan $H_2O$ içinde çözündüğünde hangi tür etkileşim oluşur?",
+    "cardValue": "İyon-dipol etkileşimi."
+  },
+  {
+    "cardKey": "1 litre çözeltide çözünmüş maddenin mol sayısı olarak tanımlanan derişim birimi nedir?",
+    "cardValue": "Molarite (M)."
+  },
+  {
+    "cardKey": "1 kilogram çözücüde çözünen maddenin mol sayısına ne ad verilir?",
+    "cardValue": "Molalite (m)."
+  },
+  {
+    "cardKey": "Çok seyreltik çözeltilerin derişimini belirtmek için kullanılan ve milyonda bir kısım anlamına gelen birim nedir?",
+    "cardValue": "ppm (parts per million)."
+  },
+  {
+    "cardKey": "Bir çözeltideki bileşenlerden birinin mol sayısının toplam mol sayısına oranına ne denir?",
+    "cardValue": "Mol kesri (X)."
+  },
+  {
+    "cardKey": "Çözeltilerde çözünen maddenin tanecik sayısına bağlı olan özelliklere ne ad verilir?",
+    "cardValue": "Koligatif özellikler."
+  },
+  {
+    "cardKey": "Saf bir çözücüye uçucu olmayan bir katı eklendiğinde çözeltinin buhar basıncının, saf çözücününkinden düşük olmasını açıklayan yasa nedir?",
+    "cardValue": "Raoult Yasası."
+  },
+  {
+    "cardKey": "Uçucu olmayan bir katı çözündüğünde çözeltinin kaynama noktasındaki artışa ne denir?",
+    "cardValue": "Kaynama noktası yükselmesi (ebuliyoskopi)."
+  },
+  {
+    "cardKey": "Bir çözücüde katı bir madde çözündüğünde çözeltinin donma noktasındaki düşüşe ne denir?",
+    "cardValue": "Donma noktası alçalması (kriyoskopi)."
+  },
+  {
+    "cardKey": "Sıcaklık arttıkça çözünürlüğü artan maddelerin çözünmesi _____ bir olaydır.",
+    "cardValue": "endotermik"
+  },
+  {
+    "cardKey": "Gazların sudaki çözünürlüğü sıcaklık arttıkça nasıl değişir?",
+    "cardValue": "Azalır, çünkü gazların çözünmesi ekzotermiktir."
+  },
+  {
+    "cardKey": "Sabit basınç altında gerçekleşen bir tepkimede alınan veya verilen ısı miktarına ne denir?",
+    "cardValue": "Entalpi değişimi ($\\Delta H$)."
+  },
+  {
+    "cardKey": "Dışarıdan ısı alarak gerçekleşen tepkimelere ne ad verilir ve bu tepkimelerde $\\Delta H$'nin işareti nedir?",
+    "cardValue": "Endotermik tepkime denir ve $\\Delta H > 0$'dır."
+  },
+  {
+    "cardKey": "Dışarıya ısı vererek gerçekleşen tepkimelere ne ad verilir ve bu tepkimelerde $\\Delta H$'nin işareti nedir?",
+    "cardValue": "Ekzotermik tepkime denir ve $\\Delta H < 0$'dır."
+  },
+  {
+    "cardKey": "25°C sıcaklık ve 1 atm basınçta, bir bileşiğin kararlı haldeki elementlerinden oluşumu sırasındaki ısı değişimine ne ad verilir?",
+    "cardValue": "Standart oluşum entalpisi ($\\Delta H_f^o$)."
+  },
+  {
+    "cardKey": "Elementlerin standart şartlarda en kararlı hallerinin oluşum entalpisi kaç kabul edilir?",
+    "cardValue": "Sıfır."
+  },
+  {
+    "cardKey": "Bir tepkimenin entalpi değişimi, ara basamakların entalpi değişimlerinin toplamına eşittir. Bu yasa nedir?",
+    "cardValue": "Hess Yasası."
+  },
+  {
+    "cardKey": "Gaz fazındaki bir moleküldeki kovalent bağı kırmak için gereken enerjiye ne denir?",
+    "cardValue": "Bağ enerjisi."
+  },
+  {
+    "cardKey": "Bir kimyasal tepkimenin gerçekleşebilmesi için taneciklerin sahip olması gereken minimum enerjiye ne ad verilir?",
+    "cardValue": "Eşik enerjisi (aktifleşme enerjisi)."
+  },
+  {
+    "cardKey": "Bir tepkimenin hızını, tepkimeye giren maddelerin derişimlerine bağlayan matematiksel ifadeye ne denir?",
+    "cardValue": "Hız denklemi (veya hız bağıntısı)."
+  },
+  {
+    "cardKey": "Hız denklemindeki derişimlerin üsleri toplamına ne ad verilir?",
+    "cardValue": "Tepkime derecesi (mertebesi)."
+  },
+  {
+    "cardKey": "Tepkimeye girip aktifleşme enerjisini düşürerek hızı artıran ve tepkime sonunda değişmeden çıkan maddelere ne denir?",
+    "cardValue": "Katalizör."
+  },
+  {
+    "cardKey": "Tepkimelerde ileri yöndeki hızın geri yöndeki hıza eşit olduğu ve derişimlerin sabit kaldığı duruma ne denir?",
+    "cardValue": "Kimyasal denge."
+  },
+  {
+    "cardKey": "Dengedeki bir sisteme dışarıdan bir etki yapıldığında, sistemin bu etkiyi azaltacak yönde hareket etmesi ilkesi nedir?",
+    "cardValue": "Le Chatelier İlkesi."
+  },
+  {
+    "cardKey": "Derişimler cinsinden denge sabiti ($K_c$) ile kısmi basınçlar cinsinden denge sabiti ($K_p$) arasındaki ilişkiyi gösteren formül nedir?",
+    "cardValue": "$K_p = K_c(RT)^{\\Delta n}$"
+  },
+  {
+    "cardKey": "Suyun kendi kendine iyonlaşarak $H^+$ ve $OH^-$ iyonları oluşturması olayına ne denir?",
+    "cardValue": "Suyun otoiyonizasyonu (otoprotoliz)."
+  },
+  {
+    "cardKey": "Brønsted-Lowry asit-baz tanımına göre asit ve baz nasıl tanımlanır?",
+    "cardValue": "Proton ($H^+$) veren madde asit, proton alan madde bazdır."
+  },
+  {
+    "cardKey": "Aralarında bir proton ($H^+$) farkı olan asit-baz çiftine ne denir?",
+    "cardValue": "Konjuge (eşlenik) asit-baz çifti."
+  },
+  {
+    "cardKey": "Az miktarda asit veya baz eklendiğinde ortamın pH değerinin değişimine direnç gösteren çözeltilere ne denir?",
+    "cardValue": "Tampon çözelti."
+  },
+  {
+    "cardKey": "Bir tuzun su ile etkileşerek kendisini oluşturan asit ve bazı oluşturması olayına ne denir?",
+    "cardValue": "Hidroliz."
+  },
+  {
+    "cardKey": "Kuvvetli bir asit ile zayıf bir bazın tepkimesi sonucu oluşan tuz (örneğin $NH_4Cl$) ne tür özellik gösterir?",
+    "cardValue": "Asidik tuz özelliği gösterir."
+  },
+  {
+    "cardKey": "Derişimi bilinmeyen bir asit veya baz çözeltisinin, derişimi bilinen bir baz veya asit çözeltisi ile nötralleştirilmesi işlemine ne ad verilir?",
+    "cardValue": "Titrasyon."
+  },
+  {
+    "cardKey": "Suda az çözünen iyonik katıların doygun çözeltilerindeki iyon derişimlerinin çarpımını ifade eden denge sabiti nedir?",
+    "cardValue": "Çözünürlük çarpımı sabiti ($K_{çç}$)."
+  },
+  {
+    "cardKey": "Az çözünen bir tuzun, ortak iyon içeren bir çözeltideki çözünürlüğü saf sudakine göre _____.",
+    "cardValue": "daha azdır"
+  },
+  {
+    "cardKey": "Elektron alışverişi ile gerçekleşen tepkimelere genel olarak ne ad verilir?",
+    "cardValue": "İndirgenme-yükseltgenme (redoks) tepkimeleri."
+  },
+  {
+    "cardKey": "Bir redoks tepkimesinde elektron veren madde _____ uğrar ve _____ özellik gösterir.",
+    "cardValue": "yükseltgenmeye, indirgen"
+  },
+  {
+    "cardKey": "Bir redoks tepkimesinde elektron alan madde _____ uğrar ve _____ özellik gösterir.",
+    "cardValue": "indirgenmeye, yükseltgen"
+  },
+  {
+    "cardKey": "Kimyasal enerjiyi elektrik enerjisine çeviren istemli redoks tepkimelerinin gerçekleştiği elektrokimyasal hücrelere ne denir?",
+    "cardValue": "Galvanik hücre (pil)."
+  },
+  {
+    "cardKey": "Elektrik enerjisi kullanarak istemsiz bir redoks tepkimesini gerçekleştiren sisteme ne denir?",
+    "cardValue": "Elektrolitik hücre (elektroliz)."
+  },
+  {
+    "cardKey": "Galvanik hücrede yükseltgenmenin olduğu elektroda ne ad verilir ve yükü nedir?",
+    "cardValue": "Anot denir ve yükü negatiftir (-)."
+  },
+  {
+    "cardKey": "Galvanik hücrede indirgenmenin olduğu elektroda ne ad verilir ve yükü nedir?",
+    "cardValue": "Katot denir ve yükü pozitiftir (+)."
+  },
+  {
+    "cardKey": "Standart şartlarda (1M, 25°C, 1 atm) bir pilin potansiyeli ($E^0_{pil}$) sıfırdan büyükse tepkime _____.",
+    "cardValue": "istemlidir"
+  },
+  {
+    "cardKey": "Standart pil potansiyelleri hesaplanırken referans olarak kullanılan ve potansiyeli sıfır kabul edilen elektrot hangisidir?",
+    "cardValue": "Standart Hidrojen Elektrot (SHE)."
+  },
+  {
+    "cardKey": "Standart olmayan şartlarda (derişimler 1M'dan farklı ise) pil potansiyelini hesaplamak için kullanılan denklem nedir?",
+    "cardValue": "Nernst Denklemi."
+  },
+  {
+    "cardKey": "Elektroliz sırasında anot ve katotta toplanan madde miktarının devreden geçen yük miktarıyla doğru orantılı olduğunu belirten yasalar kime aittir?",
+    "cardValue": "Faraday Yasaları."
+  },
+  {
+    "cardKey": "Metallerin çevreleriyle kimyasal olarak etkileşerek aşınması olayına ne denir?",
+    "cardValue": "Korozyon."
+  },
+  {
+    "cardKey": "Korozyondan korunacak metale, ondan daha aktif bir metal bağlanarak korunmasına dayanan yöntemin adı nedir?",
+    "cardValue": "Katodik koruma (kurban elektrot yöntemi)."
+  },
+  {
+    "cardKey": "Temel olarak yapısında karbon (C) atomu bulunan bileşiklere ne ad verilir?",
+    "cardValue": "Organik bileşikler."
+  },
+  {
+    "cardKey": "Bir organik bileşikteki elementlerin türünü ve atom sayılarının en basit oranını gösteren formül nedir?",
+    "cardValue": "Basit formül (kaba formül)."
+  },
+  {
+    "cardKey": "Aynı elementin atomlarının uzayda farklı sayı ve şekilde dizilmesiyle oluşan farklı geometrik yapılara ne denir?",
+    "cardValue": "Allotrop."
+  },
+  {
+    "cardKey": "Karbonun bilinen en sert doğal allotropu hangisidir?",
+    "cardValue": "Elmas."
+  },
+  {
+    "cardKey": "Karbonun ısıyı ve elektriği ileten, tabakalı yapıdaki allotropu hangisidir?",
+    "cardValue": "Grafit."
+  },
+  {
+    "cardKey": "Karbon atomu 4 tane sigma ($\\sigma$) bağı yaptığında hangi tür hibritleşme yapar?",
+    "cardValue": "$sp^3$ hibritleşmesi."
+  },
+  {
+    "cardKey": "Karbon atomu 3 tane sigma ($\\sigma$) ve 1 tane pi ($\\pi$) bağı yaptığında hangi tür hibritleşme yapar?",
+    "cardValue": "$sp^2$ hibritleşmesi."
+  },
+  {
+    "cardKey": "Karbon atomu 2 tane sigma ($\\sigma$) ve 2 tane pi ($\\pi$) bağı yaptığında hangi tür hibritleşme yapar?",
+    "cardValue": "$sp$ hibritleşmesi."
+  },
+  {
+    "cardKey": "VSEPR gösterimi $AX_4$ olan bir molekülün (örneğin metan, $CH_4$) geometrisi ve bağ açısı nedir?",
+    "cardValue": "Geometrisi düzgün dörtyüzlü, bağ açısı 109,5°'dir."
+  },
+  {
+    "cardKey": "VSEPR gösterimi $AX_3$ olan bir molekülün (örneğin bor trihidrür, $BH_3$) geometrisi ve bağ açısı nedir?",
+    "cardValue": "Geometrisi düzlem üçgen, bağ açısı 120°'dir."
+  },
+  {
+    "cardKey": "VSEPR gösterimi $AX_2E_2$ olan bir molekülün (örneğin su, $H_2O$) geometrisi ve bağ açısı nedir?",
+    "cardValue": "Geometrisi açısal (kırık doğru), bağ açısı 104,5°'dir."
+  },
+  {
+    "cardKey": "Yapısında sadece tekli bağlar bulunduran doymuş hidrokarbonların genel adı nedir?",
+    "cardValue": "Alkanlar (parafinler)."
+  },
+  {
+    "cardKey": "Alkanların genel formülü nedir?",
+    "cardValue": "$C_nH_{2n+2}$."
+  },
+  {
+    "cardKey": "Yapısında en az bir tane karbon-karbon ikili bağı ($C=C$) bulunduran doymamış hidrokarbonlara ne ad verilir?",
+    "cardValue": "Alkenler (olefinler)."
+  },
+  {
+    "cardKey": "Tek çift bağ içeren alkenlerin genel formülü nedir?",
+    "cardValue": "$C_nH_{2n}$."
+  },
+  {
+    "cardKey": "Yapısında en az bir tane karbon-karbon üçlü bağı ($C\\equiv C$) bulunduran doymamış hidrokarbonlara ne ad verilir?",
+    "cardValue": "Alkinler (asetilenler)."
+  },
+  {
+    "cardKey": "Tek üçlü bağ içeren alkinlerin genel formülü nedir?",
+    "cardValue": "$C_nH_{2n-2}$."
+  },
+  {
+    "cardKey": "Yapısında benzen halkası bulunduran hidrokarbonlara ne ad verilir?",
+    "cardValue": "Aromatik hidrokarbonlar (arenler)."
+  },
+  {
+    "cardKey": "Kapalı formülleri aynı, açık formülleri (yapıları) farklı olan bileşiklere ne denir?",
+    "cardValue": "Yapı izomerleri."
+  },
+  {
+    "cardKey": "Asimetrik bir alkene polar bir reaktif katılırken, reaktifin pozitif ucunun çift bağ karbonlarından hidrojeni çok olana bağlanmasını açıklayan kural nedir?",
+    "cardValue": "Markovnikov Kuralı."
+  },
+  {
+    "cardKey": "Alkenlerin ikili bağ karbonlarına bağlı grupların düzlemin aynı tarafında olması durumuna _____ izomeri denir.",
+    "cardValue": "cis"
+  },
+  {
+    "cardKey": "Alkinlere su katılması sonucu önce kararsız bir enol yapısı, ardından hangi kararlı bileşik sınıfı oluşur? (Asetilen hariç)",
+    "cardValue": "Keton."
+  },
+  {
+    "cardKey": "Uç alkinleri iç alkinlerden ayırmak için kullanılan ve pozitif sonuçta beyaz veya kırmızı çökelek oluşturan ayıraçlar hangileridir?",
+    "cardValue": "Tollens (gümüş ayna, beyaz çökelek) ve Fehling (kırmızı çökelek) ayıraçları."
+  },
+  {
+    "cardKey": "Yapısında hidroksil ($-OH$) grubu bulunduran organik bileşiklere ne ad verilir?",
+    "cardValue": "Alkol."
+  },
+  {
+    "cardKey": "Aynı karbon sayılı monoalkoller ile hangi bileşik sınıfı fonksiyonel grup izomeridir?",
+    "cardValue": "Eterler."
+  },
+  {
+    "cardKey": "Primer alkollerin bir kademe yükseltgenmesiyle hangi bileşik sınıfı oluşur?",
+    "cardValue": "Aldehit."
+  },
+  {
+    "cardKey": "Sekonder alkollerin yükseltgenmesiyle hangi bileşik sınıfı oluşur?",
+    "cardValue": "Keton."
+  },
+  {
+    "cardKey": "$R-O-R'$ genel formülüne sahip bileşik sınıfı nedir?",
+    "cardValue": "Eter."
+  },
+  {
+    "cardKey": "Yapısında formil ($-CHO$) grubu bulunduran karbonil bileşiklerine ne denir?",
+    "cardValue": "Aldehit."
+  },
+  {
+    "cardKey": "Yapısında karbonil ($>C=O$) grubuna iki alkil veya aril grubun bağlı olduğu bileşiklere ne denir?",
+    "cardValue": "Keton."
+  },
+  {
+    "cardKey": "Aldehitler Tollens ayıracıyla tepkimeye girerek _____ oluştururken, ketonlar bu tepkimeyi vermez.",
+    "cardValue": "gümüş aynası"
+  },
+  {
+    "cardKey": "Ketonların indirgenmesiyle ne tür alkoller oluşur?",
+    "cardValue": "Sekonder alkoller."
+  },
+  {
+    "cardKey": "Yapısında karboksil ($-COOH$) grubu bulunduran organik bileşiklere ne denir?",
+    "cardValue": "Karboksilik asitler."
+  },
+  {
+    "cardKey": "Bir karboksilik asit ile bir alkolün tepkimesinden su çıkışıyla oluşan bileşik sınıfı nedir?",
+    "cardValue": "Ester."
+  },
+  {
+    "cardKey": "Esterlerin hidrolizi sonucunda hangi bileşikler oluşur?",
+    "cardValue": "Karboksilik asit ve alkol."
+  },
+  {
+    "cardKey": "Canlı kalıntılarının milyonlarca yıl oksijensiz ortamda başkalaşıma uğramasıyla oluşan kömür, petrol ve doğal gaz gibi yakıtlara ne denir?",
+    "cardValue": "Fosil yakıtlar."
+  },
+  {
+    "cardKey": "Ham petrolün bileşenlerine ayrılmasında kullanılan ve maddelerin kaynama noktası farkına dayanan yöntem nedir?",
+    "cardValue": "Ayrımsal damıtma."
+  },
+  {
+    "cardKey": "Fosil yakıtların yanması sonucu oluşan $CO_2, SO_2, NO_2$ gibi gazların atmosferdeki su buharı ile birleşerek oluşturduğu çevresel sorun nedir?",
+    "cardValue": "Asit yağmurları."
+  },
+  {
+    "cardKey": "Güneş, rüzgar, jeotermal gibi doğada sürekli var olan ve çevreye zararı az olan enerji kaynaklarına ne ad verilir?",
+    "cardValue": "Yenilenebilir (alternatif) enerji kaynakları."
+  },
+  {
+    "cardKey": "Büyük atom çekirdeklerinin parçalanarak daha küçük atom çekirdeklerine dönüştüğü nükleer tepkime türü nedir?",
+    "cardValue": "Fisyon."
+  },
+  {
+    "cardKey": "Gelecek kuşakların ihtiyaçlarını tehlikeye atmadan, günümüz ihtiyaçlarını karşılayan kalkınma anlayışına ne denir?",
+    "cardValue": "Sürdürülebilirlik."
+  },
+  {
+    "cardKey": "Maddenin atomik ve moleküler seviyede kontrol edilerek yeni malzemeler ve cihazlar geliştirilmesini amaçlayan teknoloji alanı nedir?",
+    "cardValue": "Nanoteknoloji."
+  }
+]
