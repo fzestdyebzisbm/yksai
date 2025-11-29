@@ -1,1 +1,846 @@
-
+[
+  {
+    "cardKey": "Doğal ortam ile beşerî ortamın etkileşiminden oluşan geniş yaşam alanına ne ad verilir?",
+    "cardValue": "Coğrafi ortam denir."
+  },
+  {
+    "cardKey": "Doğal ortamı oluşturan dört temel ortam hangileridir?",
+    "cardValue": "Atmosfer (hava küre), biyosfer (canlılar küresi), hidrosfer (su küre) ve litosfer (taş küre)."
+  },
+  {
+    "cardKey": "İnsanın ihtiyaçlarını karşılamak için doğal ortamda yaptığı yaşamsal aktivitelere ne denir?",
+    "cardValue": "Beşerî olay denir."
+  },
+  {
+    "cardKey": "Ağaçlandırma çalışmaları ve nesli tükenen canlıların koruma altına alınması, insanın doğaya _____ müdahalelerine örnektir.",
+    "cardValue": "olumlu"
+  },
+  {
+    "cardKey": "İnsan ve doğal çevre arasındaki etkileşimi inceleyen bilim dalı hangisidir?",
+    "cardValue": "Coğrafya."
+  },
+  {
+    "cardKey": "Yeryüzü şekillerinin oluşumunu ve dağılışını inceleyen fiziki coğrafya alt dalı hangisidir?",
+    "cardValue": "Jeomorfoloji (Yeryüzü Şekilleri Bilimi)."
+  },
+  {
+    "cardKey": "İklimin ve iklim elemanlarının yeryüzündeki oluşumunu ve dağılışını inceleyen bilim dalı nedir?",
+    "cardValue": "Klimatoloji (İklim Bilimi)."
+  },
+  {
+    "cardKey": "Haritaların hazırlanışı ve haritalardan yararlanma esaslarını inceleyen bilim dalına ne ad verilir?",
+    "cardValue": "Kartografya (Harita Bilimi)."
+  },
+  {
+    "cardKey": "Bitki ve hayvan topluluklarının yeryüzündeki dağılışını ve bu dağılışı etkileyen faktörleri inceleyen coğrafya bölümü hangisidir?",
+    "cardValue": "Biyocoğrafya (Canlılar Coğrafyası)."
+  },
+  {
+    "cardKey": "Nüfus artışı, nüfusun yaş ve cinsiyet durumu gibi konuları inceleyen beşerî coğrafya alt dalı hangisidir?",
+    "cardValue": "Nüfus Coğrafyası."
+  },
+  {
+    "cardKey": "İlk Çağ'da Dünya'nın çevresini hesaplayan ve bir dünya haritası çizen düşünür kimdir?",
+    "cardValue": "Eratosthenes."
+  },
+  {
+    "cardKey": "Orta Çağ'da \"Mukaddime\" adlı eseri yazan İslam coğrafyacısı kimdir?",
+    "cardValue": "İbn Haldun."
+  },
+  {
+    "cardKey": "Yeni Çağ'da Osmanlı Devleti'nde \"Kitab-ı Bahriye\" adlı eseri yazan ve bir dünya haritası çizen coğrafyacı kimdir?",
+    "cardValue": "Piri Reis."
+  },
+  {
+    "cardKey": "Yakın Çağ'da coğrafyanın metodolojisini oluşturan ve modern coğrafyanın kurucuları arasında sayılan Alman bilim insanları kimlerdir?",
+    "cardValue": "Alexander von Humboldt ve Karl Ritter."
+  },
+  {
+    "cardKey": "Dünya'nın Ekvator'dan şişkin, kutuplardan basık olan kendine has şekline ne ad verilir?",
+    "cardValue": "Geoit."
+  },
+  {
+    "cardKey": "Dünya'nın geoit şeklinin bir sonucu olarak, Ekvator'dan kutuplara doğru gidildikçe yer çekimi nasıl değişir?",
+    "cardValue": "Yer çekimi artar."
+  },
+  {
+    "cardKey": "Dünya'nın küresel şekli nedeniyle Ekvator'dan kutuplara doğru gidildikçe Güneş ışınlarının düşme açısı nasıl değişir?",
+    "cardValue": "Güneş ışınlarının düşme açısı daralır."
+  },
+  {
+    "cardKey": "Dünya'nın küresel şekline bağlı olarak, Ekvator'dan kutuplara gidildikçe kalıcı kar sınırı, orman üst sınırı ve yerleşme üst sınırı nasıl değişir?",
+    "cardValue": "Alçalır."
+  },
+  {
+    "cardKey": "Dünya'nın kendi ekseni etrafında batıdan doğuya doğru dönmesinin bir sonucu olarak, doğuda yerel saat batıya göre nasıldır?",
+    "cardValue": "Daha ileridir."
+  },
+  {
+    "cardKey": "Dünya'nın günlük hareketi sonucunda sürekli rüzgârlar ve okyanus akıntılarının yönlerinde meydana gelen sapmanın temel nedeni nedir?",
+    "cardValue": "Merkezkaç kuvveti (Coriolis kuvveti)."
+  },
+  {
+    "cardKey": "Dünya'nın günlük hareketiyle oluşan, 30° ve 60° enlemlerindeki sürekli basınç alanlarına ne ad verilir?",
+    "cardValue": "Dinamik basınç alanları."
+  },
+  {
+    "cardKey": "Dünya üzerindeki bir noktanın Güneş'in karşısından geçme hızına ne denir ve bu hız nerede en fazladır?",
+    "cardValue": "Çizgisel hız denir ve en fazla Ekvator üzerindedir."
+  },
+  {
+    "cardKey": "Çizgisel hızın Ekvator'dan kutuplara doğru azalmasının bir sonucu olarak gurup ve tan süresi nasıl değişir?",
+    "cardValue": "Uzar."
+  },
+  {
+    "cardKey": "Dünya'nın Güneş çevresinde dolanırken izlediği yola ne ad verilir?",
+    "cardValue": "Yörünge."
+  },
+  {
+    "cardKey": "Dünya'nın yörüngesinin elips şeklinde olmasının sonucu olarak, Dünya'nın Güneş'e en yakın olduğu tarih (günberi) nedir?",
+    "cardValue": "3 Ocak."
+  },
+  {
+    "cardKey": "Dünya'nın Güneş'e en uzak olduğu tarih (günöte) nedir?",
+    "cardValue": "4 Temmuz."
+  },
+  {
+    "cardKey": "Ekvator düzlemi ile yörünge düzlemi (ekliptik) arasındaki 23° 27' lık açıya ne denir?",
+    "cardValue": "Eksen eğikliği."
+  },
+  {
+    "cardKey": "Eksen eğikliğinin bir sonucu olarak ortaya çıkan ve Güneş ışınlarının en son dik geldiği 23° 27' enlemlerine ne ad verilir?",
+    "cardValue": "Dönence (Yengeç ve Oğlak Dönenceleri)."
+  },
+  {
+    "cardKey": "Aydınlanma çemberinin hareket alanının sınırını oluşturan 66° 33' enlemleri hangi özel enlemlerdir?",
+    "cardValue": "Kutup daireleri."
+  },
+  {
+    "cardKey": "Eksen eğikliği sonucunda, aynı tarihlerde kuzey ve güney yarım kürede ne yaşanır?",
+    "cardValue": "Farklı mevsimler yaşanır."
+  },
+  {
+    "cardKey": "21 Haziran'da Güneş ışınları öğle vakti hangi enleme dik gelir ve Kuzey Yarım Küre'de hangi mevsim başlar?",
+    "cardValue": "Yengeç Dönencesi'ne dik gelir ve yaz mevsimi başlar."
+  },
+  {
+    "cardKey": "21 Aralık'ta Kuzey Yarım Küre'de en _____ gece, en _____ gündüz yaşanır.",
+    "cardValue": "uzun / kısa"
+  },
+  {
+    "cardKey": "21 Mart ve 23 Eylül tarihlerinde Dünya'nın her yerinde gece ve gündüz süresi eşitliğinin yaşanması olayına ne denir?",
+    "cardValue": "Ekinoks."
+  },
+  {
+    "cardKey": "Ekinoks tarihlerinde Güneş ışınları öğle vakti hangi enleme dik açıyla gelir?",
+    "cardValue": "Ekvator'a."
+  },
+  {
+    "cardKey": "Bir yerin başlangıç paraleline (Ekvator) ve başlangıç meridyenine (Greenwich) göre belirlenen konumuna ne ad verilir?",
+    "cardValue": "Mutlak konum."
+  },
+  {
+    "cardKey": "Ekvator'a paralel olarak 1° aralıklarla çizilen hayalî çizgilere ne denir?",
+    "cardValue": "Paralel."
+  },
+  {
+    "cardKey": "Ardışık iki paralel arası kuş uçuşu mesafe yaklaşık kaç kilometredir?",
+    "cardValue": "111 km."
+  },
+  {
+    "cardKey": "Kutup noktalarında birleşen ve Ekvator'u dik kesen hayalî yarım daire yaylarına ne denir?",
+    "cardValue": "Meridyen."
+  },
+  {
+    "cardKey": "Başlangıç meridyeni hangi şehirden geçer ve derecesi kaçtır?",
+    "cardValue": "Londra'daki Greenwich'ten geçer ve 0°'dir."
+  },
+  {
+    "cardKey": "Ardışık iki meridyen arasındaki yerel saat farkı her yerde kaç dakikadır?",
+    "cardValue": "4 dakika."
+  },
+  {
+    "cardKey": "Güneş'in yeryüzündeki herhangi bir noktaya ait meridyenden geçtiği anda belirlenen saate ne denir?",
+    "cardValue": "Yerel saat."
+  },
+  {
+    "cardKey": "Bir ülkenin tamamında birlik sağlamak için kullanılan, belirli bir meridyenin yerel saatine dayalı saate ne ad verilir?",
+    "cardValue": "Ulusal saat (ortak saat)."
+  },
+  {
+    "cardKey": "Türkiye, ulusal saat olarak hangi meridyenin yerel saatini kullanmaktadır?",
+    "cardValue": "45° Doğu meridyeninin."
+  },
+  {
+    "cardKey": "Tarih değiştirme çizgisi olarak kabul edilen meridyen hangisidir?",
+    "cardValue": "180° meridyeni."
+  },
+  {
+    "cardKey": "Türkiye hangi paralel ve meridyenler arasında yer alır?",
+    "cardValue": "36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında."
+  },
+  {
+    "cardKey": "Türkiye'nin en doğusu ile en batısı arasında kaç dakikalık zaman farkı vardır?",
+    "cardValue": "76 dakika (19 meridyen x 4 dakika)."
+  },
+  {
+    "cardKey": "Türkiye'de dört mevsimin belirgin olarak yaşanması, konumunun hangi özelliğinin bir sonucudur?",
+    "cardValue": "Orta kuşakta bulunmasının."
+  },
+  {
+    "cardKey": "Yeryüzünün tamamının ya da bir bölümünün kuş bakışı görünümünün, belli bir oranda küçültülerek düzleme aktarılmasına ne denir?",
+    "cardValue": "Harita."
+  },
+  {
+    "cardKey": "Bir çizimin harita özelliği taşıması için sahip olması gereken üç temel özellik nedir?",
+    "cardValue": "Kuş bakışı görünüm, belirli bir küçültme oranı (ölçek) ve düzleme aktarılmış olması."
+  },
+  {
+    "cardKey": "Dünya'nın küresel şeklinden dolayı haritalardaki bozulmaları en aza indirmek için kullanılan yöntemlere ne ad verilir?",
+    "cardValue": "Projeksiyon yöntemleri."
+  },
+  {
+    "cardKey": "Orta enlemlerin ve Türkiye haritalarının çizimi için en uygun projeksiyon yöntemi hangisidir?",
+    "cardValue": "Konik projeksiyon."
+  },
+  {
+    "cardKey": "Haritalarda kullanılan işaret ve sembollerin ne anlama geldiğini gösteren açıklama bölümüne ne denir?",
+    "cardValue": "Lejant (harita anahtarı)."
+  },
+  {
+    "cardKey": "Ölçeği 1/200.000'den daha büyük olan, ayrıntıyı fazla gösteren haritalara ne ad verilir?",
+    "cardValue": "Büyük ölçekli haritalar."
+  },
+  {
+    "cardKey": "Küçük ölçekli haritalarda ayrıntıyı gösterme gücü _____ iken, hata oranı _____.",
+    "cardValue": "azdır / fazladır"
+  },
+  {
+    "cardKey": "Haritalardaki küçültme oranına ne denir?",
+    "cardValue": "Ölçek."
+  },
+  {
+    "cardKey": "Bir haritada gerçek uzunluk (GU) nasıl hesaplanır?",
+    "cardValue": "Gerçek Uzunluk = Harita Uzunluğu (HU) x Ölçeğin Paydası (ÖP)."
+  },
+  {
+    "cardKey": "Bir haritada gerçek alan (GA) nasıl hesaplanır?",
+    "cardValue": "Gerçek Alan = Harita Alanı (HA) x Ölçek Paydasının Karesi (ÖP²)."
+  },
+  {
+    "cardKey": "Deniz seviyesinden itibaren aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen kapalı eğrilere ne denir?",
+    "cardValue": "İzohips (eş yükselti eğrisi)."
+  },
+  {
+    "cardKey": "İzohips haritalarında eğrilerin sık geçtiği yerler eğimin _____ olduğunu gösterir.",
+    "cardValue": "fazla"
+  },
+  {
+    "cardKey": "İzohips haritalarında V şeklindeki büklümlerin sivri ucu yükseltinin arttığı yönü gösteriyorsa hangi yer şekli ifade edilir?",
+    "cardValue": "Vadi."
+  },
+  {
+    "cardKey": "Akarsuların denize döküldüğü yerde taşıdığı alüvyonları biriktirmesiyle oluşan ve denize doğru uzanan çıkıntıya ne ad verilir?",
+    "cardValue": "Delta."
+  },
+  {
+    "cardKey": "İzohipslerin deniz kıyısında birbirine çok yaklaştığı (sıklaştığı) yerlerde oluşan dik kıyılara ne ad verilir?",
+    "cardValue": "Falez (yalıyar)."
+  },
+  {
+    "cardKey": "Yer çekiminin etkisiyle Dünya'yı çepeçevre saran gaz tabakasına ne denir?",
+    "cardValue": "Atmosfer (hava küre)."
+  },
+  {
+    "cardKey": "Atmosferde oranı yere ve zamana göre değişen gazlar hangileridir?",
+    "cardValue": "Su buharı ve karbondioksit."
+  },
+  {
+    "cardKey": "İklim olaylarının gerçekleştiği, atmosferin en alt katmanı hangisidir?",
+    "cardValue": "Troposfer."
+  },
+  {
+    "cardKey": "Güneş'ten gelen zararlı ultraviyole ışınlarını süzen ozon tabakası hangi atmosfer katmanında bulunur?",
+    "cardValue": "Stratosfer."
+  },
+  {
+    "cardKey": "Gök taşlarının (meteorların) yanarak parçalandığı atmosfer katmanı hangisidir?",
+    "cardValue": "Mezosfer."
+  },
+  {
+    "cardKey": "Geniş alanlarda etkili olan hava olaylarının uzun süreli ortalamasına ne ad verilir?",
+    "cardValue": "İklim."
+  },
+  {
+    "cardKey": "Dağların Güneş'e dönük olan yamaçlarının diğer yamaca göre daha sıcak olmasına ne denir?",
+    "cardValue": "Bakı etkisi."
+  },
+  {
+    "cardKey": "Atmosferdeki su buharına ne ad verilir ve nemin fazla olduğu yerlerde günlük sıcaklık farkı nasıl olur?",
+    "cardValue": "Nem denir ve sıcaklık farkı az olur."
+  },
+  {
+    "cardKey": "Ekvator yönünden gelen sıcak su akıntıları ulaştığı yerlerin sıcaklığını nasıl etkiler?",
+    "cardValue": "Sıcaklığı yükseltir."
+  },
+  {
+    "cardKey": "Sıcaklıkları aynı olan noktaların birleştirilmesi ile elde edilen eğrilere ne denir?",
+    "cardValue": "İzoterm (eş sıcaklık eğrisi)."
+  },
+  {
+    "cardKey": "Yeryüzüne uygulanan atmosfer basıncını ölçen alete ne ad verilir?",
+    "cardValue": "Barometre."
+  },
+  {
+    "cardKey": "Basıncın çevresine göre yüksek olduğu alana _____, düşük olduğu alana _____ denir.",
+    "cardValue": "yüksek basınç alanı (antisiklon) / alçak basınç alanı (siklon)"
+  },
+  {
+    "cardKey": "Alçak basınç (siklon) merkezlerinde dikey hava hareketi nasıldır?",
+    "cardValue": "Yükselici hava hareketi görülür."
+  },
+  {
+    "cardKey": "Yüksek basınç alanlarından alçak basınç alanlarına doğru oluşan yatay hava hareketine ne ad verilir?",
+    "cardValue": "Rüzgâr."
+  },
+  {
+    "cardKey": "30° enlemlerindeki dinamik yüksek basınç alanlarından Ekvator'daki termik alçak basınç alanına doğru yıl boyunca esen sürekli rüzgârlar hangileridir?",
+    "cardValue": "Alize rüzgârları."
+  },
+  {
+    "cardKey": "Orta kuşak karalarının batı kıyılarına bol yağış bırakan ve 30° enlemlerinden 60° enlemlerine doğru esen sürekli rüzgârlar hangileridir?",
+    "cardValue": "Batı rüzgârları."
+  },
+  {
+    "cardKey": "Yaz ve kış mevsimlerinde Asya Kıtası ile Hint Okyanusu'nun farklı ısınmasına bağlı olarak oluşan devirli rüzgârlar hangileridir?",
+    "cardValue": "Muson rüzgârları."
+  },
+  {
+    "cardKey": "Gün içindeki sıcaklık ve basınç farkına bağlı olarak kara ile deniz ve dağ ile vadi arasında oluşan yerel rüzgârlara ne denir?",
+    "cardValue": "Meltem rüzgârları."
+  },
+  {
+    "cardKey": "Bir dağ yamacını aşarak alçalan hava kütlesinin ısınmasıyla oluşan sıcak ve kuru rüzgâra ne ad verilir?",
+    "cardValue": "Fön rüzgârı."
+  },
+  {
+    "cardKey": "1 m³ havanın belirli bir sıcaklıkta taşıyabileceği en fazla nem miktarına ne denir?",
+    "cardValue": "Maksimum nem."
+  },
+  {
+    "cardKey": "Havadaki mevcut nemin, havanın taşıyabileceği maksimum neme oranına ne ad verilir?",
+    "cardValue": "Bağıl (nispi) nem."
+  },
+  {
+    "cardKey": "Bağıl nemin %100'e ulaştığı doymuş hava kütlesindeki nemin sıvı ya da katı hâle dönüşmesi olayına ne denir?",
+    "cardValue": "Yoğuşma."
+  },
+  {
+    "cardKey": "Isınan havanın yükselerek soğuması sonucu oluşan yağış türü hangisidir?",
+    "cardValue": "Yükselim (konveksiyonel) yağışları."
+  },
+  {
+    "cardKey": "Nemli bir hava kütlesinin bir dağ yamacı boyunca yükselerek soğumasıyla oluşan yağış türüne ne ad verilir?",
+    "cardValue": "Yamaç (orografik) yağışları."
+  },
+  {
+    "cardKey": "Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında oluşan yağış türü hangisidir?",
+    "cardValue": "Cephe (frontal) yağışları."
+  },
+  {
+    "cardKey": "Dünyada en çok yağış alan yerlere bir örnek veriniz.",
+    "cardValue": "Ekvator ve çevresi, Güneydoğu Asya kıyıları veya Amazon/Kongo havzaları."
+  },
+  {
+    "cardKey": "Dünyada en az yağış alan yerlere bir örnek veriniz.",
+    "cardValue": "Kutup bölgeleri, 30° enlemlerindeki çöller veya karaların iç kesimleri."
+  },
+  {
+    "cardKey": "Yıl boyunca sıcak ve yağışlı olan, bitki örtüsü gür ve geniş yapraklı ormanlardan oluşan iklim tipi hangisidir?",
+    "cardValue": "Ekvatoral iklim."
+  },
+  {
+    "cardKey": "Yazları yağışlı, kışları kurak geçen ve bitki örtüsü uzun boylu otlardan (savan) oluşan sıcak iklim tipi hangisidir?",
+    "cardValue": "Savan iklimi."
+  },
+  {
+    "cardKey": "Yazları sıcak ve kurak, kışları ılık ve yağışlı geçen, bitki örtüsü makilerden oluşan ılıman iklim tipi hangisidir?",
+    "cardValue": "Akdeniz iklimi."
+  },
+  {
+    "cardKey": "Her mevsim yağışlı ve ılıman olan, bitki örtüsü karma yapraklı ormanlardan oluşan iklim tipi hangisidir?",
+    "cardValue": "Okyanusal iklim."
+  },
+  {
+    "cardKey": "Kışları soğuk, yazları sıcak ve kurak geçen, bitki örtüsü bozkır (step) olan iklim tipine ne ad verilir?",
+    "cardValue": "Ilıman karasal (step) iklim."
+  },
+  {
+    "cardKey": "Kışları çok soğuk ve uzun, yazları kısa ve serin geçen, bitki örtüsü iğne yapraklı tayga ormanları olan iklim tipi hangisidir?",
+    "cardValue": "Sert karasal iklim."
+  },
+  {
+    "cardKey": "Sıcaklığın yılın sadece birkaç ayı 0°C'nin üzerine çıktığı, donmuş topraklar ve yosunlardan oluşan bitki örtüsüne sahip iklim tipi hangisidir?",
+    "cardValue": "Tundra iklimi."
+  },
+  {
+    "cardKey": "Sıcaklığın yıl boyunca 0°C'nin altında olduğu ve bitki örtüsünden yoksun olan iklim tipi hangisidir?",
+    "cardValue": "Kutup iklimi."
+  },
+  {
+    "cardKey": "Türkiye'de güneyden kuzeye doğru gidildikçe sıcaklık ortalamasının azalmasının temel nedeni nedir?",
+    "cardValue": "Enlem etkisi."
+  },
+  {
+    "cardKey": "Türkiye'de kış mevsiminde soğuk ve ayazlı havalara neden olan termik kökenli basınç merkezi hangisidir?",
+    "cardValue": "Sibirya Termik Yüksek Basıncı (TYB)."
+  },
+  {
+    "cardKey": "Türkiye'de yaz mevsiminde sıcak ve kurak günlere neden olan termik kökenli basınç merkezi hangisidir?",
+    "cardValue": "Basra Termik Alçak Basıncı (TAB)."
+  },
+  {
+    "cardKey": "Türkiye'yi kuzeybatıdan etkileyen, soğuk ve yağış getiren yerel rüzgârın adı nedir?",
+    "cardValue": "Karayel."
+  },
+  {
+    "cardKey": "Türkiye'yi güneydoğudan etkileyen sıcak ve kuru yerel rüzgârın adı nedir?",
+    "cardValue": "Keşişleme (Samyeli)."
+  },
+  {
+    "cardKey": "Türkiye'de yağışın en fazla olduğu yerlere bir örnek veriniz.",
+    "cardValue": "Doğu Karadeniz kıyıları (Rize çevresi)."
+  },
+  {
+    "cardKey": "Türkiye'de yağışın en az olduğu yerlere bir örnek veriniz.",
+    "cardValue": "Tuz Gölü çevresi veya Iğdır Ovası."
+  },
+  {
+    "cardKey": "İç Anadolu Bölgesi'nde ilkbahar aylarında görülen ve halk arasında \"kırkikindi\" olarak adlandırılan yağışların oluşum türü nedir?",
+    "cardValue": "Yükselim (konveksiyonel) yağışları."
+  },
+  {
+    "cardKey": "Akdeniz ikliminin bitki örtüsü olan kızılçam ormanlarının tahrip edildiği yerlerde ortaya çıkan bodur ağaç ve çalılardan oluşan bitki topluluğuna ne denir?",
+    "cardValue": "Maki."
+  },
+  {
+    "cardKey": "Her mevsim yağışlı, yazları serin kışları ılık geçen ve doğal bitki örtüsü orman olan Türkiye iklim tipi hangisidir?",
+    "cardValue": "Karadeniz iklimi."
+  },
+  {
+    "cardKey": "Neolitik Çağ'da insanların yerleşik hayata geçmesiyle hangi ekonomik faaliyetler başlamıştır?",
+    "cardValue": "Tarım ve hayvancılık."
+  },
+  {
+    "cardKey": "Su kaynaklarının yetersiz olduğu düz arazilerde köylerin yerleşme dokusu genellikle nasıldır?",
+    "cardValue": "Toplu yerleşme."
+  },
+  {
+    "cardKey": "Arazinin engebeli ve su kaynaklarının bol olduğu yerlerde evlerin birbirinden uzak olduğu yerleşme dokusuna ne ad verilir?",
+    "cardValue": "Dağınık yerleşme."
+  },
+  {
+    "cardKey": "Ekonomisi tarım, hayvancılık, ormancılık ve balıkçılığa dayanan yerleşmelere ne ad verilir?",
+    "cardValue": "Kırsal yerleşme."
+  },
+  {
+    "cardKey": "Nüfusu 1.000.000'dan fazla olan şehirlere ne ad verilir?",
+    "cardValue": "Metropoliten şehir."
+  },
+  {
+    "cardKey": "Yağışın az, sıcaklık farkının fazla olduğu kurak iklim bölgelerinde kırsal kesimde yaygın olan mesken tipi nedir?",
+    "cardValue": "Toprak (kerpiç) meskenler."
+  },
+  {
+    "cardKey": "Türkiye'nin Karadeniz Bölgesi'nin kırsal kesimlerinde hangi mesken tipi yaygındır?",
+    "cardValue": "Ahşap meskenler."
+  },
+  {
+    "cardKey": "Çeşitli özellikleriyle çevresinden ayrılan ancak kendi içinde benzerlik gösteren alanlara ne denir?",
+    "cardValue": "Bölge."
+  },
+  {
+    "cardKey": "Yeryüzü şekilleri, iklim, bitki örtüsü gibi unsurlara göre oluşturulan bölgeler, _____ şekilsel bölgelerdir.",
+    "cardValue": "doğal"
+  },
+  {
+    "cardKey": "Nüfus, sanayi, tarım gibi insan faaliyetlerine göre oluşturulan bölgeler, _____ şekilsel bölgelerdir.",
+    "cardValue": "beşerî"
+  },
+  {
+    "cardKey": "Bir yönetim merkezine sahip olan ve hizmetlerin (yönetim, planlama, sağlık vb.) işleyişine göre belirlenen bölgelere ne ad verilir?",
+    "cardValue": "İşlevsel bölgeler."
+  },
+  {
+    "cardKey": "Doğal ve beşerî bölgelerin sınırları zamanla _____.",
+    "cardValue": "değişebilir"
+  },
+  {
+    "cardKey": "Marmaray ve Avrasya Tüneli gibi yapılar, insanın doğal çevreye yaptığı hangi tür müdahalelere örnektir?",
+    "cardValue": "Ulaşım amaçlı müdahaleler."
+  },
+  {
+    "cardKey": "Sanayi tesislerinde, ulaşım araçlarında ve ısınmada fosil yakıtların kullanılması atmosferde hangi gazların birikmesine neden olur?",
+    "cardValue": "Sera gazlarının (karbondioksit, metan vb.)."
+  },
+  {
+    "cardKey": "Aral Gölü'nü besleyen nehirlerin sularının tarımda aşırı kullanılması göl üzerinde nasıl bir etki yapmıştır?",
+    "cardValue": "Gölün büyük oranda kurumasına neden olmuştur."
+  },
+  {
+    "cardKey": "Yer kabuğunun altında, iç kuvvetlerin kaynağı olan ve konveksiyonel akıntıların oluştuğu katman hangisidir?",
+    "cardValue": "Manto."
+  },
+  {
+    "cardKey": "Alfred Wegener'in teorisine göre, kıtalar başlangıçta _____ adı verilen tek bir süper kıtanın parçalarıydı.",
+    "cardValue": "Pangea"
+  },
+  {
+    "cardKey": "İki okyanusal levhanın birbirinden uzaklaşmasıyla okyanus tabanında hangi yer şekli oluşur?",
+    "cardValue": "Okyanus ortası sırtlar."
+  },
+  {
+    "cardKey": "Bir okyanusal levhanın bir kıtasal levhanın altına daldığı sınırlara ne ad verilir?",
+    "cardValue": "Dalma-batma zonu."
+  },
+  {
+    "cardKey": "Paleozoyik (I. Jeolojik Zaman) döneminde oluşan en önemli yeraltı kaynağı hangisidir?",
+    "cardValue": "Taş kömürü."
+  },
+  {
+    "cardKey": "Alp Dağları, Himalayalar, Kayalık ve And Dağları hangi jeolojik zamanda oluşmuştur?",
+    "cardValue": "Senozoyik (III. Jeolojik Zaman)."
+  },
+  {
+    "cardKey": "Türkiye'deki Kuzey Anadolu Dağları ve Toros Dağları hangi orojenez sistemi sonucunda oluşmuştur?",
+    "cardValue": "Alp Orojenezi."
+  },
+  {
+    "cardKey": "Karaların alçalmasıyla deniz sularının karaya doğru ilerlemesi olayına ne denir?",
+    "cardValue": "Transgresyon (deniz ilerlemesi)."
+  },
+  {
+    "cardKey": "Jeosenklinallerde biriken tortul tabakaların yan basınçlarla kıvrılması sonucu yükselen kubbe şeklindeki kısımlara ne ad verilir?",
+    "cardValue": "Antiklinal."
+  },
+  {
+    "cardKey": "Sert yapılı tabakaların kırılmasıyla oluşan çöküntü alanlarına ne ad verilir?",
+    "cardValue": "Graben."
+  },
+  {
+    "cardKey": "Türkiye'nin batısında horst ve graben sistemlerinin oluşmasının temel nedeni nedir?",
+    "cardValue": "Orojenik hareketler sonucu meydana gelen kırılmalar."
+  },
+  {
+    "cardKey": "Büyük Okyanus (Pasifik) kıyılarının çok fazla aktif volkan barındırması nedeniyle bu bölgeye ne ad verilir?",
+    "cardValue": "Ateş Çemberi."
+  },
+  {
+    "cardKey": "Deniz ve okyanus tabanlarında meydana gelen depremlerin oluşturduğu dev dalgalara ne denir?",
+    "cardValue": "Tsunami."
+  },
+  {
+    "cardKey": "Magmanın yeryüzüne çıkarak soğuyup katılaşmasıyla oluşan kayaçlara ne ad verilir?",
+    "cardValue": "Dış püskürük (yüzey) kayaçlar."
+  },
+  {
+    "cardKey": "Bünyelerinde fosil bulundurabilen ve dış kuvvetlerin taşıdığı malzemelerin birikip sıkışmasıyla oluşan kayaç grubu hangisidir?",
+    "cardValue": "Tortul (sedimanter) kayaçlar."
+  },
+  {
+    "cardKey": "Kireç taşının (kalker) yüksek sıcaklık ve basınç altında başkalaşmasıyla hangi kayaç oluşur?",
+    "cardValue": "Mermer."
+  },
+  {
+    "cardKey": "Kayaçların suyun etkisiyle erimesi ve minerallerinin ayrışması şeklindeki parçalanmaya ne denir?",
+    "cardValue": "Kimyasal çözünme."
+  },
+  {
+    "cardKey": "Kaya, toprak gibi kütlelerin yer çekimi etkisiyle yamaç boyunca yer değiştirmesine ne ad verilir?",
+    "cardValue": "Heyelan."
+  },
+  {
+    "cardKey": "Kurak bölgelerde rüzgârın kayaların alt kısımlarını daha fazla aşındırmasıyla oluşan yer şekli hangisidir?",
+    "cardValue": "Mantar kaya."
+  },
+  {
+    "cardKey": "Rüzgârların taşıdığı ince malzemeleri biriktirmesiyle oluşan verimli topraklara ne ad verilir?",
+    "cardValue": "Lös."
+  },
+  {
+    "cardKey": "Yıl boyunca erimeden kalan karın inebildiği en alt yükselti seviyesine ne ad verilir?",
+    "cardValue": "Kalıcı kar sınırı."
+  },
+  {
+    "cardKey": "Buzulların aşındırmasıyla oluşan ve dağların üst kısımlarındaki çanak şeklindeki çukurlara ne denir?",
+    "cardValue": "Sirk."
+  },
+  {
+    "cardKey": "Buzulların taşıyıp erime bölgesinde biriktirdiği irili ufaklı malzemelere ne ad verilir?",
+    "cardValue": "Moren."
+  },
+  {
+    "cardKey": "Akarsu yatağının herhangi bir noktasından birim zamanda geçen su miktarına ne denir?",
+    "cardValue": "Akım (debi)."
+  },
+  {
+    "cardKey": "Akarsuyun yatağını taban seviyesine kadar aşındırmasıyla ulaştığı profile ne ad verilir?",
+    "cardValue": "Denge profili."
+  },
+  {
+    "cardKey": "Volkanik arazilerde, sel sularının ve akarsuların tüflü araziyi aşındırmasıyla oluşan yer şekli hangisidir?",
+    "cardValue": "Peribacaları."
+  },
+  {
+    "cardKey": "Akarsuyun yatak eğiminin azaldığı yerlerde kıvrımlar yaparak akmasıyla oluşan şekle ne ad verilir?",
+    "cardValue": "Menderes."
+  },
+  {
+    "cardKey": "Kireç taşı (kalker), alçı taşı (jips) gibi çözünebilen kayaçların bulunduğu arazilere ne denir?",
+    "cardValue": "Karstik arazi."
+  },
+  {
+    "cardKey": "Karstik arazilerde mağara tavanlarının çökmesiyla oluşan derin çukurluklara ne ad verilir?",
+    "cardValue": "Obruk."
+  },
+  {
+    "cardKey": "Karstik mağaralarda tavandan sarkan birikim şekillerine _____, tabandan yükselenlere _____ denir.",
+    "cardValue": "sarkıt / dikit"
+  },
+  {
+    "cardKey": "Denizli'deki Pamukkale, hangi karstik biriktirme şeklinin en güzel örneğidir?",
+    "cardValue": "Traverten."
+  },
+  {
+    "cardKey": "Bir kıyı okunun, kıyıya yakın bir adayı ana karaya bağlamasıyla oluşan yarımadaya ne ad verilir?",
+    "cardValue": "Tombolo (saplı ada)."
+  },
+  {
+    "cardKey": "Dağların kıyıya paralel uzandığı, girinti ve çıkıntının az olduğu kıyı tipi hangisidir?",
+    "cardValue": "Boyuna kıyı tipi."
+  },
+  {
+    "cardKey": "Buzul vadilerinin sular altında kalmasıyla oluşan, fiyortlu kıyılar hangi ülkelerde yaygındır?",
+    "cardValue": "Norveç, İzlanda, Grönland gibi kutuplara yakın bölgelerde."
+  },
+  {
+    "cardKey": "Türkiye'de ortalama yükseltinin fazla olmasının ve epirojenik olarak toptan yükselmesinin kanıtlarından biri nedir?",
+    "cardValue": "Geniş plato düzlüklerinin varlığı ve kıyı taraçaları."
+  },
+  {
+    "cardKey": "Türkiye'de deprem riskinin yüksek olmasının temel nedeni nedir?",
+    "cardValue": "Alp-Himalaya Fay Kuşağı üzerinde yer alması ve aktif fay hatlarına sahip olması."
+  },
+  {
+    "cardKey": "Türkiye'de en yaygın dış kuvvet hangisidir ve bu kuvvetin oluşturduğu şekiller neden yaygındır?",
+    "cardValue": "Akarsulardır, çünkü Türkiye genç oluşumlu, yüksek ve engebeli bir ülkedir."
+  },
+  {
+    "cardKey": "Türkiye'de karstik şekillerin en yaygın olduğu coğrafi bölge hangisidir?",
+    "cardValue": "Akdeniz Bölgesi (özellikle Toros Dağları kuşağı)."
+  },
+  {
+    "cardKey": "İstanbul ve Çanakkale boğazları hangi kıyı tipine örnektir?",
+    "cardValue": "Ria kıyı tipi."
+  },
+  {
+    "cardKey": "Su döngüsü yoluyla Dünya'nın mevcut su potansiyeli sürekli olarak _____.",
+    "cardValue": "yenilenmektedir"
+  },
+  {
+    "cardKey": "Okyanus ve deniz sularının tuzluluk oranı Ekvator'dan kutuplara doğru nasıl değişir?",
+    "cardValue": "Azalır."
+  },
+  {
+    "cardKey": "Gideğeni (göl ayağı) olmayan göllerin suları genellikle nasıldır?",
+    "cardValue": "Tuzlu, sodalı ya da acıdır."
+  },
+  {
+    "cardKey": "Volkanik faaliyetler sonucu oluşan lavların bir vadi önünü kapatmasıyla oluşan göllere ne denir?",
+    "cardValue": "Volkanik (lav) set gölleri."
+  },
+  {
+    "cardKey": "Sularını denize veya okyanusa ulaştıramayan akarsu havzalarına ne ad verilir?",
+    "cardValue": "Kapalı havza."
+  },
+  {
+    "cardKey": "Aktif volkanik alanlarda yer altı sularının basınçla yeryüzüne fışkırarak çıktığı kaynak türü hangisidir?",
+    "cardValue": "Gayzer kaynakları."
+  },
+  {
+    "cardKey": "Türkiye'de fay hatları boyunca oluşan ve suları sıcak olan kaynak türü hangisidir?",
+    "cardValue": "Fay kaynakları (jeotermal kaynaklar)."
+  },
+  {
+    "cardKey": "Türkiye'de kıyı şeridi en uzun olan deniz hangisidir?",
+    "cardValue": "Ege Denizi."
+  },
+  {
+    "cardKey": "Türkiye'nin en büyük gölü olan Van Gölü, hangi oluşum tipine örnektir?",
+    "cardValue": "Karma oluşumlu (tektonik ve volkanik set)."
+  },
+  {
+    "cardKey": "Türkiye sınırları içindeki en uzun akarsu hangisidir?",
+    "cardValue": "Kızılırmak."
+  },
+  {
+    "cardKey": "Canlı kalıntılarının çürüyerek toprağa karışmasıyla oluşan organik maddeye ne ad verilir?",
+    "cardValue": "Humus."
+  },
+  {
+    "cardKey": "Toprak oluşumunu tamamlamış olgun bir toprak profilinde en üstteki yıkanma katmanı hangi harfle gösterilir?",
+    "cardValue": "A Horizonu."
+  },
+  {
+    "cardKey": "Oluşumunda iklim ve bitki örtüsünün etkili olduğu yerli topraklara ne ad verilir?",
+    "cardValue": "Zonal topraklar."
+  },
+  {
+    "cardKey": "Akarsuların taşıyıp biriktirdiği malzemelerden oluşan ve tarımsal verimi yüksek olan topraklara ne ad verilir?",
+    "cardValue": "Alüvyal topraklar."
+  },
+  {
+    "cardKey": "Akdeniz iklim bölgesinde, demir oksitlenmesiyle kırmızı renk alan toprak türü hangisidir?",
+    "cardValue": "Terra rossa."
+  },
+  {
+    "cardKey": "Sert karasal iklimde, çayır bitki örtüsü altında oluşan, humus bakımından çok zengin ve verimli olan topraklara ne ad verilir?",
+    "cardValue": "Çernezyom (kara toprak)."
+  },
+  {
+    "cardKey": "Türkiye'de Erzurum-Kars Platosu'nda hangi verimli toprak türü yaygındır?",
+    "cardValue": "Çernezyom."
+  },
+  {
+    "cardKey": "Yeryüzünün belirli bir bölgesinde yaşayan ve başka sahalarda rastlanmayan bitki türlerine ne denir?",
+    "cardValue": "Endemik bitki."
+  },
+  {
+    "cardKey": "Geçmiş jeolojik zamanlardaki iklim koşullarından günümüze kadar varlığını sürdüren bitkilere ne ad verilir?",
+    "cardValue": "Relikt (kalıntı) bitki."
+  },
+  {
+    "cardKey": "Sert karasal iklim bölgesinde düşük sıcaklığa uyum sağlamış iğne yapraklı ormanlara ne ad verilir?",
+    "cardValue": "Tayga (Boreal) ormanları."
+  },
+  {
+    "cardKey": "Belirli bir zamanda, sınırları belirli bir alanda yaşayan insan sayısına ne denir?",
+    "cardValue": "Nüfus."
+  },
+  {
+    "cardKey": "Doğumlar ve ölümlerin yanı sıra göçlerin de dikkate alınmasıyla hesaplanan nüfus artışına ne ad verilir?",
+    "cardValue": "Gerçek nüfus artışı."
+  },
+  {
+    "cardKey": "Gelişmiş ülkelerde genç nüfus oranı _____ iken yaşlı nüfus oranı _____.",
+    "cardValue": "az / fazla"
+  },
+  {
+    "cardKey": "Bir ülkede nüfus piramidinin tabanının geniş olması neyi gösterir?",
+    "cardValue": "Doğum oranının ve genç nüfus oranının yüksek olduğunu gösterir."
+  },
+  {
+    "cardKey": "Doğum ve ölüm oranlarının düşük olduğu, yaşlı nüfusun fazla olduğu gelişmiş ülkelere ait nüfus piramidi hangi şekildedir?",
+    "cardValue": "Arı kovanı şeklinde."
+  },
+  {
+    "cardKey": "İnsanlık tarihinde nüfusun belirgin artış gösterdiği üç sıçrama dönemi hangileridir?",
+    "cardValue": "1. Alet yapımının keşfi, 2. Tarım Devrimi (yerleşik hayata geçiş), 3. Sanayi Devrimi."
+  },
+  {
+    "cardKey": "Türkiye Cumhuriyeti'nde ilk modern nüfus sayımı hangi yılda yapılmıştır?",
+    "cardValue": "1927."
+  },
+  {
+    "cardKey": "Türkiye'de 1940-1945 döneminde nüfus artış hızının düşmesinin temel nedeni nedir?",
+    "cardValue": "2. Dünya Savaşı nedeniyle seferberlik ilanı, erkeklerin askere alınması ve ekonomik sıkıntılar."
+  },
+  {
+    "cardKey": "Türkiye'de nüfusun en yoğun olduğu alanlara bir örnek veriniz.",
+    "cardValue": "Çatalca-Kocaeli Platosu veya İzmir çevresi."
+  },
+  {
+    "cardKey": "Menteşe Yöresi, Taşeli Platosu gibi alanların seyrek nüfuslu olmasının temel nedeni nedir?",
+    "cardValue": "Dağlık ve engebeli arazi yapısı."
+  },
+  {
+    "cardKey": "2023 yılı itibarıyla Türkiye'de kentsel nüfus oranı kırsal nüfus oranından daha mı fazladır, daha mı azdır?",
+    "cardValue": "Çok daha fazladır (kentsel nüfus %93, kırsal nüfus %7)."
+  },
+  {
+    "cardKey": "İnsanların bulundukları yerden gitmelerine sebep olan olumsuzluklara _____, bir başka yeri seçmelerindeki olumlu özelliklere ise _____ faktörler denir.",
+    "cardValue": "itici / çekici"
+  },
+  {
+    "cardKey": "Kurtuluş Savaşı sonrası Türkiye ile Yunanistan arasında yapılan ve nüfusların karşılıklı yer değiştirdiği göç türü nedir?",
+    "cardValue": "Mübadele göçü."
+  },
+  {
+    "cardKey": "İyi eğitim görmüş, nitelikli ve yetenekli kişilerin daha iyi imkanlar için gelişmiş ülkelere göç etmesine ne denir?",
+    "cardValue": "Beyin göçü."
+  },
+  {
+    "cardKey": "Türkiye'de yaz aylarında pamuk veya fındık hasadı için yapılan göçler, hangi göç türüne örnektir?",
+    "cardValue": "Mevsimlik (geçici) iç göç."
+  },
+  {
+    "cardKey": "Doğrudan doğal ortama bağlı olarak ham madde elde edilmesini sağlayan tarım, hayvancılık, madencilik gibi faaliyetler hangi ekonomik faaliyet grubuna girer?",
+    "cardValue": "Birincil ekonomik faaliyetler."
+  },
+  {
+    "cardKey": "Ham maddelerin işlenerek mamul ürünlere dönüştürüldüğü sanayi ve inşaat gibi faaliyetler hangi gruptadır?",
+    "cardValue": "İkincil ekonomik faaliyetler."
+  },
+  {
+    "cardKey": "Eğitim, sağlık, turizm, ticaret gibi hizmet sektörünü kapsayan faaliyetler hangi gruptadır?",
+    "cardValue": "Üçüncül ekonomik faaliyetler."
+  },
+  {
+    "cardKey": "Gelişmiş ülkelerde çalışan nüfusun büyük bölümü hangi ekonomik faaliyet kollarında yoğunlaşmıştır?",
+    "cardValue": "İkincil (sanayi) ve üçüncül (hizmet) faaliyetlerde."
+  },
+  {
+    "cardKey": "Deniz yolu ulaşımında mesafeleri kısaltan ve stratejik öneme sahip olan yapay su yollarına ne denir?",
+    "cardValue": "Kanal."
+  },
+  {
+    "cardKey": "Akdeniz'i Atlas Okyanusu'na bağlayan stratejik boğaz hangisidir?",
+    "cardValue": "Cebelitarık Boğazı."
+  },
+  {
+    "cardKey": "Akdeniz'i Kızıldeniz'e bağlayarak Avrupa ile Hint Okyanusu arasındaki deniz yolunu büyük ölçüde kısaltan kanal hangisidir?",
+    "cardValue": "Süveyş Kanalı."
+  },
+  {
+    "cardKey": "Atlas Okyanusu ile Büyük Okyanus arasındaki geçişi sağlayan ve Macellan Boğazı'na alternatif olan önemli kanal hangisidir?",
+    "cardValue": "Panama Kanalı."
+  },
+  {
+    "cardKey": "Can ve mal kaybına neden olan doğal veya insan kaynaklı olaylara ne ad verilir?",
+    "cardValue": "Afet."
+  },
+  {
+    "cardKey": "Deprem, tsunami gibi afetler _____ kökenli afetlerdir.",
+    "cardValue": "jeolojik"
+  },
+  {
+    "cardKey": "Sel, kuraklık, şiddetli rüzgârlar gibi afetler _____ kökenli afetlerdir.",
+    "cardValue": "klimatik"
+  },
+  {
+    "cardKey": "Toprakların akarsu ve rüzgâr gibi dış kuvvetlerle aşındırılıp süpürülmesiyle gerçekleşen biyolojik afete ne denir?",
+    "cardValue": "Erozyon."
+  },
+  {
+    "cardKey": "Tropikal kuşakta okyanuslar üzerinde oluşan çok şiddetli ve yıkıcı rüzgârlara ne ad verilir?",
+    "cardValue": "Tropikal siklon."
+  },
+  {
+    "cardKey": "Afetlerden önce yapılması gereken zarar azaltma ve hazırlık çalışmalarını içeren yönetim sürecine ne denir?",
+    "cardValue": "Risk yönetimi."
+  },
+  {
+    "cardKey": "Afet anında müdahale ve afet sonrasında iyileştirme çalışmalarını içeren yönetim sürecine ne ad verilir?",
+    "cardValue": "Kriz yönetimi."
+  }
+]
