@@ -1,1 +1,810 @@
-
+[
+  {
+    "cardKey": "Canlının yapısını, davranışını, diğer canlılarla ve cansız faktörlerle ilişkisini inceleyen bilim dalı nedir?",
+    "cardValue": "Biyoloji (Yaşam bilimi)."
+  },
+  {
+    "cardKey": "Çekirdeği ve zarlı organelleri bulunmayan hücrelere ne ad verilir?",
+    "cardValue": "Prokaryot hücre."
+  },
+  {
+    "cardKey": "Bakteriler ve arkeler hangi hücre yapısına sahip canlılardır?",
+    "cardValue": "Prokaryot hücre yapısına sahiptirler."
+  },
+  {
+    "cardKey": "Çekirdeğe ve zarlı organellere sahip olan hücrelere ne denir?",
+    "cardValue": "Ökaryot hücre."
+  },
+  {
+    "cardKey": "Her prokaryot canlı tek hücrelidir, ancak her tek hücreli canlı _____ değildir.",
+    "cardValue": "prokaryot"
+  },
+  {
+    "cardKey": "İnorganik maddelerden organik besin üreten canlılara ne denir?",
+    "cardValue": "Üretici (ototrof) canlılar."
+  },
+  {
+    "cardKey": "Besinlerini yaşadıkları ortamdan hazır olarak alan canlılara ne ad verilir?",
+    "cardValue": "Tüketici (heterotrof) canlılar."
+  },
+  {
+    "cardKey": "Canlıların yaşamsal faaliyetleri için kullandığı, besinlerin parçalanmasıyla elde edilen enerji molekülü nedir?",
+    "cardValue": "ATP (adenozin trifosfat)."
+  },
+  {
+    "cardKey": "Metabolik faaliyetler sonucu oluşan atık maddelerin vücuttan uzaklaştırılması olayına ne denir?",
+    "cardValue": "Boşaltım."
+  },
+  {
+    "cardKey": "Tatlı sularda yaşayan amip, öglena gibi tek hücrelilerin fazla suyu dışarı attığı özelleşmiş organelin adı nedir?",
+    "cardValue": "Kontraktil koful."
+  },
+  {
+    "cardKey": "Canlı hücrelerde gerçekleşen yapım ve yıkım tepkimelerinin tamamına ne ad verilir?",
+    "cardValue": "Metabolizma."
+  },
+  {
+    "cardKey": "Küçük moleküllerin birleştirilerek büyük moleküller oluşturduğu yapım tepkimelerine ne denir?",
+    "cardValue": "Anabolizma (özümleme)."
+  },
+  {
+    "cardKey": "Büyük moleküllerin parçalanarak daha küçük moleküller oluşturduğu yıkım tepkimelerine ne denir?",
+    "cardValue": "Katabolizma (yadımlama)."
+  },
+  {
+    "cardKey": "Çevresel değişimlere rağmen organizmada kararlı bir iç ortamın sağlanması ve korunması olayına ne ad verilir?",
+    "cardValue": "Homeostazi."
+  },
+  {
+    "cardKey": "Bir organizmanın yaşadığı çevrede hayatta kalma ve üreme şansını artıran kalıtsal özelliklerin tamamına ne denir?",
+    "cardValue": "Uyum (adaptasyon)."
+  },
+  {
+    "cardKey": "Çok hücreli canlılarda benzer hücrelerin dokuları, dokuların organları, organların sistemleri oluşturması hangi ortak özelliği ifade eder?",
+    "cardValue": "Organizasyon."
+  },
+  {
+    "cardKey": "Canlıların soylarını devam ettirmek için yeni bireyler oluşturmasına ne denir?",
+    "cardValue": "Üreme."
+  },
+  {
+    "cardKey": "Tek hücreli canlılarda sitoplazmanın hacimce ve kütlece artışına ne ad verilir?",
+    "cardValue": "Büyüme."
+  },
+  {
+    "cardKey": "Canlılar tarafından üretilemeyen, doğadan hazır olarak alınan ve yapısında genellikle karbon ve hidrojen elementlerini birlikte bulundurmayan bileşikler hangileridir?",
+    "cardValue": "İnorganik bileşikler."
+  },
+  {
+    "cardKey": "Su molekülleri arasında kurulan hidrojen bağının çekim kuvvetine ne denir?",
+    "cardValue": "Kohezyon."
+  },
+  {
+    "cardKey": "Suyun diğer moleküllere tutunmasını sağlayan kuvvete ne ad verilir?",
+    "cardValue": "Adhezyon."
+  },
+  {
+    "cardKey": "Bir çözeltinin pH değeri 7'nin altındaysa _____, 7'nin üzerindeyse _____, 7 ise nötrdür.",
+    "cardValue": "asit / baz"
+  },
+  {
+    "cardKey": "İnsan kanının normal pH değeri kaçtır ve bu değerin hangi aralığa gelmesi ölüme sebep olabilir?",
+    "cardValue": "Normal pH değeri 7,4'tür; 7'ye düşmesi ya da 7,8'e yükselmesi ölüme neden olabilir."
+  },
+  {
+    "cardKey": "Vücuttaki bir mineralin eksikliği başka bir mineral ile giderilebilir mi?",
+    "cardValue": "Giderilemez, çünkü her mineralin kendine özgü görevi vardır."
+  },
+  {
+    "cardKey": "Tiroit bezinden salgılanan tiroksin hormonunun yapısında bulunan mineral hangisidir?",
+    "cardValue": "İyot."
+  },
+  {
+    "cardKey": "Solunum gazlarını taşımada görevli olan hemoglobin molekülünün yapısına katılan mineral nedir?",
+    "cardValue": "Demir."
+  },
+  {
+    "cardKey": "Demir mineralinin eksikliğinde ortaya çıkan ve kansızlık olarak bilinen hastalık nedir?",
+    "cardValue": "Anemi."
+  },
+  {
+    "cardKey": "Kemik ve dişlerin yapısının korunmasında, kas kasılmasında ve kanın pıhtılaşmasında görev alan mineral hangisidir?",
+    "cardValue": "Kalsiyum."
+  },
+  {
+    "cardKey": "Çocuklarda kalsiyum eksikliği sonucu kemiklerde yumuşama ve eğrilme şeklinde görülen hastalık nedir?",
+    "cardValue": "Raşitizm."
+  },
+  {
+    "cardKey": "Monomerlerin birleşerek polimerleri oluşturduğu ve su açığa çıkan tepkimeye ne denir?",
+    "cardValue": "Dehidrasyon reaksiyonu."
+  },
+  {
+    "cardKey": "Polimerlerin su kullanılarak yapı birimlerine ayrılmasına ne ad verilir?",
+    "cardValue": "Hidroliz."
+  },
+  {
+    "cardKey": "Karbonhidratların monomerleri birbirine hangi bağ ile bağlanır?",
+    "cardValue": "Glikozit bağı."
+  },
+  {
+    "cardKey": "Beş karbonlu monosakkaritlere genel olarak ne ad verilir?",
+    "cardValue": "Pentoz."
+  },
+  {
+    "cardKey": "DNA'nın yapısına katılan beş karbonlu şeker hangisidir?",
+    "cardValue": "Deoksiriboz."
+  },
+  {
+    "cardKey": "Kan şekeri veya üzüm şekeri olarak bilinen altı karbonlu monosakkarit hangisidir?",
+    "cardValue": "Glikoz."
+  },
+  {
+    "cardKey": "Kapalı formülleri aynı ($C_6H_{12}O_6$), açık formülleri farklı olan glikoz, fruktoz ve galaktoz gibi moleküllere ne denir?",
+    "cardValue": "İzomer."
+  },
+  {
+    "cardKey": "İki glikoz molekülünün birleşmesiyle oluşan disakkarit hangisidir?",
+    "cardValue": "Maltoz (arpa şekeri)."
+  },
+  {
+    "cardKey": "Bir glikoz ve bir fruktoz molekülünün birleşmesiyle oluşan disakkarit nedir?",
+    "cardValue": "Sükroz veya sakkaroz (çay şekeri)."
+  },
+  {
+    "cardKey": "Bir glikoz ve bir galaktoz molekülünün birleşmesiyle oluşan ve sütte bulunan disakkarit hangisidir?",
+    "cardValue": "Laktoz (süt şekeri)."
+  },
+  {
+    "cardKey": "Bitkilerin fotosentezle ürettiği glikozun fazlasını depoladığı polisakkarit hangisidir?",
+    "cardValue": "Nişasta."
+  },
+  {
+    "cardKey": "Hayvanlar, bakteriler, arkeler ve mantarların glikozun fazlasını depoladığı polisakkarit nedir?",
+    "cardValue": "Glikojen."
+  },
+  {
+    "cardKey": "Bitki hücrelerinin çeper yapısına katılan yapısal polisakkarit hangisidir?",
+    "cardValue": "Selüloz."
+  },
+  {
+    "cardKey": "Yapısında azot bulunan, mantarların hücre çeperini ve eklembacaklıların dış iskeletini oluşturan polisakkarit nedir?",
+    "cardValue": "Kitin."
+  },
+  {
+    "cardKey": "Lipitlerin monomerleri olan 3 yağ asidi ve 1 gliserol molekülü arasında kurulan bağın adı nedir?",
+    "cardValue": "Ester bağı."
+  },
+  {
+    "cardKey": "Karbon atomları arasında tek bağ bulunan ve oda sıcaklığında katı olan yağ asitlerine ne denir?",
+    "cardValue": "Doymuş yağ asitleri."
+  },
+  {
+    "cardKey": "Karbon atomları arasında çift bağlar bulunan ve oda sıcaklığında sıvı olan yağ asitlerine ne denir?",
+    "cardValue": "Doymamış yağ asitleri."
+  },
+  {
+    "cardKey": "Vücutta sentezlenemeyen ve dışarıdan hazır alınması gereken yağ asitlerine ne ad verilir?",
+    "cardValue": "Temel (zorunlu/esansiyel) yağ asitleri."
+  },
+  {
+    "cardKey": "Eşey hormonlarının, safra salgısının ve A, D vitaminlerinin yapısına katılan lipit çeşidi hangisidir?",
+    "cardValue": "Sleroitler."
+  },
+  {
+    "cardKey": "Hücre zarının yapısına katılan, bir baş (hidrofilik) ve iki kuyruk (hidrofobik) kısmından oluşan lipit çeşidi nedir?",
+    "cardValue": "Fosfolipitler."
+  },
+  {
+    "cardKey": "Proteinlerin yapı birimine (monomerine) ne ad verilir?",
+    "cardValue": "Amino asit."
+  },
+  {
+    "cardKey": "İnsan vücudunda üretilemeyen ve besinlerle hazır alınmak zorunda olan 8 çeşit amino asite ne denir?",
+    "cardValue": "Temel (esansiyel) amino asitler."
+  },
+  {
+    "cardKey": "Amino asitler arasında kurulan bağın adı nedir?",
+    "cardValue": "Peptit bağı."
+  },
+  {
+    "cardKey": "Yüksek sıcaklık, pH gibi etkenlerle proteinlerin üç boyutlu yapısının bozulması olayına ne denir?",
+    "cardValue": "Denatürasyon."
+  },
+  {
+    "cardKey": "Canlılardaki biyolojik katalizörlere ne ad verilir?",
+    "cardValue": "Enzimler."
+  },
+  {
+    "cardKey": "Enzimlerin kimyasal tepkimeleri başlatmak için gereken _____ enerjisini düşürdüğü bilinir.",
+    "cardValue": "aktivasyon"
+  },
+  {
+    "cardKey": "Bileşik enzimlerin sadece protein olan kısmına _____ denir.",
+    "cardValue": "apoenzim"
+  },
+  {
+    "cardKey": "Bileşik enzimlerin yardımcı kısmı organik bir molekül (vitamin gibi) ise _____, inorganik bir iyon (mineral gibi) ise _____ adını alır.",
+    "cardValue": "koenzim / kofaktör"
+  },
+  {
+    "cardKey": "Enzimin etki ettiği maddeye _____, tepkime sonunda ortaya çıkan maddeye ise _____ denir.",
+    "cardValue": "substrat / ürün"
+  },
+  {
+    "cardKey": "Hücrelerde su miktarı yüzde kaçın altına düşerse enzimler çalışmaz?",
+    "cardValue": "%15."
+  },
+  {
+    "cardKey": "Enzimlerin çalışma hızını artıran maddelere _____, yavaşlatan ya da durduran maddelere ise _____ denir.",
+    "cardValue": "aktivatör / inhibitör"
+  },
+  {
+    "cardKey": "Yağda çözünen vitaminler hangileridir?",
+    "cardValue": "A, D, E ve K vitaminleri."
+  },
+  {
+    "cardKey": "Suda çözünen vitaminler hangileridir?",
+    "cardValue": "B ve C vitaminleri."
+  },
+  {
+    "cardKey": "A vitamini eksikliğinde ortaya çıkan görme bozukluğu nedir?",
+    "cardValue": "Gece körlüğü."
+  },
+  {
+    "cardKey": "D vitamini eksikliğinde çocuklarda görülen kemik hastalığı hangisidir?",
+    "cardValue": "Raşitizm."
+  },
+  {
+    "cardKey": "K vitamini hangi önemli biyolojik süreçte görev alır?",
+    "cardValue": "Kanın pıhtılaşması."
+  },
+  {
+    "cardKey": "Nükleik asitlerin (DNA ve RNA) yapı birimine ne ad verilir?",
+    "cardValue": "Nükleotit."
+  },
+  {
+    "cardKey": "Bir nükleotidin yapısında hangi üç temel birim bulunur?",
+    "cardValue": "Azotlu organik baz, 5 karbonlu şeker (pentoz) ve fosfat grubu."
+  },
+  {
+    "cardKey": "DNA'ya özgü azotlu organik baz _____ iken, RNA'ya özgü olan _____ bazıdır.",
+    "cardValue": "Timin / Urasil"
+  },
+  {
+    "cardKey": "DNA'da adenin ile timin arasında _____ hidrojen bağı, guanin ile sitozin arasında _____ hidrojen bağı kurulur.",
+    "cardValue": "ikili / üçlü"
+  },
+  {
+    "cardKey": "Hücre bölüneceği zaman DNA'nın kendini eşlemesi olayına ne denir?",
+    "cardValue": "Replikasyon."
+  },
+  {
+    "cardKey": "Protein sentezi için DNA'dan aldığı şifreyi ribozoma taşıyan RNA çeşidi hangisidir?",
+    "cardValue": "Mesajcı RNA (mRNA)."
+  },
+  {
+    "cardKey": "Sitoplazmadaki amino asitleri protein sentezi için ribozoma taşıyan RNA çeşidi hangisidir?",
+    "cardValue": "Taşıyıcı RNA (tRNA)."
+  },
+  {
+    "cardKey": "Proteinle birlikte ribozomun yapısını oluşturan RNA çeşidi hangisidir?",
+    "cardValue": "Ribozomal RNA (rRNA)."
+  },
+  {
+    "cardKey": "ATP molekülünün yapısında hangi üç bileşen bulunur?",
+    "cardValue": "Adenin bazı, riboz şekeri ve üç fosfat grubu."
+  },
+  {
+    "cardKey": "ADP'ye bir fosfat bağlanarak ATP sentezlenmesi olayına ne denir?",
+    "cardValue": "Fosforilasyon."
+  },
+  {
+    "cardKey": "ATP'nin hidroliz edilerek enerji açığa çıkması ve ADP ile fosfata ayrışması olayına ne denir?",
+    "cardValue": "Defosforilasyon."
+  },
+  {
+    "cardKey": "Hücre teorisinin temel maddelerinden biri nedir?",
+    "cardValue": "Hücre, canlının temel yapı ve görev birimidir. / Tüm canlılar bir ya da birden çok hücreden oluşur. / Yeni hücreler, öncekilerin bölünmesi ile oluşur."
+  },
+  {
+    "cardKey": "Hücre zarının yapısını açıklayan ve proteinlerin fosfolipit tabakası içinde hareket ettiğini öne süren modelin adı nedir?",
+    "cardValue": "Akıcı-mozaik zar modeli."
+  },
+  {
+    "cardKey": "Hücre zarının dış yüzeyinde proteinlere bağlanarak glikoproteinleri, lipitlere bağlanarak glikolipitleri oluşturan molekül grubu hangisidir?",
+    "cardValue": "Karbonhidratlar."
+  },
+  {
+    "cardKey": "Glikoprotein ve glikolipitlerin hücre zarındaki temel görevi nedir?",
+    "cardValue": "Hücreye özgünlük (kimlik) kazandırmak ve hücrelerin birbirini tanımasını sağlamak."
+  },
+  {
+    "cardKey": "Bitki hücrelerinde hücre zarının dışında bulunan ve selülozdan yapılmış olan yapı nedir?",
+    "cardValue": "Hücre duvarı (çeper)."
+  },
+  {
+    "cardKey": "Hücrenin yönetim ve kalıtım merkezi olan organel hangisidir?",
+    "cardValue": "Çekirdek."
+  },
+  {
+    "cardKey": "Tüm canlı hücrelerde bulunan ve protein sentezinden sorumlu olan zarsız organel hangisidir?",
+    "cardValue": "Ribozom."
+  },
+  {
+    "cardKey": "Hücre içi madde iletimini sağlayan, çekirdek zarından başlayıp hücre zarına kadar uzanan kanallar sistemi olan organel hangisidir?",
+    "cardValue": "Endoplazmik retikulum (ER)."
+  },
+  {
+    "cardKey": "Üzerinde ribozom bulunduran endoplazmik retikulum, _____ endoplazmik retikulum olarak adlandırılır.",
+    "cardValue": "granüllü"
+  },
+  {
+    "cardKey": "Salgı maddelerini paketleyen, lizozom ve koful oluşumunda rol alan organel hangisidir?",
+    "cardValue": "Golgi aygıtı."
+  },
+  {
+    "cardKey": "İçerdiği sindirim enzimleri ile hücre içi sindirimden sorumlu olan tek katlı zarlı organel hangisidir?",
+    "cardValue": "Lizozom."
+  },
+  {
+    "cardKey": "Lizozom içindeki enzimlerin sitoplazmaya dağılmasıyla hücrenin kendi kendini sindirmesi olayına ne denir?",
+    "cardValue": "Otoliz."
+  },
+  {
+    "cardKey": "Bitki hücrelerinde genellikle büyük ve merkezi olan, su ve atık maddeleri depolayan organel hangisidir?",
+    "cardValue": "Koful."
+  },
+  {
+    "cardKey": "Hayvan hücrelerinde ve ilkel bitkilerde bulunan, hücre bölünmesi sırasında iğ ipliklerini oluşturan zarsız organel hangisidir?",
+    "cardValue": "Sentrozom."
+  },
+  {
+    "cardKey": "Hücrenin enerji santrali olarak bilinen ve oksijenli solunumla ATP üreten çift zarlı organel hangisidir?",
+    "cardValue": "Mitokondri."
+  },
+  {
+    "cardKey": "Mitokondrinin iç zarının içeriye doğru yaptığı kıvrımlara ne ad verilir?",
+    "cardValue": "Krista."
+  },
+  {
+    "cardKey": "Bitki ve alg hücrelerinde bulunan, fotosentez yapan, renk veren veya besin depolayan organel grubuna ne denir?",
+    "cardValue": "Plastitler."
+  },
+  {
+    "cardKey": "Fotosentezin gerçekleştiği, klorofil pigmenti içeren yeşil renkli plastit hangisidir?",
+    "cardValue": "Kloroplast."
+  },
+  {
+    "cardKey": "Bitkilere sarı (ksantofil), turuncu (karoten) ve kırmızı (likopen) renklerini veren plastit çeşidi hangisidir?",
+    "cardValue": "Kromoplast."
+  },
+  {
+    "cardKey": "Bitkinin kök, tohum gibi ışık görmeyen kısımlarında nişasta, yağ veya protein depolayan renksiz plastit hangisidir?",
+    "cardValue": "Lökoplast."
+  },
+  {
+    "cardKey": "Küçük moleküllerin ATP harcanmadan çok yoğun ortamdan az yoğun ortama geçişine ne denir?",
+    "cardValue": "Pasif taşıma."
+  },
+  {
+    "cardKey": "Suyun yarı geçirgen bir zardan çok yoğun olduğu ortamdan az yoğun olduğu ortama geçişine ne denir?",
+    "cardValue": "Osmoz."
+  },
+  {
+    "cardKey": "Bir hücre, kendisinden daha yoğun (hipertonik) bir ortama konulduğunda su kaybederek büzülür. Bu olaya ne ad verilir?",
+    "cardValue": "Plazmoliz."
+  },
+  {
+    "cardKey": "Hücre duvarı olmayan bir hayvan hücresi, kendisinden daha az yoğun (hipotonik) bir ortama konulduğunda aşırı su alarak patlar. Bu olaya ne ad verilir?",
+    "cardValue": "Hemoliz."
+  },
+  {
+    "cardKey": "Küçük moleküllerin az yoğun ortamdan çok yoğun ortama doğru ATP harcanarak taşınmasına ne denir?",
+    "cardValue": "Aktif taşıma."
+  },
+  {
+    "cardKey": "Büyük moleküllerin hücre zarından cep oluşturularak hücre içine alınmasına ne denir?",
+    "cardValue": "Endositoz."
+  },
+  {
+    "cardKey": "Büyük moleküllü katı partiküllerin yalancı ayaklarla hücre içine alınmasına _____, sıvı moleküllerin cep oluşturularak alınmasına _____ denir.",
+    "cardValue": "fagositoz / pinositoz"
+  },
+  {
+    "cardKey": "Hücre içindeki büyük moleküllerin koful yardımıyla hücre dışına atılmasına ne denir?",
+    "cardValue": "Ekzositoz."
+  },
+  {
+    "cardKey": "Canlıları dış görünüşlerine ve yaşadıkları yere göre sınıflandıran Aristo'nun yaptığı sınıflandırma türü nedir?",
+    "cardValue": "Yapay (ampirik) sınıflandırma."
+  },
+  {
+    "cardKey": "Kökenleri farklı, görevleri aynı olan organlara (örn: kuş kanadı ve sinek kanadı) ne denir?",
+    "cardValue": "Analog organ."
+  },
+  {
+    "cardKey": "Canlıları köken benzerliklerine, akrabalık derecelerine ve homolog yapılarına göre sınıflandıran sistem nedir?",
+    "cardValue": "Doğal (filogenetik) sınıflandırma."
+  },
+  {
+    "cardKey": "Kökenleri aynı, görevleri aynı veya farklı olabilen organlara (örn: insan kolu ve balina yüzgeci) ne denir?",
+    "cardValue": "Homolog organ."
+  },
+  {
+    "cardKey": "Sınıflandırmada kullanılan temel kategoriler büyükten küçüğe doğru nasıl sıralanır?",
+    "cardValue": "Âlem, Şube, Sınıf, Takım, Aile, Cins, Tür."
+  },
+  {
+    "cardKey": "Sınıflandırma basamaklarında türden âleme doğru gidildikçe ortak özellikler _____.",
+    "cardValue": "azalır"
+  },
+  {
+    "cardKey": "Ortak bir atadan gelen, çiftleştiklerinde verimli döller verebilen bireyler topluluğuna ne denir?",
+    "cardValue": "Tür."
+  },
+  {
+    "cardKey": "Carolus Linnaeus tarafından geliştirilen ve her türün iki latince kelimeyle adlandırıldığı sisteme ne denir?",
+    "cardValue": "İkili (binomial) adlandırma."
+  },
+  {
+    "cardKey": "İkili adlandırmada ilk isim _____, ikinci isim ise _____ adı belirtir ve ikisi birlikte tür adını oluşturur.",
+    "cardValue": "cins / tamamlayıcı"
+  },
+  {
+    "cardKey": "Bazı bakterilerin olumsuz ortam şartlarında metabolizmalarını yavaşlatarak oluşturdukları dayanıklı yapıya ne denir?",
+    "cardValue": "Endospor."
+  },
+  {
+    "cardKey": "Bakterilerde aynı türden iki birey arasında pilus aracılığıyla gen (plazmit) aktarımı olayına ne denir?",
+    "cardValue": "Konjugasyon."
+  },
+  {
+    "cardKey": "Hastalık yapıcı bakterilere genel olarak ne ad verilir?",
+    "cardValue": "Patojen bakteri."
+  },
+  {
+    "cardKey": "Arkelerin, bakterilerden farklı olarak DNA'ları ökaryotlardaki gibi _____ proteinlerine sarılıdır.",
+    "cardValue": "histon"
+  },
+  {
+    "cardKey": "Aşırı tuzlu ortamlarda yaşayan arkelere _____, metan gazı üretenlere _____, yüksek sıcaklıktaki yerlerde yaşayanlara _____ denir.",
+    "cardValue": "halofiller / metanojenler / termofiller"
+  },
+  {
+    "cardKey": "Protista âleminde bulunan ve hem fotosentez yapıp hem de dışarıdan besin alabilen canlıya örnek veriniz.",
+    "cardValue": "Öglena."
+  },
+  {
+    "cardKey": "Amip, hareket ve beslenmesini hangi yapı ile sağlar?",
+    "cardValue": "Yalancı ayak."
+  },
+  {
+    "cardKey": "Paramesyum, hareket ve beslenmesini hangi yapılarla sağlar?",
+    "cardValue": "Siller."
+  },
+  {
+    "cardKey": "Sıtma hastalığına neden olan sporlu protist hangisidir?",
+    "cardValue": "Plasmodium malariae."
+  },
+  {
+    "cardKey": "Mantarların hücre duvarı hangi maddeden yapılmıştır?",
+    "cardValue": "Kitin."
+  },
+  {
+    "cardKey": "Mantarlar, glikozun fazlasını hangi polisakkarit şeklinde depo eder?",
+    "cardValue": "Glikojen."
+  },
+  {
+    "cardKey": "Çok hücreli mantarların yapısını oluşturan iplikçiklere _____, bu iplikçiklerin bir araya gelerek oluşturduğu ağsı yapıya _____ denir.",
+    "cardValue": "hif / miselyum"
+  },
+  {
+    "cardKey": "Mantar ve alglerin oluşturduğu mutualist yaşam birliğine ne ad verilir?",
+    "cardValue": "Liken."
+  },
+  {
+    "cardKey": "Bitkilerin tohum oluşturmayan, iletim demetleri de bulunmayan ilkel grubuna örnek veriniz.",
+    "cardValue": "Kara yosunları ve ciğer otları (Damarsız tohumsuz bitkiler)."
+  },
+  {
+    "cardKey": "Hayvanlar âleminin en geniş grubunu oluşturan ve omurgası bulunmayan canlılar hangileridir?",
+    "cardValue": "Omurgasız hayvanlar."
+  },
+  {
+    "cardKey": "Omurgasız hayvanların çoğunda görülen ve kanın damar dışına çıkarak vücut boşluklarında dolaştığı dolaşım tipi nedir?",
+    "cardValue": "Açık kan dolaşımı."
+  },
+  {
+    "cardKey": "Hayvanlar âleminde sinir hücrelerine ilk kez hangi omurgasız grubunda rastlanır?",
+    "cardValue": "Sölenterler."
+  },
+  {
+    "cardKey": "Eklem bacaklılarda görülen, ergin döneme geçerken yapısal değişiklikler geçirme olayına ne denir?",
+    "cardValue": "Başkalaşım (metamorfoz)."
+  },
+  {
+    "cardKey": "Böceklerde solunum hangi yapılarla gerçekleşir?",
+    "cardValue": "Trakeler."
+  },
+  {
+    "cardKey": "Omurgalı hayvanların tümünde görülen ve kanın tamamen damarlar içinde dolaştığı dolaşım tipi nedir?",
+    "cardValue": "Kapalı kan dolaşımı."
+  },
+  {
+    "cardKey": "Balıkların kalbi kaç odacıklıdır ve kalplerinde ne tür kan bulunur?",
+    "cardValue": "İki odacıklıdır ve sadece kirli kan bulunur."
+  },
+  {
+    "cardKey": "Yaşam döngülerinde hem suda (larva) hem karada (ergin) yaşayabilen omurgalı sınıfı hangisidir?",
+    "cardValue": "İki yaşamlılar (Amfibiler)."
+  },
+  {
+    "cardKey": "Vücutları keratinden yapılmış pul veya kemiksi plakalarla kaplı olan, akciğer solunumu yapan ve genellikle iç döllenme-dış gelişme gösteren omurgalı sınıfı hangisidir?",
+    "cardValue": "Sürüngenler."
+  },
+  {
+    "cardKey": "Vücutları tüylerle kaplı, sıcakkanlı, akciğerlerine bağlı hava keseleri bulunan omurgalı sınıfı hangisidir?",
+    "cardValue": "Kuşlar."
+  },
+  {
+    "cardKey": "Vücutları kıllarla kaplı, yavrularını doğurup sütle besleyen, alveollü akciğerleri ve kaslı diyaframları olan omurgalı sınıfı hangisidir?",
+    "cardValue": "Memeliler."
+  },
+  {
+    "cardKey": "Sadece canlı bir hücre içinde çoğalabilen, nükleik asit (DNA veya RNA) ve protein kılıftan oluşan biyolojik varlık nedir?",
+    "cardValue": "Virüs."
+  },
+  {
+    "cardKey": "Virüsler, enzim sistemleri olmadığı için _____ etkilenmezler.",
+    "cardValue": "antibiyotiklerden"
+  },
+  {
+    "cardKey": "Yeni oluşmuş bir hücrenin bölünerek yeni hücreler meydana getirmesi sürecine ne denir?",
+    "cardValue": "Hücre döngüsü."
+  },
+  {
+    "cardKey": "Hücre döngüsünün, bölünme hazırlıklarının yapıldığı en uzun evresi hangisidir?",
+    "cardValue": "İnterfaz."
+  },
+  {
+    "cardKey": "İnterfazın hangi alt evresinde DNA kendini eşler (replikasyon)?",
+    "cardValue": "S evresi."
+  },
+  {
+    "cardKey": "Mitoz bölünmenin, kromozomların en belirgin görüldüğü ve ekvatoral düzlemde tek sıra halinde dizildiği evre hangisidir?",
+    "cardValue": "Metafaz."
+  },
+  {
+    "cardKey": "Mitoz bölünmenin hangi evresinde kardeş kromatitler ayrılarak zıt kutuplara çekilir?",
+    "cardValue": "Anafaz."
+  },
+  {
+    "cardKey": "Hayvan hücrelerinde sitoplazma bölünmesi (sitokinez) _____ ile gerçekleşirken, bitki hücrelerinde _____ oluşumu ile gerçekleşir.",
+    "cardValue": "boğumlanma / orta lamel (ara plak)"
+  },
+  {
+    "cardKey": "Hücre döngüsünün kontrolsüz bir şekilde ilerlemesi sonucu oluşan anormal hücre kitlelerine ne ad verilir?",
+    "cardValue": "Tümör (ur)."
+  },
+  {
+    "cardKey": "Kötü huylu tümör hücrelerinin kan veya lenf yoluyla vücudun diğer bölgelerine yayılmasına ne denir?",
+    "cardValue": "Metastaz."
+  },
+  {
+    "cardKey": "Döllenme olmadan tek bir atadan, kendisiyle aynı genetik yapıya sahip yeni bireylerin oluştuğu üreme şekli nedir?",
+    "cardValue": "Eşeysiz üreme."
+  },
+  {
+    "cardKey": "Ana canlı üzerinde mitozla oluşan bir çıkıntının gelişerek yeni bir canlıyı meydana getirdiği eşeysiz üreme çeşidi nedir?",
+    "cardValue": "Tomurcuklanma."
+  },
+  {
+    "cardKey": "Canlılarda kopan bir parçanın kendini yenileyerek yeni bir birey oluşturduğu eşeysiz üreme çeşidi nedir?",
+    "cardValue": "Rejenerasyonla üreme."
+  },
+  {
+    "cardKey": "Döllenme olmaksızın, mayozla oluşmuş yumurta hücresinin gelişerek yeni bir birey oluşturduğu üreme şekli nedir?",
+    "cardValue": "Partenogenez."
+  },
+  {
+    "cardKey": "Bal arılarında erkek arılar (n) hangi üreme şekliyle oluşur?",
+    "cardValue": "Partenogenez."
+  },
+  {
+    "cardKey": "Yüksek yapılı bitkilerin kök, gövde, dal gibi vejetatif organlarından yeni bitkilerin üretilmesine ne denir?",
+    "cardValue": "Vejetatif üreme."
+  },
+  {
+    "cardKey": "Eşeyli üreyen canlılarda gamet oluşumunu sağlayan ve kromozom sayısını yarıya indiren bölünme şekli nedir?",
+    "cardValue": "Mayoz."
+  },
+  {
+    "cardKey": "Mayoz I'in Profaz I evresinde homolog kromozomların yan yana gelerek oluşturduğu dört kromatitli yapıya ne denir?",
+    "cardValue": "Tetrat."
+  },
+  {
+    "cardKey": "Profaz I'de homolog kromozomların kardeş olmayan kromatitleri arasında gerçekleşen gen alışverişi olayına ne denir?",
+    "cardValue": "Krossing over (parça değişimi)."
+  },
+  {
+    "cardKey": "Mayoz I'in hangi evresinde homolog kromozomlar birbirinden ayrılarak zıt kutuplara çekilir?",
+    "cardValue": "Anafaz I."
+  },
+  {
+    "cardKey": "Mayoz II'nin hangi evresinde kardeş kromatitler birbirinden ayrılarak zıt kutuplara çekilir?",
+    "cardValue": "Anafaz II."
+  },
+  {
+    "cardKey": "Mayoz bölünme tamamlandığında bir diploit (2n) ana hücreden, genetik olarak birbirinden farklı, _____ kromozomlu _____ hücre oluşur.",
+    "cardValue": "haploit (n) / dört"
+  },
+  {
+    "cardKey": "Dişi ve erkek gametlerin birleşmesi olayına _____, birleşme sonucu oluşan 2n kromozomlu hücreye _____ denir.",
+    "cardValue": "döllenme / zigot"
+  },
+  {
+    "cardKey": "Bir karakterin oluşumunda etkili olan DNA parçasına ne denir?",
+    "cardValue": "Gen."
+  },
+  {
+    "cardKey": "Homolog kromozomların karşılıklı lokuslarında yer alan ve aynı karaktere etki eden gen çiftine ne denir?",
+    "cardValue": "Alel."
+  },
+  {
+    "cardKey": "Bir karakterle ilgili genin farklı alellerine sahip canlılara ne denir? (Örn: Aa)",
+    "cardValue": "Heterozigot (melez)."
+  },
+  {
+    "cardKey": "Bir canlının sahip olduğu genlerin tamamına _____, bu genlerin dış görünüşe yansımasına _____ denir.",
+    "cardValue": "genotip / fenotip"
+  },
+  {
+    "cardKey": "Fenotipinde baskın bir özelliği taşıyan bireyin genotipinin homozigot mu heterozigot mu olduğunu anlamak için yapılan çaprazlama nedir?",
+    "cardValue": "Kontrol çaprazlaması (geri çaprazlama)."
+  },
+  {
+    "cardKey": "Aleller arasında baskınlık-çekiniklik durumu olmayıp, heterozigot durumda her iki alelin de etkisini fenotipte göstermesine ne denir?",
+    "cardValue": "Eş baskınlık (kodominantlık)."
+  },
+  {
+    "cardKey": "İnsanlarda AB kan grubu hangi kalıtım şekline bir örnektir?",
+    "cardValue": "Eş baskınlık."
+  },
+  {
+    "cardKey": "Bir karakterin kalıtımından ikiden fazla alelin sorumlu olmasına ne denir?",
+    "cardValue": "Çok alellilik."
+  },
+  {
+    "cardKey": "Rh(-) bir anne ile Rh(+) bir babanın, Rh(+) bir fetüse sahip olması durumunda ortaya çıkabilen sağlık sorunu nedir?",
+    "cardValue": "Kan uyuşmazlığı (Eritroblastosis fetalis)."
+  },
+  {
+    "cardKey": "Eşeyi (cinsiyeti) belirleyen kromozomlara ne ad verilir?",
+    "cardValue": "Eşey kromozomları (gonozom)."
+  },
+  {
+    "cardKey": "X kromozomunun Y ile homolog olmayan bölgesinde çekinik bir genle taşınan, kırmızı ve yeşil renklerin ayırt edilememesi hastalığı nedir?",
+    "cardValue": "Kısmi renk körlüğü (Daltonizm)."
+  },
+  {
+    "cardKey": "X kromozomuna bağlı çekinik bir genle kalıtılan ve kanın pıhtılaşamaması hastalığı nedir?",
+    "cardValue": "Hemofili."
+  },
+  {
+    "cardKey": "Y kromozomuna bağlı kalıtılan bir özellik kimden kime aktarılır?",
+    "cardValue": "Babadan sadece erkek çocuklarına aktarılır."
+  },
+  {
+    "cardKey": "Aralarında kan bağı olan kişiler arasında yapılan ve çekinik kalıtsal hastalıkların ortaya çıkma riskini artıran evlilik türü nedir?",
+    "cardValue": "Akraba evliliği."
+  },
+  {
+    "cardKey": "Belirli bir karakterin nesiller boyunca aktarılışını gösteren şemaya ne ad verilir?",
+    "cardValue": "Soyağacı (pedigri)."
+  },
+  {
+    "cardKey": "Bir popülasyondaki bireyler arasında genlerin farklı versiyonlarının bulunması durumuna ne denir?",
+    "cardValue": "Genetik varyasyon."
+  },
+  {
+    "cardKey": "Mutasyona neden olan radyasyon, UV ışınları gibi faktörlere genel olarak ne ad verilir?",
+    "cardValue": "Mutajen."
+  },
+  {
+    "cardKey": "Canlıların birbirleriyle ve yaşadıkları çevreyle olan ilişkilerini inceleyen bilim dalı nedir?",
+    "cardValue": "Ekoloji."
+  },
+  {
+    "cardKey": "Belirli bir bölgede yaşayan aynı türe ait bireylerin oluşturduğu topluluğa ne denir?",
+    "cardValue": "Popülasyon."
+  },
+  {
+    "cardKey": "Belirli bir alanda yaşayan ve birbiriyle etkileşim içinde olan farklı türlerin popülasyonlarının oluşturduğu topluluğa ne denir?",
+    "cardValue": "Komünite."
+  },
+  {
+    "cardKey": "Belirli bir bölgedeki canlılar (komünite) ile bu canlıların içinde yaşadığı cansız çevrenin (abiyotik faktörler) bütününe ne ad verilir?",
+    "cardValue": "Ekosistem."
+  },
+  {
+    "cardKey": "Bir canlının doğal olarak yaşayıp ürediği yere ne ad verilir?",
+    "cardValue": "Habitat."
+  },
+  {
+    "cardKey": "Bir canlının habitatı içinde gerçekleştirdiği tüm yaşamsal faaliyetlere (işine) ne denir?",
+    "cardValue": "Ekolojik niş."
+  },
+  {
+    "cardKey": "Ekosistemin cansız bileşenlerine ne ad verilir?",
+    "cardValue": "Abiyotik faktörler (ışık, sıcaklık, su, pH, toprak vb.)."
+  },
+  {
+    "cardKey": "Ekosistemin canlı bileşenlerine ne ad verilir?",
+    "cardValue": "Biyotik faktörler (üreticiler, tüketiciler, ayrıştırıcılar)."
+  },
+  {
+    "cardKey": "Ölü organizmaları ve organik atıkları parçalayarak inorganik maddelere dönüştüren canlılara ne denir?",
+    "cardValue": "Ayrıştırıcılar (saprotroflar)."
+  },
+  {
+    "cardKey": "Üreticilerden başlayarak son tüketicilere doğru enerji aktarımını gösteren beslenme ilişkisine ne denir?",
+    "cardValue": "Besin zinciri."
+  },
+  {
+    "cardKey": "Ekosistemdeki birden fazla besin zincirinin iç içe geçmesiyle oluşan karmaşık beslenme ağına ne ad verilir?",
+    "cardValue": "Besin ağı."
+  },
+  {
+    "cardKey": "Bir beslenme basamağındaki toplam canlı kütlesine ne ad verilir?",
+    "cardValue": "Biyokütle (biyomas)."
+  },
+  {
+    "cardKey": "Besin piramidinde bir trofik düzeyden bir üst düzeye enerjinin yaklaşık yüzde kaçı aktarılır?",
+    "cardValue": "%10'u."
+  },
+  {
+    "cardKey": "DDT gibi zehirli maddelerin besin zincirinin alt basamaklarından üst basamaklarına doğru artarak birikmesi olayına ne denir?",
+    "cardValue": "Biyolojik birikim."
+  },
+  {
+    "cardKey": "Atmosferdeki serbest azotun ($N_2$) canlıların kullanabileceği bileşiklere (amonyak, nitrat) dönüştürülmesine ne denir?",
+    "cardValue": "Azot fiksasyonu (azot bağlanması)."
+  },
+  {
+    "cardKey": "Topraktaki amonyağın önce nitrite, sonra nitrata dönüştürülmesi olayına ne ad verilir?",
+    "cardValue": "Nitrifikasyon."
+  },
+  {
+    "cardKey": "Topraktaki nitratın bazı bakteriler tarafından tekrar atmosferik azota ($N_2$) dönüştürülmesine ne denir?",
+    "cardValue": "Denitrifikasyon."
+  },
+  {
+    "cardKey": "Fosil yakıtların yanması sonucu atmosfere salınan $SO_2$ ve $NO_2$ gibi gazların su buharı ile birleşerek oluşturduğu çevresel sorun nedir?",
+    "cardValue": "Asit yağmurları."
+  },
+  {
+    "cardKey": "Atmosferdeki karbondioksit gibi sera gazlarının artmasıyla Dünya'nın ortalama sıcaklığının yükselmesine ne ad verilir?",
+    "cardValue": "Küresel ısınma."
+  },
+  {
+    "cardKey": "Sulara karışan azot ve fosfor gibi besin maddelerinin artması sonucu alglerin aşırı çoğalması ve sudaki oksijenin tükenmesiyle sonuçlanan kirlilik türü nedir?",
+    "cardValue": "Ötrofikasyon."
+  },
+  {
+    "cardKey": "Toprağın verimli üst tabakasının su ve rüzgar gibi dış kuvvetlerle aşındırılıp taşınması olayına ne denir?",
+    "cardValue": "Erozyon."
+  },
+  {
+    "cardKey": "Kişi veya kurumların faaliyetleri sonucu atmosfere salınan sera gazlarının karbondioksit cinsinden karşılığına ne ad verilir?",
+    "cardValue": "Karbon ayak izi."
+  },
+  {
+    "cardKey": "Yalnızca belirli bir coğrafi bölgede yaşayan ve dünyanın başka hiçbir yerinde bulunmayan türlere ne ad verilir?",
+    "cardValue": "Endemik tür."
+  },
+  {
+    "cardKey": "Endemik bitki ve hayvanların yetkili makamların izni olmadan toplanıp yurt dışına çıkarılmasına ne denir?",
+    "cardValue": "Biyokaçakçılık."
+  }
+]
