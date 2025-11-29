@@ -1,1 +1,482 @@
-
+[
+  {
+    "cardKey": "Sayısal bir değer ve bir birimle belirtilen niceliklere ne ad verilir?",
+    "cardValue": "Skaler nicelikler."
+  },
+  {
+    "cardKey": "Hız, ivme, kuvvet ve momentum gibi nicelikler, sayısal değer ve birimin yanı sıra yön bilgisi de gerektirdiğinden hangi tür niceliklerdir?",
+    "cardValue": "Vektörel nicelikler."
+  },
+  {
+    "cardKey": "İki vektörün eşit olabilmesi için hangi iki özelliğinin aynı olması gerekir?",
+    "cardValue": "Şiddetlerinin ve yönlerinin."
+  },
+  {
+    "cardKey": "Bir $\\vec{K}$ vektörünün tersi nasıl ifade edilir ve yönü nasıldır?",
+    "cardValue": "$\\vec{M} = -\\vec{K}$ olarak ifade edilir ve yönü $\\vec{K}$ vektörüne göre ters yönlüdür."
+  },
+  {
+    "cardKey": "Uç uca ekleme yönteminde bileşke vektör nasıl çizilir?",
+    "cardValue": "İlk vektörün başlangıç noktasından son vektörün bitiş noktasına doğru çizilen vektördür."
+  },
+  {
+    "cardKey": "Paralelkenar metoduyla iki vektörün bileşkesinin büyüklüğü hangi teorem kullanılarak hesaplanır?",
+    "cardValue": "Kosinüs teoremi: $R^2 = (F_1)^2 + (F_2)^2 + 2F_1 F_2 \\cos{\\alpha}$."
+  },
+  {
+    "cardKey": "Şiddetleri eşit ve 'a' olan iki vektör arasındaki açı $120°$ ise bileşke vektörün büyüklüğü nedir?",
+    "cardValue": "Bileşke vektörün büyüklüğü 'a' kadardır."
+  },
+  {
+    "cardKey": "İki vektörün bileşkesi, şiddeti büyük olan vektöre mi yoksa küçük olan vektöre mi daha yakındır?",
+    "cardValue": "Şiddeti büyük olan vektöre daha yakındır."
+  },
+  {
+    "cardKey": "Bir cismin herhangi bir referans sistemindeki gözlemciye göre hareketine ne denir?",
+    "cardValue": "Bağıl hareket."
+  },
+  {
+    "cardKey": "Bağıl hız, $\\vec{v}_{bağıl} = \\vec{v}_{gözlenen} - \\vec{v}_{gözlemci}$ bağıntısıyla hesaplanır. Bu işlemde _____ cismin hızından _____ hızı vektörel olarak çıkarılır.",
+    "cardValue": "gözlenen, gözlemcinin"
+  },
+  {
+    "cardKey": "Nehir içindeki iki yüzücünün birbirine göre hızı (bağıl hız), neyin büyüklüğüne bağlı değildir?",
+    "cardValue": "Akıntı hızının büyüklüğüne."
+  },
+  {
+    "cardKey": "Genişliği 'd' olan bir nehirde, akıntıya dik olarak $\\vec{v}_K$ hızıyla yüzen bir yüzücünün karşıya geçme süresi neye bağlı değildir?",
+    "cardValue": "Akıntı hızının büyüklüğüne."
+  },
+  {
+    "cardKey": "Newton'ın birinci hareket yasası olan Eylemsizlik İlkesi'ne göre bir cisim üzerine etki eden net kuvvet sıfır ise cismin hareketi nasıl olur?",
+    "cardValue": "Cisim ya durur ya da sabit süratle hareket eder."
+  },
+  {
+    "cardKey": "Newton'ın ikinci hareket yasası olan Dinamiğin Temel Prensibi'ne göre, bir cisme etki eden net kuvvetin cismin kütlesi ve ivmesiyle ilişkisi nedir?",
+    "cardValue": "$\\vec{F}_{net} = m \\cdot \\vec{a}$"
+  },
+  {
+    "cardKey": "Newton'ın üçüncü hareket yasası olan Etki-Tepki İlkesi'ne göre, etki kuvveti ile tepki kuvveti arasındaki ilişki nedir?",
+    "cardValue": "Etki ve tepki kuvvetleri zıt yönlü ve eşit şiddettedir."
+  },
+  {
+    "cardKey": "Sürtünme kuvvetinin büyüklüğü, $F_S = k \\cdot N$ bağıntısındaki 'k' ve 'N' neyi temsil eder?",
+    "cardValue": "'k' sürtünme katsayısını, 'N' ise yüzeyin tepki kuvvetini temsil eder."
+  },
+  {
+    "cardKey": "Sürtünmesiz eğik düzlemde serbest bırakılan bir cismin ivmesi kütlesine bağlı mıdır?",
+    "cardValue": "Hayır, bağlı değildir; ivme $a = g \\cdot \\sin{\\alpha}$'dır."
+  },
+  {
+    "cardKey": "Sürtünmeli yatay düzlemde duran bir cismi hareket ettirebilmek için uygulanması gereken kuvvet, hangi sürtünme kuvvetinden büyük olmalıdır?",
+    "cardValue": "Statik sürtünme kuvvetinin maksimum değerinden."
+  },
+  {
+    "cardKey": "Genellikle statik sürtünme katsayısı ($k_{statik}$) ile kinetik sürtünme katsayısı ($k_{kinetik}$) arasındaki büyüklük ilişkisi nasıldır?",
+    "cardValue": "$k_{statik} > k_{kinetik}$"
+  },
+  {
+    "cardKey": "Doğrusal bir yolda hızı düzgün olarak artan ya da azalan cisimlerin yaptığı harekete ne denir?",
+    "cardValue": "Bir boyutta sabit ivmeli hareket."
+  },
+  {
+    "cardKey": "Düzgün hızlanan bir hareketli için hız, ivme ve net kuvvet vektörlerinin yönleri nasıldır?",
+    "cardValue": "Hepsi aynı yöndedir."
+  },
+  {
+    "cardKey": "Düzgün yavaşlayan bir hareketli için hız vektörü ile net kuvvet ve ivme vektörlerinin yönleri nasıldır?",
+    "cardValue": "Hız vektörüne göre ters yöndedirler."
+  },
+  {
+    "cardKey": "Bir boyutta sabit ivmeli harekette, hız-zaman grafiğinin eğimi neyi verir?",
+    "cardValue": "İvmeyi."
+  },
+  {
+    "cardKey": "Bir boyutta sabit ivmeli harekette, hız-zaman grafiğinin altında kalan alan neyi verir?",
+    "cardValue": "Yer değiştirme miktarını."
+  },
+  {
+    "cardKey": "Sabit ivmeli harekette zamansız hız formülü nedir?",
+    "cardValue": "$v_{son}^2 = v_0^2 + 2 \\cdot a \\cdot x$"
+  },
+  {
+    "cardKey": "Konum-zaman grafiğinin eğimi hareketlinin hangi niceliğini verir?",
+    "cardValue": "Hızını."
+  },
+  {
+    "cardKey": "Hava direncinin ihmal edildiği ortamda serbest bırakılan bir cisme etki eden tek kuvvet nedir ve ivmesi neye eşittir?",
+    "cardValue": "Etki eden tek kuvvet ağırlığıdır ve ivmesi yer çekimi ivmesine ($g$) eşittir."
+  },
+  {
+    "cardKey": "Hava ortamında düşen bir cisme etki eden direnç kuvveti nelere bağlıdır?",
+    "cardValue": "Ortamın direnç katsayısına (K), cismin en büyük kesit alanına (A) ve cismin hızına (v)."
+  },
+  {
+    "cardKey": "Hava direcinin olduğu ortamda düşen bir cismin hızı artarak ağırlığına eşit olan direnç kuvvetine ulaştığında ulaştığı sabit hıza ne ad verilir?",
+    "cardValue": "Limit hız ($v_{lim}$)."
+  },
+  {
+    "cardKey": "Aşağıdan yukarıya düşey atılan bir cismin maksimum yükseklikteki hızı anlık olarak sıfır olmasına rağmen ivmesi sıfır mıdır?",
+    "cardValue": "Hayır, ivmesi sıfır değildir ve yerçekimi ivmesine ($g$) eşittir."
+  },
+  {
+    "cardKey": "Yatay atış hareketinde, cismin yatay yöndeki hızı neden değişmez?",
+    "cardValue": "Yatay yönde cisme bir kuvvet etki etmediği için."
+  },
+  {
+    "cardKey": "Yatay atış hareketinde cismin düşey hareketi hangi hareket türüne benzer?",
+    "cardValue": "Serbest düşme hareketine."
+  },
+  {
+    "cardKey": "Eğik atış hareketinde, cismin yörüngesinin tepe noktasındaki hızı sıfır mıdır?",
+    "cardValue": "Hayır, sıfır değildir; hızı yatay hız bileşeni olan $v_{0x}$ kadardır."
+  },
+  {
+    "cardKey": "Bir cisim yatayla $45°$ açı yapacak şekilde atıldığında hangi büyüklüğü maksimum değere ulaşır?",
+    "cardValue": "Menzili (yatayda aldığı yol)."
+  },
+  {
+    "cardKey": "Fiziksel anlamda iş, bir _____ değişimidir.",
+    "cardValue": "enerji"
+  },
+  {
+    "cardKey": "Bir kuvvetin yaptığı iş, hareket doğrultusuna dik olan bileşeni tarafından mı yoksa hareket doğrultusundaki bileşeni tarafından mı yapılır?",
+    "cardValue": "Hareket doğrultusundaki bileşeni tarafından yapılır."
+  },
+  {
+    "cardKey": "Bir cismin hızından dolayı sahip olduğu enerjiye ne denir?",
+    "cardValue": "Kinetik enerji ($E_k = \\frac{1}{2}mv^2$)."
+  },
+  {
+    "cardKey": "Sürtünme kuvvetinin yaptığı iş hangi enerji türüne dönüşür?",
+    "cardValue": "Isı enerjisine."
+  },
+  {
+    "cardKey": "Kuvvet-yol grafiğinde grafiğin altında kalan alan neyi verir?",
+    "cardValue": "Yapılan işi ve kinetik enerji değişimini."
+  },
+  {
+    "cardKey": "Esnek bir yayda depolanan potansiyel enerji ($E_p = \\frac{1}{2}kx^2$) nelere bağlıdır?",
+    "cardValue": "Yayın esneklik katsayısına (k) ve yayın sıkışma veya uzama miktarının karesine ($x^2$)."
+  },
+  {
+    "cardKey": "Sürtünmelerin ihmal edildiği bir sistemde, kinetik ve potansiyel enerjilerin toplamı olan _____ enerji korunur.",
+    "cardValue": "mekanik"
+  },
+  {
+    "cardKey": "Sadece yerçekimi kuvveti etkisindeki bütün atış hareketlerinde hangi enerji türü korunumludur?",
+    "cardValue": "Mekanik enerji."
+  },
+  {
+    "cardKey": "Bir kuvvetin cisme belirli bir süre uygulanmasıyla oluşan etkiye ne denir ve formülü nedir?",
+    "cardValue": "İtme (impuls) denir ve $\\vec{I} = \\vec{F} \\cdot \\Delta t$ formülüyle bulunur."
+  },
+  {
+    "cardKey": "Bir cismin kütlesi ile hızının çarpımı olarak tanımlanan vektörel büyüklük nedir?",
+    "cardValue": "Çizgisel momentum ($\\vec{P} = m \\cdot \\vec{v}$)."
+  },
+  {
+    "cardKey": "İtme ile momentum değişimi arasındaki ilişkiyi ifade eden teorem nedir?",
+    "cardValue": "İtme-Momentum Teoremi ($\\vec{I} = \\Delta \\vec{P}$)."
+  },
+  {
+    "cardKey": "Bir sisteme dışarıdan net bir kuvvet etki edilmediğinde, sistemin toplam _____ korunur.",
+    "cardValue": "çizgisel momentumu"
+  },
+  {
+    "cardKey": "Çarpışma sonrası cisimlerin yapışarak birlikte hareket ettiği çarpışma türü hangisidir?",
+    "cardValue": "Esnek olmayan çarpışma."
+  },
+  {
+    "cardKey": "Hem momentumun hem de kinetik enerjinin korunduğu çarpışma türü hangisidir?",
+    "cardValue": "Esnek çarpışma."
+  },
+  {
+    "cardKey": "Durgun bir cismin iç patlama sonucu parçalara ayrılması durumunda, patlama öncesi ve sonrası toplam momentum nasıl değişir?",
+    "cardValue": "Değişmez, ilk momentum sıfır olduğu için son momentum da vektörel olarak sıfır olur."
+  },
+  {
+    "cardKey": "Bir kuvvetin bir nokta etrafındaki döndürücü etkisine ne ad verilir?",
+    "cardValue": "Tork (moment)."
+  },
+  {
+    "cardKey": "Tork vektörünün yönü hangi kural ile bulunur?",
+    "cardValue": "Sağ el kuralı."
+  },
+  {
+    "cardKey": "Bir kuvvetin doğrultusu tork alınan noktadan geçiyorsa o kuvvetin torku ne olur?",
+    "cardValue": "Sıfır olur."
+  },
+  {
+    "cardKey": "Bir cismin denge halinde olması için gerekli iki şart nedir?",
+    "cardValue": "1. Cisim üzerindeki net kuvvet sıfır olmalıdır ($\\Sigma \\vec{F} = 0$). 2. Cisim üzerindeki net tork sıfır olmalıdır ($\\Sigma \\vec{\\tau} = 0$)."
+  },
+  {
+    "cardKey": "Lami Teoremi'ne göre dengedeki bir cisme etki eden üç kuvvetin büyüklükleri, karşılarındaki açıların _____ değerleri ile orantılıdır.",
+    "cardValue": "sinüs"
+  },
+  {
+    "cardKey": "Gökdelen gibi çok yüksek binalarda, ağırlık merkezi kütle merkezine göre nerededir?",
+    "cardValue": "Kütle merkezinin biraz aşağısındadır."
+  },
+  {
+    "cardKey": "Bir levhadan bir parça kesilip atıldığında sistemin yeni kütle merkezi, çıkarılan parçanın kütle merkezinin ilk kütle merkezine göre _____ olan bölgeye doğru kayar.",
+    "cardValue": "simetrisi"
+  },
+  {
+    "cardKey": "Basit makinelerde kuvvet kazancı oranı nasıl hesaplanır?",
+    "cardValue": "Kuvvet Kazancı = Yük / Kuvvet"
+  },
+  {
+    "cardKey": "Sabit makaralar kuvvetten veya yoldan kazanç sağlar mı?",
+    "cardValue": "Hayır, sağlamazlar; sadece kuvvetin yönünü değiştirirler."
+  },
+  {
+    "cardKey": "Hareketli makara sistemlerinde yükü h kadar yükseltmek için ip ne kadar çekilmelidir?",
+    "cardValue": "2h kadar çekilmelidir."
+  },
+  {
+    "cardKey": "Bir vidanın bir tur döndürüldüğünde ilerleme miktarına ne denir?",
+    "cardValue": "Vida adımı (a)."
+  },
+  {
+    "cardKey": "Bir makinenin verimi, makineden alınan enerjinin makineye _____ enerjiye oranıdır.",
+    "cardValue": "verilen"
+  },
+  {
+    "cardKey": "İki elektrik yükü arasındaki itme veya çekme kuvvetini açıklayan yasa hangisidir ve formülü nedir?",
+    "cardValue": "Coulomb Yasası'dır ve $F = k \\frac{q_1 q_2}{d^2}$'dir."
+  },
+  {
+    "cardKey": "Birim pozitif yüke etki eden elektriksel kuvvet olarak tanımlanan vektörel büyüklük nedir?",
+    "cardValue": "Elektrik alan ($\\vec{E}$)."
+  },
+  {
+    "cardKey": "Elektrik alan çizgileri pozitif yükten _____ doğru, negatif yüke _____ doğrudur.",
+    "cardValue": "dışarı, içeri"
+  },
+  {
+    "cardKey": "İki noktasal yük arasındaki elektriksel potansiyel enerji, yüklerin çarpımı ile doğru, aralarındaki uzaklık ile _____ orantılıdır.",
+    "cardValue": "ters"
+  },
+  {
+    "cardKey": "Birim yük başına düşen elektriksel potansiyel enerjiye ne denir?",
+    "cardValue": "Elektriksel potansiyel (V)."
+  },
+  {
+    "cardKey": "Elektriksel kuvvetlerin yaptığı iş, $W = q \\cdot \\Delta V$ bağıntısında $\\Delta V$ neyi ifade eder?",
+    "cardValue": "İki nokta arasındaki potansiyel farkını."
+  },
+  {
+    "cardKey": "Yüklü paralel levhalar arasında oluşan elektrik alanın şiddeti, $E = \\frac{V}{d}$ formülündeki V ve d ne anlama gelir?",
+    "cardValue": "V: levhalar arasındaki potansiyel fark, d: levhalar arasındaki uzaklık."
+  },
+  {
+    "cardKey": "İletken maddelerin elektrik yükü depolayabilme ölçüsüne ne denir ve birimi nedir?",
+    "cardValue": "Sığa (kapasite) denir ve birimi Farad'dır (F)."
+  },
+  {
+    "cardKey": "Bir düzlem sığacın sığası nelere bağlıdır?",
+    "cardValue": "Levhaların yüzey alanına (A), levhalar arasındaki yalıtkanın dielektrik katsayısına ($\\epsilon$) ve levhalar arasındaki uzaklığa (d)."
+  },
+  {
+    "cardKey": "Üzerinden akım geçen düz bir telin çevresinde oluşan manyetik alanın yönü hangi kural ile bulunur?",
+    "cardValue": "Sağ el kuralı."
+  },
+  {
+    "cardKey": "Bir akım makarasının (bobin) merkez ekseninde oluşan manyetik alanın şiddeti nelere bağlıdır?",
+    "cardValue": "Sarım sayısına (N), sarım uzunluğuna (L) ve içinden geçen akıma (i)."
+  },
+  {
+    "cardKey": "Manyetik alan içindeki akım taşıyan bir tele etki eden manyetik kuvvetin büyüklüğü ($F = B \\cdot i \\cdot L \\cdot \\sin{\\alpha}$), tel manyetik alana paralel olduğunda ne olur?",
+    "cardValue": "Sıfır olur (çünkü $\\alpha = 0$ ve $\\sin{0} = 0$)."
+  },
+  {
+    "cardKey": "Aynı yönde akım taşıyan paralel iki tel birbirini çeker mi, iter mi?",
+    "cardValue": "Birbirini çeker."
+  },
+  {
+    "cardKey": "Manyetik alana dik olarak giren yüklü bir parçacığa etki eden manyetik kuvvet, parçacığın hızına _____ olduğu için iş yapmaz.",
+    "cardValue": "dik"
+  },
+  {
+    "cardKey": "Bir yüzeyden geçen manyetik alan çizgilerinin sayısının bir ölçüsü olan kavrama ne ad verilir?",
+    "cardValue": "Manyetik akı ($\\Phi$)."
+  },
+  {
+    "cardKey": "Kapalı bir devredeki manyetik akı değişimiyle oluşan elektromotor kuvvete ne denir?",
+    "cardValue": "İndüksiyon elektromotor kuvveti (EMK)."
+  },
+  {
+    "cardKey": "Lenz Kanunu'na göre, indüksiyon akımının yönü kendisini oluşturan etkiye _____ koyacak yöndedir.",
+    "cardValue": "karşı"
+  },
+  {
+    "cardKey": "Alternatif akımı (AC) veya potansiyel farkını yükseltip alçaltabilen araçlara ne denir?",
+    "cardValue": "Transformatör (trafo)."
+  },
+  {
+    "cardKey": "İdeal bir transformatörde giriş gücü ile çıkış gücü arasındaki ilişki nedir?",
+    "cardValue": "Giriş gücü çıkış gücüne eşittir ($P_{primer} = P_{sekonder}$)."
+  },
+  {
+    "cardKey": "Düzgün çembersel hareket yapan bir cismin bir tam turu tamamlaması için geçen süreye ne denir?",
+    "cardValue": "Periyot (T)."
+  },
+  {
+    "cardKey": "Çembersel hareket yapan bir cismin birim zamandaki tur sayısına ne denir?",
+    "cardValue": "Frekans (f)."
+  },
+  {
+    "cardKey": "Düzgün çembersel harekette hız vektörünün büyüklüğü sabitken, yönü sürekli değiştiği için cisim _____ hareket yapar.",
+    "cardValue": "ivmeli"
+  },
+  {
+    "cardKey": "Düzgün çembersel harekette ivmenin ve net kuvvetin (merkezcil kuvvet) yönü daima nereye doğrudur?",
+    "cardValue": "Çemberin merkezine doğrudur."
+  },
+  {
+    "cardKey": "Merkezcil kuvvetin formülü çizgisel hız ($v$) ve açısal hız ($\\omega$) cinsinden nasıl yazılır?",
+    "cardValue": "$F_m = \\frac{mv^2}{r}$ veya $F_m = m\\omega^2r$."
+  },
+  {
+    "cardKey": "Yatay bir virajı güvenli bir şekilde dönebilen bir araca etki eden merkezcil kuvvet, hangi kuvvettir?",
+    "cardValue": "Lastikler ile yol arasındaki statik sürtünme kuvvetidir."
+  },
+  {
+    "cardKey": "Kaymadan dönerek ilerleyen bir tekerleğin yere temas ettiği noktanın anlık hızı nedir?",
+    "cardValue": "Sıfırdır."
+  },
+  {
+    "cardKey": "Bir cismin dönme hareketine karşı gösterdiği dirence ne denir?",
+    "cardValue": "Eylemsizlik momenti (I)."
+  },
+  {
+    "cardKey": "Bir cismin dönme hareketi nedeniyle sahip olduğu enerjiye ne denir ve formülü nedir?",
+    "cardValue": "Dönme kinetik enerjisi denir ve formülü $E_D = \\frac{1}{2}I\\omega^2$'dir."
+  },
+  {
+    "cardKey": "Dönen bir cismin konum vektörü ile çizgisel momentumunun vektörel çarpımı olarak tanımlanan büyüklük nedir?",
+    "cardValue": "Açısal momentum ($\\vec{L} = \\vec{r} \\times \\vec{P}$)."
+  },
+  {
+    "cardKey": "Bir sisteme etki eden net dış tork sıfır ise, sistemin _____ korunur.",
+    "cardValue": "açısal momentumu"
+  },
+  {
+    "cardKey": "Kollarını kapatan bir buz patencisinin açısal hızının artması hangi fiziksel prensibin korunumu ile açıklanır?",
+    "cardValue": "Açısal momentumun korunumu."
+  },
+  {
+    "cardKey": "Newton'un Evrensel Kütle Çekim Yasası'na göre iki kütle arasındaki çekim kuvveti, aralarındaki uzaklığın karesi ile nasıl orantılıdır?",
+    "cardValue": "Ters orantılıdır."
+  },
+  {
+    "cardKey": "Kepler'in Yörüngeler Kanunu'na göre gezegenler, Güneş etrafında odaklarından birinde Güneş'in bulunduğu _____ yörüngelerde dolanırlar.",
+    "cardValue": "eliptik"
+  },
+  {
+    "cardKey": "Kepler'in Alanlar Kanunu'na göre, bir gezegeni Güneş'e birleştiren yarıçap vektörü eşit zaman aralıklarında ne yapar?",
+    "cardValue": "Eşit alanlar tarar."
+  },
+  {
+    "cardKey": "Kepler'in Periyotlar Kanunu'na göre, bir gezegenin yörünge periyodunun karesinin ($T^2$), yörüngesinin ortalama yarıçapının küpüne ($R^3$) oranı nedir?",
+    "cardValue": "Sabittir ($\\frac{R^3}{T^2} = sabit$)."
+  },
+  {
+    "cardKey": "Bir cismin denge konumu etrafında yaptığı periyodik salınım hareketine ne denir?",
+    "cardValue": "Basit harmonik hareket (BHH)."
+  },
+  {
+    "cardKey": "Basit harmonik harekette, cismi denge konumuna geri çağıran kuvvet, denge noktasında _____, genlik noktalarında ise _____ değerini alır.",
+    "cardValue": "sıfır, maksimum"
+  },
+  {
+    "cardKey": "Basit harmonik harekette hız, denge noktasından geçerken _____ değere, genlik noktalarında ise _____ değere sahiptir.",
+    "cardValue": "maksimum, sıfır"
+  },
+  {
+    "cardKey": "Bir yay sarkacının periyodu ($T = 2\\pi\\sqrt{\\frac{m}{k}}$), nelere bağlıdır?",
+    "cardValue": "Cismin kütlesine (m) ve yay sabitine (k)."
+  },
+  {
+    "cardKey": "Bir basit sarkacın periyodu ($T = 2\\pi\\sqrt{\\frac{L}{g}}$), nelere bağlıdır?",
+    "cardValue": "İpin uzunluğuna (L) ve yer çekimi ivmesine (g)."
+  },
+  {
+    "cardKey": "Su dalgalarının dar bir aralıktan geçerken bükülerek yayılması olayına ne denir?",
+    "cardValue": "Kırınım."
+  },
+  {
+    "cardKey": "Su dalgalarında kırınımın gözlenebilmesi için yarık genişliği (w) ile dalga boyu ($\\lambda$) arasındaki ilişki nasıl olmalıdır?",
+    "cardValue": "Dalga boyu yarık genişliğinden büyük veya yaklaşık olarak eşit olmalıdır ($\\lambda \\ge w$)."
+  },
+  {
+    "cardKey": "İki dalganın tepelerinin veya çukurlarının üst üste gelerek birbirini güçlendirdiği girişime ne ad verilir?",
+    "cardValue": "Yapıcı girişim (Katar noktaları oluşur)."
+  },
+  {
+    "cardKey": "Bir dalganın tepesi ile diğerinin çukurunun üst üste gelerek birbirini sönümlediği girişime ne ad verilir?",
+    "cardValue": "Yıkıcı girişim (Düğüm noktaları oluşur)."
+  },
+  {
+    "cardKey": "Young'ın çift yarık deneyinde perdede aydınlık ve karanlık saçakların oluşması ışığın hangi doğasını kanıtlar?",
+    "cardValue": "Dalga doğasını."
+  },
+  {
+    "cardKey": "Çift yarıkta girişimde saçak aralığı ($\\Delta x$), ışığın dalga boyu ($\\lambda$) ve yarıklar düzlemi ile perde arası uzaklık (L) ile nasıl orantılıdır?",
+    "cardValue": "Doğru orantılıdır."
+  },
+  {
+    "cardKey": "Tek yarıkta kırınım deseninde merkezî aydınlık saçağın genişliği, diğer aydınlık saçakların genişliğinin kaç katıdır?",
+    "cardValue": "İki katıdır."
+  },
+  {
+    "cardKey": "Dalga kaynağı ile gözlemci arasındaki bağıl hareket nedeniyle dalganın frekansında gözlenen değişime ne denir?",
+    "cardValue": "Doppler olayı."
+  },
+  {
+    "cardKey": "Gözlemciye yaklaşan bir yıldızdan gelen ışığın rengi spektrumun hangi tarafına kayar?",
+    "cardValue": "Maviye kayar (frekans artar, dalga boyu azalır)."
+  },
+  {
+    "cardKey": "Elektromanyetik dalgalar, _____ cisimlerin ivmeli hareketlerinden meydana gelir.",
+    "cardValue": "yüklü"
+  },
+  {
+    "cardKey": "Elektromanyetik dalgalardaki elektrik alan (E), manyetik alan (B) ve dalganın yayılma yönü birbirine göre nasıl konumlanır?",
+    "cardValue": "Hepsi birbirine diktir."
+  },
+  {
+    "cardKey": "Elektromanyetik dalgalar boşlukta hangi hızla yayılır?",
+    "cardValue": "Işık hızıyla (c)."
+  },
+  {
+    "cardKey": "Dalton Atom Modeli'ne göre atom, içi dolu, _____ ve bölünemeyen berk kürelerden oluşur.",
+    "cardValue": "yüksüz"
+  },
+  {
+    "cardKey": "Thomson Atom Modeli, atomu neye benzetmiştir?",
+    "cardValue": "Üzümlü keke veya karpuza."
+  },
+  {
+    "cardKey": "Rutherford'un alfa saçılması deneyi, atomun yapısı hakkında hangi önemli sonucu ortaya koymuştur?",
+    "cardValue": "Atomun büyük bir kısmının boşluktan oluştuğunu ve pozitif yüklerin çekirdek adı verilen çok küçük bir hacimde toplandığını."
+  },
+  {
+    "cardKey": "Bohr Atom Modeli'ne göre elektronlar, çekirdek etrafında ışıma yapmadan dolandıkları belirli enerji seviyelerine sahip _____ yörüngelerde bulunurlar.",
+    "cardValue": "kararlı"
+  },
+  {
+    "cardKey": "Bohr'un açısal momentum postülatına göre, elektronun açısal momentumu Planck sabitinin ($h$) $2\\pi$'ye bölünmüş halinin _____ katlarına eşittir.",
+    "cardValue": "tam sayı"
+  },
+  {
+    "cardKey": "Bir elektronun, daha yüksek bir enerji seviyesinden daha düşük bir enerji seviyesine geçerken yaptığı olaya ne denir?",
+    "cardValue": "Işıma (foton salınımı)."
+  },
+  {
+    "cardKey": "Bir atomun temel haldeki elektronunu atomdan tamamen koparmak için gereken minimum enerjiye ne ad verilir?",
+    "cardValue": "İyonlaşma enerjisi."
+  }
+]
