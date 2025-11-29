@@ -1,1 +1,794 @@
-
+[
+  {
+    "cardKey": "Sayıları yazmak için kullanılan sembollere ne ad verilir ve kümesi nedir?",
+    "cardValue": "Rakam denir ve kümesi ${0, 1, 2, 3, 4, 5, 6, 7, 8, 9}$'dur."
+  },
+  {
+    "cardKey": "Doğal sayılar kümesi hangi harfle gösterilir ve elemanları nelerdir?",
+    "cardValue": "$N$ ile gösterilir ve $N = \\{0, 1, 2, 3, ...\\}$ şeklindedir."
+  },
+  {
+    "cardKey": "Doğal sayılar kümesine negatif sayıların eklenmesiyle oluşan sayı kümesine ne denir ve hangi harfle gösterilir?",
+    "cardValue": "Tam sayılar kümesi denir ve $Z$ ile gösterilir."
+  },
+  {
+    "cardKey": "a ve b tam sayılar ve $b \\ne 0$ olmak üzere $\\frac{a}{b}$ şeklinde yazılabilen sayılara ne ad verilir?",
+    "cardValue": "Rasyonel sayılar denir ve $Q$ simgesi ile gösterilir."
+  },
+  {
+    "cardKey": "$\\frac{a}{b}$ şeklinde yazılamayan sayılara ne denir ve hangi simgeyle gösterilir?",
+    "cardValue": "İrrasyonel sayılar denir ve $Q'$ simgesi ile gösterilir."
+  },
+  {
+    "cardKey": "Rasyonel sayılar kümesi ile irrasyonel sayılar kümesinin birleşiminden oluşan kümeye ne ad verilir?",
+    "cardValue": "Gerçek (reel) sayılar kümesi denir ve $R$ ile gösterilir."
+  },
+  {
+    "cardKey": "Sayı kümeleri arasındaki alt küme ilişkisi nasıldır?",
+    "cardValue": "$N \\subset Z \\subset Q \\subset R$ ilişkisi vardır."
+  },
+  {
+    "cardKey": "Herhangi iki gerçek sayının toplamının ya da çarpımının yine bir gerçek sayı olması hangi özelliktir?",
+    "cardValue": "Kapalılık özelliği."
+  },
+  {
+    "cardKey": "\"Her $a, b \\in \\mathbb{R}$ için $a + b = b + a$ ve $a \\cdot b = b \\cdot a$ olması hangi özelliktir?\"",
+    "cardValue": "Değişme özelliği."
+  },
+  {
+    "cardKey": "Gerçek sayılarda toplama ve çarpma işlemlerinde işlem sırası için seçilen gruplamanın sonucu değiştirmemesi hangi özelliktir?",
+    "cardValue": "Birleşme özelliği."
+  },
+  {
+    "cardKey": "Gerçek sayılarda toplama işleminin birim (etkisiz) elemanı nedir?",
+    "cardValue": "Toplama işleminin birim elemanı '0'dır."
+  },
+  {
+    "cardKey": "Gerçek sayılarda çarpma işleminin birim (etkisiz) elemanı nedir?",
+    "cardValue": "Çarpma işleminin birim elemanı '1'dir."
+  },
+  {
+    "cardKey": "\"Herhangi bir gerçek sayıyı 0 ile çarptığımızda sonucun her zaman 0 olması, 0'ın hangi özelliğini gösterir?\"",
+    "cardValue": "Çarpma işleminin yutan elemanı olduğunu gösterir."
+  },
+  {
+    "cardKey": "İşlem önceliği sırası nasıldır?",
+    "cardValue": "1. Üs alınır, 2. Parantez içi işlemler yapılır, 3. Çarpma ve bölme yapılır, 4. Toplama ve çıkarma yapılır."
+  },
+  {
+    "cardKey": "2 ile kalansız bölünebilen sayılara ne denir?",
+    "cardValue": "Çift sayılar denir ve $n \\in Z$ olmak üzere $2n$ ile gösterilir."
+  },
+  {
+    "cardKey": "2 ile bölündüğünde 1 kalanını veren sayılara ne denir?",
+    "cardValue": "Tek sayılar denir ve $n \\in Z$ olmak üzere $2n – 1$ ya da $2n + 1$ ile gösterilir."
+  },
+  {
+    "cardKey": "İki tek sayının toplamı veya farkı tek mi çift mi olur?",
+    "cardValue": "Çift sayı olur."
+  },
+  {
+    "cardKey": "Bir tek ve bir çift sayının toplamı veya farkı tek mi çift mi olur?",
+    "cardValue": "Tek sayı olur."
+  },
+  {
+    "cardKey": "İki sayının çarpımının tek sayı olması için gereken koşul nedir?",
+    "cardValue": "Çarpılan sayıların her ikisinin de tek sayı olması gerekir."
+  },
+  {
+    "cardKey": "Sıfırdan büyük olan sayılara ne ad verilir?",
+    "cardValue": "Pozitif sayılar denir ve $a > 0$ olarak ifade edilir."
+  },
+  {
+    "cardKey": "Sıfırdan küçük olan sayılara ne ad verilir?",
+    "cardValue": "Negatif sayılar denir ve $a < 0$ olarak ifade edilir."
+  },
+  {
+    "cardKey": "\"Sıfır sayısı pozitif midir, negatif midir?\"",
+    "cardValue": "Sıfır sayısı ne pozitif ne de negatiftir."
+  },
+  {
+    "cardKey": "Aynı işaretli iki sayının çarpımının veya bölümünün işareti nedir?",
+    "cardValue": "Sonuç pozitiftir (+)."
+  },
+  {
+    "cardKey": "Ters işaretli iki sayının çarpımının veya bölümünün işareti nedir?",
+    "cardValue": "Sonuç negatiftir (-)."
+  },
+  {
+    "cardKey": "\"Negatif bir sayının çift kuvvetinin sonucu pozitif midir, negatif midir?\"",
+    "cardValue": "Sonuç pozitiftir (+)."
+  },
+  {
+    "cardKey": "\"Negatif bir sayının tek kuvvetinin sonucu pozitif midir, negatif midir?\"",
+    "cardValue": "Sonuç negatiftir (-)."
+  },
+  {
+    "cardKey": "Belirli bir kurala göre art arda gelen sayılara ne denir?",
+    "cardValue": "Ardışık sayılar denir."
+  },
+  {
+    "cardKey": "Ardışık sayı dizisindeki terim sayısı nasıl hesaplanır?",
+    "cardValue": "Terim Sayısı = $\\frac{\\text{Son Terim – İlk Terim}}{\\text{Ortak Fark}} + 1$ formülüyle hesaplanır."
+  },
+  {
+    "cardKey": "Ardışık sayı dizisindeki terimlerin toplamı nasıl hesaplanır?",
+    "cardValue": "Terimlerin Toplamı = $\\frac{\\text{Son Terim + İlk Terim}}{2} \\cdot (\\text{Terim sayısı})$ formülüyle hesaplanır."
+  },
+  {
+    "cardKey": "$1 + 2 + 3 + ... + n$ toplamının formülü nedir?",
+    "cardValue": "$\\frac{n \\cdot (n + 1)}{2}$"
+  },
+  {
+    "cardKey": "$2 + 4 + 6 + ... + 2n$ toplamının formülü nedir?",
+    "cardValue": "$n \\cdot (n + 1)$"
+  },
+  {
+    "cardKey": "Bir sayıyı oluşturan rakamlardan her birinin o sayı içerisindeki yerine ne denir?",
+    "cardValue": "Basamak denir."
+  },
+  {
+    "cardKey": "Bir sayının basamak değerlerinin toplamı şeklinde yazılmasına ne denir?",
+    "cardValue": "Çözümleme denir."
+  },
+  {
+    "cardKey": "1 ve kendisinden başka pozitif böleni olmayan 1’den büyük tam sayılara ne denir?",
+    "cardValue": "Asal sayılar denir."
+  },
+  {
+    "cardKey": "En küçük asal sayı kaçtır ve çift olan tek asal sayı hangisidir?",
+    "cardValue": "En küçük asal sayı 2'dir ve 2'den başka çift asal sayı yoktur."
+  },
+  {
+    "cardKey": "1’den başka pozitif ortak böleni olmayan pozitif tam sayılara ne denir?",
+    "cardValue": "Aralarında asal sayılar denir."
+  },
+  {
+    "cardKey": "Ardışık tam sayılar aralarında asal mıdır?",
+    "cardValue": "Evet, ardışık tam sayılar aralarında asaldır."
+  },
+  {
+    "cardKey": "Bir bölme işleminde kalan sayı (K) ile bölen sayı (B) arasındaki ilişki nasıl olmalıdır?",
+    "cardValue": "$0 \\le K < B$ olmalıdır."
+  },
+  {
+    "cardKey": "Bölme işleminde Bölünen'i bulmak için kullanılan formül nedir?",
+    "cardValue": "Bölünen = Bölen $\\cdot$ Bölüm + Kalan ($A = B \\cdot C + K$)"
+  },
+  {
+    "cardKey": "\"Bir sayının 3 ile bölümünden kalan, neyin 3 ile bölümünden kalana eşittir?\"",
+    "cardValue": "Rakamları toplamının 3 ile bölümünden kalana eşittir."
+  },
+  {
+    "cardKey": "Bir sayının 4 ile tam bölünebilmesi için hangi koşul sağlanmalıdır?",
+    "cardValue": "Sayının son iki basamağını oluşturan iki basamaklı sayı 4'ün bir katı olmalıdır."
+  },
+  {
+    "cardKey": "Bir sayının 9 ile bölümünden kalan neye eşittir?",
+    "cardValue": "Rakamları toplamının 9 ile bölümünden kalana eşittir."
+  },
+  {
+    "cardKey": "Bir sayının 11 ile tam bölünebilme kuralı nedir?",
+    "cardValue": "Sayının rakamları sağdan sola doğru (+), (–) ile işaretlenerek toplanır; bu toplam 11'in katı ise sayı 11 ile tam bölünür."
+  },
+  {
+    "cardKey": "6 ile bölünebilme kuralı nedir?",
+    "cardValue": "Bir sayı hem 2 hem de 3 ile tam bölünüyorsa 6 ile de tam bölünür."
+  },
+  {
+    "cardKey": "15 ile bölünebilme kuralı nedir?",
+    "cardValue": "Bir sayı hem 3 hem de 5 ile tam bölünüyorsa 15 ile de tam bölünür."
+  },
+  {
+    "cardKey": "Bir tam sayıyı $A = x^a \\cdot y^b \\cdot z^c$ şeklinde ifade etmeye ne denir?",
+    "cardValue": "Asal çarpanlarına ayırma denir."
+  },
+  {
+    "cardKey": "$A = x^a \\cdot y^b \\cdot z^c$ sayısının pozitif bölenlerinin sayısı nasıl bulunur?",
+    "cardValue": "Pozitif Bölen Sayısı = $(a+1) \\cdot (b+1) \\cdot (c+1)$ formülüyle bulunur."
+  },
+  {
+    "cardKey": "Bir A sayısının asal olmayan tam sayı bölenlerinin toplamı nasıl bulunur?",
+    "cardValue": "A sayısının asal çarpanları $x, y, z$ ise, toplam $–(x + y + z)$'dir."
+  },
+  {
+    "cardKey": "İki veya daha fazla tam sayının pozitif ortak bölenlerinin en büyüğüne ne denir?",
+    "cardValue": "En Büyük Ortak Bölen (EBOB) denir."
+  },
+  {
+    "cardKey": "İki veya daha fazla tam sayının pozitif ortak katlarının en küçüğüne ne denir?",
+    "cardValue": "En Küçük Ortak Kat (EKOK) denir."
+  },
+  {
+    "cardKey": "\"a ve b sayma sayılarının çarpımı, bu sayıların EBOB ve EKOK'ları cinsinden nasıl ifade edilir?\"",
+    "cardValue": "$a \\cdot b = EBOB(a, b) \\cdot EKOK(a, b)$ olarak ifade edilir."
+  },
+  {
+    "cardKey": "Aralarında asal iki pozitif tam sayının EBOB'u kaçtır?",
+    "cardValue": "EBOB'ları 1'dir."
+  },
+  {
+    "cardKey": "Aralarında asal iki pozitif tam sayının EKOK'u nedir?",
+    "cardValue": "EKOK'ları bu sayıların çarpımına eşittir."
+  },
+  {
+    "cardKey": "Bir bütünü eş büyüklükte en büyük parçalara ayırma problemlerinde _____ kullanılır.",
+    "cardValue": "EBOB"
+  },
+  {
+    "cardKey": "En az sayıda küçük parçaları birleştirerek büyük bir parça elde etme problemlerinde _____ kullanılır.",
+    "cardValue": "EKOK"
+  },
+  {
+    "cardKey": "Sayı doğrusu üzerinde birbirinden farklı iki noktanın arasındaki tüm gerçek sayılardan oluşan alt kümeye ne ad verilir?",
+    "cardValue": "Aralık adı verilir."
+  },
+  {
+    "cardKey": "Uç noktaların aralığa dâhil edildiği kümelere ne ad verilir ve nasıl gösterilir?",
+    "cardValue": "Kapalı aralık denir ve $[a, b]$ ile gösterilir."
+  },
+  {
+    "cardKey": "Uç noktaların aralığa dâhil edilmediği kümelere ne ad verilir ve nasıl gösterilir?",
+    "cardValue": "Açık aralık denir ve $(a, b)$ ile gösterilir."
+  },
+  {
+    "cardKey": "\"$a, b \\in \\mathbb{R}$ ve $a \\ne 0$ olmak üzere $ax + b = 0$ genel gösterimi ile ifade edilebilen denklemlere ne denir?\"",
+    "cardValue": "Birinci dereceden bir bilinmeyenli denklemler denir."
+  },
+  {
+    "cardKey": "$ax+b=0$ denkleminde $a = 0$ ve $b = 0$ ise çözüm kümesi nedir?",
+    "cardValue": "Çözüm kümesi gerçek sayılardır ($ÇK = \\mathbb{R}$)."
+  },
+  {
+    "cardKey": "$ax+b=0$ denkleminde $a = 0$ ve $b \\ne 0$ ise çözüm kümesi nedir?",
+    "cardValue": "Çözüm kümesi boş kümedir ($ÇK = \\emptyset$)."
+  },
+  {
+    "cardKey": "Bir eşitsizliğin her iki tarafı negatif bir sayı ile çarpılırsa veya bölünürse ne olur?",
+    "cardValue": "Eşitsizlik yön değiştirir."
+  },
+  {
+    "cardKey": "\"$a \\ne 0, b \\ne 0$ olmak üzere $ax + by = c$ şeklindeki denklemlere ne ad verilir?\"",
+    "cardValue": "Birinci dereceden iki bilinmeyenli denklemler denir."
+  },
+  {
+    "cardKey": "\"Birinci dereceden iki bilinmeyenli bir denklem sisteminin grafiği, doğruların tek noktada kesişmesi durumunda çözüm kümesi hakkında ne söylenebilir?\"",
+    "cardValue": "Doğrular tek noktada kesişir ve çözüm kümesi bu kesişim noktasıdır."
+  },
+  {
+    "cardKey": "$ax + by + c = 0$ ve $dx + ey + f = 0$ denklem sisteminde $\\frac{a}{d} = \\frac{b}{e} = \\frac{c}{f}$ ise doğruların durumu ve çözüm kümesi nedir?",
+    "cardValue": "Doğrular çakışıktır ve çözüm kümesi sonsuz elemanlıdır."
+  },
+  {
+    "cardKey": "$ax + by + c = 0$ ve $dx + ey + f = 0$ denklem sisteminde $\\frac{a}{d} = \\frac{b}{e} \\ne \\frac{c}{f}$ ise doğruların durumu ve çözüm kümesi nedir?",
+    "cardValue": "Doğrular paraleldir ve çözüm kümesi boş kümedir."
+  },
+  {
+    "cardKey": "Bir gerçek sayının sayı doğrusu üzerindeki yerinin sıfır noktasına olan uzaklığına ne denir?",
+    "cardValue": "Bu sayının mutlak değeri denir ve $|x|$ ile gösterilir."
+  },
+  {
+    "cardKey": "Mutlak değerin tanımı nasıldır?",
+    "cardValue": "$|x| = \\begin{cases} x, & x \\ge 0 \\\\ -x, & x < 0 \\end{cases}$"
+  },
+  {
+    "cardKey": "$a \\ge 0$ için $|x| = a$ denkleminin çözümü nedir?",
+    "cardValue": "$x = a$ veya $x = –a$ olur."
+  },
+  {
+    "cardKey": "$a \\in \\mathbb{R}^+$ olmak üzere $|x| \\le a$ eşitsizliğinin çözümü nedir?",
+    "cardValue": "$-a \\le x \\le a$ olur."
+  },
+  {
+    "cardKey": "$a \\in \\mathbb{R}^+$ olmak üzere $|x| \\ge a$ eşitsizliğinin çözümü nedir?",
+    "cardValue": "$x \\le –a$ veya $x \\ge a$ olur."
+  },
+  {
+    "cardKey": "$x \\in \\mathbb{R} – \\{0\\}$ ve $n \\in Z^+$ olmak üzere $x^{-n}$ ifadesi neye eşittir?",
+    "cardValue": "$\\frac{1}{x^n}$ ifadesine eşittir."
+  },
+  {
+    "cardKey": "Üslü sayılarda tabanları aynı olan ifadeler çarpıldığında üsler ne yapılır?",
+    "cardValue": "Üsler toplanır ($x^a \\cdot x^b = x^{a+b}$)."
+  },
+  {
+    "cardKey": "Üslü sayılarda tabanları aynı olan ifadeler bölündüğünde üsler ne yapılır?",
+    "cardValue": "Payın üssünden paydanın üssü çıkarılır ($\\frac{x^a}{x^b} = x^{a-b}$)."
+  },
+  {
+    "cardKey": "\"$x \\in \\mathbb{R} – \\{ –1, 0, 1\\}$ olmak üzere $x^m = x^n$ ise $m$ ve $n$ arasında nasıl bir ilişki vardır?\"",
+    "cardValue": "$m = n$ olur."
+  },
+  {
+    "cardKey": "$a^b = 1$ denkleminin sağlanabilmesi için olası üç durum nedir?",
+    "cardValue": "1. $b=0$ iken $a \\ne 0$, 2. $a=1$ iken $b \\in \\mathbb{R}$, 3. $a=–1$ iken $b$ bir çift sayıdır."
+  },
+  {
+    "cardKey": "$0 < a < 1$ ve $a^n < a^m$ ise $n$ ve $m$ arasındaki ilişki nedir?",
+    "cardValue": "$n > m$ olur."
+  },
+  {
+    "cardKey": "$a > 1$ ve $a^n < a^m$ ise $n$ ve $m$ arasındaki ilişki nedir?",
+    "cardValue": "$n < m$ olur."
+  },
+  {
+    "cardKey": "\"Köklü bir ifadede kökün derecesi çift ise, kök içindeki ifadenin tanımlı olması için hangi şart gereklidir?\"",
+    "cardValue": "Kök içindeki ifadenin 0'a eşit veya 0'dan büyük olması gerekir ($a \\ge 0$)."
+  },
+  {
+    "cardKey": "n çift sayı olmak üzere $\\sqrt[n]{x^n}$ ifadesi kök dışına nasıl çıkar?",
+    "cardValue": "$|x|$ olarak çıkar."
+  },
+  {
+    "cardKey": "$\\sqrt{a \\pm 2\\sqrt{b}}$ şeklindeki ifadeler nasıl sadeleştirilir?",
+    "cardValue": "$a=m+n$ ve $b=m \\cdot n$ olacak şekilde $m, n$ sayıları bulunabiliyorsa ifade $\\sqrt{m} \\pm \\sqrt{n}$ şeklinde yazılır."
+  },
+  {
+    "cardKey": "Aynı türden iki çokluğun bölme yoluyla karşılaştırılmasına ne denir?",
+    "cardValue": "Oran denir."
+  },
+  {
+    "cardKey": "İki ya da daha fazla oranın birbirine eşitlenmesine ne denir?",
+    "cardValue": "Orantı denir."
+  },
+  {
+    "cardKey": "İki çokluktan biri artarken diğeri de aynı oranda artıyorsa veya biri azalırken diğeri de aynı oranda azalıyorsa bu çokluklara ne denir?",
+    "cardValue": "Doğru orantılıdır denir."
+  },
+  {
+    "cardKey": "İki çokluktan biri artarken diğeri aynı oranda azalıyor veya biri azalırken diğeri aynı oranda artıyor ise bu çokluklara ne denir?",
+    "cardValue": "Ters orantılıdır denir."
+  },
+  {
+    "cardKey": "Yaş problemlerinde iki kişi arasındaki yaş farkı zamanla değişir mi?",
+    "cardValue": "Hayır, iki kişi arasındaki yaş farkı daima sabittir, değişmez."
+  },
+  {
+    "cardKey": "Kâr veya zarar hangi fiyat üzerinden hesaplanır?",
+    "cardValue": "Kâr ve zarar maliyet fiyatı üzerinden hesaplanır."
+  },
+  {
+    "cardKey": "İndirim veya zam hangi fiyat üzerinden hesaplanır?",
+    "cardValue": "İndirim ve zam satış fiyatı üzerinden hesaplanır."
+  },
+  {
+    "cardKey": "\"Bir karışımın bir miktarının dökülmesi, karışımı oluşturan maddelerin oranlarını değiştirir mi?\"",
+    "cardValue": "Hayır, oranları değiştirmez."
+  },
+  {
+    "cardKey": "Sabit hızla hareket eden bir aracın aldığı yolu (X) bulmak için kullanılan formül nedir?",
+    "cardValue": "$X = V \\cdot t$ (Yol = Hız $\\cdot$ Zaman)."
+  },
+  {
+    "cardKey": "Ortalama hız nasıl hesaplanır?",
+    "cardValue": "Ortalama Hız = $\\frac{\\text{Toplam Yol}}{\\text{Toplam Zaman}}$ formülüyle hesaplanır."
+  },
+  {
+    "cardKey": "Doğru ya da yanlış kesin bir hüküm bildiren ifadelere ne ad verilir?",
+    "cardValue": "Önerme adı verilir."
+  },
+  {
+    "cardKey": "Doğruluk değerleri aynı olan iki önermeye ne denir?",
+    "cardValue": "Denk önermeler denir ve $p \\equiv q$ ile gösterilir."
+  },
+  {
+    "cardKey": "Bir önermenin hükmünün değiştirilip yerine olumsuzunun kullanılması ile elde edilen önermeye ne denir?",
+    "cardValue": "Önermenin değili (olumsuzu) denir ve $p'$ veya $\\sim p$ ile gösterilir."
+  },
+  {
+    "cardKey": "\"İki veya daha fazla önermenin 've', 'veya', 'ise' gibi bağlaçlarla bağlanmasıyla elde edilen yeni önermeye ne denir?\"",
+    "cardValue": "Bileşik önerme denir."
+  },
+  {
+    "cardKey": "$p \\land q$ (p ve q) bileşik önermesi ne zaman doğru (1) olur?",
+    "cardValue": "Sadece p ile q önermelerinin her ikisi de doğru iken doğru olur."
+  },
+  {
+    "cardKey": "$p \\lor q$ (p veya q) bileşik önermesi ne zaman yanlış (0) olur?",
+    "cardValue": "Sadece p ile q önermelerinin her ikisi de yanlış iken yanlış olur."
+  },
+  {
+    "cardKey": "De Morgan kuralları nelerdir?",
+    "cardValue": "$(p \\lor q)' \\equiv p' \\land q'$ ve $(p \\land q)' \\equiv p' \\lor q'$"
+  },
+  {
+    "cardKey": "$p \\Rightarrow q$ (p ise q) koşullu önermesi ne zaman yanlış (0) olur?",
+    "cardValue": "Sadece p doğru, q yanlış iken yanlış olur (100 kuralı)."
+  },
+  {
+    "cardKey": "$p \\Rightarrow q$ önermesinin karşıtı nedir?",
+    "cardValue": "$q \\Rightarrow p$ önermesidir."
+  },
+  {
+    "cardKey": "$p \\Rightarrow q$ önermesinin tersi nedir?",
+    "cardValue": "$p' \\Rightarrow q'$ önermesidir."
+  },
+  {
+    "cardKey": "$p \\Rightarrow q$ önermesinin karşıt tersi nedir?",
+    "cardValue": "$q' \\Rightarrow p'$ önermesidir."
+  },
+  {
+    "cardKey": "$p \\Leftrightarrow q$ (p ancak ve ancak q) iki yönlü koşullu önermesi ne zaman doğru (1) olur?",
+    "cardValue": "p ile q’nun doğruluk değerleri aynı iken doğru olur."
+  },
+  {
+    "cardKey": "İçinde en az bir değişken bulunan ve bu değişkene verilen değerlerle doğru ya da yanlış olduğu belirlenen önermelere ne denir?",
+    "cardValue": "Açık önerme denir."
+  },
+  {
+    "cardKey": "Evrensel niceleyici hangi sembolle gösterilir ve ne anlama gelir?",
+    "cardValue": "'∀' sembolü ile gösterilir ve 'Her' veya 'Bütün' anlamına gelir."
+  },
+  {
+    "cardKey": "Varlıksal niceleyici hangi sembolle gösterilir ve ne anlama gelir?",
+    "cardValue": "'∃' sembolü ile gösterilir ve 'Bazı' veya 'En az bir' anlamına gelir."
+  },
+  {
+    "cardKey": "İspata gerek duyulmaksızın doğruluğu kabul edilen önermelere ne denir?",
+    "cardValue": "Aksiyom denir."
+  },
+  {
+    "cardKey": "Doğruluğu ispatlanabilen önermelere ne denir?",
+    "cardValue": "Teorem denir."
+  },
+  {
+    "cardKey": "\"İyi tanımlanmış, birbirinden farklı nesneler topluluğuna ne denir?\"",
+    "cardValue": "Küme denir."
+  },
+  {
+    "cardKey": "Elemanı olmayan kümeye ne denir ve nasıl gösterilir?",
+    "cardValue": "Boş küme denir ve $\\emptyset$ veya ${ }$ ile gösterilir."
+  },
+  {
+    "cardKey": "\"A kümesinin her elemanı aynı zamanda B kümesinin de elemanı ise A kümesi, B kümesinin nesi olur?\"",
+    "cardValue": "A kümesi B kümesinin alt kümesidir ($A \\subseteq B$)."
+  },
+  {
+    "cardKey": "n elemanlı bir kümenin alt kümelerinin sayısı nasıl hesaplanır?",
+    "cardValue": "$2^n$ formülü ile hesaplanır."
+  },
+  {
+    "cardKey": "İki kümenin tüm ortak elemanlarından oluşan kümeye ne denir?",
+    "cardValue": "Kümelerin kesişim kümesi denir ($A \\cap B$)."
+  },
+  {
+    "cardKey": "İki kümenin bütün elemanlarından oluşan kümeye ne denir?",
+    "cardValue": "Kümelerin birleşim kümesi denir ($A \\cup B$)."
+  },
+  {
+    "cardKey": "$s(A \\cup B)$ formülü nedir?",
+    "cardValue": "$s(A \\cup B) = s(A) + s(B) – s(A \\cap B)$"
+  },
+  {
+    "cardKey": "A kümesinde olup B kümesinde olmayan tüm elemanların oluşturduğu kümeye ne denir?",
+    "cardValue": "A fark B kümesi denir ($A \\setminus B$ veya $A-B$)."
+  },
+  {
+    "cardKey": "Evrensel kümenin bir alt kümesi olan A kümesinde bulunmayıp evrensel kümede bulunan elemanların kümesine ne denir?",
+    "cardValue": "A kümesinin tümleyeni denir ve $A'$ ile gösterilir."
+  },
+  {
+    "cardKey": "\"Birinci bileşeni A kümesinden, ikinci bileşeni B kümesinden alınarak oluşturulan tüm sıralı ikililerin kümesine ne denir?\"",
+    "cardValue": "A kartezyen çarpım B kümesi denir ve $A \\times B$ ile gösterilir."
+  },
+  {
+    "cardKey": "$s(A) = m$ ve $s(B) = n$ ise $s(A \\times B)$ kaç olur?",
+    "cardValue": "$s(A \\times B) = m \\cdot n$ olur."
+  },
+  {
+    "cardKey": "1’den n’ye kadar olan ardışık tam sayıların çarpımına ne denir ve nasıl gösterilir?",
+    "cardValue": "n faktöriyel denir ve $n!$ ile gösterilir."
+  },
+  {
+    "cardKey": "0! (sıfır faktöriyel) değeri kaçtır?",
+    "cardValue": "0! = 1 olarak kabul edilir."
+  },
+  {
+    "cardKey": "\"n elemanlı bir kümenin r'li permütasyonlarının sayısı $P(n, r)$ nasıl hesaplanır?\"",
+    "cardValue": "$P(n, r) = \\frac{n!}{(n–r)!}$ formülü ile hesaplanır."
+  },
+  {
+    "cardKey": "\"n elemanlı bir kümenin r'li kombinasyonlarının sayısı $C(n, r)$ nasıl hesaplanır?\"",
+    "cardValue": "$C(n, r) = \\binom{n}{r} = \\frac{n!}{r! \\cdot (n-r)!}$ formülü ile hesaplanır."
+  },
+  {
+    "cardKey": "Pascal üçgeni ile binom açılımının katsayıları arasındaki ilişki nedir?",
+    "cardValue": "Pascal üçgeninin her satırı, $(x+y)^n$ açılımındaki katsayıları verir."
+  },
+  {
+    "cardKey": "$(x + y)^n$ ifadesinin x’in azalan kuvvetlerine göre açılımında baştan $(r + 1)$. terim nedir?",
+    "cardValue": "$\\binom{n}{r} x^{n-r} y^r$"
+  },
+  {
+    "cardKey": "Bir deneyin bütün çıktılarının kümesine ne ad verilir?",
+    "cardValue": "Örnek uzay denir ve E ile gösterilir."
+  },
+  {
+    "cardKey": "Bir A olayının gerçekleşme olasılığı $P(A)$ nasıl hesaplanır?",
+    "cardValue": "$P(A) = \\frac{\\text{A olayının eleman sayısı}}{\\text{Örnek uzayın eleman sayısı}} = \\frac{s(A)}{s(E)}$"
+  },
+  {
+    "cardKey": "Bir A olayının olma olasılığı $P(A)$ ise olmama olasılığı $P(A')$ nedir?",
+    "cardValue": "$P(A') = 1 - P(A)$'dır."
+  },
+  {
+    "cardKey": "A ve B ayrık olmayan iki olay ise $P(A \\cup B)$ nasıl hesaplanır?",
+    "cardValue": "$P(A \\cup B) = P(A) + P(B) – P(A \\cap B)$"
+  },
+  {
+    "cardKey": "A kümesinin her bir elemanını B kümesinin bir ve yalnız bir elemanına eşleyen ilişkiye ne denir?",
+    "cardValue": "A'dan B'ye tanımlı fonksiyon denir."
+  },
+  {
+    "cardKey": "\"Bir f: A → B fonksiyonunda A kümesine _____, B kümesine _____ denir.\"",
+    "cardValue": "tanım kümesi, değer kümesi"
+  },
+  {
+    "cardKey": "Bir f: A → B fonksiyonunda tanım kümesindeki elemanların B'de eşleştiği elemanların oluşturduğu kümeye ne denir?",
+    "cardValue": "Görüntü kümesi denir ve f(A) ile gösterilir."
+  },
+  {
+    "cardKey": "Değer kümesinde eşleşmemiş eleman kalan fonksiyona ne denir?",
+    "cardValue": "İçine fonksiyon denir."
+  },
+  {
+    "cardKey": "Değer kümesindeki her elemana karşılık tanım kümesinde en az bir eleman olan fonksiyona ne denir?",
+    "cardValue": "Örten fonksiyon denir."
+  },
+  {
+    "cardKey": "Tanım kümesindeki her bir elemanın görüntüsünün diğer elemanların görüntülerinden farklı olduğu fonksiyona ne denir?",
+    "cardValue": "Bire bir fonksiyon denir."
+  },
+  {
+    "cardKey": "Tanım kümesindeki her elemanı kendisine eşleyen fonksiyona ne ad verilir?",
+    "cardValue": "Birim (özdeşlik) fonksiyon denir ve $f(x)=x$ ile gösterilir."
+  },
+  {
+    "cardKey": "Tanım kümesindeki bütün elemanları değer kümesindeki tek bir elemanla eşleyen fonksiyona ne ad verilir?",
+    "cardValue": "Sabit fonksiyon denir ve $f(x)=c$ ile gösterilir."
+  },
+  {
+    "cardKey": "$f(x) = mx + n$ şeklindeki fonksiyonlara ne ad verilir?",
+    "cardValue": "Doğrusal fonksiyon denir."
+  },
+  {
+    "cardKey": "Tanım kümesinin alt aralıklarında farklı kurallarla tanımlanan fonksiyonlara ne denir?",
+    "cardValue": "Parçalı tanımlı fonksiyon denir."
+  },
+  {
+    "cardKey": "Grafiği y eksenine göre simetrik olan fonksiyonlar _____ fonksiyonlardır.",
+    "cardValue": "çift"
+  },
+  {
+    "cardKey": "Grafiği orijine göre simetrik olan fonksiyonlar _____ fonksiyonlardır.",
+    "cardValue": "tek"
+  },
+  {
+    "cardKey": "f: A → B ve g : B → C fonksiyonları için $h(x) = g[f(x)]$ şeklinde tanımlanan h: A → C fonksiyonuna ne denir?",
+    "cardValue": "f ve g fonksiyonlarının bileşke fonksiyonu denir ve $(g \\circ f)(x)$ ile gösterilir."
+  },
+  {
+    "cardKey": "Bir fonksiyonun tersinin var olabilmesi için hangi koşulları sağlaması gerekir?",
+    "cardValue": "Bire bir ve örten olması gerekir."
+  },
+  {
+    "cardKey": "$y = f(x)$ fonksiyonunun grafiği ile $y = f^{-1}(x)$ fonksiyonunun grafiği hangi doğruya göre simetriktir?",
+    "cardValue": "$y=x$ doğrusuna göre simetriktir."
+  },
+  {
+    "cardKey": "$P(x) = a_n x^n + ... + a_1 x + a_0$ ifadesinin polinom olması için x'in kuvveti olan n nasıl bir sayı olmalıdır?",
+    "cardValue": "Doğal sayı olmalıdır ($n \\in \\mathbb{N}$)."
+  },
+  {
+    "cardKey": "Bir polinomun en büyük dereceli teriminin katsayısına ne denir?",
+    "cardValue": "Polinomun baş katsayısı denir."
+  },
+  {
+    "cardKey": "Bir P(x) polinomunun katsayılar toplamını bulmak için x yerine kaç yazılır?",
+    "cardValue": "x yerine 1 yazılır (P(1))."
+  },
+  {
+    "cardKey": "Bir P(x) polinomunun sabit terimini bulmak için x yerine kaç yazılır?",
+    "cardValue": "x yerine 0 yazılır (P(0))."
+  },
+  {
+    "cardKey": "Dereceleri aynı ve aynı dereceli terimlerinin katsayıları karşılıklı olarak eşit olan polinomlara ne denir?",
+    "cardValue": "Eşit polinomlar denir."
+  },
+  {
+    "cardKey": "P(x) polinomunun (x – a) ile bölümünden kalanı bulma yöntemi nedir?",
+    "cardValue": "x – a = 0'dan x = a bulunur ve P(a) değeri hesaplanır. Bu değer kalandır."
+  },
+  {
+    "cardKey": "$a^2 – b^2$ özdeşliğinin çarpanlara ayrılmış hali nedir?",
+    "cardValue": "$(a – b)(a + b)$"
+  },
+  {
+    "cardKey": "$(a + b)^2$ tam kare özdeşliğinin açılımı nedir?",
+    "cardValue": "$a^2 + 2ab + b^2$"
+  },
+  {
+    "cardKey": "$a^3 + b^3$ iki küp toplamı özdeşliğinin açılımı nedir?",
+    "cardValue": "$(a + b)(a^2 – ab + b^2)$"
+  },
+  {
+    "cardKey": "$a^3 – b^3$ iki küp farkı özdeşliğinin açılımı nedir?",
+    "cardValue": "$(a – b)(a^2 + ab + b^2)$"
+  },
+  {
+    "cardKey": "$ax^2 + bx + c = 0$ denkleminde $b^2 – 4ac$ ifadesine ne ad verilir ve hangi sembolle gösterilir?",
+    "cardValue": "Denklemin diskriminantı denir ve $\\Delta$ (delta) ile gösterilir."
+  },
+  {
+    "cardKey": "İkinci dereceden bir denklemde $\\Delta > 0$ ise kökler hakkında ne söylenebilir?",
+    "cardValue": "Denklemin iki farklı gerçek kökü vardır."
+  },
+  {
+    "cardKey": "İkinci dereceden bir denklemde $\\Delta = 0$ ise kökler hakkında ne söylenebilir?",
+    "cardValue": "Denklemin birbirine eşit (çakışık) iki gerçek kökü vardır."
+  },
+  {
+    "cardKey": "İkinci dereceden bir denklemde $\\Delta < 0$ ise denklemin gerçek sayılar kümesindeki çözüm kümesi nedir?",
+    "cardValue": "Çözüm kümesi boş kümedir."
+  },
+  {
+    "cardKey": "Sanal sayı birimi 'i' neye eşittir?",
+    "cardValue": "$i = \\sqrt{–1}$ veya $i^2 = –1$'dir."
+  },
+  {
+    "cardKey": "$z = a + bi$ karmaşık sayısının eşleniği nedir?",
+    "cardValue": "$\\bar{z} = a – bi$'dir."
+  },
+  {
+    "cardKey": "$ax^2 + bx + c = 0$ denkleminin kökleri $x_1$ ve $x_2$ ise kökler toplamı ($x_1 + x_2$) nedir?",
+    "cardValue": "$x_1 + x_2 = -\\frac{b}{a}$'dır."
+  },
+  {
+    "cardKey": "$ax^2 + bx + c = 0$ denkleminin kökleri $x_1$ ve $x_2$ ise kökler çarpımı ($x_1 \\cdot x_2$) nedir?",
+    "cardValue": "$x_1 \\cdot x_2 = \\frac{c}{a}$'dır."
+  },
+  {
+    "cardKey": "Bir veri grubunda en çok tekrar eden veriye ne denir?",
+    "cardValue": "Tepe değeri (mod) denir."
+  },
+  {
+    "cardKey": "Sıralanmış bir veri grubunun tam ortasındaki değere ne denir?",
+    "cardValue": "Ortanca (medyan) denir."
+  },
+  {
+    "cardKey": "Bir veri grubundaki en büyük değer ile en küçük değer arasındaki farka ne denir?",
+    "cardValue": "Açıklık denir."
+  },
+  {
+    "cardKey": "Verilerin aritmetik ortalamadan uzaklıklarının bir ölçüsü olan merkezi yayılım ölçüsü nedir?",
+    "cardValue": "Standart sapma."
+  },
+  {
+    "cardKey": "Bir üçgenin iç açılarının ölçüleri toplamı kaç derecedir?",
+    "cardValue": "180°'dir."
+  },
+  {
+    "cardKey": "Bir üçgenin dış açılarının ölçüleri toplamı kaç derecedir?",
+    "cardValue": "360°'dir."
+  },
+  {
+    "cardKey": "\"Bir üçgende bir dış açının ölçüsü, kendisine komşu olmayan ______ ölçüleri toplamına eşittir.\"",
+    "cardValue": "iki iç açının"
+  },
+  {
+    "cardKey": "İki kenar uzunluğu eşit olan üçgenlere ne ad verilir?",
+    "cardValue": "İkizkenar üçgen denir."
+  },
+  {
+    "cardKey": "\"Bir ikizkenar üçgenin tepe noktasından çizilen yükseklik, aynı zamanda _____ ve _____'dır.\"",
+    "cardValue": "açıortay, kenarortay"
+  },
+  {
+    "cardKey": "Tüm kenar uzunlukları ve iç açıları eşit olan üçgene ne denir?",
+    "cardValue": "Eşkenar üçgen denir ve her bir iç açısı 60°'dir."
+  },
+  {
+    "cardKey": "\"Bir üçgende büyük açının karşısındaki kenar mı, küçük açının karşısındaki kenar mı daha uzundur?\"",
+    "cardValue": "Büyük açının karşısındaki kenarın uzunluğu daha büyüktür."
+  },
+  {
+    "cardKey": "Üçgen eşitsizliği nedir?",
+    "cardValue": "Bir üçgende herhangi bir kenar uzunluğu, diğer iki kenarın toplamından küçük, farklarının mutlak değerinden büyüktür."
+  },
+  {
+    "cardKey": "Karşılıklı kenar uzunlukları ve açı ölçüleri eşit olan üçgenlere ne denir?",
+    "cardValue": "Eş üçgenler denir."
+  },
+  {
+    "cardKey": "Karşılıklı açıları eşit ve karşılıklı kenarları orantılı olan üçgenlere ne denir?",
+    "cardValue": "Benzer üçgenler denir."
+  },
+  {
+    "cardKey": "\"Bir üçgenin bir kenarına paralel olan ve diğer iki kenarı kesen doğru, kestiği kenarlar üzerinde orantılı parçalar oluşturur. Bu teorem nedir?\"",
+    "cardValue": "Temel Orantı Teoremi."
+  },
+  {
+    "cardKey": "\"Bir dik üçgende dik kenarların kareleri toplamı, hipotenüsün karesine eşittir. Bu teorem nedir?\"",
+    "cardValue": "Pisagor Teoremi ($a^2 + b^2 = c^2$)."
+  },
+  {
+    "cardKey": "\"Bir dik üçgende hipotenüse indirilen yüksekliğin karesi, ayırdığı parçaların çarpımına eşittir. Bu teorem nedir?\"",
+    "cardValue": "Öklid Teoremi ($h^2 = p \\cdot k$)."
+  },
+  {
+    "cardKey": "Bir dik üçgende karşı dik kenarın hipotenüse oranına ne denir?",
+    "cardValue": "Sinüs (sin) denir."
+  },
+  {
+    "cardKey": "Bir dik üçgende komşu dik kenarın hipotenüse oranına ne denir?",
+    "cardValue": "Kosinüs (cos) denir."
+  },
+  {
+    "cardKey": "Bir dik üçgende karşı dik kenarın komşu dik kenara oranına ne denir?",
+    "cardValue": "Tanjant (tan) denir."
+  },
+  {
+    "cardKey": "Bir dik üçgende komşu dik kenarın karşı dik kenara oranına ne denir?",
+    "cardValue": "Kotanjant (cot) denir."
+  },
+  {
+    "cardKey": "Merkezi orijin ve yarıçapı 1 birim olan çembere ne denir?",
+    "cardValue": "Birim çember denir."
+  },
+  {
+    "cardKey": "\"Birim çember üzerinde bir noktayı temsil eden $(x, y)$ koordinatları, hangi trigonometrik fonksiyonlara karşılık gelir?\"",
+    "cardValue": "$x = \\cos\\alpha$ ve $y = \\sin\\alpha$ değerlerine karşılık gelir."
+  },
+  {
+    "cardKey": "Herhangi bir $\\alpha$ açısı için $\\sin^2\\alpha + \\cos^2\\alpha$ ifadesinin değeri kaçtır?",
+    "cardValue": "1'dir."
+  },
+  {
+    "cardKey": "n kenarlı bir çokgenin iç açılarının ölçüleri toplamı nedir?",
+    "cardValue": "$(n – 2) \\cdot 180°$'dir."
+  },
+  {
+    "cardKey": "Bütün çokgenlerin dış açılarının ölçüleri toplamı kaç derecedir?",
+    "cardValue": "360°'dir."
+  },
+  {
+    "cardKey": "n kenarlı bir düzgün çokgenin bir dış açısının ölçüsü nasıl bulunur?",
+    "cardValue": "$\\frac{360°}{n}$ formülüyle bulunur."
+  },
+  {
+    "cardKey": "En az iki kenarı paralel olan dörtgene ne ad verilir?",
+    "cardValue": "Yamuk denir."
+  },
+  {
+    "cardKey": "Karşılıklı kenarları paralel olan dörtgene ne ad verilir?",
+    "cardValue": "Paralelkenar denir."
+  },
+  {
+    "cardKey": "Bir paralelkenarın köşegenleri birbirini _____.",
+    "cardValue": "ortalar"
+  },
+  {
+    "cardKey": "Tüm kenar uzunlukları eşit olan paralelkenara ne denir?",
+    "cardValue": "Eşkenar dörtgen denir."
+  },
+  {
+    "cardKey": "Açılarından biri 90° olan paralelkenara ne denir?",
+    "cardValue": "Dikdörtgen denir."
+  },
+  {
+    "cardKey": "Tüm kenarları eşit olan dikdörtgene ne ad verilir?",
+    "cardValue": "Kare denir."
+  },
+  {
+    "cardKey": "Bütün ayrıtlarının uzunlukları eşit olan dikdörtgenler prizmasına ne denir?",
+    "cardValue": "Küp denir."
+  },
+  {
+    "cardKey": "Bir piramidin hacmi nasıl hesaplanır?",
+    "cardValue": "Hacim = $\\frac{\\text{Taban Alanı} \\cdot \\text{Yükseklik}}{3}$ formülüyle hesaplanır."
+  },
+  {
+    "cardKey": "Tüm yüzleri eşkenar üçgen olan üçgen piramide ne ad verilir?",
+    "cardValue": "Düzgün dörtyüzlü denir."
+  }
+]
