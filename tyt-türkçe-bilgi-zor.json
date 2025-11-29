@@ -1,1 +1,646 @@
-
+[
+  {
+    "cardKey": "Gerçek Anlam",
+    "cardValue": "Bir sözcüğün akla gelen ilk anlamına ne ad verilir?"
+  },
+  {
+    "cardKey": "Yan Anlam",
+    "cardValue": "Bir sözcüğün temel anlamına bağlı olarak kazandığı yeni anlama ne denir?"
+  },
+  {
+    "cardKey": "Mecaz Anlam",
+    "cardValue": "Bir sözcüğün bir ilgi veya benzetme sonucu temel anlamından tamamen uzaklaşarak kazandığı yeni anlama ne ad verilir?"
+  },
+  {
+    "cardKey": "Terim Anlam",
+    "cardValue": "\"Bir bilim, sanat veya meslek dalıyla ilgili özel bir kavramı karşılayan sözcüklere ne denir?\""
+  },
+  {
+    "cardKey": "Eş Anlamlı Sözcükler",
+    "cardValue": "\"Yazılışları farklı, anlamları aynı olan sözcüklere _____ denir.\""
+  },
+  {
+    "cardKey": "Zıt Anlamlı Sözcükler",
+    "cardValue": "Anlamca birbirinin tam tersini ifade eden sözcüklere ne ad verilir?"
+  },
+  {
+    "cardKey": "Sesteş Sözcükler",
+    "cardValue": "\"Yazılışları aynı, anlamları farklı olan sözcüklere ne denir?\""
+  },
+  {
+    "cardKey": "Somut Anlam",
+    "cardValue": "Beş duyu organından herhangi biriyle algılanabilen sözcükler _____ anlamlıdır."
+  },
+  {
+    "cardKey": "Soyut Anlam",
+    "cardValue": "Zihin ve his yoluyla algılanabilen sözcüklere ne ad verilir?"
+  },
+  {
+    "cardKey": "Nicel Anlam",
+    "cardValue": "\"Varlıkların sayılabilen, ölçülebilen veya azalıp çoğalabilen yanlarını anlatan sözcükler ne tür anlamlıdır?\""
+  },
+  {
+    "cardKey": "Yansıma Sözcükler",
+    "cardValue": "Doğadaki seslerin taklit edilmesiyle oluşan sözcüklere ne denir?"
+  },
+  {
+    "cardKey": "Mecazımürsel",
+    "cardValue": "Benzetme amacı güdülmeden bir sözün başka bir söz yerine kullanılmasına ne denir?"
+  },
+  {
+    "cardKey": "Yer-İnsan İlişkisi (Mecazımürsel)",
+    "cardValue": "\"\"\"Haberi duyunca tüm kasaba üzüldü\"\" cümlesindeki mecazımürsel hangi ilişkiye dayanır?\""
+  },
+  {
+    "cardKey": "Sanatçı-Eser İlişkisi (Mecazımürsel)",
+    "cardValue": "\"\"\"Mehmet Akif'i her okuyuşumda ayrı zevk alırım\"\" cümlesindeki mecazımürsel hangi ilişkiye dayanır?\""
+  },
+  {
+    "cardKey": "Dolaylama",
+    "cardValue": "Bir sözcükle anlatılabilecek bir kavramın birden çok sözcükle anlatılmasına ne denir?"
+  },
+  {
+    "cardKey": "File Bekçisi",
+    "cardValue": "\"\"\"File bekçisi\"\"\" hangi kavram için kullanılan bir dolaylamadır?\""
+  },
+  {
+    "cardKey": "Güzel Adlandırma",
+    "cardValue": "İnsanlarda korku uyandıran durum ve varlıkları daha güzel çağrışımlar uyandıracak başka sözcüklerle adlandırmaya ne denir?"
+  },
+  {
+    "cardKey": "Kinaye",
+    "cardValue": "\"Bir sözün hem gerçek hem de mecaz anlama gelecek şekilde, mecaz anlamı kastedilerek kullanılmasına ne ad verilir?\""
+  },
+  {
+    "cardKey": "Tariz",
+    "cardValue": "\"Bir sözün, alay etme amacıyla tersini kastedecek biçimde kullanılmasına ne denir?\""
+  },
+  {
+    "cardKey": "Somutlama",
+    "cardValue": "Soyut bir kavramın benzetme yoluyla somut sözcüklerle ifade edilmesine ne denir?"
+  },
+  {
+    "cardKey": "Deyim",
+    "cardValue": "\"Genellikle gerçek anlamından ayrı, ilgi çekici bir anlamı olan kalıplaşmış söz öbeklerine ne ad verilir?\""
+  },
+  {
+    "cardKey": "Atasözü",
+    "cardValue": "\"Toplumun değer yargılarını yansıtan, öğüt verici, anonim, kısa ve özlü sözlere ne denir?\""
+  },
+  {
+    "cardKey": "İkileme",
+    "cardValue": "Aralarında çeşitli ilgiler bulunan iki sözcüğün yan yana kullanılmasıyla oluşan kalıplaşmış söz öbeklerine ne denir?"
+  },
+  {
+    "cardKey": "Amaç-Sonuç Cümleleri",
+    "cardValue": "Bir yargının amacıyla birlikte verildiği cümlelere ne denir?"
+  },
+  {
+    "cardKey": "Neden-Sonuç Cümleleri",
+    "cardValue": "Bir sonucun meydana gelme sebebiyle birlikte verildiği cümlelere ne ad verilir?"
+  },
+  {
+    "cardKey": "Koşul Cümleleri",
+    "cardValue": "Bir yargının gerçekleşmesinin başka bir duruma bağlı olduğu cümlelere _____ denir."
+  },
+  {
+    "cardKey": "Karşılaştırma Cümleleri",
+    "cardValue": "\"Varlık, kavram ve durumları benzerlik, farklılık gibi yönlerden kıyaslayan cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Neden-Amaç Farkı",
+    "cardValue": "\"Neden-sonuç cümlelerinde \"\"neden\"\" gerçekleşmişken, amaç-sonuç cümlelerinde \"\"amaç\"\" henüz _____.\""
+  },
+  {
+    "cardKey": "Öznel Anlatım",
+    "cardValue": "\"Kişisel duygu, düşünce ve yorumlar içeren, kanıtlanamayan yargılara ne ad verilir?\""
+  },
+  {
+    "cardKey": "Nesnel Anlatım",
+    "cardValue": "\"Kişisel değerlendirme içermeyen, doğruluğu veya yanlışlığı kanıtlanabilen yargılara ne ad verilir?\""
+  },
+  {
+    "cardKey": "Doğrudan Anlatım",
+    "cardValue": "\"Başkasına ait bir sözün ağızdan çıktığı gibi, değiştirilmeden aktarılmasına ne denir?\""
+  },
+  {
+    "cardKey": "Dolaylı Anlatım",
+    "cardValue": "\"Başkasına ait bir sözün, söyleyenin ifadesiyle değiştirilerek aktarılmasına ne denir?\""
+  },
+  {
+    "cardKey": "İçerik Cümleleri",
+    "cardValue": "\"Bir eserde \"\"ne anlatıldığıyla\"\" ilgili yargılar içeren cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Üslup Cümleleri",
+    "cardValue": "\"Yazarın anlatım tarzı, dili kullanma şekli veya söyleyiş özelliği ile ilgili cümlelere _____ (biçem) cümleleri denir.\""
+  },
+  {
+    "cardKey": "Tanım Cümleleri",
+    "cardValue": "\"\"\"Bu nedir?\"\" veya \"\"Bu kimdir?\"\" sorularına cevap veren, bir kavramın niteliklerini açıklayan cümlelere ne ad verilir?\""
+  },
+  {
+    "cardKey": "Aşamalı Durum Cümleleri",
+    "cardValue": "\"Bir durumun birdenbire değil, bir süreç içinde yavaş yavaş değiştiğini ifade eden cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Olasılık Cümleleri",
+    "cardValue": "Bir olayın veya durumun gerçekleşip gerçekleşmeyeceğinin kesin olarak belli olmamasını ifade eden cümle türü hangisidir?"
+  },
+  {
+    "cardKey": "Sitem Cümleleri",
+    "cardValue": "\"Bir kimseye, yaptığı bir hareketin veya söylediği sözün üzüntü, kırgınlık uyandırdığının öfkelenmeden belirtildiği cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Yakınma Cümleleri",
+    "cardValue": "Kişinin bir olaydan veya durumdan şikayet ederek sızlandığı cümlelere ne denir?"
+  },
+  {
+    "cardKey": "Hayıflanma Cümleleri",
+    "cardValue": "Kişinin eline geçen bir fırsatı değerlendirememesi nedeniyle kendi kendine üzülmesini ifade eden cümlelere ne denir?"
+  },
+  {
+    "cardKey": "Pişmanlık Cümleleri",
+    "cardValue": "Yapılan bir işin olumsuz sonucunu görerek üzüntü duyulduğunu ifade eden cümlelere _____ denir."
+  },
+  {
+    "cardKey": "Tasarı Cümleleri",
+    "cardValue": "Geleceğe dair yapılması düşünülen planları ifade eden cümlelere ne ad verilir?"
+  },
+  {
+    "cardKey": "Varsayım Cümleleri",
+    "cardValue": "Gerçekte olmayan bir durumun varmış gibi kabul edilerek anlatıldığı cümlelere ne denir?"
+  },
+  {
+    "cardKey": "Azımsama Cümleleri",
+    "cardValue": "Bir şeyin beklenenden az bulunduğunu ifade eden cümlelere ne denir?"
+  },
+  {
+    "cardKey": "Küçümseme Cümleleri",
+    "cardValue": "\"Bir şeyi hor görmeyi, küçük görmeyi ifade eden cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Öyküleyici Anlatım",
+    "cardValue": "\"Olayların kişi, mekân ve zaman unsurlarına bağlanarak anlatıldığı anlatım biçimi hangisidir?\""
+  },
+  {
+    "cardKey": "Betimleyici Anlatım",
+    "cardValue": "\"Bir varlığa veya yere ait ayrıntıların, okuyucunun zihninde canlandırılacak şekilde aktarıldığı anlatım biçimine ne denir?\""
+  },
+  {
+    "cardKey": "Açıklayıcı Anlatım",
+    "cardValue": "Bir konuyla ilgili bilgi vermeyi veya bir konuyu öğretmeyi amaçlayan anlatım biçimi hangisidir?"
+  },
+  {
+    "cardKey": "Tartışmacı Anlatım",
+    "cardValue": "Bir düşünceyi savunmayı ve okuyucuyu o konuya inandırmayı amaçlayan anlatım biçimine ne denir?"
+  },
+  {
+    "cardKey": "Tanık Gösterme",
+    "cardValue": "Düşünceyi Geliştirme Yolu: Savunulan düşünceyi daha inandırıcı kılmak için konunun uzmanı kişilerin sözlerinden alıntı yapma."
+  },
+  {
+    "cardKey": "Açıklık",
+    "cardValue": "\"Anlatımın tek bir yargıyı ifade etmesi, bir yargıdan birden fazla anlam çıkarılmaması özelliğine ne denir?\""
+  },
+  {
+    "cardKey": "Duruluk",
+    "cardValue": "Anlatımda aynı anlama gelen sözcüklerin veya gereksiz eklerin bulunmaması özelliğine _____ denir."
+  },
+  {
+    "cardKey": "Yalınlık",
+    "cardValue": "\"Anlatımın süslü, anlaşılması zor sözcüklerden uzak olması ve söz sanatlarına yer verilmemesi özelliğine ne denir?\""
+  },
+  {
+    "cardKey": "Özgünlük",
+    "cardValue": "\"Anlatımın başka bir anlatıma benzememesi, taklitten uzak olması özelliğine ne ad verilir?\""
+  },
+  {
+    "cardKey": "Özlülük",
+    "cardValue": "\"Az sözle çok şey anlatılması, anlatımın yoğun olması özelliğine ne denir?\""
+  },
+  {
+    "cardKey": "Ana Düşünce",
+    "cardValue": "Bir yazıda yazarın okura iletmek istediği mesaja ne ad verilir?"
+  },
+  {
+    "cardKey": "Yardımcı Düşünce",
+    "cardValue": "\"Ana düşünceyi destekleyen, konunun daha iyi anlaşılmasını sağlayan düşüncelere ne denir?\""
+  },
+  {
+    "cardKey": "Giriş Bölümü",
+    "cardValue": "\"Paragrafın genellikle tek cümleden oluşan, konunun ortaya konduğu ilk bölümüne ne ad verilir?\""
+  },
+  {
+    "cardKey": "Büyük Ünlü Uyumu",
+    "cardValue": "\"Bir kelimenin birinci hecesinde kalın ünlü varsa diğer hecelerin de kalın, ince ünlü varsa diğerlerinin de ince olması kuralına ne denir?\""
+  },
+  {
+    "cardKey": "Ünlü Daralması",
+    "cardValue": "\"Türkçede \"\"-yor\"\" eki kendinden önceki geniş ünlüleri (a,e) daraltarak hangi ses olayına neden olur?\""
+  },
+  {
+    "cardKey": "Ünlü Değişimi",
+    "cardValue": "\"\"\"Ben\"\" ve \"\"sen\"\" zamirlerine yönelme eki (-e) geldiğinde kökteki ünlünün değişmesi (bana, sana) hangi ses olayıdır?\""
+  },
+  {
+    "cardKey": "Ünsüz Benzeşmesi",
+    "cardValue": "\"Sert ünsüzle (ç, f, h, k, p, s, ş, t) biten bir sözcüğe yumuşak ünsüzle (c, d, g) başlayan bir ek geldiğinde, ekin başındaki ünsüzün sertleşmesine ne denir?\""
+  },
+  {
+    "cardKey": "Ünsüz Yumuşaması",
+    "cardValue": "\"Sert ünsüzle (p, ç, t, k) biten bir sözcüğe ünlüyle başlayan bir ek geldiğinde, bu sert ünsüzlerin yumuşayarak (b, c, d, g, ğ) olmasına ne ad verilir?\""
+  },
+  {
+    "cardKey": "Kaynaştırma Ünsüzleri",
+    "cardValue": "\"Ünlüyle biten bir kelimeye ünlüyle başlayan bir ek geldiğinde araya giren 'y, ş, s, n' ünsüzlerine ne denir?\""
+  },
+  {
+    "cardKey": "n-m Değişimi",
+    "cardValue": "\"Türkçede \"\"b\"\" sesinden önce \"\"n\"\" yerine \"\"m\"\" gelmesi ses olayına ne denir? (Örnek: tenbel -> tembel)\""
+  },
+  {
+    "cardKey": "Din ve Mitoloji Özel Adları",
+    "cardValue": "\"Din ve mitoloji ile ilgili özel adlar (Tanrı, Allah, Cebrail, Zeus) nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Gezegen ve Yıldız Adları",
+    "cardValue": "\"Gezegen ve yıldız adları (Merkür, Halley) nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Dünya, Güneş, Ay Yazımı",
+    "cardValue": "\"Dünya, güneş, ay kelimeleri gezegen anlamı dışında kullanıldığında nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Şehir, İl, İlçe Yazımı",
+    "cardValue": "\"Özel ada dâhil olmayıp tamlama kuran şehir, il, ilçe, köy gibi sözcükler nasıl yazılır? (Örnek: Konya ____)\""
+  },
+  {
+    "cardKey": "Tarih Bildiren Ay ve Gün",
+    "cardValue": "Belirli bir tarih bildiren ay ve gün adları (Örnek: 29 Mayıs 1453 Salı) nasıl yazılır?"
+  },
+  {
+    "cardKey": "Sayıların Yazımı",
+    "cardValue": "Birden fazla kelimeden oluşan sayılar nasıl yazılır?"
+  },
+  {
+    "cardKey": "Üleştirme Sayıları",
+    "cardValue": "Üleştirme sayıları rakamla mı yoksa yazıyla mı belirtilir?"
+  },
+  {
+    "cardKey": "Bağlaç 'ki' Yazımı",
+    "cardValue": "\"Bağlaç olan \"\"ki\"\" nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Bitişik Yazılan 'ki' Bağlaçları",
+    "cardValue": "\"Kalıplaşmış olduğu için bitişik yazılan \"\"ki\"\" bağlacına bir örnek veriniz.\""
+  },
+  {
+    "cardKey": "İkilemelerin Yazımı",
+    "cardValue": "İkilemeler nasıl yazılır?"
+  },
+  {
+    "cardKey": "Pekiştirmeli Sözler",
+    "cardValue": "Sıfat veya zarf görevindeki pekiştirmeli sözler (apaçık, sapasağlam) nasıl yazılır?"
+  },
+  {
+    "cardKey": "Soru Eki 'mı/mi/mu/mü'",
+    "cardValue": "Soru eki \"mı/mi/mu/mü\" kendinden önceki kelimeden nasıl yazılır?"
+  },
+  {
+    "cardKey": "Bağlaç 'da/de' Yazımı",
+    "cardValue": "\"Bağlaç olan \"\"da/de\"\" nasıl yazılır ve hangi ses olayına uymaz?\""
+  },
+  {
+    "cardKey": "Yardımcı Fiille Kurulan Birleşik Fiiller",
+    "cardValue": "\"Yardımcı fiillerle (etmek, olmak) kurulan birleşik fiiller, ses düşmesi veya türemesi olmazsa nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Anlam Değişikliğine Uğrayan Birleşik Kelimeler",
+    "cardValue": "Birleşme sırasında kelimelerinden ikincisi anlam değişikliğine uğrayan birleşik kelimeler nasıl yazılır?"
+  },
+  {
+    "cardKey": "Ses Düşmesine Uğrayan Birleşik Kelimeler",
+    "cardValue": "Ses düşmesine uğrayan birleşik kelimeler (nasıl < ne asıl) nasıl yazılır?"
+  },
+  {
+    "cardKey": "Ara Yönlerin Yazımı",
+    "cardValue": "\"Ara yönleri belirten kelimeler (güneybatı, kuzeydoğu) nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Ev ile Kurulan Birleşik Kelimeler",
+    "cardValue": "\"\"\"Ev\"\" kelimesiyle kurulan birleşik kelimeler (öğretmenevi, yayınevi) nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Dış, İç, Sıra Sözleriyle Kurulan Birleşik Kelimeler",
+    "cardValue": "\"Dış, iç, sıra sözleriyle oluşturulan birleşik kelime ve terimler (yasa dışı, hafta içi, yanı sıra) nasıl yazılır?\""
+  },
+  {
+    "cardKey": "Nokta",
+    "cardValue": "Bitmiş cümlelerin sonuna hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Virgül (Eş Görevli Sözcükler)",
+    "cardValue": "Art arda sıralanan eş görevli sözcük ve söz gruplarının arasına hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Virgül (Sıralı Cümleler)",
+    "cardValue": "Sıralı cümleleri birbirinden ayırmak için hangi noktalama işareti kullanılır?"
+  },
+  {
+    "cardKey": "Ara Söz/Cümle Noktalama",
+    "cardValue": "Cümlelerdeki ara söz veya ara cümlelerin başında ve sonunda hangi noktalama işareti kullanılır?"
+  },
+  {
+    "cardKey": "Noktalı Virgül",
+    "cardValue": "Ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için hangi noktalama işareti kullanılır?"
+  },
+  {
+    "cardKey": "İki Nokta",
+    "cardValue": "Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Üç Nokta",
+    "cardValue": "Tamamlanmamış cümlelerin sonuna hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Soru İşareti",
+    "cardValue": "Soru bildiren cümle veya sözlerin sonuna hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Ünlem İşareti",
+    "cardValue": "\"Sevinç, acı, korku gibi duyguları anlatan cümlelerin veya seslenme, hitap sözlerinin sonuna hangi noktalama işareti konur?\""
+  },
+  {
+    "cardKey": "Uzun Çizgi",
+    "cardValue": "Satır başına alınan konuşmaları göstermek için hangi noktalama işareti kullanılır?"
+  },
+  {
+    "cardKey": "Kısa Çizgi (Satır Sonu)",
+    "cardValue": "Satıra sığmayan sözcükler bölünürken satır sonuna hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Eğik Çizgi",
+    "cardValue": "Dizeler yan yana yazıldığında aralarına hangi noktalama işareti konur?"
+  },
+  {
+    "cardKey": "Tırnak İşareti",
+    "cardValue": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler hangi noktalama işareti içine alınır?"
+  },
+  {
+    "cardKey": "Kesme İşareti (Özel Adlara Ek)",
+    "cardValue": "\"Özel adlara getirilen iyelik, durum ve bildirme ekleri hangi noktalama işaretiyle ayrılır?\""
+  },
+  {
+    "cardKey": "Kurum Adlarına Gelen Ekler",
+    "cardValue": "\"Kurum, kuruluş, kurul ve iş yeri adlarına gelen ekler kesme işaretiyle ayrılır mı?\""
+  },
+  {
+    "cardKey": "Kök",
+    "cardValue": "Bir sözcüğün aldığı ekler çıkarıldıktan sonra kalan anlamlı en küçük parçasına ne denir?"
+  },
+  {
+    "cardKey": "Kökteş Kök",
+    "cardValue": "\"Aralarında anlam ilgisi bulunan, hem isim hem de fiil kökü olarak kullanılabilen köklere ne ad verilir? (Örnek: boya / boya-)\""
+  },
+  {
+    "cardKey": "Yapım Eki",
+    "cardValue": "\"Eklendiği sözcüğün anlamını, yapısını veya türünü değiştiren eklere ne denir?\""
+  },
+  {
+    "cardKey": "Çekim Eki",
+    "cardValue": "Sözcükleri cümle içinde çekimleyerek diğer sözcüklerle anlam ilgisi kurmasını sağlayan eklere ne denir?"
+  },
+  {
+    "cardKey": "Gövde",
+    "cardValue": "Bir sözcüğün en az bir yapım eki almış haline ne ad verilir?"
+  },
+  {
+    "cardKey": "Fiilimsi Eklerinin Türü",
+    "cardValue": "\"Tüm fiilimsi ekleri (isim-fiil, sıfat-fiil, zarf-fiil) ne tür eklerdir?\""
+  },
+  {
+    "cardKey": "Basit Sözcük",
+    "cardValue": "Yapım eki almamış sözcüklere yapı bakımından ne denir?"
+  },
+  {
+    "cardKey": "Türemiş Sözcük",
+    "cardValue": "En az bir tane yapım eki almış sözcüklere yapı bakımından ne denir?"
+  },
+  {
+    "cardKey": "Birleşik Sözcük",
+    "cardValue": "En az iki sözcüğün birleşmesiyle oluşan yeni sözcüklere ne ad verilir?"
+  },
+  {
+    "cardKey": "Yeterlik Fiili",
+    "cardValue": "\"Bir fiile \"\"-ebilmek\"\" yardımcı fiilinin eklenmesiyle oluşturulan kurallı birleşik fiil hangisidir?\""
+  },
+  {
+    "cardKey": "Tezlik Fiili",
+    "cardValue": "\"Bir fiile \"\"-ivermek\"\" yardımcı fiilinin eklenmesiyle oluşturulan kurallı birleşik fiil hangisidir?\""
+  },
+  {
+    "cardKey": "Yeterlik Fiili Olumsuzu",
+    "cardValue": "Yeterlik fiilinin olumsuzu yapılırken \"bil-\" fiili düşer ve geriye _____ zarf-fiil ekleri kalır."
+  },
+  {
+    "cardKey": "Cins İsim",
+    "cardValue": "\"Aynı türden varlıkların tümünü karşılayan isimlere ne denir? (Örnek: ağaç, çiçek)\""
+  },
+  {
+    "cardKey": "Özel İsim",
+    "cardValue": "\"Tek bir varlığı karşılayan, eşi benzeri olmayan isimlere ne denir? (Örnek: Ankara, Atatürk)\""
+  },
+  {
+    "cardKey": "Topluluk İsmi",
+    "cardValue": "\"Biçim olarak tekil olduğu halde anlamca birden çok varlığı ifade eden isimlere ne ad verilir? (Örnek: ordu, sürü)\""
+  },
+  {
+    "cardKey": "Niteleme Sıfatı",
+    "cardValue": "\"İsimleri renk, durum, biçim yönünden niteleyen sözcüklere ne denir?\""
+  },
+  {
+    "cardKey": "Belirtme Sıfatları",
+    "cardValue": "\"İsimleri işaret, sayı, belgisizlik veya soru yoluyla belirten sıfatlara genel olarak ne ad verilir?\""
+  },
+  {
+    "cardKey": "Adlaşmış Sıfat",
+    "cardValue": "Bir sıfat çekim eki alırsa neye dönüşür?"
+  },
+  {
+    "cardKey": "Zamir",
+    "cardValue": "İsmin yerini tutan sözcüklere ne denir?"
+  },
+  {
+    "cardKey": "Dönüşlülük Zamiri",
+    "cardValue": "\"\"\"Kendi\"\" sözcüğü hangi zamir türüne aittir?\""
+  },
+  {
+    "cardKey": "Belgisiz Zamir",
+    "cardValue": "\"İsimlerin yerini belirsiz bir şekilde tutan zamirlere ne denir? (Örnek: biri, hepsi, kimse)\""
+  },
+  {
+    "cardKey": "İyelik Zamirleri",
+    "cardValue": "İyelik ekleri aynı zamanda ne tür zamirlerdir?"
+  },
+  {
+    "cardKey": "İlgi Zamiri",
+    "cardValue": "\"Tamlayan eki \"\"-ın, -in\"\"den sonra gelerek tamlananın yerini tutan \"\"-ki\"\" ekine ne denir?\""
+  },
+  {
+    "cardKey": "Belirtili İsim Tamlaması",
+    "cardValue": "Hem tamlayanın hem de tamlananın ek aldığı isim tamlaması türü hangisidir?"
+  },
+  {
+    "cardKey": "Belirtisiz İsim Tamlaması",
+    "cardValue": "\"Sadece tamlananın iyelik eki aldığı, tamlayanın ise ek almadığı isim tamlaması türü hangisidir?\""
+  },
+  {
+    "cardKey": "Zincirleme İsim Tamlaması",
+    "cardValue": "En az üç isimden oluşan ve iç içe geçmiş isim tamlamalarından oluşan yapıya ne denir?"
+  },
+  {
+    "cardKey": "Zarf",
+    "cardValue": "\"Fiilleri, fiilimsileri, sıfatları ve zarfları durum, zaman, yer-yön, miktar ve soru yönünden belirten sözcüklere ne denir?\""
+  },
+  {
+    "cardKey": "Durum Zarfı",
+    "cardValue": "\"Fiile sorulan \"\"nasıl?\"\" sorusunun cevabı olan zarf türü hangisidir?\""
+  },
+  {
+    "cardKey": "Yer-Yön Zarfı ve İsim Farkı",
+    "cardValue": "\"Yer-yön bildiren sözcükler (içeri, dışarı, aşağı, yukarı) ek almadan fiili belirtirse _____, çekim eki alırsa _____ olur.\""
+  },
+  {
+    "cardKey": "Edat",
+    "cardValue": "\"Tek başına anlamı olmayan, cümle içinde diğer sözcüklerle anlam ilgisi kuran sözcüklere ne denir? (Örnek: gibi, için, ile)\""
+  },
+  {
+    "cardKey": "Bağlaç",
+    "cardValue": "\"Eş görevli sözcükleri, söz gruplarını veya cümleleri birbirine bağlayan sözcüklere ne denir? (Örnek: ve, ama, çünkü)\""
+  },
+  {
+    "cardKey": "Basit Çekimli Fiil",
+    "cardValue": "Bir fiilin bir kip eki almasıyla oluşan çekime ne denir?"
+  },
+  {
+    "cardKey": "Fiilde Kip Kayması",
+    "cardValue": "Fiilde kullanılan kip ile kastedilen kipin farklı olmasına ne denir?"
+  },
+  {
+    "cardKey": "Ek-fiil",
+    "cardValue": "İsim veya isim soylu sözcükleri yüklem yapan ve basit zamanlı fiilleri birleşik zamanlı yapan eke ne denir?"
+  },
+  {
+    "cardKey": "Hikâye Birleşik Zamanı",
+    "cardValue": "\"Basit zamanlı bir fiile \"\"-idi\"\" ek-fiili getirilerek oluşturulan birleşik zaman hangisidir?\""
+  },
+  {
+    "cardKey": "Rivayet Birleşik Zamanı",
+    "cardValue": "\"Basit zamanlı bir fiile \"\"-imiş\"\" ek-fiili getirilerek oluşturulan birleşik zaman hangisidir?\""
+  },
+  {
+    "cardKey": "İsim-fiil",
+    "cardValue": "\"Fiillere \"\"-ma, -ış, -mak\"\" ekleri getirilerek yapılan fiilimsi türü hangisidir?\""
+  },
+  {
+    "cardKey": "Sıfat-fiil",
+    "cardValue": "\"Fiillere \"\"-an, -ası, -mez, -ar, -dık, -ecek, -miş\"\" ekleri getirilerek yapılan ve genellikle sıfat görevi üstlenen fiilimsi türü hangisidir?\""
+  },
+  {
+    "cardKey": "Zarf-fiil",
+    "cardValue": "\"Fiillere \"\"-ken, -alı, -ip, -erek\"\" gibi ekler getirilerek yapılan ve cümlede zarf görevi üstlenen fiilimsi türü hangisidir?\""
+  },
+  {
+    "cardKey": "Fiilde Çatı İncelenmesi",
+    "cardValue": "Fiilde çatıyı incelerken yüklemin hangi sözcük türünde olması gerekir?"
+  },
+  {
+    "cardKey": "Etken Fiil",
+    "cardValue": "\"Fiilin bildirdiği işi yapan özne belliyse (gerçek özne varsa) fiil, öznesine göre ne tür bir çatıya sahiptir?\""
+  },
+  {
+    "cardKey": "Edilgen Fiil",
+    "cardValue": "\"İşi yapanın belli olmadığı, nesnenin sözde özne görevini üstlendiği ve fiilin \"\"-l, -n\"\" eklerini aldığı çatı türü hangisidir?\""
+  },
+  {
+    "cardKey": "Dönüşlü Fiil",
+    "cardValue": "\"Öznenin yaptığı işten yine kendisinin etkilendiği ve fiilin \"\"-l, -n\"\" eklerini aldığı çatı türüne ne denir?\""
+  },
+  {
+    "cardKey": "İşteş Fiil",
+    "cardValue": "\"Fiilde bildirilen işin birden fazla özne tarafından karşılıklı veya birlikte yapıldığını gösteren ve \"\"-ş\"\" eki alan fiillere ne denir?\""
+  },
+  {
+    "cardKey": "Geçişli Fiil",
+    "cardValue": "\"Nesne alabilen fiillere (yükleme sorulan \"\"neyi, kimi\"\" sorularına cevap veren) nesnesine göre ne denir?\""
+  },
+  {
+    "cardKey": "Geçişsiz Fiil",
+    "cardValue": "Nesne alamayan fiillere nesnesine göre ne denir?"
+  },
+  {
+    "cardKey": "Oldurgan Fiil",
+    "cardValue": "\"Geçişsiz bir fiilin \"\"-r, -t, -tır\"\" ekleriyle geçişli hale getirilmesine ne ad verilir?\""
+  },
+  {
+    "cardKey": "Ettirgen Fiil",
+    "cardValue": "\"Geçişli bir fiilin \"\"-r, -t, -tır\"\" ekleriyle geçişlilik derecesinin artırılmasına ve işi başkasına yaptırma anlamı katılmasına ne denir?\""
+  },
+  {
+    "cardKey": "Yüklem",
+    "cardValue": "Cümlede yargıyı bildiren temel öge hangisidir?"
+  },
+  {
+    "cardKey": "Özne",
+    "cardValue": "Yüklemin bildirdiği işi yapan veya oluşa konu olan ögeye ne denir?"
+  },
+  {
+    "cardKey": "Nesne",
+    "cardValue": "Cümlede öznenin yaptığı işten etkilenen ögeye ne ad verilir?"
+  },
+  {
+    "cardKey": "Yer Tamlayıcısı",
+    "cardValue": "\"Yüklemi yönelme (-e), bulunma (-de) ve ayrılma (-den) durumları açısından tamamlayan ögeye ne denir?\""
+  },
+  {
+    "cardKey": "Fiil Cümlelerinde Vurgu",
+    "cardValue": "Fiil cümlelerinde vurgu genellikle hangi ögenin üzerindedir?"
+  },
+  {
+    "cardKey": "İsim Cümlelerinde Vurgu",
+    "cardValue": "İsim cümlelerinde vurgu hangi ögenin üzerindedir?"
+  },
+  {
+    "cardKey": "Basit Cümle",
+    "cardValue": "\"Tek bir yargı bildiren, içinde fiilimsi veya başka bir yan cümle bulunmayan cümlelere yapılarına göre ne denir?\""
+  },
+  {
+    "cardKey": "Girişik Birleşik Cümle",
+    "cardValue": "\"Temel bir yargı dışında, fiilimsi ile kurulmuş bir yan yargı da bulunduran cümlelere ne denir?\""
+  },
+  {
+    "cardKey": "Sıralı Cümle",
+    "cardValue": "En az iki temel yargının virgül ya da noktalı virgülle birbirine bağlandığı cümle türü hangisidir?"
+  },
+  {
+    "cardKey": "Bağlı Cümle",
+    "cardValue": "En az iki temel yargının bağlaç ile birbirine bağlandığı cümle türüne ne denir?"
+  },
+  {
+    "cardKey": "Gereksiz Sözcük Kullanımı",
+    "cardValue": "Bir cümlede aynı anlamı karşılayan birden çok sözcüğün kullanılması ne tür bir anlatım bozukluğuna yol açar?"
+  },
+  {
+    "cardKey": "Anlamca Çelişen Sözler",
+    "cardValue": "Kesinlik ve ihtimal bildiren sözcüklerin bir arada kullanılması hangi tür anlatım bozukluğuna örnektir?"
+  },
+  {
+    "cardKey": "Öge Eksikliği",
+    "cardValue": "\"Sıralı veya bağlı cümlelerde, ögelerden birinin eksik kullanılması ne tür bir anlatım bozukluğuna neden olur?\""
+  },
+  {
+    "cardKey": "Çatı Uyuşmazlığı",
+    "cardValue": "Birleşik bir cümlede fiilimsilerin veya yüklem ile fiilimsinin etkenlik-edilgenlik yönünden uyumsuz olması ne tür bir bozukluktur?"
+  }
+]
