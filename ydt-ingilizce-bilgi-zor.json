@@ -1,1 +1,858 @@
-
+[
+  {
+    "cardKey": "Ülkelerden, taşıtlardan ve gemilerden bahsederken 'it' zamiri dışında hangi özne zamiri kullanılabilir?",
+    "cardValue": "'She' özne zamiri kullanılabilir. Örnek: Costa Rica... She has a wide variety of opportunities..."
+  },
+  {
+    "cardKey": "Zaman, mesafe ve hava durumundan bahsederken hangi özne zamiri kullanılır?",
+    "cardValue": "'It' özne zamiri kullanılır. Örnek: It takes scientists a few hours to descend..."
+  },
+  {
+    "cardKey": "Kurumlardan, hükümetten veya yetkililerden bahsederken hangi özne zamiri kullanılır?",
+    "cardValue": "'They' özne zamiri kullanılır. Örnek: They sell super comfortable sofas..."
+  },
+  {
+    "cardKey": "Genel anlamda insanlardan bahsederken hangi iki özne zamiri kullanılabilir?",
+    "cardValue": "'You' ve 'we' özne zamirleri kullanılabilir."
+  },
+  {
+    "cardKey": "Vurgu yapmak amacıyla kullanılan ayrık tümce (cleft sentence) yapılarında, özellikle çoğul isimlerle birlikte hangi özne zamiri kullanılır?",
+    "cardValue": "'It' özne zamiri kullanılır. Örnek: It is children and teenagers who are..."
+  },
+  {
+    "cardKey": "'love', 'hate' gibi duygu ifade eden fiillerin ardından hangi nesne zamiri kullanılır?",
+    "cardValue": "'it' nesne zamiri kullanılır. Örnek: I love it when..."
+  },
+  {
+    "cardKey": "'find / make / think... + _____ + adjective' yapısında boşluğa hangi nesne zamiri gelir?",
+    "cardValue": "'it' nesne zamiri gelir. Örnek: I find it important to be commercial..."
+  },
+  {
+    "cardKey": "Cümle içinde 'of' kullanılan ifadelerde zamir özne konumunda olsa bile hangi tür zamir kullanılır?",
+    "cardValue": "Nesne zamiri (object pronoun) kullanılır. Örnek: ...so neither of us saw him leave."
+  },
+  {
+    "cardKey": "Bir eylemin yalnız başına, yardımsız yapıldığını vurgulamak için kullanılan yapı nedir?",
+    "cardValue": "'on + possessive adjective + own' yapısıdır. Örnek: ...overcome the problems on her own."
+  },
+  {
+    "cardKey": "İki ya da daha fazla kişinin ortak sahipliğini belirtmek için (-'s) eki nasıl eklenir?",
+    "cardValue": "Sadece son isme (-'s) eklenir. Örnek: Emir and Eymen's teacher..."
+  },
+  {
+    "cardKey": "Düzenli çoğul isimlerin iyelik hali (possessive case) nasıl oluşturulur?",
+    "cardValue": "İsmin sonuna sadece kesme işareti (') eklenir. Örnek: my grandparents' teenage years..."
+  },
+  {
+    "cardKey": "'the people' ya da 'the ones' anlamında, bir relative clause ile birlikte kullanılabilen işaret zamiri hangisidir?",
+    "cardValue": "'Those' işaret zamiridir. Örnek: Those who want to come..."
+  },
+  {
+    "cardKey": "Cümlede daha önce bahsedilmiş tekil bir ismin tekrarını önlemek için kullanılan yapı nedir?",
+    "cardValue": "'that of' yapısı kullanılır. Örnek: ...more beautiful than that of the café..."
+  },
+  {
+    "cardKey": "Cümlede daha önce bahsedilmiş çoğul bir ismin tekrarını önlemek için kullanılan yapı nedir?",
+    "cardValue": "'those of' yapısı kullanılır."
+  },
+  {
+    "cardKey": "Belgisiz zamirler (indefinite pronouns) fiil çekimi açısından tekil mi yoksa çoğul mu kabul edilir?",
+    "cardValue": "Her zaman tekil kabul edilir ve fiil çekimi buna göre yapılır. Örnek: Everyone knows..."
+  },
+  {
+    "cardKey": "İnsanlar için kullanılan belgisiz zamirlerle (everyone, anybody, no one vb.) kurulan bir cümlenin 'tag question' yapısında hangi zamir kullanılır?",
+    "cardValue": "'they' zamiri kullanılır. Örnek: ...anyone can fly distances in less time, can't they?"
+  },
+  {
+    "cardKey": "Cansız varlıklar için kullanılan 'everything' belgisiz zamiri ile kurulan bir cümlenin 'tag question' yapısında hangi zamir kullanılır?",
+    "cardValue": "'it' zamiri kullanılır. Örnek: Everything about gardening heals..., doesn’t it?"
+  },
+  {
+    "cardKey": "Olumsuz cümlelerde özne olarak `anyone, anybody, anything, anywhere` yerine hangi zamirler kullanılır?",
+    "cardValue": "`no one, nobody, nothing, nowhere` zamirleri kullanılır."
+  },
+  {
+    "cardKey": "'Nowhere' zamiri cümle başında kullanılırsa cümlenin yapısı nasıl olur?",
+    "cardValue": "Cümle devrik (inverted) yapıda olur. Örnek: Nowhere in this city can you find..."
+  },
+  {
+    "cardKey": "Koşul belirten 'if' cümlelerinde, belirsizlik ve seçenek sunma anlamıyla hangi belgisiz zamir grubu özne olarak kullanılabilir?",
+    "cardValue": "'Any' ile başlayan zamirler (anyone, anything) kullanılabilir. Örnek: if anything happens spontaneously..."
+  },
+  {
+    "cardKey": "Zaman, mesafe, para miktarı ifade eden çoğul ifadelerle birlikte 'bir tane daha' anlamında kullanılan zamir hangisidir?",
+    "cardValue": "'Another' kullanılır. Örnek: ...give me another fifty dollars."
+  },
+  {
+    "cardKey": "Zamir olarak kullanılan ve 'diğerleri' anlamına gelen, kendisinden sonra isim almayan kelime hangisidir?",
+    "cardValue": "'Others' kelimesidir. Örnek: ...effectively connect with others."
+  },
+  {
+    "cardKey": "Hem tekil hem de çoğul isimlerle kullanılabilen ve 'geriye kalan, diğeri/diğerleri' anlamına gelen yapı hangisidir?",
+    "cardValue": "'The other' yapısıdır. Örnek: ...and the other letter is for you."
+  },
+  {
+    "cardKey": "Zamir olarak kullanılan ve 'geriye kalanlar, diğerleri' anlamına gelen, ardından isim gelmeyen kelime hangisidir?",
+    "cardValue": "'The others' kelimesidir. Örnek: ...and leave the others for whoever comes in later."
+  },
+  {
+    "cardKey": "Genellikle iki kişiyi ifade eden ve 'birbirlerini, birbirlerine' anlamına gelen yapı hangisidir?",
+    "cardValue": "'Each other' yapısıdır."
+  },
+  {
+    "cardKey": "Genellikle üç veya daha fazla kişiyi ifade eden ve 'birbirlerini, birbirlerine' anlamına gelen yapı hangisidir?",
+    "cardValue": "'One another' yapısıdır."
+  },
+  {
+    "cardKey": "'İki günde/haftada/ayda bir' gibi düzenli aralıkları ifade etmek için kullanılan yapı hangisidir?",
+    "cardValue": "'Every other' yapısıdır. Örnek: ...every other week."
+  },
+  {
+    "cardKey": "Genel olarak bir nesneden söz ederken 'one' kullanılırken, daha önce bahsedilen belirli bir nesneye gönderme yapılırken ne kullanılır?",
+    "cardValue": "'it' kullanılır."
+  },
+  {
+    "cardKey": "Simple Present Tense hangi tür eylemleri veya durumları anlatmak için kullanılır?",
+    "cardValue": "Alışkanlıklar, bilimsel gerçekler, genellemeler, planlanmış eylemler ve kalıcı durumları anlatmak için kullanılır."
+  },
+  {
+    "cardKey": "Haber ve gazete başlıklarında genellikle hangi tense kullanılır?",
+    "cardValue": "Simple Present Tense kullanılır. Örnek: Thousands of people remain without power..."
+  },
+  {
+    "cardKey": "Durum bildiren (stative) fiillerle hangi 'present' zaman kullanılır?",
+    "cardValue": "Simple Present Tense kullanılır. Örnek: I want two Turkish bagels..."
+  },
+  {
+    "cardKey": "Sıklık zarfları ('always', 'often' vb.) yardımcı fiil bulunmayan olumlu cümlelerde genellikle nerede yer alır?",
+    "cardValue": "Özne ile asıl fiil arasında yer alır. Örnek: They often go hiking..."
+  },
+  {
+    "cardKey": "Cümleye vurgu eklemek amacıyla `Rarely` ve `seldom` gibi sıklık zarfları cümlenin başına getirilirse cümlenin yapısı nasıl değişir?",
+    "cardValue": "Devrik yapı (inversion) kullanılır. Örnek: Rarely does the temperature rise..."
+  },
+  {
+    "cardKey": "`Never`, `seldom`, `rarely`, `hardly ever` zarfları yapı olarak olumlu cümlelerde kullanılsa da cümleye hangi anlamı katarlar?",
+    "cardValue": "Olumsuz bir anlam katarlar."
+  },
+  {
+    "cardKey": "Konuşma anında değil ama 'bugünlerde' devam etmekte olan eylemleri ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Present Continuous Tense kullanılır. Örnek: These days, you are spending more time..."
+  },
+  {
+    "cardKey": "Geçici eylemler ve durumlardan bahsetmek için hangi tense kullanılır?",
+    "cardValue": "Present Continuous Tense kullanılır. Örnek: Many farmers are struggling with drought..."
+  },
+  {
+    "cardKey": "`always`, `continually` gibi zarflarla birlikte Present Continuous Tense kullanıldığında, cümle genellikle hangi duyguyu ifade eder?",
+    "cardValue": "Sık tekrar eden ve genellikle sinir bozucu bir duruma yönelik yakınma veya eleştiri anlamı taşır."
+  },
+  {
+    "cardKey": "Değişmekte olan olay ve durumları anlatmak için hangi tense kullanılır?",
+    "cardValue": "Present Continuous Tense kullanılır. Örnek: The hole in the ozone layer is getting bigger..."
+  },
+  {
+    "cardKey": "Kararlaştırılmış yakın gelecek planlarını ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Present Continuous Tense kullanılır. Örnek: We are having a barbecue party..."
+  },
+  {
+    "cardKey": "'Fikir beyan etmek' anlamındaki 'think' fiili Progressive Tense ile kullanılır mı?",
+    "cardValue": "Hayır, kullanılmaz. Sadece Simple Tense ile kullanılır. Örnek: Do you think he is telling the truth?"
+  },
+  {
+    "cardKey": "Bir nesnenin dokunulduğunda verdiği hissi anlatan 'feel' fiili hangi tense ile kullanılır?",
+    "cardValue": "Non-Progressive (Simple Tense) olarak kullanılır. Örnek: This scarf feels like silk."
+  },
+  {
+    "cardKey": "Geçmişte belirli bir zamanda başlayıp tamamlanmış eylemler için hangi tense kullanılır?",
+    "cardValue": "Simple Past Tense kullanılır. Örnek: Christopher Columbus... explored America in 1492."
+  },
+  {
+    "cardKey": "Geçmişte art arda tamamlanan eylemleri anlatmak için hangi tense kullanılır?",
+    "cardValue": "Simple Past Tense kullanılır. Örnek: Sam sipped his coffee and continued to solve his puzzle."
+  },
+  {
+    "cardKey": "'... zamanı çoktan geldi' anlamındaki 'It is (high) time...' ifadesinden sonra hangi tense kullanılır?",
+    "cardValue": "Simple Past Tense kullanılır. Örnek: It is high time you went to bed."
+  },
+  {
+    "cardKey": "Geçmişte belirli bir zamanda devam etmekte olan bir eylemi ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Past Continuous Tense kullanılır. Örnek: At ten o’clock last night, I was still working..."
+  },
+  {
+    "cardKey": "Geçmişte devam eden bir eylemin başka bir eylem tarafından kesintiye uğradığını ifade etmek için hangi iki tense birlikte kullanılır?",
+    "cardValue": "Past Continuous Tense (devam eden eylem) ve Simple Past Tense (kesintiye uğratan eylem) kullanılır."
+  },
+  {
+    "cardKey": "Geçmişte birbirinden bağımsız olarak eş zamanlı devam eden iki eylemi anlatırken hangi tense kullanılır?",
+    "cardValue": "Past Continuous Tense kullanılır. Örnek: While the Titanic was slowly sinking..., the musicians were still playing..."
+  },
+  {
+    "cardKey": "Öneri (Polite Suggestions) ve rica (Polite Requests) cümlelerinde kibarlık amacıyla hangi 'past' zaman kullanılabilir?",
+    "cardValue": "Past Continuous Tense kullanılabilir. Örnek: Tom was wondering if he could borrow your car."
+  },
+  {
+    "cardKey": "Geçmişte yapılan eylemleri kesin bir zaman belirtmeden ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Present Perfect Tense kullanılır. Örnek: She has completed a rigorous training program..."
+  },
+  {
+    "cardKey": "Yakın geçmişte gerçekleşmiş fakat sonuçları veya etkileri hâlâ devam eden eylemleri anlatmak için hangi tense kullanılır?",
+    "cardValue": "Present Perfect Tense kullanılır. Örnek: Tom has just finished painting the car. Doesn’t it look great?"
+  },
+  {
+    "cardKey": "Geçmişte başlayan bir eylemin başlangıç noktasını ifade eden ve kendisinden sonraki cümlede genellikle Simple Past Tense kullanılan zaman zarfı hangisidir?",
+    "cardValue": "'Since' zarfıdır. Örnek: ...has flourished since she moved to the countryside."
+  },
+  {
+    "cardKey": "Geçmişte başlayan bir eylemin ne kadar sürdüğünü, sürecini ifade eden zaman zarfı hangisidir?",
+    "cardValue": "'For' zarfıdır. Örnek: ...has researched... for several years."
+  },
+  {
+    "cardKey": "Henüz gerçekleşmemiş eylemler için soru ve olumsuz cümlelerin sonunda kullanılan zaman zarfı hangisidir?",
+    "cardValue": "'Yet' zarfıdır."
+  },
+  {
+    "cardKey": "Olumsuz cümlelerde eylemin henüz tamamlanmadığını vurgulamak için genellikle özneden sonra kullanılan zarf hangisidir?",
+    "cardValue": "'Still' zarfıdır."
+  },
+  {
+    "cardKey": "Eylemin beklenenden daha erken gerçekleştiğini ifade etmek için kullanılan ve genellikle yardımcı fiil ile esas fiil arasında yer alan zarf hangisidir?",
+    "cardValue": "'Already' zarfıdır."
+  },
+  {
+    "cardKey": "Geçmişte başlayıp konuşma anında da devam eden eylemleri ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Present Perfect Continuous Tense kullanılır. Örnek: They have been discussing the problem..."
+  },
+  {
+    "cardKey": "Eylemin tamamlanmış bölümünü ifade etmek için _____ Tense, eylemin konuşma anına kadar süren bölümünü ifade etmek için ise _____ Tense kullanılır.",
+    "cardValue": "Present Perfect Tense, Present Perfect Continuous Tense"
+  },
+  {
+    "cardKey": "`ever`, `never`, `always`, `once`, `twice` gibi sıklık bildiren zaman zarfları Present Perfect Continuous Tense ile kullanılır mı?",
+    "cardValue": "Hayır, kullanılmaz. Sadece Present Perfect Tense ile kullanılırlar."
+  },
+  {
+    "cardKey": "Geçmişte bir eylemden daha önce gerçekleşmiş başka bir eylemi anlatmak için hangi tense kullanılır?",
+    "cardValue": "Past Perfect Tense kullanılır. Örnek: Before the storm hit, the farmers had harvested..."
+  },
+  {
+    "cardKey": "Geçmişle ilgili pişmanlıkları ifade eden `wish` ve `if only` yapılarında hangi tense kullanılır?",
+    "cardValue": "Past Perfect Tense kullanılır. Örnek: Frank wishes he had learned more..."
+  },
+  {
+    "cardKey": "`no sooner ... than` ve `hardly ... when` kalıpları cümle başında kullanıldığında hangi yapısal değişiklik gerekir?",
+    "cardValue": "Devrik yapı (inversion) gerekir. Örnek: No sooner had the police officers made a move..."
+  },
+  {
+    "cardKey": "Geçmişte başlayıp yine geçmişteki belirli bir noktaya kadar devam etmiş eylemleri ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Past Perfect Continuous Tense kullanılır."
+  },
+  {
+    "cardKey": "Geçmişte belirli bir noktaya kadar devam etmiş, tamamlanmış ve o zaman diliminde etkisi görülen eylemleri ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Past Perfect Continuous Tense kullanılır. Örnek: The puddles... made it clear that it had been raining all night."
+  },
+  {
+    "cardKey": "Konuşma anında, anlık olarak kararlaştırılan geleceğe yönelik eylemler için hangi yapı kullanılır?",
+    "cardValue": "'Will' (Simple Future Tense) kullanılır. Örnek: Wait here; I will fetch a plaster for you."
+  },
+  {
+    "cardKey": "Bir olayın gerçekleşeceğine dair kuvvetli ipuçları ve belirtiler varsa gelecek zaman için hangi yapı kullanılır?",
+    "cardValue": "'Be going to' kullanılır. Örnek: ...a ceasefire agreement is going to be signed soon."
+  },
+  {
+    "cardKey": "Gelecekte belirli bir zamanda devam edecek olan eylemleri anlatmak için hangi tense kullanılır?",
+    "cardValue": "Future Continuous Tense kullanılır. Örnek: This time next Saturday, they will be having an important meeting."
+  },
+  {
+    "cardKey": "Gelecekte belirli bir zamandan önce tamamlanmış olması beklenen bir eylemi ifade etmek için hangi tense kullanılır?",
+    "cardValue": "Future Perfect Tense kullanılır. Örnek: By 2060, the number of people... will have tripled."
+  },
+  {
+    "cardKey": "Gelecekte bir eylemin belirli bir zamandan önce ne kadar süredir yapılıyor olacağını anlatmak için hangi tense kullanılır?",
+    "cardValue": "Future Perfect Continuous Tense kullanılır."
+  },
+  {
+    "cardKey": "Zaman bağlaçlarının (`when`, `after`, `before` vb.) olduğu yan cümleciklerde gelecek zaman (Future Tense) kullanılır mı?",
+    "cardValue": "Hayır, kullanılmaz. Genellikle Simple Present Tense veya Present Perfect Tense kullanılır."
+  },
+  {
+    "cardKey": "Bir olayın diğerinden önce gerçekleştiğini vurgulamak için kullanılan zaman bağlacı hangisidir?",
+    "cardValue": "'Before' bağlacıdır."
+  },
+  {
+    "cardKey": "Bir olayın diğerinden sonra gerçekleştiğini belirtmek için kullanılan zaman bağlacı hangisidir?",
+    "cardValue": "'After' bağlacıdır."
+  },
+  {
+    "cardKey": "Bir eylemin başka bir eylem gerçekleşmeden önce tamamlanacağını ifade eden ve genellikle Past Perfect veya Future Perfect Tense ile kullanılan zaman bağlacı hangisidir?",
+    "cardValue": "'By the time' bağlacıdır."
+  },
+  {
+    "cardKey": "Bir eylemin başka bir eylem olana kadar devam ettiğini vurgulayan zaman bağlacı hangisidir?",
+    "cardValue": "'Until / Till' bağlacıdır."
+  },
+  {
+    "cardKey": "İki olay arasında çok az zaman farkı olduğunu belirtmek için `as soon as` dışında hangi bağlaçlar kullanılabilir?",
+    "cardValue": "`once`, `immediately after`, `soon after`, `the moment` bağlaçları kullanılabilir."
+  },
+  {
+    "cardKey": "Geçmişteki tek bir olaya yönelik bir başarıyı veya üstesinden gelme durumunu ifade etmek için `could` yerine hangi yapı tercih edilir?",
+    "cardValue": "`was / were able to` yapısı tercih edilir."
+  },
+  {
+    "cardKey": "Şu anki veya gelecekteki ihtimallerden bahsederken olasılık anlatan kipler hangileridir?",
+    "cardValue": "`may`, `might`, `can`, `could` ve `be likely to` yapılarıdır."
+  },
+  {
+    "cardKey": "Birinden rica ederken kullanılan `Would you mind...?` ve `Do you mind...?` yapılarından sonra fiil hangi halde gelir?",
+    "cardValue": "Fiilin gerund (-ing) hali kullanılır."
+  },
+  {
+    "cardKey": "Bir şeyin zorunlu olmadığını belirtmek için `mustn't` yerine hangi yapılar kullanılır?",
+    "cardValue": "`don’t have to`, `don’t need to` veya `needn’t` kullanılır."
+  },
+  {
+    "cardKey": "Genellikle dış kaynaklı etkenlerden (yasalar, kurallar) kaynaklanan zorunlulukları anlatmak için hangi kip kullanılır?",
+    "cardValue": "`Have to` (veya konuşma dilinde `have got to`) kullanılır."
+  },
+  {
+    "cardKey": "Bir şeyi yapmanın yasak olduğunu anlatmak için hangi kip kullanılır?",
+    "cardValue": "`Mustn't` kullanılır."
+  },
+  {
+    "cardKey": "`Had better` kipi sıradan bir tavsiyeden daha güçlü bir anlam taşır. Bu anlam nedir?",
+    "cardValue": "'Yaparsan iyi olur; yapmazsan sonuç olumsuz olabilir' mesajını verir."
+  },
+  {
+    "cardKey": "Başka bir seçeneğin olmadığı veya önerilen şeyin mantıklı olduğu durumlarda, 'bari şunu yapalım' anlamında hangi öneri yapıları kullanılır?",
+    "cardValue": "`We may as well ...` ve `we might as well…` yapıları kullanılır."
+  },
+  {
+    "cardKey": "Başka birisi adına yapılan tercihlerde, içinde bulunulan zamanla ilgili bir durumu belirtmek için `would rather` yapısından sonra hangi tense kullanılır?",
+    "cardValue": "Simple Past Tense kullanılır. Örnek: I would rather you didn't talk..."
+  },
+  {
+    "cardKey": "Başka birisi adına geçmiş zamanda yapılan bir tercihi belirtmek için `would rather` yapısından sonra hangi tense kullanılır?",
+    "cardValue": "Past Perfect Tense kullanılır. Örnek: I would rather Maria’s sister had not spent..."
+  },
+  {
+    "cardKey": "Geçmişte düzenli olarak yapılan ama artık yapılmayan eylemleri, durum bildiren fiillerle (stative verbs) ifade etmek için `would` mü yoksa `used to` mu kullanılır?",
+    "cardValue": "Sadece `used to` kullanılır."
+  },
+  {
+    "cardKey": "Bir şeye 'alışık olmak' anlamına gelen ve tüm zamanlarda çekimlenebilen yapı hangisidir?",
+    "cardValue": "`Be used to + noun / gerund` yapısıdır."
+  },
+  {
+    "cardKey": "Bir şeye 'zamanla alışmak' veya 'alışmaya başlamak' anlamına gelen yapı hangisidir?",
+    "cardValue": "`Get used to + noun / gerund` yapısıdır."
+  },
+  {
+    "cardKey": "Emin olunan veya kuvvetli bir kanıtın olduğu durumlarla ilgili olumlu çıkarımda bulunurken hangi kip kullanılır?",
+    "cardValue": "`Must` kullanılır. Örnek: ...she must be Japanese."
+  },
+  {
+    "cardKey": "Emin olunan veya kuvvetli bir kanıtın olduğu durumlarla ilgili olumsuz çıkarımda bulunurken hangi kipler kullanılır?",
+    "cardValue": "`mustn’t / cannot / couldn’t` kullanılır."
+  },
+  {
+    "cardKey": "Planlanmış ve gerçekleşmesi beklenen olayları ifade etmek için hangi yapılar kullanılır?",
+    "cardValue": "`be supposed to`, `be to`, `be due to` kullanılır."
+  },
+  {
+    "cardKey": "Bir şeyin gelecekte olmasının kaçınılmaz olduğunu anlatmak için hangi yapı kullanılır?",
+    "cardValue": "`Be bound to` yapısı kullanılır."
+  },
+  {
+    "cardKey": "Geçmişe yönelik çok güçlü bir olumlu çıkarım yaparken ('yapmış olmalı' anlamında) hangi yapı kullanılır?",
+    "cardValue": "`must have + V3` yapısı kullanılır."
+  },
+  {
+    "cardKey": "Geçmişe yönelik güçlü bir olumsuz çıkarım yaparken ('yapmış olamaz' anlamında) hangi yapılar kullanılır?",
+    "cardValue": "`can't have + V3` veya `couldn't have + V3` yapıları kullanılır."
+  },
+  {
+    "cardKey": "Geçmişte bir durumla ilgili tahmin ve ihtimallerden bahsederken ('yapmış olabilir' anlamında) hangi yapılar kullanılır?",
+    "cardValue": "`may have + V3`, `might have + V3`, `could have + V3` yapıları kullanılır."
+  },
+  {
+    "cardKey": "Geçmişe yönelik eleştiri yaparken 'yapmalıydın ama yapmadın' anlamında hangi yapı kullanılır?",
+    "cardValue": "`should have + V3` veya `ought to have + V3` yapısı kullanılır."
+  },
+  {
+    "cardKey": "Geçmişte bir şeyin yapılmasına gerek olmadığı halde yapıldığını belirtmek için hangi yapı kullanılır?",
+    "cardValue": "`needn’t have + V3` yapısı kullanılır."
+  },
+  {
+    "cardKey": "Bir süredir devam etmekte olan olaylarla ilgili çıkarım yaparken kullanılan yapı nedir?",
+    "cardValue": "`modal + have + been + Ving` yapısıdır. Örnek: ...must have been standing there..."
+  },
+  {
+    "cardKey": "Edilgen (passive) yapı oluşturmanın temel formülü nedir?",
+    "cardValue": "`be` fiilinin uygun hali + fiilin geçmiş zaman ortacı (past participle / V3) kullanılır."
+  },
+  {
+    "cardKey": "Etken bir cümlede fiilin dolaysız (direct) ve dolaylı (indirect) olmak üzere iki nesnesi varsa, edilgen cümlede özne olarak genellikle hangisi tercih edilir?",
+    "cardValue": "Genellikle dolaylı nesne (indirect object) edilgen cümlenin öznesi olur."
+  },
+  {
+    "cardKey": "Edilgen cümlede eylem bir kişi tarafından değil de bir nesne veya araç yoluyla gerçekleşiyorsa `by` yerine hangi edat kullanılır?",
+    "cardValue": "`with` edatı kullanılır."
+  },
+  {
+    "cardKey": "Gerund yapısının edilgen (passive) biçimi nasıldır?",
+    "cardValue": "`being + past participle (V3)` şeklindedir."
+  },
+  {
+    "cardKey": "Bir eylemin esas cümledeki eylemden önce gerçekleştiğini ve öznenin bu eyleme maruz kaldığını göstermek için hangi gerund yapısı kullanılır?",
+    "cardValue": "Perfect Passive Gerund (`having been + past participle (V3)`) kullanılır."
+  },
+  {
+    "cardKey": "Infinitive yapısının edilgen (passive) biçimi nasıldır?",
+    "cardValue": "`to be + past participle (V3)` şeklindedir."
+  },
+  {
+    "cardKey": "Geçmişte tamamlanmış bir eylemin edilgen olduğunu ve sonucunun şimdiki durum üzerinde etkisi olduğunu anlatmak için hangi infinitive yapısı kullanılır?",
+    "cardValue": "Perfect Passive Infinitive (`to have been + past participle (V3)`) kullanılır."
+  },
+  {
+    "cardKey": "Ettirgen çatıda (causative) bir işin başkasına yaptırıldığını, ancak işi kimin yaptığının önemli olmadığını anlatmak için hangi yapılar kullanılır?",
+    "cardValue": "`Have + Something + Done` veya `Get + Something + Done` yapıları kullanılır."
+  },
+  {
+    "cardKey": "Birinin, bir işi yapmaya ikna ya da razı edildiği durumlarda kullanılan ettirgen (causative) yapı hangisidir?",
+    "cardValue": "`Get + Someone + To Do + Something` yapısıdır."
+  },
+  {
+    "cardKey": "Bir kişinin bir işi kendi isteğiyle değil, başka birinin baskısı veya zorlamasıyla yaptığını belirten ettirgen (causative) yapı hangisidir?",
+    "cardValue": "`Make + Someone + Do + Something` yapısıdır."
+  },
+  {
+    "cardKey": "`make + someone + do + something` yapısı edilgen çatıya dönüştürüldüğünde nasıl bir yapı alır?",
+    "cardValue": "`be made to do something` şeklinde kullanılır."
+  },
+  {
+    "cardKey": "Bir işin yapılmasına izin verildiğinde kullanılan ettirgen (causative) yapı hangisidir?",
+    "cardValue": "`Let + Someone + Do + Something` yapısıdır."
+  },
+  {
+    "cardKey": "Sıfat türeten `-able / -ible` son eki ne anlama gelir?",
+    "cardValue": "Bir eylemin yapılabilirliğini veya bir özelliğe sahip olma durumunu belirtir (suitable, predictable)."
+  },
+  {
+    "cardKey": "Sıfat türeten `un-`, `im-`, `ir-`, `il-`, `dis-` gibi ön ekler kelimeye genellikle ne anlam katar?",
+    "cardValue": "Olumsuzluk ya da zıtlık anlamı katarlar (unlucky, impossible, irresponsible)."
+  },
+  {
+    "cardKey": "`look`, `feel`, `taste`, `smell`, `sound` gibi duyu fiilleri `like` ile kullanılırsa, devamında ne tür bir kelime gelir?",
+    "cardValue": "İsim ya da sıfat tamlaması gelir."
+  },
+  {
+    "cardKey": "`The + adjective` yapısı neyi ifade etmek için kullanılır ve fiil çekimi nasıl olur?",
+    "cardValue": "Bir topluluğa atıf yapmak için kullanılır (the unemployed, the elderly) ve çoğul fiil çekimi gerektirir."
+  },
+  {
+    "cardKey": "Fiillerden türeyen ve genellikle `-ing` veya `-ed` ile biten sıfatlara ne ad verilir?",
+    "cardValue": "Sıfat fiil / ortaç fiil (participle adjectives) denir."
+  },
+  {
+    "cardKey": "Present Participle (`-ing` ile biten sıfatlar) neyi ifade eder?",
+    "cardValue": "Duyguya sebep olan kişiyi, durumu ya da nesneyi ifade eder; aktif bir durumu anlatır (amazing, boring)."
+  },
+  {
+    "cardKey": "Past Participle (`-ed` ile biten sıfatlar) neyi ifade eder?",
+    "cardValue": "Bir olay ya da durum karşısında bir varlığın nasıl hissettiğini veya etkilendiğini anlatır (amazed, bored)."
+  },
+  {
+    "cardKey": "İngilizcede `fast`, `hard`, `late`, `daily`, `early` kelimelerinin ortak özelliği nedir?",
+    "cardValue": "Hem sıfat hem de zarf halleri aynıdır, yazılışları değişmez (irregular adverbs)."
+  },
+  {
+    "cardKey": "Bir eylemin nasıl yapıldığını belirten ve `How?` sorusuna cevap veren zarf türü hangisidir?",
+    "cardValue": "Durum Zarfları (Adverbs of Manner)."
+  },
+  {
+    "cardKey": "Bir eylemin ne sıklıkta yapıldığını belirten ve `How often?` sorusuna cevap veren zarf türü hangisidir?",
+    "cardValue": "Sıklık Zarfları (Adverbs of Frequency)."
+  },
+  {
+    "cardKey": "Konuşmacının bir eylem hakkındaki görüşünü ifade etmek için genellikle cümlenin tamamını niteleyen zarf türü hangisidir?",
+    "cardValue": "Bakış Açısı Belirten Zarflar (Adverbs of Viewpoint)."
+  },
+  {
+    "cardKey": "İki kişi veya nesneyi karşılaştırırken aradaki farkın derecesini artırmak için (`çok daha` anlamında) hangi zarflar kullanılabilir?",
+    "cardValue": "`much`, `far`, `a lot`, `by far`, `so much` gibi zarflar kullanılabilir."
+  },
+  {
+    "cardKey": "Değişmekte olan bir durumu ifade etmek için (`gittikçe daha ...` anlamında) comparative sıfatlar nasıl kullanılır?",
+    "cardValue": "Comparative sıfatlar tekrar edilerek kullanılır. Örnek: narrower and narrower, more and more difficult."
+  },
+  {
+    "cardKey": "İki şey arasında eşitlik olduğunu belirtmek için kullanılan yapı nedir?",
+    "cardValue": "`as + adjective/adverb + as` yapısıdır."
+  },
+  {
+    "cardKey": "Bir özelliğin diğerine oranla kaç kat daha fazla veya az olduğunu ifade etmek için `as...as` yapısıyla birlikte ne kullanılır?",
+    "cardValue": "`twice`, `three times`, `half` gibi kat sayıları kullanılır. Örnek: twice as expensive as..."
+  },
+  {
+    "cardKey": "İki durumun birbirine bağlı olarak nasıl değiştiğini ('ne kadar..., o kadar...') ifade etmek için kullanılan yapı nedir?",
+    "cardValue": "`the comparative + clause, the comparative + clause` yapısıdır."
+  },
+  {
+    "cardKey": "'Çok, aşırı, gereğinden fazla' anlamıyla cümleye olumsuz bir anlam katan ve bir sorunu belirten kelime hangisidir?",
+    "cardValue": "`Too` kelimesidir."
+  },
+  {
+    "cardKey": "'Yeterince, yeterli' anlamına gelen `enough` kelimesi, sıfat ve zarflarla kullanıldığında onlardan önce mi sonra mı gelir?",
+    "cardValue": "Sıfat ve zarflardan sonra gelir. Örnek: kind enough, talented enough."
+  },
+  {
+    "cardKey": "`So` kelimesi sıfat ve zarflarla kullanılırken, `such` kelimesi ne tür yapılarla kullanılır?",
+    "cardValue": "Sıfat tamlamaları (adjective + noun) ile kullanılır. Örnek: such an exciting film."
+  },
+  {
+    "cardKey": "Sebep-sonuç ilişkisi kuran ve 'o kadar ... ki' anlamına gelen yapılar hangileridir?",
+    "cardValue": "`so ... that` ve `such ... that` yapılarıdır."
+  },
+  {
+    "cardKey": "Type 0 (Zero Conditional) hangi durumları ifade etmek için kullanılır?",
+    "cardValue": "Her zaman doğru olan genel gerçekleri, bilimsel gerçekleri ve alışkanlıkları ifade etmek için kullanılır."
+  },
+  {
+    "cardKey": "Type 1 (First Conditional) hangi durumları ifade etmek için kullanılır?",
+    "cardValue": "Şu anda veya gelecekte gerçekleşmesi mümkün olan olasılıkları ifade etmek için kullanılır."
+  },
+  {
+    "cardKey": "Type 1 koşul cümlelerinde, gerçekleşme ihtimalinin düşük olduğunu ('olur da ...' anlamında) vurgulamak için `if` cümlesine hangi kelimeler eklenebilir?",
+    "cardValue": "`happen to` veya `should` kelimeleri eklenebilir."
+  },
+  {
+    "cardKey": "Type 2 (Second Conditional) hangi durumları ifade eder?",
+    "cardValue": "Şimdiki zamanla ilgili gerçek dışı, hayali veya olası olmayan durumları ve sonuçlarını (Unreal Present) ifade eder."
+  },
+  {
+    "cardKey": "Type 3 (Third Conditional) hangi durumları ifade eder?",
+    "cardValue": "Geçmişte gerçekleşmemiş bir durumun, geçmişteki varsayımsal sonucunu (Unreal Past) ifade eder."
+  },
+  {
+    "cardKey": "Geçmişte gerçekleşmemiş bir koşulun bugüne ait gerçekleşmemiş sonucunu ifade eden conditional türü hangisidir?",
+    "cardValue": "Mixed Type 1 (If Type 3, Main Type 2)."
+  },
+  {
+    "cardKey": "Şimdiki zamanda varsayımsal bir durumun, geçmişteki bir olaya nasıl etki edebileceğini ifade eden conditional türü hangisidir?",
+    "cardValue": "Mixed Type 2 (If Type 2, Main Type 3)."
+  },
+  {
+    "cardKey": "'Eğer ...mazsa, -madıkça' anlamına gelen ve 'if ... not' yapısının yerine kullanılabilen bağlaç hangisidir?",
+    "cardValue": "`Unless` bağlacıdır."
+  },
+  {
+    "cardKey": "'... olmasaydı' anlamında kullanılan ve kendisinden sonra isim (noun) gelen yapı hangisidir?",
+    "cardValue": "`But for` yapısıdır. Örnek: But for your advice..."
+  },
+  {
+    "cardKey": "Günümüzle ilgili bir dilek veya pişmanlık ifade etmek için `wish` veya `if only` yapılarından sonra hangi tense kullanılır?",
+    "cardValue": "Past Simple veya Past Continuous Tense kullanılır."
+  },
+  {
+    "cardKey": "Geçmişle ilgili bir pişmanlık ifade etmek için `wish` veya `if only` yapılarından sonra hangi tense kullanılır?",
+    "cardValue": "Past Perfect Tense kullanılır."
+  },
+  {
+    "cardKey": "Type 1 koşul cümlesini devrik (inverted) yapmak için hangi kelime cümlenin başına getirilir ve fiil nasıl yazılır?",
+    "cardValue": "`Should` cümlenin başına getirilir ve fiil yalın halde (bare infinitive) yazılır."
+  },
+  {
+    "cardKey": "Type 2 koşul cümlesini devrik (inverted) yapmak için hangi kelime cümlenin başına getirilir ve çekimli fiil varsa nasıl yazılır?",
+    "cardValue": "`Were` cümlenin başına getirilir ve fiil `to + infinitive` şeklinde yazılır."
+  },
+  {
+    "cardKey": "Type 3 koşul cümlesini devrik (inverted) yapmak için hangi kelime cümlenin başına getirilir?",
+    "cardValue": "`Had` kelimesi cümlenin başına getirilir."
+  },
+  {
+    "cardKey": "Cümlede geçen bir ismi tanımlamak veya o isim hakkında daha fazla bilgi vermek için kullanılan yan cümleciğe ne ad verilir?",
+    "cardValue": "Relative Clause (Sıfat Cümleciği) denir."
+  },
+  {
+    "cardKey": "Non-defining relative clause'da `that` ilgi zamiri kullanılabilir mi ve cümle virgülle ayrılır mı?",
+    "cardValue": "Hayır, `that` kullanılamaz ve relative clause ana cümleden virgülle ayrılmak zorundadır."
+  },
+  {
+    "cardKey": "Bir yer (place) hakkında bilgi veren sıfat cümleciğinde, `in which`, `on which` gibi yapılar yerine hangi tek kelimelik ilgi zamiri kullanılabilir?",
+    "cardValue": "`where` ilgi zamiri kullanılabilir."
+  },
+  {
+    "cardKey": "Bir zaman (time) hakkında bilgi veren sıfat cümleciğinde, `in which`, `on which` gibi yapılar yerine hangi tek kelimelik ilgi zamiri kullanılabilir?",
+    "cardValue": "`when` ilgi zamiri kullanılabilir."
+  },
+  {
+    "cardKey": "İyelik bildiren sıfat cümleciğinde insanlar ve nesneler için kullanılabilen ilgi zamiri hangisidir?",
+    "cardValue": "`whose` ilgi zamiridir."
+  },
+  {
+    "cardKey": "Aktif (active) bir relative clause'u kısaltırken (reduction) hangi participle yapısı kullanılır?",
+    "cardValue": "Present Participle (V-ing) kullanılır. Örnek: The man talking to the teacher..."
+  },
+  {
+    "cardKey": "Pasif (passive) bir relative clause'u kısaltırken (reduction) hangi participle yapısı kullanılır?",
+    "cardValue": "Past Participle (V3) kullanılır. Örnek: The product, manufactured perfectly..."
+  },
+  {
+    "cardKey": "`the first`, `the last`, `the only` gibi ifadelerden ve superlative'lerden sonra gelen relative clause'lar hangi yapı kullanılarak kısaltılabilir?",
+    "cardValue": "`to + infinitive` yapısı kullanılarak kısaltılabilir."
+  },
+  {
+    "cardKey": "Aynı anlama sahip sözcükleri veya cümleleri birleştiren ve olayları oluş sırasına göre anlatan bağlaç hangisidir?",
+    "cardValue": "`And` bağlacıdır."
+  },
+  {
+    "cardKey": "'Bu yüzden, bundan dolayı' anlamında neden-sonuç belirten ve kendisinden önce virgül gelen bağlaç hangisidir?",
+    "cardValue": "`So` bağlacıdır."
+  },
+  {
+    "cardKey": "'Hem ... hem de' anlamına gelen ve benzer sözcükleri bağlayan correlative conjunction hangisidir?",
+    "cardValue": "`Both ... and` yapısıdır."
+  },
+  {
+    "cardKey": "'Sadece o değil, bu da' anlamına gelen correlative conjunction hangisidir?",
+    "cardValue": "`Not only .... but also` yapısıdır."
+  },
+  {
+    "cardKey": "'Ne ... ne de' anlamına gelen, olumlu fiillerle kullanılmasına rağmen cümleye olumsuz anlam katan correlative conjunction hangisidir?",
+    "cardValue": "`Neither ... nor` yapısıdır."
+  },
+  {
+    "cardKey": "`Because`, `as`, `since` gibi neden bildiren bağlaçlardan sonra cümle mi yoksa isim mi gelir?",
+    "cardValue": "Cümle (clause) gelir."
+  },
+  {
+    "cardKey": "`Because of`, `due to`, `owing to` gibi neden bildiren edatlardan sonra cümle mi yoksa isim mi gelir?",
+    "cardValue": "İsim (noun), zamir (pronoun) veya gerund (V-ing) gelir."
+  },
+  {
+    "cardKey": "'...-mesi için, amacıyla' anlamında amaç bildiren ve kendisinden sonra cümle gelen bağlaçlar hangileridir?",
+    "cardValue": "`so that` ve `in order that` bağlaçlarıdır."
+  },
+  {
+    "cardKey": "'...olur diye, ...ihtimaline karşı' anlamında amaç bildiren bağlaç hangisidir?",
+    "cardValue": "`in case` bağlacıdır."
+  },
+  {
+    "cardKey": "'-mek / -mak amacıyla' anlamına gelen ve kendilerinden sonra fiilin yalın hali (V1) gelen yapılar hangileridir?",
+    "cardValue": "`so as to`, `in order to`, `to` yapılarıdır."
+  },
+  {
+    "cardKey": "'-e rağmen' anlamına gelen `despite`, `in spite of`, `for all` edatlarından sonra ne tür bir yapı gelir?",
+    "cardValue": "İsim (noun) veya isim-fiil (gerund) gelir."
+  },
+  {
+    "cardKey": "'-iken' anlamında karşılaştırma yapan bağlaçlar hangileridir?",
+    "cardValue": "`whereas`, `while`, `whilst` bağlaçlarıdır."
+  },
+  {
+    "cardKey": "`however + adjective/adverb` yapısı ne anlama gelir?",
+    "cardValue": "'... olduysa da / -e rağmen' anlamına gelir."
+  },
+  {
+    "cardKey": "`no matter + question word` yapısı ne anlama gelir?",
+    "cardValue": "'her ... olursa olsun' anlamına gelir."
+  },
+  {
+    "cardKey": "Zıtlık bildiren geçiş kelimelerinden `however`, `nevertheless`, `nonetheless` ne anlama gelir?",
+    "cardValue": "'ancak, buna rağmen, yine de' anlamlarına gelir."
+  },
+  {
+    "cardKey": "Bir olayı ya da durumu örnek göstererek açıklamak için kullanılan ve 'örneğin' anlamına gelen ifadeler hangileridir?",
+    "cardValue": "`For example`, `For instance`, `To illustrate` ifadeleridir."
+  },
+  {
+    "cardKey": "`Not until / not till / not since` gibi 'not' ile başlayan bağlaçlar cümle başında kullanılırsa cümlenin yapısı nasıl olmalıdır?",
+    "cardValue": "Ana cümle devrik (inverted) yapıda olmalıdır."
+  },
+  {
+    "cardKey": "`Only when / only if / only after` gibi 'only' ile başlayan bağlaçlar cümle başında kullanılırsa cümlenin yapısı nasıl olmalıdır?",
+    "cardValue": "Ana cümle devrik (inverted) yapıda olmalıdır."
+  },
+  {
+    "cardKey": "Cümle tekrarını önlemek için, olumlu bir cümlenin ardından '... de/da' anlamında kullanılan devrik yapı hangisidir?",
+    "cardValue": "`so + yardımcı fiil + özne` yapısıdır."
+  },
+  {
+    "cardKey": "Cümle tekrarını önlemek için, olumsuz bir cümlenin ardından '... de/da değil' anlamında kullanılan devrik yapılar hangileridir?",
+    "cardValue": "`neither / nor + yardımcı fiil + özne` yapılarıdır."
+  },
+  {
+    "cardKey": "Zarf cümleciklerinde kısaltma (reduction of adverbial clauses) yapabilmek için iki cümlenin hangi ögesinin aynı olması gerekir?",
+    "cardValue": "Öznelerinin aynı olması gerekir."
+  },
+  {
+    "cardKey": "Fiillerin `-ing` eki alarak isim gibi kullanılmasına ne ad verilir?",
+    "cardValue": "Gerund denir."
+  },
+  {
+    "cardKey": "Bir cümlede edatların (prepositions) nesnesi olarak gerund mı yoksa infinitive mi kullanılır?",
+    "cardValue": "Gerund kullanılır. Örnek: ...cares about speaking English..."
+  },
+  {
+    "cardKey": "Bir eylemin devam ettiğini veya bir kısmını gördüğümüzü/duyduğumuzu ifade etmek için duyu fiillerinden (see, hear, watch) sonra gerund mı yoksa bare infinitive mi kullanılır?",
+    "cardValue": "Gerund kullanılır."
+  },
+  {
+    "cardKey": "Bir eylemin tamamını gördüğümüzü/duyduğumuzu ifade etmek için duyu fiillerinden (see, hear, watch) sonra gerund mı yoksa bare infinitive mi kullanılır?",
+    "cardValue": "Bare infinitive (fiilin yalın hali) kullanılır."
+  },
+  {
+    "cardKey": "Fiillerin `to` ile kullanılan mastar haline ne ad verilir?",
+    "cardValue": "Infinitive denir."
+  },
+  {
+    "cardKey": "`It is + adjective + for somebody + to infinitive` yapısı neyi ifade eder?",
+    "cardValue": "Bir eylemi yapmanın birisi için nasıl (önemli, zor, kolay vb.) olduğunu ifade eder."
+  },
+  {
+    "cardKey": "Soru kelimelerinden (`what`, `where`, `how` vb.) sonra, bir noun clause'u kısaltmak için hangi yapı kullanılır?",
+    "cardValue": "`to infinitive` yapısı kullanılır. Örnek: ...how to react when..."
+  },
+  {
+    "cardKey": "Amaç bildirmek için `in order to` veya `so as to` yerine hangi daha basit yapı kullanılabilir?",
+    "cardValue": "`to infinitive` yapısı kullanılabilir."
+  },
+  {
+    "cardKey": "Fiilin `to` olmadan, yalın halde kullanılmasına ne ad verilir?",
+    "cardValue": "Bare infinitive denir."
+  },
+  {
+    "cardKey": "Çoğu modal yapıdan sonra fiil hangi halde gelir?",
+    "cardValue": "Bare infinitive (yalın halde) gelir."
+  },
+  {
+    "cardKey": "Yapılması gereken bir işi unutmayı anlatan `forget` fiilinden sonra gerund mı infinitive mi kullanılır?",
+    "cardValue": "Infinitive kullanılır. Örnek: Don’t forget to call me."
+  },
+  {
+    "cardKey": "Geçmişte gerçekleşmiş bir olayı unutmayı anlatan `forget` fiilinden sonra gerund mı infinitive mi kullanılır?",
+    "cardValue": "Gerund kullanılır. Örnek: She will never forget losing the file."
+  },
+  {
+    "cardKey": "Bir işi yapmak için (mola verip) durmak anlamında `stop` fiilinden sonra gerund mı infinitive mi kullanılır?",
+    "cardValue": "Infinitive kullanılır. Örnek: I stopped to buy a bunch of flowers."
+  },
+  {
+    "cardKey": "Bir işi yapmayı tamamen bırakmak anlamında `stop` fiilinden sonra gerund mı infinitive mi kullanılır?",
+    "cardValue": "Gerund kullanılır. Örnek: ...stop eating junk food."
+  },
+  {
+    "cardKey": "Bir şeyi işe yarayıp yaramayacağını görmek için denemek anlamında `try` fiilinden sonra ne gelir?",
+    "cardValue": "Gerund gelir. Örnek: ...try drinking herbal teas."
+  },
+  {
+    "cardKey": "Bir şeyi yapmaya çalışmak, çabalamak anlamında `try` fiilinden sonra ne gelir?",
+    "cardValue": "Infinitive gelir. Örnek: ...try to save the environment."
+  },
+  {
+    "cardKey": "Hem gerund hem de infinitive ile kullanıldığında anlamı değişmeyen fiillere örnekler nelerdir?",
+    "cardValue": "`begin`, `start`, `continue`, `intend`, `neglect`, `attempt` fiilleridir."
+  },
+  {
+    "cardKey": "Belirli olmayan veya daha önce bahsedilmemiş tekil isimlerden önce kullanılan article'lar hangileridir?",
+    "cardValue": "`a` ve `an` (The Indefinite Article)."
+  },
+  {
+    "cardKey": "Konuşan ve dinleyen kişinin hangi nesneden bahsedildiğini bildiği durumlarda hangi article kullanılır?",
+    "cardValue": "`the` (The Definite Article)."
+  },
+  {
+    "cardKey": "Okyanus, deniz, nehir, çöl ve sıradağ isimleriyle birlikte hangi article kullanılır?",
+    "cardValue": "`the` kullanılır."
+  },
+  {
+    "cardKey": "Bir ismin önünde hiçbir article (a, an, the) kullanılmamasına ne denir?",
+    "cardValue": "Zero Article denir."
+  },
+  {
+    "cardKey": "Genel anlamda soyut kavramlardan, dillerden, spor dallarından veya öğünlerden bahsederken article kullanılır mı?",
+    "cardValue": "Hayır, genellikle Zero Article kullanılır."
+  },
+  {
+    "cardKey": "Olumlu cümlelerde 'biraz, birkaç' anlamında hem sayılabilen hem de sayılamayan isimlerle kullanılan miktar belirleyici hangisidir?",
+    "cardValue": "`some`."
+  },
+  {
+    "cardKey": "Olumsuz ve soru cümlelerinde 'hiç' anlamında kullanılan miktar belirleyici hangisidir?",
+    "cardValue": "`any`."
+  },
+  {
+    "cardKey": "Olumlu cümle yapısında olmasına rağmen olumsuz anlamda 'hiç' ifade eden miktar belirleyici hangisidir?",
+    "cardValue": "`no`."
+  },
+  {
+    "cardKey": "Sadece sayılabilen isimlerle kullanılan ve olumsuz bir anlam taşıyan ('çok az, neredeyse hiç') miktar belirleyici hangisidir?",
+    "cardValue": "`few`."
+  },
+  {
+    "cardKey": "Sadece sayılamayan isimlerle kullanılan ve olumsuz bir anlam taşıyan ('çok az, neredeyse hiç') miktar belirleyici hangisidir?",
+    "cardValue": "`little`."
+  },
+  {
+    "cardKey": "Hem sayılabilen (çoğul) hem de sayılamayan isimlerle kullanılabilen ve 'bütün, hepsi' anlamına gelen belirleyici hangisidir?",
+    "cardValue": "`All`."
+  },
+  {
+    "cardKey": "İki şeyin 'her ikisi de' anlamına gelen ve sayılabilen çoğul isimlerle kullanılan belirleyici hangisidir?",
+    "cardValue": "`Both`."
+  },
+  {
+    "cardKey": "'Her biri' anlamına gelen ve sayılabilen tekil isimlerle birlikte kullanılan belirleyici hangisidir?",
+    "cardValue": "`Each`."
+  },
+  {
+    "cardKey": "'Her, bütün' anlamına gelen ve sayılabilen tekil isimlerle birlikte kullanılan belirleyici hangisidir?",
+    "cardValue": "`Every`."
+  },
+  {
+    "cardKey": "İki şeyden biri ('ya o ya da bu') anlamına gelen ve sayılabilen tekil isimlerle kullanılan belirleyici hangisidir?",
+    "cardValue": "`Either`."
+  },
+  {
+    "cardKey": "İki şeyden 'hiçbiri' anlamına gelen, yapıca olumlu cümlede kullanılan ama anlamca olumsuz olan belirleyici hangisidir?",
+    "cardValue": "`Neither`."
+  },
+  {
+    "cardKey": "Bir kişinin söylediği sözü, yapısını değiştirmeden aktarmaya ne denir?",
+    "cardValue": "Dolaysız anlatım (Direct Speech)."
+  },
+  {
+    "cardKey": "Bir kişinin söylediği sözü, kendi cümlelerimizle ve genellikle bir zaman geriye alarak aktarmaya ne denir?",
+    "cardValue": "Dolaylı anlatım (Indirect / Reported Speech)."
+  },
+  {
+    "cardKey": "Reported Speech'te, ana fiil geçmiş zamanda (örn. `said`) ise, `Simple Present Tense` hangi tense'e dönüşür?",
+    "cardValue": "`Past Simple Tense`'e dönüşür."
+  },
+  {
+    "cardKey": "Reported Speech'te, ana fiil geçmiş zamanda ise, `Past Simple Tense` hangi tense'e dönüşür?",
+    "cardValue": "`Past Perfect Tense`'e dönüşür."
+  },
+  {
+    "cardKey": "Reported Speech'te, `will` neye dönüşür?",
+    "cardValue": "`would`'a dönüşür."
+  },
+  {
+    "cardKey": "Reported Speech'te, `can` neye dönüşür?",
+    "cardValue": "`could`'a dönüşür."
+  },
+  {
+    "cardKey": "Bilimsel gerçekler veya genel doğrular dolaylı anlatıma aktarılırken cümlenin zamanında değişiklik yapılır mı?",
+    "cardValue": "Hayır, genellikle değişiklik yapılmaz."
+  },
+  {
+    "cardKey": "Yes/No soruları dolaylı anlatıma aktarılırken hangi bağlaçlar kullanılır?",
+    "cardValue": "`if` veya `whether` kullanılır."
+  },
+  {
+    "cardKey": "Emir cümleleri dolaylı anlatıma aktarılırken olumlu ve olumsuz yapılar nasıl oluşturulur?",
+    "cardValue": "Olumlu emirler `to + infinitive`, olumsuz emirler `not to + infinitive` yapısıyla aktarılır."
+  }
+]
