@@ -1,810 +1,810 @@
 [
   {
-    "cardKey": "Tarih Biliminin Tanımı",
-    "cardValue": "Toplumların başından geçen olayları zaman ve yer göstererek, neden-sonuç ilişkisi içinde, belgelere dayanarak objektif bir şekilde inceleyen sosyal bir bilimdir."
+    "cardValue": "Tarih Biliminin Tanımı",
+    "cardKey": "Toplumların başından geçen olayları zaman ve yer göstererek, neden-sonuç ilişkisi içinde, belgelere dayanarak objektif bir şekilde inceleyen sosyal bir bilimdir."
   },
   {
-    "cardKey": "Tarihin Diğer Sosyal Bilimlerden Farkı",
-    "cardValue": "Diğer bilimler insanı tek bir yönüyle ele alırken, tarih insanı her yönüyle ve bütün yaptıklarıyla anlamaya çalışır."
+    "cardValue": "Tarihin Diğer Sosyal Bilimlerden Farkı",
+    "cardKey": "Diğer bilimler insanı tek bir yönüyle ele alırken, tarih insanı her yönüyle ve bütün yaptıklarıyla anlamaya çalışır."
   },
   {
-    "cardKey": "Tarihte Uygulanamayan Yöntemler",
-    "cardValue": "Deney ve gözlem yöntemleri uygulanamaz."
+    "cardValue": "Tarihte Uygulanamayan Yöntemler",
+    "cardKey": "Deney ve gözlem yöntemleri uygulanamaz."
   },
   {
-    "cardKey": "Birinci Elden Kaynaklar",
-    "cardValue": "Olayın geçtiği döneme ait olan kitabe, para ve arkeolojik buluntu gibi malzemelerdir."
+    "cardValue": "Birinci Elden Kaynaklar",
+    "cardKey": "Olayın geçtiği döneme ait olan kitabe, para ve arkeolojik buluntu gibi malzemelerdir."
   },
   {
-    "cardKey": "İkinci Elden Kaynaklar",
-    "cardValue": "Olayın geçtiği dönemin kaynaklarından faydalanılarak sonradan meydana getirilen eserlerdir."
+    "cardValue": "İkinci Elden Kaynaklar",
+    "cardKey": "Olayın geçtiği dönemin kaynaklarından faydalanılarak sonradan meydana getirilen eserlerdir."
   },
   {
-    "cardKey": "Kronoloji",
-    "cardValue": "Geçmişteki olay ve olguların zamanını tespit ederek sıralayan tarihe yardımcı bilim dalıdır."
+    "cardValue": "Kronoloji",
+    "cardKey": "Geçmişteki olay ve olguların zamanını tespit ederek sıralayan tarihe yardımcı bilim dalıdır."
   },
   {
-    "cardKey": "Diplomasi",
-    "cardValue": "Siyasi belgelerin cins, şekil ve içerik olarak değerlendirmesini yapan bilim dalıdır."
+    "cardValue": "Diplomasi",
+    "cardKey": "Siyasi belgelerin cins, şekil ve içerik olarak değerlendirmesini yapan bilim dalıdır."
   },
   {
-    "cardKey": "Arkeoloji",
-    "cardValue": "Kazı yolu ile toprak ve su altındaki maddi kalıntıları ortaya çıkaran bilim dalıdır."
+    "cardValue": "Arkeoloji",
+    "cardKey": "Kazı yolu ile toprak ve su altındaki maddi kalıntıları ortaya çıkaran bilim dalıdır."
   },
   {
-    "cardKey": "Etnografya",
-    "cardValue": "Toplumların örf, âdet, gelenek ve yaşayışlarını inceleyen bilim dalıdır."
+    "cardValue": "Etnografya",
+    "cardKey": "Toplumların örf, âdet, gelenek ve yaşayışlarını inceleyen bilim dalıdır."
   },
   {
-    "cardKey": "Nümismatik",
-    "cardValue": "Tarih içerisinde basılan paraları inceleyen bilim dalıdır."
+    "cardValue": "Nümismatik",
+    "cardKey": "Tarih içerisinde basılan paraları inceleyen bilim dalıdır."
   },
   {
-    "cardKey": "Paleografya",
-    "cardValue": "Yazıları, alfabeleri ve bunların zaman içerisindeki değişimlerini inceleyen bilim dalıdır."
+    "cardValue": "Paleografya",
+    "cardKey": "Yazıları, alfabeleri ve bunların zaman içerisindeki değişimlerini inceleyen bilim dalıdır."
   },
   {
-    "cardKey": "Epigrafi",
-    "cardValue": "Tarihî yapılar ve anıtlar üzerindeki yazıları inceleyen bilim dalıdır."
+    "cardValue": "Epigrafi",
+    "cardKey": "Tarihî yapılar ve anıtlar üzerindeki yazıları inceleyen bilim dalıdır."
   },
   {
-    "cardKey": "Tarih Öncesine En Çok Yardımcı Olan Bilim",
-    "cardValue": "Arkeoloji."
+    "cardValue": "Tarih Öncesine En Çok Yardımcı Olan Bilim",
+    "cardKey": "Arkeoloji."
   },
   {
-    "cardKey": "Tarihi Olayları Değerlendirme İlkesi",
-    "cardValue": "Olayları, yaşandığı dönemin şartlarına göre değerlendirmek."
+    "cardValue": "Tarihi Olayları Değerlendirme İlkesi",
+    "cardKey": "Olayları, yaşandığı dönemin şartlarına göre değerlendirmek."
   },
   {
-    "cardKey": "Ay Yılı Esası",
-    "cardValue": "Ay'ın Dünya etrafındaki on iki tur dönüşünü bir yıl kabul eden ve 354 günden oluşan takvim sistemidir."
+    "cardValue": "Ay Yılı Esası",
+    "cardKey": "Ay'ın Dünya etrafındaki on iki tur dönüşünü bir yıl kabul eden ve 354 günden oluşan takvim sistemidir."
   },
   {
-    "cardKey": "Güneş Yılı Esası",
-    "cardValue": "Dünya'nın Güneş etrafındaki bir turunu bir yıl kabul eden ve 365 gün 6 saatten oluşan takvim sistemidir."
+    "cardValue": "Güneş Yılı Esası",
+    "cardKey": "Dünya'nın Güneş etrafındaki bir turunu bir yıl kabul eden ve 365 gün 6 saatten oluşan takvim sistemidir."
   },
   {
-    "cardKey": "Türklerin İlk Takvimi",
-    "cardValue": "On İki Hayvanlı Türk Takvimi."
+    "cardValue": "Türklerin İlk Takvimi",
+    "cardKey": "On İki Hayvanlı Türk Takvimi."
   },
   {
-    "cardKey": "Hicrî Takvim",
-    "cardValue": "Türklerin İslamiyet'i kabul ettikten sonra kullandığı ve başlangıcı 622 yılı olan takvimdir."
+    "cardValue": "Hicrî Takvim",
+    "cardKey": "Türklerin İslamiyet'i kabul ettikten sonra kullandığı ve başlangıcı 622 yılı olan takvimdir."
   },
   {
-    "cardKey": "Celâlî Takvimi",
-    "cardValue": "Büyük Selçuklu Sultanı Melikşah tarafından Ömer Hayyam'a hazırlatılan takvimdir."
+    "cardValue": "Celâlî Takvimi",
+    "cardKey": "Büyük Selçuklu Sultanı Melikşah tarafından Ömer Hayyam'a hazırlatılan takvimdir."
   },
   {
-    "cardKey": "Rûmî Takvim",
-    "cardValue": "Osmanlı Devleti'nde mali işlerin düzenlenmesi amacıyla kullanılan ve Güneş yılı esasına dayanan takvimdir."
+    "cardValue": "Rûmî Takvim",
+    "cardKey": "Osmanlı Devleti'nde mali işlerin düzenlenmesi amacıyla kullanılan ve Güneş yılı esasına dayanan takvimdir."
   },
   {
-    "cardKey": "Miladi Takvim",
-    "cardValue": "Türkiye'de 1 Ocak 1926'dan itibaren kullanılmaya başlanan ve günümüzde en yaygın olan takvimdir."
+    "cardValue": "Miladi Takvim",
+    "cardKey": "Türkiye'de 1 Ocak 1926'dan itibaren kullanılmaya başlanan ve günümüzde en yaygın olan takvimdir."
   },
   {
-    "cardKey": "Çin Kaynaklarına Göre 'Türk' Anlamı",
-    "cardValue": "Miğfer."
+    "cardValue": "Çin Kaynaklarına Göre 'Türk' Anlamı",
+    "cardKey": "Miğfer."
   },
   {
-    "cardKey": "Kaşgarlı Mahmut'a Göre 'Türk' Anlamı",
-    "cardValue": "Olgunluk çağı."
+    "cardValue": "Kaşgarlı Mahmut'a Göre 'Türk' Anlamı",
+    "cardKey": "Olgunluk çağı."
   },
   {
-    "cardKey": "Orta Asya'nın En Eski Kültürü",
-    "cardValue": "Anav Kültürü."
+    "cardValue": "Orta Asya'nın En Eski Kültürü",
+    "cardKey": "Anav Kültürü."
   },
   {
-    "cardKey": "Türklere Ait En Eski Kültür",
-    "cardValue": "Afanesyevo Kültürü."
+    "cardValue": "Türklere Ait En Eski Kültür",
+    "cardKey": "Afanesyevo Kültürü."
   },
   {
-    "cardKey": "Demiri Erken İşleyen Kültür",
-    "cardValue": "Karasuk Kültürü."
+    "cardValue": "Demiri Erken İşleyen Kültür",
+    "cardKey": "Karasuk Kültürü."
   },
   {
-    "cardKey": "Turan Taktiği",
-    "cardValue": "Türklerin, sahte geri çekilme ve pusuya dayanan meşhur savaş taktiğidir."
+    "cardValue": "Turan Taktiği",
+    "cardKey": "Türklerin, sahte geri çekilme ve pusuya dayanan meşhur savaş taktiğidir."
   },
   {
-    "cardKey": "İlk Düzenli Türk Ordusunu Kuran Hükümdar",
-    "cardValue": "Mete Han (MÖ 209)."
+    "cardValue": "İlk Düzenli Türk Ordusunu Kuran Hükümdar",
+    "cardKey": "Mete Han (MÖ 209)."
   },
   {
-    "cardKey": "Urug",
-    "cardValue": "Eski Türk toplum yapısında ailelerin birleşmesiyle oluşan birimdir."
+    "cardValue": "Urug",
+    "cardKey": "Eski Türk toplum yapısında ailelerin birleşmesiyle oluşan birimdir."
   },
   {
-    "cardKey": "Kut Anlayışı",
-    "cardValue": "Eski Türk devletlerinde yönetme yetkisinin Gök Tanrı tarafından kağana verildiği inancıdır."
+    "cardValue": "Kut Anlayışı",
+    "cardKey": "Eski Türk devletlerinde yönetme yetkisinin Gök Tanrı tarafından kağana verildiği inancıdır."
   },
   {
-    "cardKey": "Kurultay (Toy)",
-    "cardValue": "Eski Türklerde siyasi, kültürel ve ekonomik kararların alındığı en yüksek devlet kuruluşudur."
+    "cardValue": "Kurultay (Toy)",
+    "cardKey": "Eski Türklerde siyasi, kültürel ve ekonomik kararların alındığı en yüksek devlet kuruluşudur."
   },
   {
-    "cardKey": "İkili Teşkilat",
-    "cardValue": "Eski Türk devletlerinde ülkenin doğu ve batı olarak ikiye ayrılarak yönetilmesine dayanan sistemdir."
+    "cardValue": "İkili Teşkilat",
+    "cardKey": "Eski Türk devletlerinde ülkenin doğu ve batı olarak ikiye ayrılarak yönetilmesine dayanan sistemdir."
   },
   {
-    "cardKey": "Ülüş",
-    "cardValue": "Türk kağanının Gök Tanrı'dan aldığı siyasi iktidarın (kut) yanı sıra, ekonomik gücü ve bolluk bereket getirme yetkisidir."
+    "cardValue": "Ülüş",
+    "cardKey": "Türk kağanının Gök Tanrı'dan aldığı siyasi iktidarın (kut) yanı sıra, ekonomik gücü ve bolluk bereket getirme yetkisidir."
   },
   {
-    "cardKey": "İlk Türk Devleti ve Başkenti",
-    "cardValue": "Asya Hun Devleti'dir ve başkenti Ötüken'dir."
+    "cardValue": "İlk Türk Devleti ve Başkenti",
+    "cardKey": "Asya Hun Devleti'dir ve başkenti Ötüken'dir."
   },
   {
-    "cardKey": "Şanyü (Tan-hu) Unvanı",
-    "cardValue": "Asya Hun Devleti'nde hükümdarların kullandığı 'büyüklük ve genişlik' anlamına gelen unvandır."
+    "cardValue": "Şanyü (Tan-hu) Unvanı",
+    "cardKey": "Asya Hun Devleti'nde hükümdarların kullandığı 'büyüklük ve genişlik' anlamına gelen unvandır."
   },
   {
-    "cardKey": "'Türk' Adını İlk Kullanan Devlet",
-    "cardValue": "Kök Türk Devleti."
+    "cardValue": "'Türk' Adını İlk Kullanan Devlet",
+    "cardKey": "Kök Türk Devleti."
   },
   {
-    "cardKey": "II. Kök Türk Devleti'nin Kurucusu",
-    "cardValue": "Kutluk Kağan (İlteriş Kağan)."
+    "cardValue": "II. Kök Türk Devleti'nin Kurucusu",
+    "cardKey": "Kutluk Kağan (İlteriş Kağan)."
   },
   {
-    "cardKey": "Orhun Kitabeleri",
-    "cardValue": "Türk devlet ve yönetim anlayışı hakkında önemli bilgiler içeren II. Kök Türk Devleti zamanında dikilmiş yazıtlardır."
+    "cardValue": "Orhun Kitabeleri",
+    "cardKey": "Türk devlet ve yönetim anlayışı hakkında önemli bilgiler içeren II. Kök Türk Devleti zamanında dikilmiş yazıtlardır."
   },
   {
-    "cardKey": "Maniheizm",
-    "cardValue": "Uygurların Bögü Kağan döneminde kabul ettiği ve savaşçılık özelliklerini zayıflatan dindir."
+    "cardValue": "Maniheizm",
+    "cardKey": "Uygurların Bögü Kağan döneminde kabul ettiği ve savaşçılık özelliklerini zayıflatan dindir."
   },
   {
-    "cardKey": "Töre",
-    "cardValue": "Eski Türklerde sosyal düzeni sağlayan sözlü hukuk kurallarıdır."
+    "cardValue": "Töre",
+    "cardKey": "Eski Türklerde sosyal düzeni sağlayan sözlü hukuk kurallarıdır."
   },
   {
-    "cardKey": "Kavimler Göçü",
-    "cardValue": "Kuzey Hunlarının Balamir önderliğinde batıya göç ederek başlattığı ve İlk Çağ'ı bitirip Orta Çağ'ı başlatan olaydır (376)."
+    "cardValue": "Kavimler Göçü",
+    "cardKey": "Kuzey Hunlarının Balamir önderliğinde batıya göç ederek başlattığı ve İlk Çağ'ı bitirip Orta Çağ'ı başlatan olaydır (376)."
   },
   {
-    "cardKey": "Feodalite",
-    "cardValue": "Kavimler Göçü'nün sonucunda Avrupa'da ortaya çıkan, merkezi otoritenin zayıf olduğu siyasi rejimdir."
+    "cardValue": "Feodalite",
+    "cardKey": "Kavimler Göçü'nün sonucunda Avrupa'da ortaya çıkan, merkezi otoritenin zayıf olduğu siyasi rejimdir."
   },
   {
-    "cardKey": "Avrupa Hun Devleti'nin En Parlak Dönemi",
-    "cardValue": "Atilla zamanında yaşanmıştır."
+    "cardValue": "Avrupa Hun Devleti'nin En Parlak Dönemi",
+    "cardKey": "Atilla zamanında yaşanmıştır."
   },
   {
-    "cardKey": "Museviliği Benimseyen Türk Devleti",
-    "cardValue": "Hazar Devleti."
+    "cardValue": "Museviliği Benimseyen Türk Devleti",
+    "cardKey": "Hazar Devleti."
   },
   {
-    "cardKey": "İstanbul'u Kuşatan İlk Türk Devleti",
-    "cardValue": "Avarlar."
+    "cardValue": "İstanbul'u Kuşatan İlk Türk Devleti",
+    "cardKey": "Avarlar."
   },
   {
-    "cardKey": "Talas Savaşı'nda Müslümanların Yanında Savaşan Türk Topluluğu",
-    "cardValue": "Karluklar."
+    "cardValue": "Talas Savaşı'nda Müslümanların Yanında Savaşan Türk Topluluğu",
+    "cardKey": "Karluklar."
   },
   {
-    "cardKey": "Kendi Adına Para Bastıran İlk Türk Devleti",
-    "cardValue": "Türgişler."
+    "cardValue": "Kendi Adına Para Bastıran İlk Türk Devleti",
+    "cardKey": "Türgişler."
   },
   {
-    "cardKey": "Malazgirt'te Taraf Değiştiren Türk Topluluğu",
-    "cardValue": "Peçenekler."
+    "cardValue": "Malazgirt'te Taraf Değiştiren Türk Topluluğu",
+    "cardKey": "Peçenekler."
   },
   {
-    "cardKey": "Cahiliye Dönemi",
-    "cardValue": "İslamiyet'ten önceki Arabistan'da, putperestlik ve cehaletin yaygın olduğu dönemdir."
+    "cardValue": "Cahiliye Dönemi",
+    "cardKey": "İslamiyet'ten önceki Arabistan'da, putperestlik ve cehaletin yaygın olduğu dönemdir."
   },
   {
-    "cardKey": "Hicret",
-    "cardValue": "622 yılında Müslümanların Mekke'den Medine'ye göç etmesi olayıdır."
+    "cardValue": "Hicret",
+    "cardKey": "622 yılında Müslümanların Mekke'den Medine'ye göç etmesi olayıdır."
   },
   {
-    "cardKey": "Medine Sözleşmesi",
-    "cardValue": "Hicret sonrası Medine'de yaşayan topluluklar arasında imzalanan ve anayasal nitelik taşıyan belgedir."
+    "cardValue": "Medine Sözleşmesi",
+    "cardKey": "Hicret sonrası Medine'de yaşayan topluluklar arasında imzalanan ve anayasal nitelik taşıyan belgedir."
   },
   {
-    "cardKey": "Hudeybiye Antlaşması",
-    "cardValue": "Mekkeli müşriklerin Müslümanları resmen tanıdığı antlaşmadır (628)."
+    "cardValue": "Hudeybiye Antlaşması",
+    "cardKey": "Mekkeli müşriklerin Müslümanları resmen tanıdığı antlaşmadır (628)."
   },
   {
-    "cardKey": "Cumhuriyet Dönemi",
-    "cardValue": "Halifelerin seçimle iş başına gelmesinden dolayı Dört Halife Dönemi'ne verilen addır."
+    "cardValue": "Cumhuriyet Dönemi",
+    "cardKey": "Halifelerin seçimle iş başına gelmesinden dolayı Dört Halife Dönemi'ne verilen addır."
   },
   {
-    "cardKey": "Kur'an'ın Kitap Haline Getirilmesi",
-    "cardValue": "Hz. Ebubekir döneminde gerçekleşmiştir."
+    "cardValue": "Kur'an'ın Kitap Haline Getirilmesi",
+    "cardKey": "Hz. Ebubekir döneminde gerçekleşmiştir."
   },
   {
-    "cardKey": "Sasani Devleti'ne Son Veren Savaş",
-    "cardValue": "Nihavend Savaşı (642)."
+    "cardValue": "Sasani Devleti'ne Son Veren Savaş",
+    "cardKey": "Nihavend Savaşı (642)."
   },
   {
-    "cardKey": "İlk İslam Donanması",
-    "cardValue": "Hz. Osman döneminde kurulmuş ve ilk deniz zaferi (Zâtü's-savârî) kazanılmıştır."
+    "cardValue": "İlk İslam Donanması",
+    "cardKey": "Hz. Osman döneminde kurulmuş ve ilk deniz zaferi (Zâtü's-savârî) kazanılmıştır."
   },
   {
-    "cardKey": "İlk İç Savaş ve Siyasi Ayrılıklar",
-    "cardValue": "Hz. Ali döneminde yaşanmıştır (Cemel Vakası, Sıffin Savaşı ve Hakem Olayı)."
+    "cardValue": "İlk İç Savaş ve Siyasi Ayrılıklar",
+    "cardKey": "Hz. Ali döneminde yaşanmıştır (Cemel Vakası, Sıffin Savaşı ve Hakem Olayı)."
   },
   {
-    "cardKey": "Saltanat Sistemine Geçiş",
-    "cardValue": "Emeviler döneminde halifeliğin babadan oğula geçmesiyle gerçekleşmiştir."
+    "cardValue": "Saltanat Sistemine Geçiş",
+    "cardKey": "Emeviler döneminde halifeliğin babadan oğula geçmesiyle gerçekleşmiştir."
   },
   {
-    "cardKey": "Kerbela Olayı",
-    "cardValue": "Hz. Hüseyin ve beraberindekilerin şehit edildiği ve İslam'daki mezhep ayrılıklarını derinleştiren olaydır (680)."
+    "cardValue": "Kerbela Olayı",
+    "cardKey": "Hz. Hüseyin ve beraberindekilerin şehit edildiği ve İslam'daki mezhep ayrılıklarını derinleştiren olaydır (680)."
   },
   {
-    "cardKey": "Mevali Politikası",
-    "cardValue": "Emevilerin Arap olmayan Müslümanlara uyguladığı ve onları ikinci sınıf vatandaş gören politikadır."
+    "cardValue": "Mevali Politikası",
+    "cardKey": "Emevilerin Arap olmayan Müslümanlara uyguladığı ve onları ikinci sınıf vatandaş gören politikadır."
   },
   {
-    "cardKey": "Puvatya Savaşı",
-    "cardValue": "Franklarla yapılan ve İslam ordularının Avrupa'daki ilerleyişini durduran savaştır (732)."
+    "cardValue": "Puvatya Savaşı",
+    "cardKey": "Franklarla yapılan ve İslam ordularının Avrupa'daki ilerleyişini durduran savaştır (732)."
   },
   {
-    "cardKey": "Abbasilerin Başkent Değişikliği",
-    "cardValue": "Kûfe'den Bağdat'a taşınmıştır."
+    "cardValue": "Abbasilerin Başkent Değişikliği",
+    "cardKey": "Kûfe'den Bağdat'a taşınmıştır."
   },
   {
-    "cardKey": "Mısır'da Kurulan İlk Müslüman Türk Devleti",
-    "cardValue": "Tolunoğulları."
+    "cardValue": "Mısır'da Kurulan İlk Müslüman Türk Devleti",
+    "cardKey": "Tolunoğulları."
   },
   {
-    "cardKey": "Selahaddin Eyyubi",
-    "cardValue": "1187'de Hıttin Savaşı'nda Haçlıları yenerek Kudüs'ü fetheden Eyyubi hükümdarıdır."
+    "cardValue": "Selahaddin Eyyubi",
+    "cardKey": "1187'de Hıttin Savaşı'nda Haçlıları yenerek Kudüs'ü fetheden Eyyubi hükümdarıdır."
   },
   {
-    "cardKey": "Abbasi Halifeliğinin Kahire'de Devam Etmesi",
-    "cardValue": "Memlûklular himayesinde devam etmiştir."
+    "cardValue": "Abbasi Halifeliğinin Kahire'de Devam Etmesi",
+    "cardKey": "Memlûklular himayesinde devam etmiştir."
   },
   {
-    "cardKey": "Medrese",
-    "cardValue": "İslam medeniyetinde eğitim ve öğretim faaliyetlerinin yürütüldüğü kurumlardır."
+    "cardValue": "Medrese",
+    "cardKey": "İslam medeniyetinde eğitim ve öğretim faaliyetlerinin yürütüldüğü kurumlardır."
   },
   {
-    "cardKey": "Farabi",
-    "cardValue": "Mantık ilmine katkılarından dolayı Aristo'dan sonra 'İkinci Öğretmen' olarak anılan İslam filozofudur."
+    "cardValue": "Farabi",
+    "cardKey": "Mantık ilmine katkılarından dolayı Aristo'dan sonra 'İkinci Öğretmen' olarak anılan İslam filozofudur."
   },
   {
-    "cardKey": "İbn Sina (Avicenna)",
-    "cardValue": "Batı'da 'Avicenna' olarak bilinen ve tıp alanındaki 'el-Kanûn fî't-Tıbb' eseriyle tanınan alimdir."
+    "cardValue": "İbn Sina (Avicenna)",
+    "cardKey": "Batı'da 'Avicenna' olarak bilinen ve tıp alanındaki 'el-Kanûn fî't-Tıbb' eseriyle tanınan alimdir."
   },
   {
-    "cardKey": "Talas Savaşı",
-    "cardValue": "Türklerin İslamiyet'i kabulünde bir dönüm noktası olan ve 751 yılında Müslüman Araplarla Çinliler arasında yapılan savaştır."
+    "cardValue": "Talas Savaşı",
+    "cardKey": "Türklerin İslamiyet'i kabulünde bir dönüm noktası olan ve 751 yılında Müslüman Araplarla Çinliler arasında yapılan savaştır."
   },
   {
-    "cardKey": "Orta Asya'da İlk Müslüman Türk Devleti",
-    "cardValue": "Karahanlı Devleti."
+    "cardValue": "Orta Asya'da İlk Müslüman Türk Devleti",
+    "cardKey": "Karahanlı Devleti."
   },
   {
-    "cardKey": "Gazneli Mahmut",
-    "cardValue": "Hindistan'a düzenlediği 17 seferle İslamiyet'in bu coğrafyada yayılmasını sağlayan Gazneli hükümdarıdır."
+    "cardValue": "Gazneli Mahmut",
+    "cardKey": "Hindistan'a düzenlediği 17 seferle İslamiyet'in bu coğrafyada yayılmasını sağlayan Gazneli hükümdarıdır."
   },
   {
-    "cardKey": "Sultan Unvanını İlk Kullanan Hükümdar",
-    "cardValue": "Gazneli Mahmut."
+    "cardValue": "Sultan Unvanını İlk Kullanan Hükümdar",
+    "cardKey": "Gazneli Mahmut."
   },
   {
-    "cardKey": "Kutadgu Bilig",
-    "cardValue": "Yusuf Has Hacip tarafından yazılan ve ideal devlet yönetimini anlatan, siyasetname özelliği taşıyan ilk Türk-İslam edebi eseridir."
+    "cardValue": "Kutadgu Bilig",
+    "cardKey": "Yusuf Has Hacip tarafından yazılan ve ideal devlet yönetimini anlatan, siyasetname özelliği taşıyan ilk Türk-İslam edebi eseridir."
   },
   {
-    "cardKey": "Divânü Lûgati't-Türk",
-    "cardValue": "Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ve içinde Türk dünyası haritası da bulunan eserdir."
+    "cardValue": "Divânü Lûgati't-Türk",
+    "cardKey": "Kaşgarlı Mahmut tarafından Araplara Türkçe öğretmek amacıyla yazılan ve içinde Türk dünyası haritası da bulunan eserdir."
   },
   {
-    "cardKey": "Divân-ı Hikmet",
-    "cardValue": "Ahmet Yesevi'nin hikmet adı verilen şiirlerini bir araya getiren ve Türk tasavvuf tarihinin ilk edebi eseri kabul edilen eserdir."
+    "cardValue": "Divân-ı Hikmet",
+    "cardKey": "Ahmet Yesevi'nin hikmet adı verilen şiirlerini bir araya getiren ve Türk tasavvuf tarihinin ilk edebi eseri kabul edilen eserdir."
   },
   {
-    "cardKey": "Dandanakan Savaşı",
-    "cardValue": "Büyük Selçuklu Devleti'nin resmen kurulmasını sağlayan ve 1040 yılında Gaznelilere karşı kazanılan savaştır."
+    "cardValue": "Dandanakan Savaşı",
+    "cardKey": "Büyük Selçuklu Devleti'nin resmen kurulmasını sağlayan ve 1040 yılında Gaznelilere karşı kazanılan savaştır."
   },
   {
-    "cardKey": "Tuğrul Bey",
-    "cardValue": "1055'te Bağdat'a girerek Abbasi halifesini Şii Büveyhoğulları baskısından kurtaran ve 'Doğu'nun ve Batı'nın Sultanı' unvanını alan Selçuklu hükümdarıdır."
+    "cardValue": "Tuğrul Bey",
+    "cardKey": "1055'te Bağdat'a girerek Abbasi halifesini Şii Büveyhoğulları baskısından kurtaran ve 'Doğu'nun ve Batı'nın Sultanı' unvanını alan Selçuklu hükümdarıdır."
   },
   {
-    "cardKey": "Malazgirt Zaferi",
-    "cardValue": "1071'de kazanılan zaferle Anadolu'nun kapıları Türklere açılmıştır."
+    "cardValue": "Malazgirt Zaferi",
+    "cardKey": "1071'de kazanılan zaferle Anadolu'nun kapıları Türklere açılmıştır."
   },
   {
-    "cardKey": "Katvan Savaşı",
-    "cardValue": "Büyük Selçuklu Devleti'nin yıkılış sürecini hızlandıran ve 1141'de Karahıtaylara karşı alınan yenilgidir."
+    "cardValue": "Katvan Savaşı",
+    "cardKey": "Büyük Selçuklu Devleti'nin yıkılış sürecini hızlandıran ve 1141'de Karahıtaylara karşı alınan yenilgidir."
   },
   {
-    "cardKey": "Nizamiye Medreseleri",
-    "cardValue": "Büyük Selçuklu veziri Nizâmülmülk tarafından Şii-Batıni faaliyetlerine karşı kurulan eğitim kurumlarının genel adıdır."
+    "cardValue": "Nizamiye Medreseleri",
+    "cardKey": "Büyük Selçuklu veziri Nizâmülmülk tarafından Şii-Batıni faaliyetlerine karşı kurulan eğitim kurumlarının genel adıdır."
   },
   {
-    "cardKey": "Anadolu'da İlk Türk Beyliği",
-    "cardValue": "Saltuklular Beyliği'dir ve merkezi Erzurum'dur."
+    "cardValue": "Anadolu'da İlk Türk Beyliği",
+    "cardKey": "Saltuklular Beyliği'dir ve merkezi Erzurum'dur."
   },
   {
-    "cardKey": "Divriği Ulu Cami ve Külliyesi",
-    "cardValue": "UNESCO Dünya Kültür Mirası Listesi'nde yer alan Mengücekliler Beyliği'ne aittir."
+    "cardValue": "Divriği Ulu Cami ve Külliyesi",
+    "cardKey": "UNESCO Dünya Kültür Mirası Listesi'nde yer alan Mengücekliler Beyliği'ne aittir."
   },
   {
-    "cardKey": "Çaka Bey",
-    "cardValue": "Türk tarihinde ilk donanmayı kuran ve bilinen ilk Türk denizcisi olan beydir."
+    "cardValue": "Çaka Bey",
+    "cardKey": "Türk tarihinde ilk donanmayı kuran ve bilinen ilk Türk denizcisi olan beydir."
   },
   {
-    "cardKey": "Yağıbasan Medresesi",
-    "cardValue": "Türklerin Anadolu'da yaptıkları ilk medrese olan ve Danişmentliler Beyliği'ne ait olan medresedir."
+    "cardValue": "Yağıbasan Medresesi",
+    "cardKey": "Türklerin Anadolu'da yaptıkları ilk medrese olan ve Danişmentliler Beyliği'ne ait olan medresedir."
   },
   {
-    "cardKey": "El-Cezerî",
-    "cardValue": "Sibernetik alanındaki çalışmalarıyla bilinen ve ilk robotun mucidi sayılan Artuklu dönemi alimidir."
+    "cardValue": "El-Cezerî",
+    "cardKey": "Sibernetik alanındaki çalışmalarıyla bilinen ve ilk robotun mucidi sayılan Artuklu dönemi alimidir."
   },
   {
-    "cardKey": "Miryokefalon Savaşı",
-    "cardValue": "1176'da kazanılan zaferle Anadolu'nun kesin olarak Türk yurdu olduğu kabul edilmiş ve Bizans'ın Türkleri Anadolu'dan atma ümidi sona ermiştir."
+    "cardValue": "Miryokefalon Savaşı",
+    "cardKey": "1176'da kazanılan zaferle Anadolu'nun kesin olarak Türk yurdu olduğu kabul edilmiş ve Bizans'ın Türkleri Anadolu'dan atma ümidi sona ermiştir."
   },
   {
-    "cardKey": "Kudüs Krallığı",
-    "cardValue": "I. Haçlı Seferi sonunda Haçlıların Kudüs'te kurdukları devlettir."
+    "cardValue": "Kudüs Krallığı",
+    "cardKey": "I. Haçlı Seferi sonunda Haçlıların Kudüs'te kurdukları devlettir."
   },
   {
-    "cardKey": "Latin İmparatorluğu",
-    "cardValue": "Dördüncü Haçlı Seferi'nin amacından saparak İstanbul'u işgal etmesiyle kurulan devlettir (1204)."
+    "cardValue": "Latin İmparatorluğu",
+    "cardKey": "Dördüncü Haçlı Seferi'nin amacından saparak İstanbul'u işgal etmesiyle kurulan devlettir (1204)."
   },
   {
-    "cardKey": "Haçlı Seferleri ile Avrupa'ya Geçen Buluşlar",
-    "cardValue": "Barut, kâğıt, matbaa ve pusula."
+    "cardValue": "Haçlı Seferleri ile Avrupa'ya Geçen Buluşlar",
+    "cardKey": "Barut, kâğıt, matbaa ve pusula."
   },
   {
-    "cardKey": "Yassıçemen Savaşı",
-    "cardValue": "Türkiye Selçuklu Devleti'nin Moğollarla arasında tampon bölge olan Harzemşahlar Devleti'ni yıktığı savaştır (1230)."
+    "cardValue": "Yassıçemen Savaşı",
+    "cardKey": "Türkiye Selçuklu Devleti'nin Moğollarla arasında tampon bölge olan Harzemşahlar Devleti'ni yıktığı savaştır (1230)."
   },
   {
-    "cardKey": "Baba İshak İsyanı",
-    "cardValue": "Türkiye Selçuklu Devleti'nin zayıflığını gösteren ve Moğol istilasına zemin hazırlayan büyük Türkmen ayaklanmasıdır."
+    "cardValue": "Baba İshak İsyanı",
+    "cardKey": "Türkiye Selçuklu Devleti'nin zayıflığını gösteren ve Moğol istilasına zemin hazırlayan büyük Türkmen ayaklanmasıdır."
   },
   {
-    "cardKey": "Kösedağ Savaşı",
-    "cardValue": "Türkiye Selçuklu Devleti'nin Moğollara yenilerek dağılma sürecine girdiği savaştır (1243)."
+    "cardValue": "Kösedağ Savaşı",
+    "cardKey": "Türkiye Selçuklu Devleti'nin Moğollara yenilerek dağılma sürecine girdiği savaştır (1243)."
   },
   {
-    "cardKey": "Osmanlı'ya Katılan İlk Beylik",
-    "cardValue": "Karesioğulları."
+    "cardValue": "Osmanlı'ya Katılan İlk Beylik",
+    "cardKey": "Karesioğulları."
   },
   {
-    "cardKey": "Koyunhisar Muharebesi",
-    "cardValue": "Osmanlı Devleti'nin aşiretten beyliğe geçişini sağlayan ve Bizans'a karşı kazanılan ilk büyük zaferdir (1302)."
+    "cardValue": "Koyunhisar Muharebesi",
+    "cardKey": "Osmanlı Devleti'nin aşiretten beyliğe geçişini sağlayan ve Bizans'a karşı kazanılan ilk büyük zaferdir (1302)."
   },
   {
-    "cardKey": "Çimpe Kalesi",
-    "cardValue": "Orhan Bey'in Bizans İmparatoru Kantakuzen'e yaptığı yardımlar karşılığında aldığı ve Rumeli'ye geçişte üs olarak kullandığı kaledir (1353)."
+    "cardValue": "Çimpe Kalesi",
+    "cardKey": "Orhan Bey'in Bizans İmparatoru Kantakuzen'e yaptığı yardımlar karşılığında aldığı ve Rumeli'ye geçişte üs olarak kullandığı kaledir (1353)."
   },
   {
-    "cardKey": "İskân Politikası",
-    "cardValue": "Osmanlı Devleti'nin fethettiği bölgelerde kalıcılığı sağlamak amacıyla Anadolu'daki Türk nüfusu Balkanlara yerleştirmesi politikasıdır."
+    "cardValue": "İskân Politikası",
+    "cardKey": "Osmanlı Devleti'nin fethettiği bölgelerde kalıcılığı sağlamak amacıyla Anadolu'daki Türk nüfusu Balkanlara yerleştirmesi politikasıdır."
   },
   {
-    "cardKey": "İstimâlet Politikası",
-    "cardValue": "Osmanlı'nın fethettiği yerlerdeki halkın gönlünü kazanmak için uyguladığı hoşgörü ve adalet politikasıdır."
+    "cardValue": "İstimâlet Politikası",
+    "cardKey": "Osmanlı'nın fethettiği yerlerdeki halkın gönlünü kazanmak için uyguladığı hoşgörü ve adalet politikasıdır."
   },
   {
-    "cardKey": "Ankara Savaşı",
-    "cardValue": "1402'de Osmanlı Devleti ile Timur İmparatorluğu arasında yapılan ve Osmanlı'nın yenilgisiyle sonuçlanan savaştır."
+    "cardValue": "Ankara Savaşı",
+    "cardKey": "1402'de Osmanlı Devleti ile Timur İmparatorluğu arasında yapılan ve Osmanlı'nın yenilgisiyle sonuçlanan savaştır."
   },
   {
-    "cardKey": "Fetret Devri",
-    "cardValue": "Ankara Savaşı'ndan sonra Yıldırım Bayezid'in oğulları arasında 11 yıl süren taht kavgaları dönemidir (1402-1413)."
+    "cardValue": "Fetret Devri",
+    "cardKey": "Ankara Savaşı'ndan sonra Yıldırım Bayezid'in oğulları arasında 11 yıl süren taht kavgaları dönemidir (1402-1413)."
   },
   {
-    "cardKey": "Osmanlı'nın İkinci Kurucusu",
-    "cardValue": "I. Mehmet (Çelebi Mehmet)."
+    "cardValue": "Osmanlı'nın İkinci Kurucusu",
+    "cardKey": "I. Mehmet (Çelebi Mehmet)."
   },
   {
-    "cardKey": "Osmanlı'nın İlk Düzenli Ordusu",
-    "cardValue": "Orhan Gazi döneminde kurulmuştur. Atlı askerlere 'müsellem', atsız askerlere 'yaya' denirdi."
+    "cardValue": "Osmanlı'nın İlk Düzenli Ordusu",
+    "cardKey": "Orhan Gazi döneminde kurulmuştur. Atlı askerlere 'müsellem', atsız askerlere 'yaya' denirdi."
   },
   {
-    "cardKey": "Tımar Sistemi",
-    "cardValue": "Osmanlı ordusunda, gelirleri hizmet karşılığı asker ve memurlara verilen topraklara dayalı sistemdir."
+    "cardValue": "Tımar Sistemi",
+    "cardKey": "Osmanlı ordusunda, gelirleri hizmet karşılığı asker ve memurlara verilen topraklara dayalı sistemdir."
   },
   {
-    "cardKey": "Cebelü",
-    "cardValue": "Tımar sahibinin, toprağın geliriyle beslemek ve savaş zamanı orduya katmak zorunda olduğu atlı askerdir."
+    "cardValue": "Cebelü",
+    "cardKey": "Tımar sahibinin, toprağın geliriyle beslemek ve savaş zamanı orduya katmak zorunda olduğu atlı askerdir."
   },
   {
-    "cardKey": "Devşirme Sistemi",
-    "cardValue": "Rumeli'deki Hristiyan çocukların belirli kurallarla alınıp yetiştirilerek Kapıkulu askeri yapılması sistemidir."
+    "cardValue": "Devşirme Sistemi",
+    "cardKey": "Rumeli'deki Hristiyan çocukların belirli kurallarla alınıp yetiştirilerek Kapıkulu askeri yapılması sistemidir."
   },
   {
-    "cardKey": "Yeniçeri Ocağı",
-    "cardValue": "Pencik ve Devşirme sistemleriyle oluşturulan, padişaha bağlı merkez ordusunun en önemli piyade birliğidir."
+    "cardValue": "Yeniçeri Ocağı",
+    "cardKey": "Pencik ve Devşirme sistemleriyle oluşturulan, padişaha bağlı merkez ordusunun en önemli piyade birliğidir."
   },
   {
-    "cardKey": "Vak'a-i Hayriye",
-    "cardValue": "1826'da II. Mahmut tarafından Yeniçeri Ocağı'nın kaldırılması olayıdır."
+    "cardValue": "Vak'a-i Hayriye",
+    "cardKey": "1826'da II. Mahmut tarafından Yeniçeri Ocağı'nın kaldırılması olayıdır."
   },
   {
-    "cardKey": "Ahi Evran",
-    "cardValue": "Anadolu'daki esnaf ve sanatkârları bir araya getiren Ahilik teşkilatının kurucusudur."
+    "cardValue": "Ahi Evran",
+    "cardKey": "Anadolu'daki esnaf ve sanatkârları bir araya getiren Ahilik teşkilatının kurucusudur."
   },
   {
-    "cardKey": "Seyfiye",
-    "cardValue": "Osmanlı yönetici sınıfı içinde yönetim ve askerlikten sorumlu olan gruptur."
+    "cardValue": "Seyfiye",
+    "cardKey": "Osmanlı yönetici sınıfı içinde yönetim ve askerlikten sorumlu olan gruptur."
   },
   {
-    "cardKey": "İlmiye",
-    "cardValue": "Osmanlı yönetici sınıfı içinde eğitim, din ve adalet işlerinden sorumlu olan gruptur."
+    "cardValue": "İlmiye",
+    "cardKey": "Osmanlı yönetici sınıfı içinde eğitim, din ve adalet işlerinden sorumlu olan gruptur."
   },
   {
-    "cardKey": "Kalemiye",
-    "cardValue": "Osmanlı yönetici sınıfı içinde mali ve idari bürokrasiden sorumlu olan gruptur."
+    "cardValue": "Kalemiye",
+    "cardKey": "Osmanlı yönetici sınıfı içinde mali ve idari bürokrasiden sorumlu olan gruptur."
   },
   {
-    "cardKey": "Topkapı Sarayı",
-    "cardValue": "İstanbul'un fethinden sonra Fatih Sultan Mehmet tarafından yaptırılan ve devletin uzun yıllar yönetim merkezi olan saraydır."
+    "cardValue": "Topkapı Sarayı",
+    "cardKey": "İstanbul'un fethinden sonra Fatih Sultan Mehmet tarafından yaptırılan ve devletin uzun yıllar yönetim merkezi olan saraydır."
   },
   {
-    "cardKey": "Enderun Mektebi",
-    "cardValue": "Topkapı Sarayı'nda devşirme kökenli devlet adamlarının yetiştirildiği okuldur."
+    "cardValue": "Enderun Mektebi",
+    "cardKey": "Topkapı Sarayı'nda devşirme kökenli devlet adamlarının yetiştirildiği okuldur."
   },
   {
-    "cardKey": "Divan-ı Hümâyun",
-    "cardValue": "Osmanlı'da devlet işlerinin görüşülüp karara bağlandığı en yüksek yönetim organıdır."
+    "cardValue": "Divan-ı Hümâyun",
+    "cardKey": "Osmanlı'da devlet işlerinin görüşülüp karara bağlandığı en yüksek yönetim organıdır."
   },
   {
-    "cardKey": "Kardeş Katli",
-    "cardValue": "Fatih Sultan Mehmet, çıkardığı kanunname ile devletin bekası için kardeş katlini yasal hale getirmiştir."
+    "cardValue": "Kardeş Katli",
+    "cardKey": "Fatih Sultan Mehmet, çıkardığı kanunname ile devletin bekası için kardeş katlini yasal hale getirmiştir."
   },
   {
-    "cardKey": "Kafes Usulü",
-    "cardValue": "Osmanlı'da şehzadelerin devlet tecrübesi kazanmaları için sancaklara vali olarak gönderilmesi uygulamasına son veren sistemdir."
+    "cardValue": "Kafes Usulü",
+    "cardKey": "Osmanlı'da şehzadelerin devlet tecrübesi kazanmaları için sancaklara vali olarak gönderilmesi uygulamasına son veren sistemdir."
   },
   {
-    "cardKey": "Ekber ve Erşed Sistemi",
-    "cardValue": "I. Ahmet döneminde tahta, hanedanın en yaşlı ve en olgun üyesinin geçmesi kuralıdır."
+    "cardValue": "Ekber ve Erşed Sistemi",
+    "cardKey": "I. Ahmet döneminde tahta, hanedanın en yaşlı ve en olgun üyesinin geçmesi kuralıdır."
   },
   {
-    "cardKey": "İstanbul'un Fethi",
-    "cardValue": "Orta Çağ'ı kapatıp Yeni Çağ'ı başlatan olaydır (1453)."
+    "cardValue": "İstanbul'un Fethi",
+    "cardKey": "Orta Çağ'ı kapatıp Yeni Çağ'ı başlatan olaydır (1453)."
   },
   {
-    "cardKey": "Karadeniz'in Türk Gölü Haline Gelmesi",
-    "cardValue": "Fatih Sultan Mehmet, Amasra, Sinop, Trabzon ve Kırım'ın fethiyle Karadeniz'i bir Türk gölü haline getirmiştir."
+    "cardValue": "Karadeniz'in Türk Gölü Haline Gelmesi",
+    "cardKey": "Fatih Sultan Mehmet, Amasra, Sinop, Trabzon ve Kırım'ın fethiyle Karadeniz'i bir Türk gölü haline getirmiştir."
   },
   {
-    "cardKey": "Çaldıran Savaşı",
-    "cardValue": "Yavuz Sultan Selim'in 1514'te Safevi hükümdarı Şah İsmail'i yendiği ve Doğu Anadolu'daki Safevi tehlikesini ortadan kaldırdığı savaştır."
+    "cardValue": "Çaldıran Savaşı",
+    "cardKey": "Yavuz Sultan Selim'in 1514'te Safevi hükümdarı Şah İsmail'i yendiği ve Doğu Anadolu'daki Safevi tehlikesini ortadan kaldırdığı savaştır."
   },
   {
-    "cardKey": "Turnadağ Savaşı",
-    "cardValue": "Yavuz Sultan Selim'in 1515'te Dulkadiroğulları Beyliği'ne son verdiği savaştır."
+    "cardValue": "Turnadağ Savaşı",
+    "cardKey": "Yavuz Sultan Selim'in 1515'te Dulkadiroğulları Beyliği'ne son verdiği savaştır."
   },
   {
-    "cardKey": "Mercidabık Savaşı",
-    "cardValue": "Yavuz Sultan Selim'in 1516'da Memlûkleri yendiği ve Suriye ile Filistin'i ele geçirdiği savaştır."
+    "cardValue": "Mercidabık Savaşı",
+    "cardKey": "Yavuz Sultan Selim'in 1516'da Memlûkleri yendiği ve Suriye ile Filistin'i ele geçirdiği savaştır."
   },
   {
-    "cardKey": "Ridaniye Savaşı",
-    "cardValue": "1517'de Memlûk Devleti'ni yıkarak halifeliğin Osmanlılara geçmesini sağlayan savaştır."
+    "cardValue": "Ridaniye Savaşı",
+    "cardKey": "1517'de Memlûk Devleti'ni yıkarak halifeliğin Osmanlılara geçmesini sağlayan savaştır."
   },
   {
-    "cardKey": "Mohaç Meydan Muharebesi",
-    "cardValue": "Kanuni Sultan Süleyman döneminde, Macaristan'ın fethine yol açan ve yaklaşık iki saat süren savaştır (1526)."
+    "cardValue": "Mohaç Meydan Muharebesi",
+    "cardKey": "Kanuni Sultan Süleyman döneminde, Macaristan'ın fethine yol açan ve yaklaşık iki saat süren savaştır (1526)."
   },
   {
-    "cardKey": "1533 İstanbul Antlaşması",
-    "cardValue": "Avusturya arşidükü, protokolde Osmanlı vezir-i âzamına (sadrazam) denk sayılmıştır."
+    "cardValue": "1533 İstanbul Antlaşması",
+    "cardKey": "Avusturya arşidükü, protokolde Osmanlı vezir-i âzamına (sadrazam) denk sayılmıştır."
   },
   {
-    "cardKey": "Amasya Antlaşması",
-    "cardValue": "Osmanlı Devleti ile Safeviler arasında imzalanan ilk resmi antlaşmadır (1555)."
+    "cardValue": "Amasya Antlaşması",
+    "cardKey": "Osmanlı Devleti ile Safeviler arasında imzalanan ilk resmi antlaşmadır (1555)."
   },
   {
-    "cardKey": "Ferhat Paşa Antlaşması",
-    "cardValue": "Osmanlı Devleti'nin doğuda en geniş sınırlara ulaştığı antlaşmadır (1590)."
+    "cardValue": "Ferhat Paşa Antlaşması",
+    "cardKey": "Osmanlı Devleti'nin doğuda en geniş sınırlara ulaştığı antlaşmadır (1590)."
   },
   {
-    "cardKey": "Kapitülasyon",
-    "cardValue": "Osmanlı Devleti'nin, Hristiyan birliğini parçalamak ve ticareti canlandırmak amacıyla yabancı devletlere verdiği ticari ve hukuki ayrıcalıklardır."
+    "cardValue": "Kapitülasyon",
+    "cardKey": "Osmanlı Devleti'nin, Hristiyan birliğini parçalamak ve ticareti canlandırmak amacıyla yabancı devletlere verdiği ticari ve hukuki ayrıcalıklardır."
   },
   {
-    "cardKey": "Atlas Okyanusu",
-    "cardValue": "Coğrafi Keşifler sonucu Akdeniz ticaretinin önemini kaybetmesiyle, önemi artan okyanustur."
+    "cardValue": "Atlas Okyanusu",
+    "cardKey": "Coğrafi Keşifler sonucu Akdeniz ticaretinin önemini kaybetmesiyle, önemi artan okyanustur."
   },
   {
-    "cardKey": "Kadırga ve Kalyon",
-    "cardValue": "Osmanlı donanmasında kürekle hareket eden savaş gemilerine kadırga, yelkenle hareket eden büyük savaş gemilerine kalyon denirdi."
+    "cardValue": "Kadırga ve Kalyon",
+    "cardKey": "Osmanlı donanmasında kürekle hareket eden savaş gemilerine kadırga, yelkenle hareket eden büyük savaş gemilerine kalyon denirdi."
   },
   {
-    "cardKey": "Zitvatorok Antlaşması",
-    "cardValue": "1606'da imzalanan antlaşma ile Avusturya arşidükü Osmanlı padişahına denk sayılarak, 1533'te kazanılan siyasi üstünlük sona ermiştir."
+    "cardValue": "Zitvatorok Antlaşması",
+    "cardKey": "1606'da imzalanan antlaşma ile Avusturya arşidükü Osmanlı padişahına denk sayılarak, 1533'te kazanılan siyasi üstünlük sona ermiştir."
   },
   {
-    "cardKey": "Bucaş Antlaşması",
-    "cardValue": "Osmanlı Devleti'nin batıda en geniş sınırlara ulaştığı antlaşmadır (1672)."
+    "cardValue": "Bucaş Antlaşması",
+    "cardKey": "Osmanlı Devleti'nin batıda en geniş sınırlara ulaştığı antlaşmadır (1672)."
   },
   {
-    "cardKey": "Bahçesaray Antlaşması",
-    "cardValue": "Osmanlı Devleti ile Rusya arasında imzalanan ilk antlaşmadır (1681)."
+    "cardValue": "Bahçesaray Antlaşması",
+    "cardKey": "Osmanlı Devleti ile Rusya arasında imzalanan ilk antlaşmadır (1681)."
   },
   {
-    "cardKey": "Kutsal İttifak",
-    "cardValue": "II. Viyana Kuşatması'ndaki (1683) başarısızlık sonrası Osmanlı'ya karşı Papa'nın öncülüğünde kurulan ittifaktır."
+    "cardValue": "Kutsal İttifak",
+    "cardKey": "II. Viyana Kuşatması'ndaki (1683) başarısızlık sonrası Osmanlı'ya karşı Papa'nın öncülüğünde kurulan ittifaktır."
   },
   {
-    "cardKey": "Karlofça Antlaşması",
-    "cardValue": "1699'da imzalanan ve Osmanlı Devleti'nin Batı'da ilk kez büyük çapta toprak kaybettiği antlaşmadır."
+    "cardValue": "Karlofça Antlaşması",
+    "cardKey": "1699'da imzalanan ve Osmanlı Devleti'nin Batı'da ilk kez büyük çapta toprak kaybettiği antlaşmadır."
   },
   {
-    "cardKey": "Prut Antlaşması",
-    "cardValue": "1711 Prut Savaşı sonrası imzalanan antlaşma ile Osmanlı Devleti, Rusya'dan Azak Kalesi'ni geri almıştır."
+    "cardValue": "Prut Antlaşması",
+    "cardKey": "1711 Prut Savaşı sonrası imzalanan antlaşma ile Osmanlı Devleti, Rusya'dan Azak Kalesi'ni geri almıştır."
   },
   {
-    "cardKey": "Lâle Devri",
-    "cardValue": "1718 Pasarofça Antlaşması ile başlayan ve Batı'nın kültürel ve teknik yeniliklerinin alındığı dönemdir."
+    "cardValue": "Lâle Devri",
+    "cardKey": "1718 Pasarofça Antlaşması ile başlayan ve Batı'nın kültürel ve teknik yeniliklerinin alındığı dönemdir."
   },
   {
-    "cardKey": "Kapitülasyonların Sürekli Hale Getirilmesi",
-    "cardValue": "1739 Belgrad Antlaşması'nda arabuluculuk yaptığı için Fransa'ya verilen kapitülasyonlar sürekli hale getirilmiştir."
+    "cardValue": "Kapitülasyonların Sürekli Hale Getirilmesi",
+    "cardKey": "1739 Belgrad Antlaşması'nda arabuluculuk yaptığı için Fransa'ya verilen kapitülasyonlar sürekli hale getirilmiştir."
   },
   {
-    "cardKey": "Çeşme Baskını",
-    "cardValue": "1770 yılında Rus donanmasının Osmanlı donanmasını yaktığı baskındır."
+    "cardValue": "Çeşme Baskını",
+    "cardKey": "1770 yılında Rus donanmasının Osmanlı donanmasını yaktığı baskındır."
   },
   {
-    "cardKey": "Küçük Kaynarca Antlaşması ile Kaybedilen İlk Müslüman Toprak",
-    "cardValue": "Kırım."
+    "cardValue": "Küçük Kaynarca Antlaşması ile Kaybedilen İlk Müslüman Toprak",
+    "cardKey": "Kırım."
   },
   {
-    "cardKey": "Rusya'nın Ortodoks Hamilik Hakkı",
-    "cardValue": "Rusya, Küçük Kaynarca Antlaşması ile Osmanlı topraklarındaki Ortodoksların koruyuculuğunu (hamiliğini) üstlenmiştir."
+    "cardValue": "Rusya'nın Ortodoks Hamilik Hakkı",
+    "cardKey": "Rusya, Küçük Kaynarca Antlaşması ile Osmanlı topraklarındaki Ortodoksların koruyuculuğunu (hamiliğini) üstlenmiştir."
   },
   {
-    "cardKey": "Skolastik Düşünce",
-    "cardValue": "Avrupa'da deney ve gözlemi reddeden, kilise öğretilerini temel alan dogmatik düşünce sistemidir."
+    "cardValue": "Skolastik Düşünce",
+    "cardKey": "Avrupa'da deney ve gözlemi reddeden, kilise öğretilerini temel alan dogmatik düşünce sistemidir."
   },
   {
-    "cardKey": "Rönesans",
-    "cardValue": "15. ve 16. yüzyıllarda Avrupa'da edebiyat, sanat ve bilim alanında yaşanan yeniden doğuş hareketidir."
+    "cardValue": "Rönesans",
+    "cardKey": "15. ve 16. yüzyıllarda Avrupa'da edebiyat, sanat ve bilim alanında yaşanan yeniden doğuş hareketidir."
   },
   {
-    "cardKey": "Reform",
-    "cardValue": "16. yüzyılda Martin Luther'in Almanya'da başlattığı, Katolik Kilisesi'ndeki bozulmalara karşı yapılan dini yenilenme hareketidir."
+    "cardValue": "Reform",
+    "cardKey": "16. yüzyılda Martin Luther'in Almanya'da başlattığı, Katolik Kilisesi'ndeki bozulmalara karşı yapılan dini yenilenme hareketidir."
   },
   {
-    "cardKey": "Yeni Hristiyan Mezhepleri",
-    "cardValue": "Protestanlık, Kalvenizm ve Anglikanizm."
+    "cardValue": "Yeni Hristiyan Mezhepleri",
+    "cardKey": "Protestanlık, Kalvenizm ve Anglikanizm."
   },
   {
-    "cardKey": "Vestfalya Antlaşması",
-    "cardValue": "1618-1648 yılları arasında Avrupa'da yaşanan din savaşlarını sona erdiren ve modern devletler hukukunun temelini atan antlaşmadır."
+    "cardValue": "Vestfalya Antlaşması",
+    "cardKey": "1618-1648 yılları arasında Avrupa'da yaşanan din savaşlarını sona erdiren ve modern devletler hukukunun temelini atan antlaşmadır."
   },
   {
-    "cardKey": "Aydınlanma Çağı",
-    "cardValue": "18. yüzyılda Avrupa'da aklı, bilimi ve özgür düşünceyi ön plana çıkaran felsefi dönemdir."
+    "cardValue": "Aydınlanma Çağı",
+    "cardKey": "18. yüzyılda Avrupa'da aklı, bilimi ve özgür düşünceyi ön plana çıkaran felsefi dönemdir."
   },
   {
-    "cardKey": "Coğrafi Keşiflerin Osmanlı Ekonomisine Etkisi",
-    "cardValue": "Avrupa'ya akan değerli madenlerin Osmanlı ekonomisine girmesi, akçenin değer kaybetmesine ve yüksek enflasyona sebep olmuştur."
+    "cardValue": "Coğrafi Keşiflerin Osmanlı Ekonomisine Etkisi",
+    "cardKey": "Avrupa'ya akan değerli madenlerin Osmanlı ekonomisine girmesi, akçenin değer kaybetmesine ve yüksek enflasyona sebep olmuştur."
   },
   {
-    "cardKey": "İltizam Sistemi",
-    "cardValue": "Osmanlı Devleti'nde vergi gelirlerinin açık artırma yoluyla belirli bir süreliğine satılması sistemidir."
+    "cardValue": "İltizam Sistemi",
+    "cardKey": "Osmanlı Devleti'nde vergi gelirlerinin açık artırma yoluyla belirli bir süreliğine satılması sistemidir."
   },
   {
-    "cardKey": "Mültezim",
-    "cardValue": "İltizam usulüyle vergi toplama hakkını alan kişidir."
+    "cardValue": "Mültezim",
+    "cardKey": "İltizam usulüyle vergi toplama hakkını alan kişidir."
   },
   {
-    "cardKey": "Celâli İsyanları",
-    "cardValue": "Yavuz Sultan Selim döneminde Tokat'ta isyan eden Bozoklu Şeyh Celâl'in adıyla anılan Anadolu'daki isyanların genel adıdır."
+    "cardValue": "Celâli İsyanları",
+    "cardKey": "Yavuz Sultan Selim döneminde Tokat'ta isyan eden Bozoklu Şeyh Celâl'in adıyla anılan Anadolu'daki isyanların genel adıdır."
   },
   {
-    "cardKey": "Büyük Kaçgun",
-    "cardValue": "Celâli İsyanları sonucunda köylülerin topraklarını terk ederek şehirlere göç etmesi olayıdır."
+    "cardValue": "Büyük Kaçgun",
+    "cardKey": "Celâli İsyanları sonucunda köylülerin topraklarını terk ederek şehirlere göç etmesi olayıdır."
   },
   {
-    "cardKey": "İlk Türk Matbaasında Basılan İlk Eser",
-    "cardValue": "Vankulu Lûgati."
+    "cardValue": "İlk Türk Matbaasında Basılan İlk Eser",
+    "cardKey": "Vankulu Lûgati."
   },
   {
-    "cardKey": "İlk Geçici Elçi",
-    "cardValue": "Lâle Devri'nde Avrupa'ya gönderilen ilk geçici elçi Yirmisekiz Çelebi Mehmet Efendi'dir ve Paris'e gönderilmiştir."
+    "cardValue": "İlk Geçici Elçi",
+    "cardKey": "Lâle Devri'nde Avrupa'ya gönderilen ilk geçici elçi Yirmisekiz Çelebi Mehmet Efendi'dir ve Paris'e gönderilmiştir."
   },
   {
-    "cardKey": "Fransız İhtilali",
-    "cardValue": "1789'da Fransa'da mutlak monarşinin yıkılmasına ve milliyetçilik, eşitlik, özgürlük gibi fikirlerin yayılmasına neden olan olaydır."
+    "cardValue": "Fransız İhtilali",
+    "cardKey": "1789'da Fransa'da mutlak monarşinin yıkılmasına ve milliyetçilik, eşitlik, özgürlük gibi fikirlerin yayılmasına neden olan olaydır."
   },
   {
-    "cardKey": "İlk İsyan Eden Millet",
-    "cardValue": "Sırplar (1804)."
+    "cardValue": "İlk İsyan Eden Millet",
+    "cardKey": "Sırplar (1804)."
   },
   {
-    "cardKey": "Edirne Antlaşması ile Bağımsızlık Kazanan İlk Millet",
-    "cardValue": "Yunanlılar (1829)."
+    "cardValue": "Edirne Antlaşması ile Bağımsızlık Kazanan İlk Millet",
+    "cardKey": "Yunanlılar (1829)."
   },
   {
-    "cardKey": "Sanayi Devrimi",
-    "cardValue": "18. yüzyılda İngiltere'de başlayan ve insan gücünden makine gücüne geçişi ifade eden gelişmedir."
+    "cardValue": "Sanayi Devrimi",
+    "cardKey": "18. yüzyılda İngiltere'de başlayan ve insan gücünden makine gücüne geçişi ifade eden gelişmedir."
   },
   {
-    "cardKey": "Nizam-ı Cedit",
-    "cardValue": "III. Selim döneminde Batı tarzında kurulan yeni orduya ve bu dönemdeki tüm yeniliklere verilen genel addır."
+    "cardValue": "Nizam-ı Cedit",
+    "cardKey": "III. Selim döneminde Batı tarzında kurulan yeni orduya ve bu dönemdeki tüm yeniliklere verilen genel addır."
   },
   {
-    "cardKey": "İrad-ı Cedit",
-    "cardValue": "Nizam-ı Cedit ordusunun masraflarını karşılamak için kurulan hazinedir."
+    "cardValue": "İrad-ı Cedit",
+    "cardKey": "Nizam-ı Cedit ordusunun masraflarını karşılamak için kurulan hazinedir."
   },
   {
-    "cardKey": "Asâkir-i Mansûre-i Muhammediye",
-    "cardValue": "Yeniçeri Ocağı'nın kaldırılmasından sonra II. Mahmut tarafından kurulan yeni ordunun adıdır."
+    "cardValue": "Asâkir-i Mansûre-i Muhammediye",
+    "cardKey": "Yeniçeri Ocağı'nın kaldırılmasından sonra II. Mahmut tarafından kurulan yeni ordunun adıdır."
   },
   {
-    "cardKey": "Redif Birlikleri",
-    "cardValue": "II. Mahmut döneminde, taşrada Asâkir-i Mansûre-i Muhammediye'ye asker yetiştirmek amacıyla kurulan birliklerdir."
+    "cardValue": "Redif Birlikleri",
+    "cardKey": "II. Mahmut döneminde, taşrada Asâkir-i Mansûre-i Muhammediye'ye asker yetiştirmek amacıyla kurulan birliklerdir."
   },
   {
-    "cardKey": "Osmanlı'da Demir Yolu Amaçları",
-    "cardValue": "Merkezi otoriteyi güçlendirmek, asker ve malzeme sevkiyatını kolaylaştırmak, isyanları bastırmak ve ticareti geliştirmek."
+    "cardValue": "Osmanlı'da Demir Yolu Amaçları",
+    "cardKey": "Merkezi otoriteyi güçlendirmek, asker ve malzeme sevkiyatını kolaylaştırmak, isyanları bastırmak ve ticareti geliştirmek."
   },
   {
-    "cardKey": "Hendesehane",
-    "cardValue": "Osmanlı'da modern anlamda askerî eğitim veren ve 1734'te açılan ilk okuldur."
+    "cardValue": "Hendesehane",
+    "cardKey": "Osmanlı'da modern anlamda askerî eğitim veren ve 1734'te açılan ilk okuldur."
   },
   {
-    "cardKey": "Mühendishane-i Bahr-i Hümâyun",
-    "cardValue": "Günümüzde Deniz Harp Okulu'nun temelini oluşturan ve 1775'te kurulan okuldur."
+    "cardValue": "Mühendishane-i Bahr-i Hümâyun",
+    "cardKey": "Günümüzde Deniz Harp Okulu'nun temelini oluşturan ve 1775'te kurulan okuldur."
   },
   {
-    "cardKey": "Sened-i İttifak",
-    "cardValue": "1808'de Sadrazam Alemdar Mustafa Paşa ile ayanlar arasında imzalanan ve padişahın yetkilerini sınırlayan belgedir."
+    "cardValue": "Sened-i İttifak",
+    "cardKey": "1808'de Sadrazam Alemdar Mustafa Paşa ile ayanlar arasında imzalanan ve padişahın yetkilerini sınırlayan belgedir."
   },
   {
-    "cardKey": "Tanzimat Fermanı",
-    "cardValue": "1839'da Sultan Abdülmecid tarafından ilan edilen, padişahın hukukun üstünlüğünü kabul ettiği ve anayasal düzene geçişin ilk adımı olan fermandır."
+    "cardValue": "Tanzimat Fermanı",
+    "cardKey": "1839'da Sultan Abdülmecid tarafından ilan edilen, padişahın hukukun üstünlüğünü kabul ettiği ve anayasal düzene geçişin ilk adımı olan fermandır."
   },
   {
-    "cardKey": "Islahat Fermanı",
-    "cardValue": "1856'da Paris Antlaşması öncesi ilan edilen ve gayrimüslimlere yeni haklar tanıyan fermandır."
+    "cardValue": "Islahat Fermanı",
+    "cardKey": "1856'da Paris Antlaşması öncesi ilan edilen ve gayrimüslimlere yeni haklar tanıyan fermandır."
   },
   {
-    "cardKey": "Kanun-ı Esasi",
-    "cardValue": "1876'da ilan edilen ve Türk tarihinin ilk anayasası olan belgedir."
+    "cardValue": "Kanun-ı Esasi",
+    "cardKey": "1876'da ilan edilen ve Türk tarihinin ilk anayasası olan belgedir."
   },
   {
-    "cardKey": "Meşrutiyet",
-    "cardValue": "Kanun-ı Esasi'nin ilanı ile başlayan, padişahın yanında bir de meclisin olduğu yönetim şeklidir."
+    "cardValue": "Meşrutiyet",
+    "cardKey": "Kanun-ı Esasi'nin ilanı ile başlayan, padişahın yanında bir de meclisin olduğu yönetim şeklidir."
   },
   {
-    "cardKey": "31 Mart Vakası",
-    "cardValue": "1909'da meşrutiyet rejimine karşı çıkan ve Hareket Ordusu tarafından bastırılan isyandır."
+    "cardValue": "31 Mart Vakası",
+    "cardKey": "1909'da meşrutiyet rejimine karşı çıkan ve Hareket Ordusu tarafından bastırılan isyandır."
   },
   {
-    "cardKey": "Bâbıâli Baskını",
-    "cardValue": "1913'te İttihat ve Terakki'nin hükümet binasını basarak yönetimi tamamen ele geçirdiği olaydır."
+    "cardValue": "Bâbıâli Baskını",
+    "cardKey": "1913'te İttihat ve Terakki'nin hükümet binasını basarak yönetimi tamamen ele geçirdiği olaydır."
   },
   {
-    "cardKey": "Balta Limanı Antlaşması",
-    "cardValue": "1838'de İngiltere ile imzalanan ve Osmanlı'yı Avrupalıların açık pazarı haline getiren ticaret antlaşmasıdır."
+    "cardValue": "Balta Limanı Antlaşması",
+    "cardKey": "1838'de İngiltere ile imzalanan ve Osmanlı'yı Avrupalıların açık pazarı haline getiren ticaret antlaşmasıdır."
   },
   {
-    "cardKey": "Osmanlı'nın İlk Dış Borcu",
-    "cardValue": "Kırım Savaşı sırasında 1854'te İngiltere'den alınmıştır."
+    "cardValue": "Osmanlı'nın İlk Dış Borcu",
+    "cardKey": "Kırım Savaşı sırasında 1854'te İngiltere'den alınmıştır."
   },
   {
-    "cardKey": "Düyûn-ı Umûmiye İdaresi",
-    "cardValue": "Osmanlı Devleti'nin 1881'de iflasını ilan etmesiyle alacaklı devletler tarafından kurulan ve devletin bazı gelirlerine el koyan kurumdur."
+    "cardValue": "Düyûn-ı Umûmiye İdaresi",
+    "cardKey": "Osmanlı Devleti'nin 1881'de iflasını ilan etmesiyle alacaklı devletler tarafından kurulan ve devletin bazı gelirlerine el koyan kurumdur."
   },
   {
-    "cardKey": "İlk Nüfus Sayımı",
-    "cardValue": "II. Mahmud döneminde, asker ve vergi mükelleflerini tespit etmek amacıyla yapılmıştır."
+    "cardValue": "İlk Nüfus Sayımı",
+    "cardKey": "II. Mahmud döneminde, asker ve vergi mükelleflerini tespit etmek amacıyla yapılmıştır."
   },
   {
-    "cardKey": "İlk Resmi Gazete",
-    "cardValue": "Takvim-i Vekâyi (1831)."
+    "cardValue": "İlk Resmi Gazete",
+    "cardKey": "Takvim-i Vekâyi (1831)."
   },
   {
-    "cardKey": "Mustafa Kemal'in Askeri Rüştiyesi",
-    "cardValue": "Selanik Askerî Rüştiyesi."
+    "cardValue": "Mustafa Kemal'in Askeri Rüştiyesi",
+    "cardKey": "Selanik Askerî Rüştiyesi."
   },
   {
-    "cardKey": "Mustafa Kemal'in İdadisi",
-    "cardValue": "Manastır Askerî İdadisi."
+    "cardValue": "Mustafa Kemal'in İdadisi",
+    "cardKey": "Manastır Askerî İdadisi."
   },
   {
-    "cardKey": "Mustafa Kemal'in İlk Görev Yeri ve Kurduğu Cemiyet",
-    "cardValue": "Şam'daki 5. Ordu'dur ve Vatan ve Hürriyet Cemiyeti'ni kurmuştur."
+    "cardValue": "Mustafa Kemal'in İlk Görev Yeri ve Kurduğu Cemiyet",
+    "cardKey": "Şam'daki 5. Ordu'dur ve Vatan ve Hürriyet Cemiyeti'ni kurmuştur."
   },
   {
-    "cardKey": "Osmanlıcılık",
-    "cardValue": "Osmanlı Devleti'nde dil, din, ırk ayrımı yapmadan tüm tebaayı eşit kabul ederek bir Osmanlı milleti yaratmayı amaçlayan fikir akımıdır."
+    "cardValue": "Osmanlıcılık",
+    "cardKey": "Osmanlı Devleti'nde dil, din, ırk ayrımı yapmadan tüm tebaayı eşit kabul ederek bir Osmanlı milleti yaratmayı amaçlayan fikir akımıdır."
   },
   {
-    "cardKey": "İslamcılık (Ümmetçilik)",
-    "cardValue": "Tüm dünya Müslümanlarını halifenin etrafında birleştirmeyi amaçlayan fikir akımıdır."
+    "cardValue": "İslamcılık (Ümmetçilik)",
+    "cardKey": "Tüm dünya Müslümanlarını halifenin etrafında birleştirmeyi amaçlayan fikir akımıdır."
   },
   {
-    "cardKey": "Türkçülük",
-    "cardValue": "Devletin kurtuluşunun Türk milliyetçiliği ile sağlanabileceğini savunan fikir akımıdır."
+    "cardValue": "Türkçülük",
+    "cardKey": "Devletin kurtuluşunun Türk milliyetçiliği ile sağlanabileceğini savunan fikir akımıdır."
   },
   {
-    "cardKey": "Trablusgarp Savaşı",
-    "cardValue": "İtalya'nın 1911'de sömürge elde etmek amacıyla Osmanlı'nın Kuzey Afrika'daki son toprağına saldırmasıyla başlayan savaştır."
+    "cardValue": "Trablusgarp Savaşı",
+    "cardKey": "İtalya'nın 1911'de sömürge elde etmek amacıyla Osmanlı'nın Kuzey Afrika'daki son toprağına saldırmasıyla başlayan savaştır."
   },
   {
-    "cardKey": "Uşi Antlaşması",
-    "cardValue": "Trablusgarp Savaşı'nı sona erdiren ve bu toprağın İtalya'ya bırakıldığı antlaşmadır (1912)."
+    "cardValue": "Uşi Antlaşması",
+    "cardKey": "Trablusgarp Savaşı'nı sona erdiren ve bu toprağın İtalya'ya bırakıldığı antlaşmadır (1912)."
   },
   {
-    "cardKey": "Londra Antlaşması",
-    "cardValue": "I. Balkan Savaşı sonucunda Osmanlı Devleti ile Balkan devletleri arasında imzalanan ve Midye-Enez hattının sınır kabul edildiği antlaşmadır (1913)."
+    "cardValue": "Londra Antlaşması",
+    "cardKey": "I. Balkan Savaşı sonucunda Osmanlı Devleti ile Balkan devletleri arasında imzalanan ve Midye-Enez hattının sınır kabul edildiği antlaşmadır (1913)."
   },
   {
-    "cardKey": "İstanbul Antlaşması (1913)",
-    "cardValue": "II. Balkan Savaşı sonunda Bulgaristan ile imzalanan ve Meriç Nehri'nin sınır olarak kabul edildiği antlaşmadır."
+    "cardValue": "İstanbul Antlaşması (1913)",
+    "cardKey": "II. Balkan Savaşı sonunda Bulgaristan ile imzalanan ve Meriç Nehri'nin sınır olarak kabul edildiği antlaşmadır."
   },
   {
-    "cardKey": "I. Dünya Savaşı'nı Başlatan Olay",
-    "cardValue": "Avusturya-Macaristan veliahtı Franz Ferdinand'ın Saraybosna'da bir Sırp tarafından öldürülmesidir."
+    "cardValue": "I. Dünya Savaşı'nı Başlatan Olay",
+    "cardKey": "Avusturya-Macaristan veliahtı Franz Ferdinand'ın Saraybosna'da bir Sırp tarafından öldürülmesidir."
   },
   {
-    "cardKey": "Kafkas Cephesi",
-    "cardValue": "Osmanlı Devleti'nin I. Dünya Savaşı'nda Rusya'ya karşı savaştığı ve Sarıkamış Harekatı'nın yaşandığı cephedir."
+    "cardValue": "Kafkas Cephesi",
+    "cardKey": "Osmanlı Devleti'nin I. Dünya Savaşı'nda Rusya'ya karşı savaştığı ve Sarıkamış Harekatı'nın yaşandığı cephedir."
   },
   {
-    "cardKey": "Çanakkale Cephesi",
-    "cardValue": "I. Dünya Savaşı'nı iki yıl uzatan ve Mustafa Kemal'in 'Anafartalar Kahramanı' olarak tanınmasını sağlayan cephedir."
+    "cardValue": "Çanakkale Cephesi",
+    "cardKey": "I. Dünya Savaşı'nı iki yıl uzatan ve Mustafa Kemal'in 'Anafartalar Kahramanı' olarak tanınmasını sağlayan cephedir."
   },
   {
-    "cardKey": "Irak Cephesi",
-    "cardValue": "İngilizlerin Irak petrollerini ele geçirmek ve Rusya'ya yardım ulaştırmak amacıyla açtığı, Kut'ül-Amâre zaferinin kazanıldığı cephedir."
+    "cardValue": "Irak Cephesi",
+    "cardKey": "İngilizlerin Irak petrollerini ele geçirmek ve Rusya'ya yardım ulaştırmak amacıyla açtığı, Kut'ül-Amâre zaferinin kazanıldığı cephedir."
   },
   {
-    "cardKey": "Kanal Cephesi",
-    "cardValue": "İngilizlerin sömürge yolunu kesmek ve Mısır'ı geri almak amacıyla açılan taarruz cephesidir."
+    "cardValue": "Kanal Cephesi",
+    "cardKey": "İngilizlerin sömürge yolunu kesmek ve Mısır'ı geri almak amacıyla açılan taarruz cephesidir."
   },
   {
-    "cardKey": "Sevk ve İskân Kanunu",
-    "cardValue": "Osmanlı Devleti'nin I. Dünya Savaşı sırasında, isyan eden ve Ruslarla işbirliği yapan Ermenileri savaş bölgesi dışına zorunlu göçe tabi tuttuğu kanundur."
+    "cardValue": "Sevk ve İskân Kanunu",
+    "cardKey": "Osmanlı Devleti'nin I. Dünya Savaşı sırasında, isyan eden ve Ruslarla işbirliği yapan Ermenileri savaş bölgesi dışına zorunlu göçe tabi tuttuğu kanundur."
   },
   {
-    "cardKey": "Wilson İlkeleri",
-    "cardValue": "ABD Başkanı Wilson'un, savaş sonrası dünya düzeni için yayımladığı ve yenilen devletlerden toprak alınmamasını öngören ilkelerdir."
+    "cardValue": "Wilson İlkeleri",
+    "cardKey": "ABD Başkanı Wilson'un, savaş sonrası dünya düzeni için yayımladığı ve yenilen devletlerden toprak alınmamasını öngören ilkelerdir."
   },
   {
-    "cardKey": "Mondros Ateşkes Antlaşması",
-    "cardValue": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekildiği ateşkes antlaşmasıdır (30 Ekim 1918)."
+    "cardValue": "Mondros Ateşkes Antlaşması",
+    "cardKey": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekildiği ateşkes antlaşmasıdır (30 Ekim 1918)."
   },
   {
-    "cardKey": "Mondros Ateşkes Antlaşması 7. Madde",
-    "cardValue": "İtilaf Devletleri, güvenliklerini tehdit eden bir durum ortaya çıkarsa herhangi bir stratejik noktayı işgal etme hakkına sahip olacaktır."
+    "cardValue": "Mondros Ateşkes Antlaşması 7. Madde",
+    "cardKey": "İtilaf Devletleri, güvenliklerini tehdit eden bir durum ortaya çıkarsa herhangi bir stratejik noktayı işgal etme hakkına sahip olacaktır."
   },
   {
-    "cardKey": "Kuvâ-yi Milliye",
-    "cardValue": "Mondros Ateşkesi'nden sonra Anadolu'da işgallere karşı halkın oluşturduğu düzensiz, silahlı direniş birlikleridir."
+    "cardValue": "Kuvâ-yi Milliye",
+    "cardKey": "Mondros Ateşkesi'nden sonra Anadolu'da işgallere karşı halkın oluşturduğu düzensiz, silahlı direniş birlikleridir."
   },
   {
-    "cardKey": "Amiral Bristol Raporu",
-    "cardValue": "İzmir'in işgalinin haksız olduğunu ve bölgede Türklerin çoğunlukta olduğunu belirten ilk uluslararası belgedir."
+    "cardValue": "Amiral Bristol Raporu",
+    "cardKey": "İzmir'in işgalinin haksız olduğunu ve bölgede Türklerin çoğunlukta olduğunu belirten ilk uluslararası belgedir."
   },
   {
-    "cardKey": "Amasya Genelgesi",
-    "cardValue": "Millî Mücadele'nin gerekçesi, amacı ve yönteminin belirtildiği, Mustafa Kemal tarafından hazırlanan belgedir (22 Haziran 1919)."
+    "cardValue": "Amasya Genelgesi",
+    "cardKey": "Millî Mücadele'nin gerekçesi, amacı ve yönteminin belirtildiği, Mustafa Kemal tarafından hazırlanan belgedir (22 Haziran 1919)."
   },
   {
-    "cardKey": "Erzurum Kongresi",
-    "cardValue": "Toplanış amacı bakımından bölgesel, aldığı kararlar bakımından ulusal olan ve ilk kez milli sınırlardan bahsedilen kongredir."
+    "cardValue": "Erzurum Kongresi",
+    "cardKey": "Toplanış amacı bakımından bölgesel, aldığı kararlar bakımından ulusal olan ve ilk kez milli sınırlardan bahsedilen kongredir."
   },
   {
-    "cardKey": "Manda ve Himayenin Reddi",
-    "cardValue": "Erzurum Kongresi'nde ilk kez reddedilen ve Sivas Kongresi'nde kesin olarak reddedilen fikirdir."
+    "cardValue": "Manda ve Himayenin Reddi",
+    "cardKey": "Erzurum Kongresi'nde ilk kez reddedilen ve Sivas Kongresi'nde kesin olarak reddedilen fikirdir."
   },
   {
-    "cardKey": "Sivas Kongresi",
-    "cardValue": "Tüm millî cemiyetlerin 'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti' adı altında birleştirildiği kongredir."
+    "cardValue": "Sivas Kongresi",
+    "cardKey": "Tüm millî cemiyetlerin 'Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti' adı altında birleştirildiği kongredir."
   },
   {
-    "cardKey": "Amasya Görüşmeleri",
-    "cardValue": "Sivas Kongresi'nden sonra Temsil Heyeti'nin İstanbul Hükümeti tarafından resmen tanınmasını sağlayan görüşmedir (22 Ekim 1919)."
+    "cardValue": "Amasya Görüşmeleri",
+    "cardKey": "Sivas Kongresi'nden sonra Temsil Heyeti'nin İstanbul Hükümeti tarafından resmen tanınmasını sağlayan görüşmedir (22 Ekim 1919)."
   }
 ]
