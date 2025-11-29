@@ -1,1 +1,842 @@
-
+[
+  {
+    "cardKey": "Duyu organlarındaki reseptörlerden aldıkları uyartıları merkezi sinir sistemine (beyin ve omuriliğe) taşıyan nöronlara ne ad verilir?",
+    "cardValue": "Duyu nöronu."
+  },
+  {
+    "cardKey": "Merkezi sinir sisteminden aldığı cevabı ilgili doku, organ, bez veya kasa götüren nöron hangisidir?",
+    "cardValue": "Motor nöron."
+  },
+  {
+    "cardKey": "Alınan bilginin merkezi sinir sisteminde değerlendirilmesi ve yorumlanması gibi işleri yapan nöronlara ne ad verilir?",
+    "cardValue": "Ara nöron."
+  },
+  {
+    "cardKey": "Nöronların hücre gövdesinde bulunan ve protein sentezinden sorumlu olan granüllü endoplazmik retikulum kümelerine ne denir?",
+    "cardValue": "Nissl tanecikleri."
+  },
+  {
+    "cardKey": "Çevresel sinir sisteminde nöronların aksonlarını saran miyelin kılıfı oluşturan glia hücresi hangisidir?",
+    "cardValue": "Schwann hücreleri."
+  },
+  {
+    "cardKey": "Merkezi sinir sistemi nöronlarının aksonları etrafında miyelin kılıfın oluşumundan sorumlu glia hücresi hangisidir?",
+    "cardValue": "Oligodendrositler."
+  },
+  {
+    "cardKey": "Merkezi sinir sisteminde bağışıklık fonksiyonlarını yerine getiren, mikropları ve hasarlı dokuyu fagosite eden glia hücresi hangisidir?",
+    "cardValue": "Mikroglia."
+  },
+  {
+    "cardKey": "Beyin ve omurilik içindeki sıvı dolu boşlukları çevreleyerek beyin omurilik sıvısının (BOS) üretimini ve akışını düzenleyen glia hücresi hangisidir?",
+    "cardValue": "Ependim hücreleri."
+  },
+  {
+    "cardKey": "Kan-beyin bariyeri oluşturarak toksinlerin beyne ulaşmasını engelleyen en büyük ve en çok sayıda olan glia hücresi hangisidir?",
+    "cardValue": "Astrositler."
+  },
+  {
+    "cardKey": "Bir sinir hücresi uyarıldığında meydana gelen kimyasal ve elektriksel değişimlere ne denir?",
+    "cardValue": "İmpuls (uyarı)."
+  },
+  {
+    "cardKey": "Hücre içi ve dışındaki iyonların konsantrasyon farkından dolayı hücre zarının sahip olduğu elektriksel yük farkına ne ad verilir?",
+    "cardValue": "Zar potansiyeli."
+  },
+  {
+    "cardKey": "Nöronun dinlenme zar potansiyelini korumak için ATP kullanarak hücre içi ve dışı konsantrasyon farkını sağlayan aktif taşıma mekanizması nedir?",
+    "cardValue": "Sodyum-potasyum pompası."
+  },
+  {
+    "cardKey": "Nöronun bir uyarı almadığı dinlenme anında sahip olduğu zar potansiyeli farkına ne denir?",
+    "cardValue": "Polarizasyon."
+  },
+  {
+    "cardKey": "Uyarı sonucu $Na^+$ iyonlarının hücre içine girmesiyle hücre zarının kutuplu yapısının bozulması durumuna ne denir?",
+    "cardValue": "Depolarizasyon."
+  },
+  {
+    "cardKey": "Depolarizasyon sonrası potasyum kanallarının açılmasıyla $K^+$ iyonlarının hücre dışına çıkması ve zarın yeniden polarize olmasına ne denir?",
+    "cardValue": "Repolarizasyon."
+  },
+  {
+    "cardKey": "Repolarizasyon evresinin sonunda daha fazla potasyum kanalının açık kalmasıyla sinir hücresinin ilk polarize durumundan daha düşük elektriksel yüke sahip olmasına ne denir?",
+    "cardValue": "Hiperpolarizasyon."
+  },
+  {
+    "cardKey": "Akson uçlarında sinyalin başka bir nörona, kasa ya da beze aktarıldığı bağlantı yerlerine ne ad verilir?",
+    "cardValue": "Sinaps."
+  },
+  {
+    "cardKey": "Sinapslarda kimyasal haberci olarak görev yapan ve bilgiyi bir nörondan diğerine aktaran moleküllere ne denir?",
+    "cardValue": "Nörotransmitter."
+  },
+  {
+    "cardKey": "Miyelinli aksonlarda aksiyon potansiyelinin bir Ranvier boğumundan diğerine atlayarak iletilmesine ne denir?",
+    "cardValue": "Atlamalı iletim."
+  },
+  {
+    "cardKey": "Bir sinir hücresinde aksiyon potansiyeli oluşturabilecek en küçük uyarı şiddetine ne ad verilir?",
+    "cardValue": "Eşik değer."
+  },
+  {
+    "cardKey": "Tek bir sinir hücresinin, eşik değer ve üzerindeki her uyarıya hep aynı şekilde aksiyon potansiyeli oluşturması prensibine ne denir?",
+    "cardValue": "Ya hep ya hiç prensibi."
+  },
+  {
+    "cardKey": "Sinir sistemi, _____ ve _____ olmak üzere iki bölümden oluşur.",
+    "cardValue": "merkezi sinir sistemi, çevresel sinir sistemi"
+  },
+  {
+    "cardKey": "Merkezi sinir sistemi hangi iki ana yapıdan oluşur?",
+    "cardValue": "Beyin ve omurilik."
+  },
+  {
+    "cardKey": "Beynin hafıza, öğrenme ve bilinçli davranışlar gibi işlevlerinden sorumlu en büyük kısmı hangisidir?",
+    "cardValue": "Uç beyin (korteks)."
+  },
+  {
+    "cardKey": "İskelet kaslarının kontrolü, planlama ve karar verme gibi işlevlerden sorumlu beyin lobu hangisidir?",
+    "cardValue": "Ön lop (Frontal lop)."
+  },
+  {
+    "cardKey": "Görsel bilgilerin işlendiği ve yorumlandığı beyin lobu hangisidir?",
+    "cardValue": "Arka lop (Oksipital lop)."
+  },
+  {
+    "cardKey": "İşitsel duyumların yorumlandığı ve depolandığı beyin lobu hangisidir?",
+    "cardValue": "Şakak lobu (Temporal lop)."
+  },
+  {
+    "cardKey": "Koku duyusu hariç, duyu organlarından gelen bilgilerin toplandığı ve beyin kabuğuna iletildiği ara beyin bölümü hangisidir?",
+    "cardValue": "Talamus."
+  },
+  {
+    "cardKey": "Vücut ısısını, su dengesini ve iştahı düzenleyerek homeostasiyi sağlayan ara beyin bölümü hangisidir?",
+    "cardValue": "Hipotalamus."
+  },
+  {
+    "cardKey": "Melatonin hormonu salgılayarak uyku-uyanıklık döngüsünü düzenleyen epifiz bezinin bulunduğu ara beyin bölümü hangisidir?",
+    "cardValue": "Epitalamus."
+  },
+  {
+    "cardKey": "Görme ve işitme reflekslerini düzenleyen, kas tonusunu ve vücut duruşunu kontrol eden beyin bölümü hangisidir?",
+    "cardValue": "Orta beyin."
+  },
+  {
+    "cardKey": "Orta beyindeki dopamin salgılayan nöronların dejenerasyonu hangi hastalığa neden olur?",
+    "cardValue": "Parkinson hastalığı."
+  },
+  {
+    "cardKey": "Solunum, dolaşım, sindirim gibi hayati refleks merkezlerini içeren ve \"hayat düğümü\" olarak da adlandırılan arka beyin bölümü hangisidir?",
+    "cardValue": "Omurilik soğanı."
+  },
+  {
+    "cardKey": "Hareketlerin koordine edilmesi ve dengenin sağlanmasında görevli olan arka beyin bölümü hangisidir?",
+    "cardValue": "Beyincik."
+  },
+  {
+    "cardKey": "Beyinden çıkıp omuriliğe dağılacak sinirlerin çapraz yaptığı yapı neresidir?",
+    "cardValue": "Omurilik soğanı."
+  },
+  {
+    "cardKey": "Omuriliğin enine kesitinde duyu nöronlarının aksonlarını içeren ve uyarıları merkezi sinir sistemine ileten kök hangisidir?",
+    "cardValue": "Arka kök (dorsal kök)."
+  },
+  {
+    "cardKey": "Bir uyarıya karşı hızlı, istemsiz ve planlanmamış bir tepki olan reflekslerin merkezi neresidir?",
+    "cardValue": "Omurilik."
+  },
+  {
+    "cardKey": "Refleks oluşurken sinir hücrelerinde impulsun izlediği yola ne denir?",
+    "cardValue": "Refleks yay."
+  },
+  {
+    "cardKey": "Merkezi sinir sisteminden yalnızca iskelet kaslarına tepki ileten ve istemli hareketleri kontrol eden çevresel sinir sistemi bölümü hangisidir?",
+    "cardValue": "Somatik sinir sistemi."
+  },
+  {
+    "cardKey": "Merkezi sinir sisteminden gelen çıktıyı düz kas, kalp kası ve bezlere ileten, faaliyetleri istemsiz gerçekleşen çevresel sinir sistemi bölümü hangisidir?",
+    "cardValue": "Otonom sinir sistemi."
+  },
+  {
+    "cardKey": "MS (Multipl Skleroz) hastalığında sinir hücrelerinin hangi yapısı hasar görür?",
+    "cardValue": "Miyelin kılıf."
+  },
+  {
+    "cardKey": "Beyinde hücre dışı amiloid plakların ve hücre içi nörofibril yumaklarının birikmesiyle karakterize olan nörodejeneratif hastalık hangisidir?",
+    "cardValue": "Alzheimer hastalığı."
+  },
+  {
+    "cardKey": "Merkezi sinir sistemindeki nöronların anormal ve aşırı senkronize elektrik sinyalleri oluşturmasıyla tekrarlayan nöbetlere neden olan nörolojik bozukluk nedir?",
+    "cardValue": "Epilepsi (sara)."
+  },
+  {
+    "cardKey": "Hormon adı verilen kimyasalları salgılayan iç salgı bezlerinden meydana gelen sisteme ne denir?",
+    "cardValue": "Endokrin sistem."
+  },
+  {
+    "cardKey": "Karanlıkta salgısı artan ve biyolojik ritmin (uyku-uyanıklık döngüsü) düzenlenmesinde rol oynayan hormon hangisidir ve hangi bezden salgılanır?",
+    "cardValue": "Melatonin hormonu, epifiz bezinden salgılanır."
+  },
+  {
+    "cardKey": "Hipofiz bezinin çalışmasını denetleyen ve salgılatıcı (RH) ve engelleyici (IH) hormonlar üreten beyin bölümü hangisidir?",
+    "cardValue": "Hipotalamus."
+  },
+  {
+    "cardKey": "Büyüme çağında aşırı salgılanması devliğe (gigantizm), az salgılanması cüceliğe neden olan hipofiz ön lob hormonu hangisidir?",
+    "cardValue": "Büyüme Hormonu (GH, Somatotropin)."
+  },
+  {
+    "cardKey": "Kadınlarda yumurtalıklardaki folikül gelişimini, erkeklerde ise testislerde sperm üretimini (spermatogenez) uyaran hipofiz hormonu hangisidir?",
+    "cardValue": "Folikül Uyarıcı Hormon (FSH)."
+  },
+  {
+    "cardKey": "Kadınlarda yumurtlamayı (ovulasyon) sağlayan ve erkeklerde testosteron salgılanmasını uyaran hipofiz hormonu hangisidir?",
+    "cardValue": "Lüteinleştirici Hormon (LH)."
+  },
+  {
+    "cardKey": "Doğumdan sonra meme bezlerinden süt sentezini uyaran hipofiz ön lob hormonu hangisidir?",
+    "cardValue": "Prolaktin (LTH)."
+  },
+  {
+    "cardKey": "Böbrek üstü bezlerinin korteks (kabuk) kısmını uyararak buradan hormon salgılanmasını sağlayan hipofiz hormonu hangisidir?",
+    "cardValue": "Adrenokortikotropik Hormon (ACTH)."
+  },
+  {
+    "cardKey": "Hipotalamusta üretilip hipofizin arka lobunda depolanan, doğum sırasında rahim kaslarının kasılmasını sağlayan hormon hangisidir?",
+    "cardValue": "Oksitosin."
+  },
+  {
+    "cardKey": "Kanın osmotik basıncı arttığında böbrek kanallarından suyun geri emilimini sağlayan hipotalamus hormonu hangisidir?",
+    "cardValue": "Antidiüretik Hormon (ADH, Vazopressin)."
+  },
+  {
+    "cardKey": "Yapısında iyot bulunan ve vücuttaki tüm hücrelerin bazal metabolizma hızını düzenleyen hormon hangisidir?",
+    "cardValue": "Tiroksin."
+  },
+  {
+    "cardKey": "İyot eksikliğine bağlı olarak tiroksin hormonunun yetersiz üretilmesiyle tiroit bezinin büyümesi sonucu ortaya çıkan hastalık nedir?",
+    "cardValue": "Guatr."
+  },
+  {
+    "cardKey": "Kandaki kalsiyum seviyesi normalin üstüne çıktığında, fazla kalsiyumun kemiklere geçmesini sağlayan hormon hangisidir?",
+    "cardValue": "Kalsitonin."
+  },
+  {
+    "cardKey": "Kandaki kalsiyum seviyesi normalin altına düştüğünde kemikten kana kalsiyum geçişini sağlayan hormon hangisidir?",
+    "cardValue": "Parathormon (PTH)."
+  },
+  {
+    "cardKey": "Birbirine zıt (ters) etki gösteren kalsitonin ve parathormon gibi hormonlara ne ad verilir?",
+    "cardValue": "Antagonist hormonlar."
+  },
+  {
+    "cardKey": "Bağışıklık sisteminin önemli hücrelerinden olan T lenfositlerin olgunlaşmasında etkili hormonları salgılayan bez hangisidir?",
+    "cardValue": "Timüs bezi."
+  },
+  {
+    "cardKey": "Böbrek üstü bezlerinin dış kısmına _____ (korteks), iç kısmına ise _____ (medulla) adı verilir.",
+    "cardValue": "kabuk, öz"
+  },
+  {
+    "cardKey": "Böbrek kanallarından sodyumun geri emilimini artırırken potasyumun atılımını hızlandıran, böbrek üstü bezi korteks hormonu hangisidir?",
+    "cardValue": "Aldosteron."
+  },
+  {
+    "cardKey": "Stres durumunda salgılanan, kan şekerini yükselten ve bağışıklık sistemini baskılayıcı etkiye sahip olan korteks hormonu hangisidir?",
+    "cardValue": "Kortizol."
+  },
+  {
+    "cardKey": "Stres durumunda kalp atışını hızlandıran, kan basıncını yükselten ve karaciğerdeki glikojenin glikoza dönüşümünü sağlayan medulla hormonu hangisidir?",
+    "cardValue": "Adrenalin (Epinefrin)."
+  },
+  {
+    "cardKey": "Pankreastaki Langerhans adacıklarında bulunan beta hücreleri tarafından salgılanan ve kan şekerini düşüren hormon hangisidir?",
+    "cardValue": "İnsülin."
+  },
+  {
+    "cardKey": "Pankreastaki Langerhans adacıklarında bulunan alfa hücreleri tarafından salgılanan ve kan şekerini yükselten hormon hangisidir?",
+    "cardValue": "Glukagon."
+  },
+  {
+    "cardKey": "Kadınlarda ikincil eşeysel özelliklerin oluşmasından ve menstrual döngünün düzenlenmesinden sorumlu olan yumurtalık hormonu hangisidir?",
+    "cardValue": "Östrojen."
+  },
+  {
+    "cardKey": "Gebeliğin devamını sağlayan, rahim duvarını embriyonun yerleşmesi için uygun hale getiren yumurtalık hormonu hangisidir?",
+    "cardValue": "Progesteron."
+  },
+  {
+    "cardKey": "Erkeklerde spermlerin olgunlaşmasını ve ikincil eşeysel özelliklerin oluşmasını sağlayan, testislerdeki Leydig hücrelerinden salgılanan hormon hangisidir?",
+    "cardValue": "Testosteron."
+  },
+  {
+    "cardKey": "Basınç, dokunma, gerilme gibi mekanik enerji formlarını algılayan reseptörlere ne denir?",
+    "cardValue": "Mekanoreseptörler."
+  },
+  {
+    "cardKey": "Dil ve burunda bulunan, kimyasal maddelere duyarlı olan reseptörlere ne denir?",
+    "cardValue": "Kemoreseptörler."
+  },
+  {
+    "cardKey": "Gözde bulunan ve ışığa karşı duyarlı olan fotoreseptörler hangi reseptör çeşidine örnektir?",
+    "cardValue": "Elektromanyetik reseptörler."
+  },
+  {
+    "cardKey": "Derinin en üst katmanı olan ve ölmüş yassı epitel hücrelerinden oluşan tabakaya ne ad verilir?",
+    "cardValue": "Korun tabakası."
+  },
+  {
+    "cardKey": "Derideki melanosit hücreleri tarafından üretilen ve deriye renk veren pigment hangisidir?",
+    "cardValue": "Melanin pigmenti."
+  },
+  {
+    "cardKey": "Derinin alt tabakası olan dermiste dokunmaya duyarlı, parmak uçları ve dudaklar gibi kılsız deride bulunan cisimcik hangisidir?",
+    "cardValue": "Meissner cisimcikleri."
+  },
+  {
+    "cardKey": "Derinin alt katmanlarında bulunan ve kuvvetli basınç ile titreşimi algılayan kapsüllü reseptör hangisidir?",
+    "cardValue": "Pacini cisimciği."
+  },
+  {
+    "cardKey": "Koku molekülleri burunda hangi sıvı içinde çözünerek kemoreseptörleri uyarır?",
+    "cardValue": "Mukus."
+  },
+  {
+    "cardKey": "Koku duyusundan gelen impulslar, beyin korteksine gitmeden önce sinir sisteminin hangi yapısına uğramaz?",
+    "cardValue": "Talamus."
+  },
+  {
+    "cardKey": "Dilin yüzeyinde bulunan ve tat tomurcuklarını içeren çıkıntılara ne ad verilir?",
+    "cardValue": "Papilla."
+  },
+  {
+    "cardKey": "Atmosfer ile orta kulak arasındaki basıncı dengeleyerek kulak zarının zarar görmesini engelleyen yapı hangisidir?",
+    "cardValue": "Östaki borusu."
+  },
+  {
+    "cardKey": "İç kulakta bulunan salyangoz (kohlea) içindeki temel zar üzerinde yer alan ve işitmeden sorumlu mekanoreseptörleri içeren organ hangisidir?",
+    "cardValue": "Corti organı."
+  },
+  {
+    "cardKey": "İç kulakta, başın hareketlerini algılayarak vücut pozisyonu ve dengeyi sağlayan yapılar hangileridir?",
+    "cardValue": "Yarım daire kanalları."
+  },
+  {
+    "cardKey": "Gözün ön kısmında saydamlaşıp şişkinleşerek ışığın ilk kırıldığı tabakayı oluşturan yapı hangisidir?",
+    "cardValue": "Kornea (saydam tabaka)."
+  },
+  {
+    "cardKey": "Göz bebeğinin büyüklüğünı ayarlayarak göze giren ışık miktarını kontrol eden, göze rengini veren pigmentli yapı hangisidir?",
+    "cardValue": "İris."
+  },
+  {
+    "cardKey": "Yakındaki ve uzaktaki cisimlere odaklanırken asıcı bağlar ve kirpiksi cisim sayesinde şekil değiştiren yapı hangisidir?",
+    "cardValue": "Göz merceği."
+  },
+  {
+    "cardKey": "Gözün ağ tabakasında (retina) bulunan ve loş ışıkta siyah-beyaz görmeyi sağlayan fotoreseptör hücreleri hangileridir?",
+    "cardValue": "Çubuk hücreleri."
+  },
+  {
+    "cardKey": "Gözün ağ tabakasında (retina) bulunan ve parlak ışıkta renkli görmeyi sağlayan fotoreseptör hücreleri hangileridir?",
+    "cardValue": "Koni hücreleri."
+  },
+  {
+    "cardKey": "Görüntünün retinada en net oluştuğu ve koni hücrelerinin yoğun olarak bulunduğu bölgeye ne denir?",
+    "cardValue": "Sarı nokta (fovea)."
+  },
+  {
+    "cardKey": "A vitamini eksikliğinde, az ışıklı ortamlarda görme yeteneğinin belirgin şekilde azalmasıyla ortaya çıkan göz rahatsızlığı nedir?",
+    "cardValue": "Gece körlüğü."
+  },
+  {
+    "cardKey": "Göz küresinin normalden uzun olması nedeniyle görüntünün retinanın önünde odaklanmasıyla ortaya çıkan ve uzağı net görememe durumu nedir?",
+    "cardValue": "Miyopi."
+  },
+  {
+    "cardKey": "Göz küresinin normalden kısa olması nedeniyle görüntünün retinanın arkasında odaklanmasıyla ortaya çıkan ve yakını net görememe durumu nedir?",
+    "cardValue": "Hipermetropi."
+  },
+  {
+    "cardKey": "Kemik dokunun hücrelerine _____, ara maddesine _____ adı verilir.",
+    "cardValue": "osteosit, osein"
+  },
+  {
+    "cardKey": "Kemiklerin dışını saran, enine büyümeyi ve kırıkların onarılmasını sağlayan zarın adı nedir?",
+    "cardValue": "Periost."
+  },
+  {
+    "cardKey": "Sıkı kemik dokuda sinirleri ve kan damarlarını içeren merkezi kanallara ne denir?",
+    "cardValue": "Havers kanalları."
+  },
+  {
+    "cardKey": "Sadece uzun kemiklerin gövdesinde bulunan ve bol miktarda yağ içeren ilik çeşidi hangisidir?",
+    "cardValue": "Sarı kemik iliği."
+  },
+  {
+    "cardKey": "Uzun kemiklerin baş kısmında bulunan ve ergenlik dönemi sonuna kadar boyca uzamayı sağlayan kıkırdak yapı nedir?",
+    "cardValue": "Epifiz plağı."
+  },
+  {
+    "cardKey": "Kıkırdak dokunun hücrelerine _____ , ara maddesine _____ denir.",
+    "cardValue": "kondrosit, kondrin"
+  },
+  {
+    "cardKey": "Omurlar arasında bulunan, basınca ve çekmeye dayanıklı diskleri oluşturan kıkırdak çeşidi hangisidir?",
+    "cardValue": "Fibröz kıkırdak."
+  },
+  {
+    "cardKey": "Hareketli eklemlerde, kemiklerin aşınmasını önlemek için eklem boşluğunu dolduran sıvının adı nedir?",
+    "cardValue": "Sinoviyal sıvı."
+  },
+  {
+    "cardKey": "Kas hücrelerinin hücre zarına _____, sitoplazmasına _____ denir.",
+    "cardValue": "sarkolemma, sarkoplazma"
+  },
+  {
+    "cardKey": "İskelet kası hücrelerindeki kasılma birimine ne ad verilir?",
+    "cardValue": "Sarkomer."
+  },
+  {
+    "cardKey": "İskelet kasında sadece aktin filamentlerinden oluşan açık renkli bölgeye ne ad verilir?",
+    "cardValue": "I bandı."
+  },
+  {
+    "cardKey": "İskelet kasında aktin ve miyozin filamentlerinin birlikte bulunduğu koyu renkli bölgeye ne ad verilir?",
+    "cardValue": "A bandı."
+  },
+  {
+    "cardKey": "İskelet kasında A bandının ortasında sadece miyozin filamentlerinden oluşan bölgeye ne denir?",
+    "cardValue": "H bandı."
+  },
+  {
+    "cardKey": "Kas kasılması sırasında boyu değişmeyen bant hangisidir?",
+    "cardValue": "A bandı."
+  },
+  {
+    "cardKey": "Kas kasılması sırasında daralan veya kaybolan bantlar hangileridir?",
+    "cardValue": "I bandı ve H bandı."
+  },
+  {
+    "cardKey": "Motor nörondan salgılanan ve kas hücresindeki reseptörlere bağlanarak kasılmayı başlatan nörotransmitter madde nedir?",
+    "cardValue": "Asetilkolin."
+  },
+  {
+    "cardKey": "Kas hücresinde sarkoplazmik retikulumdan sarkoplazmaya salınan ve aktin filamentine bağlanarak kasılmayı tetikleyen iyon hangisidir?",
+    "cardValue": "Kalsiyum ($Ca^{+2}$)."
+  },
+  {
+    "cardKey": "Miyozin başının aktine bağlanması ve aktin filamentini kaydırması için gerekli enerji hangi molekülün hidrolizinden sağlanır?",
+    "cardValue": "ATP."
+  },
+  {
+    "cardKey": "Çizgili kasların dinlenme durumunda dahi hafif kasılı ve gergin kalma durumuna ne denir?",
+    "cardValue": "Kas tonusu."
+  },
+  {
+    "cardKey": "Uyarıların çok hızlı tekrarlanmasıyla kasın gevşemeye fırsat bulamadan sürekli kasılı kalması durumuna ne denir?",
+    "cardValue": "Fizyolojik tetanus (kramp)."
+  },
+  {
+    "cardKey": "Aynı ekleme bağlı olup zıt yönde çalışan (biri kasılırken diğeri gevşeyen) kas çiftlerine ne ad verilir?",
+    "cardValue": "Antagonist kaslar."
+  },
+  {
+    "cardKey": "Büyük moleküllü besinlerin su ve sindirim enzimleri ile yapı taşlarına kadar parçalanmasına ne denir?",
+    "cardValue": "Kimyasal sindirim."
+  },
+  {
+    "cardKey": "Yağların mekanik sindirimini sağlayan ve karaciğerde üretilen sindirim sıvısı nedir?",
+    "cardValue": "Safra."
+  },
+  {
+    "cardKey": "Tükürük içinde bulunan ve nişasta ile glikojenin kimyasal sindirimini başlatan enzim hangisidir?",
+    "cardValue": "Amilaz (pityalin)."
+  },
+  {
+    "cardKey": "Midede bulunan _____ hücreleri, mide öz suyu salgılanmasını uyaran gastrin hormonunu üretir.",
+    "cardValue": "mide bezlerini oluşturan farklı görevdeki"
+  },
+  {
+    "cardKey": "Mide öz suyunda bulunan ve inaktif pepsinojeni aktif pepsin enzimine dönüştüren madde nedir?",
+    "cardValue": "Hidroklorik asit (HCl)."
+  },
+  {
+    "cardKey": "Proteinlerin kimyasal sindirimini başlatan pepsin enzimi hangi organda görev yapar?",
+    "cardValue": "Mide."
+  },
+  {
+    "cardKey": "İnce bağırsağın emilim yüzey alanını artıran parmak şeklindeki kıvrımlara _____ denir.",
+    "cardValue": "villus"
+  },
+  {
+    "cardKey": "Mideden gelen asidik kimusun etkisiyle ince bağırsak duvarından salgılanan ve pankreas ile karaciğeri uyaran hormonlar hangileridir?",
+    "cardValue": "Sekretin ve kolesistokinin."
+  },
+  {
+    "cardKey": "Kalın bağırsakta yaşayan ve B ve K vitaminlerini üreten canlılar hangileridir?",
+    "cardValue": "Bakteriler (mutualist bakteriler)."
+  },
+  {
+    "cardKey": "Pankreas öz suyunda bulunan ve protein sindiriminde görevli olan tripsinojen, kimotripsinojen gibi inaktif enzimleri onikiparmak bağırsağında aktifleştiren enzim hangisidir?",
+    "cardValue": "Enterokinaz (enteropeptidaz)."
+  },
+  {
+    "cardKey": "Karaciğerde üretilen safra sıvısı hangi organda depolanır?",
+    "cardValue": "Safra kesesi."
+  },
+  {
+    "cardKey": "Sindirim sisteminden emilen besinlerin kan yoluyla ilk uğradığı organ hangisidir?",
+    "cardValue": "Karaciğer."
+  },
+  {
+    "cardKey": "Yağların sindirimi sonucu oluşan yağ asitleri ve gliserol, ince bağırsak epitel hücrelerinde yeniden trigliseritlere dönüştürüldükten sonra hangi yapılar halinde lenf sistemine geçer?",
+    "cardValue": "Şilomikron."
+  },
+  {
+    "cardKey": "Kalbin dıştan içe doğru tabakaları sırasıyla nelerdir?",
+    "cardValue": "Perikart, miyokart ve endokart."
+  },
+  {
+    "cardKey": "Kalbin sağ tarafındaki odacıklarda ne tür kan bulunur?",
+    "cardValue": "Oksijen bakımından fakir (kirli) kan."
+  },
+  {
+    "cardKey": "Kalbin sol tarafındaki odacıklarda ne tür kan bulunur?",
+    "cardValue": "Oksijen bakımından zengin (temiz) kan."
+  },
+  {
+    "cardKey": "Sağ kulakçık ile sağ karıncık arasında bulunan kapakçık hangisidir?",
+    "cardValue": "Triküspit kapakçık (üçlü kapakçık)."
+  },
+  {
+    "cardKey": "Sol kulakçık ile sol karıncık arasında bulunan kapakçık hangisidir?",
+    "cardValue": "Biküspit kapakçık (mitral kapakçık)."
+  },
+  {
+    "cardKey": "Kalbin kasılmasına _____, gevşemesine _____ denir.",
+    "cardValue": "sistol, diyastol"
+  },
+  {
+    "cardKey": "Kalbin kasılmasını başlatan ve kalp atış hızını belirleyen, sağ kulakçık duvarında bulunan yapı nedir?",
+    "cardValue": "Sinoatriyal düğüm (SA)."
+  },
+  {
+    "cardKey": "SA düğümünden gelen uyarıyı karıncıklara ileten ve His demetleri ile Purkinje liflerine yayan yapı hangisidir?",
+    "cardValue": "Atriyoventriküler düğüm (AV)."
+  },
+  {
+    "cardKey": "Kalp ile akciğerler arasındaki kan dolaşımına ne ad verilir?",
+    "cardValue": "Küçük kan dolaşımı."
+  },
+  {
+    "cardKey": "Kalp ile vücudun diğer doku ve organları arasındaki kan dolaşımına ne ad verilir?",
+    "cardValue": "Büyük kan dolaşımı."
+  },
+  {
+    "cardKey": "Akciğer atardamarı hariç tüm atardamarlar _____ kan taşır.",
+    "cardValue": "oksijence zengin (temiz)"
+  },
+  {
+    "cardKey": "Akciğer toplardamarı hariç tüm toplardamarlar _____ kan taşır.",
+    "cardValue": "oksijence fakir (kirli)"
+  },
+  {
+    "cardKey": "Kan ile doku sıvısı arasındaki madde alışverişi hangi damarlarda gerçekleşir?",
+    "cardValue": "Kılcal damarlar."
+  },
+  {
+    "cardKey": "Starling hipotezine göre, kılcal damarın atardamar ucunda kan basıncı ozmotik basınçtan _____ olduğu için madde çıkışı olur.",
+    "cardValue": "yüksek"
+  },
+  {
+    "cardKey": "Kanın pıhtılaşma faktörlerinden olan fibrinojen plazmadan ayrıldığında geriye kalan sıvıya ne denir?",
+    "cardValue": "Serum."
+  },
+  {
+    "cardKey": "Oksijen ve karbondioksit taşıyan, yapısında hemoglobin bulunan kan hücresi hangisidir?",
+    "cardValue": "Alyuvar (eritrosit)."
+  },
+  {
+    "cardKey": "Vücudu enfeksiyonlara karşı koruyan, fagositoz yapan veya antikor üreten kan hücreleri hangileridir?",
+    "cardValue": "Akyuvarlar (lökositler)."
+  },
+  {
+    "cardKey": "Damar zedelenmelerinde kanın pıhtılaşmasını başlatan ve trombosit tıkacı oluşturan yapılar nelerdir?",
+    "cardValue": "Kan pulcukları (trombositler)."
+  },
+  {
+    "cardKey": "Kanın pıhtılaşması sırasında plazmada inaktif halde bulunan fibrinojeni, aktif fibrin iplikçiklerine dönüştüren enzim hangisidir?",
+    "cardValue": "Trombin."
+  },
+  {
+    "cardKey": "Alyuvar zarında A antijeni, plazmasında ise Anti-B antikoru bulunan bir bireyin kan grubu nedir?",
+    "cardValue": "A kan grubu."
+  },
+  {
+    "cardKey": "Alyuvar zarında hem A hem de B antijeni bulunan, ancak plazmasında antikor bulunmayan bir bireyin kan grubu nedir?",
+    "cardValue": "AB kan grubu."
+  },
+  {
+    "cardKey": "Kan nakillerinde vericinin alyuvarlarındaki antijen ile alıcının plazmasındaki antikorun birleşerek alyuvarların kümelenmesine ne denir?",
+    "cardValue": "Aglütinasyon (çökelme)."
+  },
+  {
+    "cardKey": "Doku sıvısının fazlasını ve ince bağırsaktan emilen yağları toplayarak kan dolaşımına geri kazandıran sistem hangisidir?",
+    "cardValue": "Lenf dolaşım sistemi."
+  },
+  {
+    "cardKey": "Lenf sıvısının kan dolaşımına katıldığı son damarlar hangileridir?",
+    "cardValue": "Sağ ve sol köprücük altı toplardamarları."
+  },
+  {
+    "cardKey": "Lenf damarlarının tıkanması sonucu doku sıvısının birikmesiyle oluşan şişliğe ne ad verilir?",
+    "cardValue": "Ödem."
+  },
+  {
+    "cardKey": "Vücudun patojenlere karşı sahip olduğu ilk savunma hattı olan ve doğumdan itibaren var olan bağışıklık türü nedir?",
+    "cardValue": "Doğal bağışıklık (özgül olmayan bağışıklık)."
+  },
+  {
+    "cardKey": "Tükürük, gözyaşı gibi vücut sıvılarında bulunan ve mikropların hücre duvarını parçalayan enzim hangisidir?",
+    "cardValue": "Lizozim."
+  },
+  {
+    "cardKey": "Vücuda giren patojenleri yutarak sindiren fagositoz yapan hücrelere iki örnek veriniz.",
+    "cardValue": "Monositler ve nötrofiller."
+  },
+  {
+    "cardKey": "Virüsle enfekte olmuş veya kanserleşmiş hücreleri tanıyıp salgıladıkları kimyasallarla yok eden doğal bağışıklık hücreleri hangileridir?",
+    "cardValue": "Doğal katil hücreler."
+  },
+  {
+    "cardKey": "Dokuda hasar oluştuğunda mast hücrelerinden salgılanan ve damar genişlemesine neden olan madde nedir?",
+    "cardValue": "Histamin."
+  },
+  {
+    "cardKey": "Belirli hastalık etkenlerine karşı B ve T lenfositleri tarafından sağlanan ve hatırlanma özelliğine sahip bağışıklık türü nedir?",
+    "cardValue": "Kazanılmış (özgül) bağışıklık."
+  },
+  {
+    "cardKey": "B lenfositlerinin aktifleşerek plazma hücrelerine dönüşmesi ve antikor üretmesiyle sağlanan bağışıklık türü nedir?",
+    "cardValue": "Humoral (sıvısal) bağışıklık."
+  },
+  {
+    "cardKey": "T lenfositlerinin hücre içindeki yabancı moleküllere veya enfekte olmuş hücrelere doğrudan saldırmasıyla oluşan bağışıklık türü nedir?",
+    "cardValue": "Hücresel bağışıklık."
+  },
+  {
+    "cardKey": "Aynı antijenle ikinci kez karşılaşıldığında bellek hücreleri sayesinde daha hızlı ve güçlü bir yanıt oluşturulmasına ne denir?",
+    "cardValue": "İkincil bağışıklık cevabı."
+  },
+  {
+    "cardKey": "Hastalığı geçirme veya aşı yoluyla vücudun kendi antikorlarını üretmesiyle kazanılan bağışıklık türü nedir?",
+    "cardValue": "Aktif bağışıklık."
+  },
+  {
+    "cardKey": "Serum yoluyla veya anneden bebeğe antikorların hazır olarak geçmesiyle kazanılan geçici bağışıklık türü nedir?",
+    "cardValue": "Pasif bağışıklık."
+  },
+  {
+    "cardKey": "Bağışıklık sisteminin vücudun kendi moleküllerine saldırması sonucu ortaya çıkan hastalıklara ne denir?",
+    "cardValue": "Otoimmün hastalıklar."
+  },
+  {
+    "cardKey": "Solunum sisteminde havanın akciğerlere iletilmeden önce ısıtıldığı, nemlendirildiği ve temizlendiği organ hangisidir?",
+    "cardValue": "Burun."
+  },
+  {
+    "cardKey": "Yutma sırasında besinlerin soluk borusuna kaçmasını engelleyen kıkırdak yapılı kapak hangisidir?",
+    "cardValue": "Gırtlak kapağı (epiglottis)."
+  },
+  {
+    "cardKey": "Soluk borusunun sürekli açık kalmasını sağlayan C şeklindeki yapılar hangi dokudan oluşmuştur?",
+    "cardValue": "Hiyalin kıkırdak."
+  },
+  {
+    "cardKey": "Akciğerlerde gaz değişiminin gerçekleştiği, tek katlı yassı epitelden oluşan küçük hava keseciklerine ne denir?",
+    "cardValue": "Alveoller."
+  },
+  {
+    "cardKey": "Soluk alma sırasında diyafram kası _____ ve kaburgalar arası kaslar _____.",
+    "cardValue": "kasılır (düzleşir), kasılır"
+  },
+  {
+    "cardKey": "Soluk verme sırasında diyafram kası _____ ve kaburgalar arası kaslar _____.",
+    "cardValue": "gevşer (kubbeleşir), gevşer"
+  },
+  {
+    "cardKey": "Soluk alıp verme hızını ve derinliğini düzenleyen temel sinir sistemi merkezi neresidir?",
+    "cardValue": "Omurilik soğanı ve pons."
+  },
+  {
+    "cardKey": "Solunumun düzenlenmesinde en önemli kimyasal faktör, kandaki _____ seviyesinin neden olduğu pH değişimidir.",
+    "cardValue": "karbondioksit ($CO_2$)"
+  },
+  {
+    "cardKey": "Oksijenin büyük bir kısmı kanda alyuvarlardaki hangi moleküle bağlanarak taşınır?",
+    "cardValue": "Hemoglobin."
+  },
+  {
+    "cardKey": "Kanda karbondioksitin en fazla taşınma şekli nedir?",
+    "cardValue": "Bikarbonat iyonları ($HCO_3^-$) şeklinde kan plazmasında."
+  },
+  {
+    "cardKey": "Doku kılcallarında karbondioksit ile suyu birleştirerek karbonik asit oluşturan enzim hangisidir?",
+    "cardValue": "Karbonik anhidraz."
+  },
+  {
+    "cardKey": "Kan pH'sinin düşmesi, hemoglobinin oksijene olan ilgisini azaltarak oksijeni serbest bırakmasını sağlar. Bu etkiye ne denir?",
+    "cardValue": "Bohr kayması (Bohr etkisi)."
+  },
+  {
+    "cardKey": "İnsanda temel azotlu boşaltım atığı nedir ve hangi organda sentezlenir?",
+    "cardValue": "Üre, karaciğerde sentezlenir."
+  },
+  {
+    "cardKey": "Böbrekte idrar oluşumunu gerçekleştiren en küçük yapısal ve işlevsel birime ne denir?",
+    "cardValue": "Nefron."
+  },
+  {
+    "cardKey": "Nefronda, glomerulus kılcallarını saran ve süzülme olayının gerçekleştiği yapı hangisidir?",
+    "cardValue": "Bowman kapsülü."
+  },
+  {
+    "cardKey": "Glomerulus kılcallarının diğer vücut kılcallarından farkı nedir?",
+    "cardValue": "İki atardamar arasında yer alır ve kan basıncı çok daha yüksektir."
+  },
+  {
+    "cardKey": "İdrar oluşumunun ilk basamağı olan ve glomerulus kılcallarından Bowman kapsülüne madde geçişi olan olay nedir?",
+    "cardValue": "Süzülme (filtrasyon)."
+  },
+  {
+    "cardKey": "Nefron kanallarındaki süzüntüden yararlı maddelerin (su, glikoz, amino asitler) kana geri alınması olayına ne denir?",
+    "cardValue": "Geri emilim."
+  },
+  {
+    "cardKey": "Sağlıklı bir insanda glikoz ve amino asitlerin tamamının geri emildiği nefron bölümü hangisidir?",
+    "cardValue": "Proksimal tüp."
+  },
+  {
+    "cardKey": "Kandaki bazı atık maddelerin (ilaçlar, H+ iyonları) aktif taşımayla nefron kanallarına verilmesi olayına ne denir?",
+    "cardValue": "Salgılama (sekresyon)."
+  },
+  {
+    "cardKey": "Böbreklerde suyun geri emilimini düzenleyen hipofiz hormonu _____ ve tuzun geri emilimini düzenleyen böbrek üstü bezi hormonu _____ 'dur.",
+    "cardValue": "ADH (Antidiüretik Hormon), Aldosteron"
+  },
+  {
+    "cardKey": "Böbrek yetmezliği olan hastalarda kanın yapay bir zardan geçirilerek temizlenmesi yöntemine ne ad verilir?",
+    "cardValue": "Diyaliz."
+  },
+  {
+    "cardKey": "Erkek üreme sisteminde spermlerin üretildiği testislerdeki kıvrımlı kanallara ne denir?",
+    "cardValue": "Seminifer tüpçükler."
+  },
+  {
+    "cardKey": "Seminifer tüpçüklerde bulunan ve gelişmekte olan spermleri besleyip koruyan hücreler hangileridir?",
+    "cardValue": "Sertoli hücreleri."
+  },
+  {
+    "cardKey": "Seminifer tüpçükler arasında yer alan ve testosteron hormonu üreten hücreler hangileridir?",
+    "cardValue": "Leydig hücreleri."
+  },
+  {
+    "cardKey": "Spermlerin olgunlaştığı, hareket ve döllenme yeteneği kazandığı yapı neresidir?",
+    "cardValue": "Epididimis."
+  },
+  {
+    "cardKey": "Spermin baş kısmında bulunan ve yumurta zarını eritecek sindirim enzimlerini içeren yapı nedir?",
+    "cardValue": "Akrozom."
+  },
+  {
+    "cardKey": "Dişi üreme sisteminde yumurtanın üretildiği ve östrojen ile progesteron hormonlarının salgılandığı organ hangisidir?",
+    "cardValue": "Yumurtalık (ovaryum)."
+  },
+  {
+    "cardKey": "Döllenmenin gerçekleştiği ve zigotun ilk bölünmelerini geçirdiği dişi üreme sistemi bölümü neresidir?",
+    "cardValue": "Yumurta kanalı (fallop tüpü)."
+  },
+  {
+    "cardKey": "Embriyonun tutunup geliştiği, kalın ve kaslı yapıdaki organ hangisidir?",
+    "cardValue": "Rahim (döl yatağı, uterus)."
+  },
+  {
+    "cardKey": "Dişilerde üreme döngüsünü başlatan, hipofizden FSH ve LH salgılanmasını sağlayan hipotalamus hormonu nedir?",
+    "cardValue": "GnRH (Gonadotropin salgılatıcı hormon)."
+  },
+  {
+    "cardKey": "Menstrual döngünün yaklaşık 14. gününde LH hormonunun etkisiyle folikülün yırtılıp ikincil oositin yumurta kanalına atılması olayına ne denir?",
+    "cardValue": "Ovulasyon (yumurtlama)."
+  },
+  {
+    "cardKey": "Ovulasyondan sonra yırtılan folikülün dönüştüğü, progesteron ve östrojen salgılayan sarı renkli yapı nedir?",
+    "cardValue": "Korpus luteum (sarı cisim)."
+  },
+  {
+    "cardKey": "Döllenme olmazsa korpus luteumun bozulmasıyla rahim iç duvarının (endometriyum) kanla birlikte atıldığı evreye ne denir?",
+    "cardValue": "Menstruasyon evresi."
+  },
+  {
+    "cardKey": "Zigotun art arda mitoz bölünmeler geçirerek hücre sayısını artırdığı embriyonik gelişim evresi nedir?",
+    "cardValue": "Segmentasyon."
+  },
+  {
+    "cardKey": "Segmentasyon sonucu oluşan dut görünümündeki hücre topluluğuna ne ad verilir?",
+    "cardValue": "Morula."
+  },
+  {
+    "cardKey": "Hücre göçüyle ektoderm, endoderm ve mezoderm olmak üzere üç embriyonik tabakanın oluştuğu evre hangisidir?",
+    "cardValue": "Gastrulasyon."
+  },
+  {
+    "cardKey": "Embriyonik tabakalardan doku ve organların geliştiği evreye ne ad verilir?",
+    "cardValue": "Organogenez."
+  },
+  {
+    "cardKey": "Anne ile fetüs arasında madde alışverişini sağlayan ve hormon üreten yapı nedir?",
+    "cardValue": "Plasenta."
+  },
+  {
+    "cardKey": "Fetüsteki metabolik atıkları anneye taşıyan göbek kordonundaki damarlar hangileridir?",
+    "cardValue": "İki atardamar."
+  },
+  {
+    "cardKey": "Anneden aldığı oksijen ve besinleri fetüse taşıyan göbek kordonundaki damar hangisidir?",
+    "cardValue": "Bir toplardamar."
+  },
+  {
+    "cardKey": "Belirli bir bölgede yaşayan ve birbiriyle etkileşim halindeki farklı türlerin oluşturduğu topluluğa ne denir?",
+    "cardValue": "Komünite."
+  },
+  {
+    "cardKey": "Bir canlının doğal olarak yaşadığı, ürediği ve yerleştiği alana ne denir?",
+    "cardValue": "Habitat."
+  },
+  {
+    "cardKey": "Bir türün komünite içinde sahip olduğu işlevsel role (yaptığı işe) ne ad verilir?",
+    "cardValue": "Ekolojik niş."
+  },
+  {
+    "cardKey": "Komünitede sayıca en bol olan veya en yüksek biyokütleye sahip olan türe ne denir?",
+    "cardValue": "Baskın (dominant) tür."
+  },
+  {
+    "cardKey": "Sayıca az olmalarına rağmen ekolojik rolleri nedeniyle komünitenin yapısı üzerinde güçlü bir etkiye sahip olan türlere ne denir?",
+    "cardValue": "Kilit taşı tür."
+  },
+  {
+    "cardKey": "İki farklı komünitenin kesiştiği, tür çeşitliliğinin zengin olduğu geçiş bölgelerine ne ad verilir?",
+    "cardValue": "Ekoton."
+  },
+  {
+    "cardKey": "Aynı sınırlı kaynakları kullanan iki tür arasındaki rekabette, bir türün diğerini yaşam alanından uzaklaştırmasına ne denir?",
+    "cardValue": "Rekabette elenme."
+  },
+  {
+    "cardKey": "İki türün rekabetten kaçınmak için kaynakları farklı zamanlarda veya farklı şekillerde kullanmasına ne denir?",
+    "cardValue": "Kaynak paylaşımı."
+  }
+]
