@@ -1,9 +1,33 @@
 [
     {
         "id": 1,
-        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-past/ayt-biyoloji-1.png",
-        "response": "",
-        "subject": "",
+        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-pasts/ayt-matematik-1.png",
+        "response": "C",
+        "subject": "Fonksiyonlar",
+    },
+    {
+        "id": 2,
+        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-pasts/ayt-matematik-2.png",
+        "response": "C",
+        "subject": "Fonksiyonlar",
+    },
+    {
+        "id": 3,
+        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-pasts/ayt-matematik-3.png",
+        "response": "C",
+        "subject": "Parabol",
+    },
+    {
+        "id": 4,
+        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-pasts/ayt-matematik-4.png",
+        "response": "B",
+        "subject": "Parabol",
+    },
+    {
+        "id": 5,
+        "question-url": "https://fzestdyebzisbm.github.io/yksai/ai-pasts/ayt-matematik-5.png",
+        "response": "D",
+        "subject": "Polinomlar",
     }
 ]
 
